@@ -62,7 +62,7 @@ To do this, follow these steps:
 |
 |
 
-#.      Click **Create tag value** to create tag value.
+#.      Click **Create tag value** to create a subtag value.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
