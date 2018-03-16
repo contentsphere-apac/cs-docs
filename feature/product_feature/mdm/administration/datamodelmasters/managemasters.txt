@@ -5,16 +5,12 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies which help in categorizing products.
+**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies, which help in categorizing products.
                         * The primary function of Manage Masters is that the tags can be reused in various sub-level taxonomies.
 
 **Related topics:**     * :doc:`Managing Tag Hierarchies </feature/product_feature/mdm/administration/hierarchiesmastertagbasedhierarchy/managingtaghierarchies>`
 
-
-
-
-
-**Application:**        * Once a Master Tag is created, it can be used in multiple levels of hierarchy for several number of times, making it convenient for users.
+**Application:**        * Once a Master Tag is created, it can be used in multiple hierarchical levels of for several number of times, making it convenient for users.
                         * *Example:*
 
                             An organization sells multiple categories of product (i.e. *Furniture, Electronics, and Fashion & Clothing*).
@@ -28,48 +24,47 @@ To do this, follow these steps:
 
 #. Click  the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_ managemasters_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_gotoadmin.PNG
 |
 |
 
 #. Click *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/cs_ managemasters_clickdatam.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickdatam.PNG
 |
 |
 
 #. Click **Properties** to view the dropdown menu.
 
-.. image:: /feature/_images/mdmimages/cs_ managemasters_clickprop.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickprop.PNG
 |
 |
 
 #. **Click Master** on the dropdown menu.
 
-.. image:: /feature/_images/mdmimages/cs_ managemasters_clickmas.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickmas.PNG
 |
 |
 
 
 #.   Click the **“+”** icon on the right of the window. A small details window appears.
 
-.. image:: /feature/_images/mdmimages/cs_ cs_ cs_ cs_ managemasters_clickplus.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickplus.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_ cs_ cs_ managemasters_enterdetails.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_enterdetails.PNG
 |
 |
 
-#.      Enter a ntag name i.e “Region”. Repeat the process to create other tags such as *“Color”, ”Material”*, and *”Brands”* to create Master tags.
+#.      Enter a ntag name i.e “Region”. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
-.. image:: /feature/_images/mdmimages/csrollback_clickrollback.PNG
 |
 |
 
 #.      Click **Create tag value** to create tag value.
 
-.. image:: /feature/_images/mdmimages/csrollback_clickrollback.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
