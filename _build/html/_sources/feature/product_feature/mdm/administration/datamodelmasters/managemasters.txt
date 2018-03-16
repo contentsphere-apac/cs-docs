@@ -5,7 +5,7 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies, that help in categorizing products.
+**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies that help in categorizing products.
                         * The primary function of Manage Masters is reusing the tags in various sub-taxonomies.
 
 **Related topics:**     * :doc:`Managing Tag Hierarchies </feature/product_feature/mdm/administration/hierarchiesmastertagbasedhierarchy/managingtaghierarchies>`
@@ -62,7 +62,7 @@ To do this, follow these steps:
 |
 |
 
-#.      Click **Create tag value** to create a subtag value.
+#.      Click **Create tag value** to create subtag value.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
