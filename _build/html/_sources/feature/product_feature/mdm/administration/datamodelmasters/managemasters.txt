@@ -5,24 +5,24 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies which help in categorizing products.
-                        * The primary function of Manage Masters is that the tags can be reused in various sub-level taxonomies.
+**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies, that help in categorizing products.
+                        * The primary function of Manage Masters is reusing the tags in various sub-taxonomies.
 
 **Related topics:**     * :doc:`Managing Tag Hierarchies </feature/product_feature/mdm/administration/hierarchiesmastertagbasedhierarchy/managingtaghierarchies>`
 
-**Application:**        * Once a Master Tag is created, it can be used in multiple levels of hierarchy for several number of times, making it convenient for users.
+**Application:**        * Once a Master Tag is created, it can be repeatedly used in multiple hierarchical levels, making it convenient for users.
                         * *Example:*
 
                             An organization sells multiple categories of product (i.e. *Furniture, Electronics, and Fashion & Clothing*).
-                            The user creates a *"Color" Master Tag*, which can be used in all the categories mentioned.
+                            The user creates a *Color* Master Tag, which can be used in all the categories mentioned.
 
 ===================     =======================================================================================================================================================================
 
-ow to do: Manage Masters
+How to do: Manage Masters
 =============================
 To do this, follow these steps:
 
-#. Click  the **Administration** icon.
+#. Click   **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_gotoadmin.PNG
 |
@@ -40,7 +40,7 @@ To do this, follow these steps:
 |
 |
 
-#. **Click Master** on the dropdown menu.
+#. Click **Master** on the dropdown menu.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickmas.PNG
 |
@@ -57,7 +57,7 @@ To do this, follow these steps:
 |
 |
 
-#.      Enter a ntag name i.e “Region”. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+#.      Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
 |
 |
@@ -67,5 +67,18 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
+
+#.      Enter a  name for the subtag and click **CREATE**.
+
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatesub.PNG
+|
+|
+
+#.      View the created tags.
+
+.. image:: /feature/_images/mdmimages/cs_managemasters_viewtags.PNG
+|
+|
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
