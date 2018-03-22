@@ -1,8 +1,7 @@
 =========================
-Manage Outbound Endpoint
+Manage Outbound Endpoints
 =========================
-Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* on the *Partner Engagement Platform* so that the endpoint can be used for exporting data.
-
+Manage Outbound Endpoint is an administrator feature that manages *Outbound Endpoints* on the *Partner Engagement Platform* so that the endpoint can be used for exporting data.
 
 ===================     =======================================================================================================================================================================
 **Description:**        * Outbound Endpoint allows users to make a data endpoint where the data would be transferred from the system to an export functionality, example, an Excel file.
@@ -11,9 +10,95 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 **Related topics:**     * *Products*
                         * *Data Integration Process*
 
-**Application:**        * To create data endpoints, admin decides on the process that would be off-board.
+**Application:**        * To create data endpoints, administrator decides on the process that would be off-board.
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet, the user can make an endpoint and selects that endpoint at the time of off-board.
 
 ===================     =======================================================================================================================================================================
+
+How to do: Create Outbound Endpoints
+=============================
+To do this, follow these steps:
+
+#. Go to PIM.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_gotopim.PNG
+|
+|
+
+#. Hover over the "+" icon.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_hoveron.PNG
+|
+|
+
+#. Click on **Loose Bundle**.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_clickloose.PNG
+|
+|
+
+#. Enter the  necessary information.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_enterinformation.PNG
+|
+|
+
+#.  Click  **Add products**.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_clickaddproducts.PNG
+|
+|
+
+#.   Click the green button to add the required products (button turns to blue when selected), and click  **Add All**.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_selectandaddall.PNG
+|
+|
+
+#.    To add more products, click **Return**, and repeat the previous steps.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_addedsuccesfullyandreturn.PNG
+|
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_imageadded.PNG
+|
+|
+
+#.   To add an image, click  **Relationships** tab.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_gotorel.PNG
+|
+|
+
+#.   Hover over on the "+" icon and click  **Add Entity**.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_addentity.PNG
+|
+|
+
+
+#.   Hover over on the "+" icon and click  **Image**.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_hoverimage.PNG
+|
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_imagesuccess1.PNG
+|
+|
+
+#.   Click **Add Image** again.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_imageagain.PNG
+|
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_imagesuccess2.PNG
+|
+|
+
+#.   View bundle on the top section of the page.
+
+.. image:: /feature/_images/mdmimages/manageoutboundendpoint_imageready.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
