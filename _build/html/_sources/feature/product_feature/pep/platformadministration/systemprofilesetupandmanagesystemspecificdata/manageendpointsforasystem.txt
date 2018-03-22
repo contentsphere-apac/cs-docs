@@ -5,7 +5,7 @@ Manage Endpoints for a System is an admin feature that manages endpoints in the 
 
 
 ====================    =======================================================================================================================================================================
-**Key Term:**           * **Endpoint:** is a gateway that describes the system, processes, and mapping to be used when onboarding or offboarding the products to and from the system.
+**Key Term:**           * **Endpoint:** is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.
 
 **Description:**        * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
                           These gateways are used for the on-boarding or off-boarding of one or many products in and out of the system.
@@ -16,7 +16,7 @@ Manage Endpoints for a System is an admin feature that manages endpoints in the 
                         * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
                         * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
 
-**Application:**        * It helps a user choose the gateway from the *Data Integration* window for the importing or exporting of files.
+**Application:**        * It helps a user to choose the gateway from the *Data Integration* window for the importing or exporting of files.
                         * It gives a numerical conclusion/summary in the data integration window for the different aspects that the endpoint has been used for.
 
 ====================    =======================================================================================================================================================================
@@ -30,76 +30,81 @@ To manage the endpoints, follow these steps:
 
 #. Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_login.PNG
 |
 |
 
 
 #. Click on the **Data Integration** tab and then go to *Endpoints*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickondataintegration.PNG
+|
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickondataintegration2.PNG
 |
 |
 
 
 #. On the right, click on the "+" icon to create a new endpoint.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_ontherightclickontheicon.PNG
 |
 |
 
 
 #. Provide the required details.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails.PNG
 |
 |
 
-      #. If on-boarding products, select the *Inbound Endpoint* type. Click **Create**.
+      #. If on-boarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
 
-      .. image:: /feature/_images/mdmimages/image.PNG
+      .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG
       |
       |
 
-      #. If off-boarding products, select the *Outbound Endpoint* type. Click **Create**.
+      #. If off-boarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
 
-      .. image:: /feature/_images/mdmimages/image.PNG
+      .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG
       |
       |
 
 
-#. In runtime, enable or disable the *Force Runtime Mapping*, which allows mapping on runtime in dashboard.
+#. Once the endpoint has been added, enable or disable the *Realtime Mapping*, which allows mapping in runtime that can be checked in the dashboard. Click the **Save** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG
 |
 |
 
 
-#. Click on **System** and create a new system by giving it a name or by using the *"Standard System"*.
+#. Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
+   To create a new system, click on the **Create 'system name'** button after typing the name of the new system.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG
 |
 |
 
 
-#. Next, Follow this sequence: **Partner Admin tab >> Standard Organization >> System** tab.
+#. Next, follow this sequence: **Partner Administration tab >> Partners >> Standard Organization >> Systems**.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG
 |
 |
 
 
-#. Add the *System* or select the *Standard System* as you click on the "+" icon.
+#. Add the created system or select the *Standard System* as you click on the "+" icon to add systems.
    Then, enable the endpoint that was created.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_addthesystem.PNG
+|
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_addthesystem2.PNG
 |
 |
 
 
 #. View the endpoint in the *Dashboard*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_viewtheendpoint.PNG
 |
 |
 
