@@ -17,7 +17,7 @@ Manage Endpoints for a System is an admin feature that manages endpoints in the 
                         * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
 
 **Application:**        * It helps a user to choose the gateway from the *Data Integration* window for the importing or exporting of files.
-                        * It gives a numerical conclusion/summary in the data integration window for the different aspects that the endpoint has been used for.
+                        * It gives a numerical conclusion/summary in the *Data Integration* window for the different aspects that the endpoint has been used for.
 
 ====================    =======================================================================================================================================================================
 
