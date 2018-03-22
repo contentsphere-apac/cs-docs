@@ -70,7 +70,7 @@ To manage the endpoints, follow these steps:
       |
 
 
-#. Once the endpoint has been added, enable or disable the *Realtime Mapping*, which allows mapping in runtime that can be checked in the dashboard. Click the **Save** button.
+#. Once the endpoint has been added, enable (or disable) the *Realtime Mapping*. This allows the mapping in runtime that can be tracked in the dashboard. Click the **Save** button.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG
 |
@@ -78,14 +78,14 @@ To manage the endpoints, follow these steps:
 
 
 #. Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
-   To create a new system, click on the **Create 'system name'** button after typing the name of the new system.
+   To create a new system, click on the **Create 'system name'** button after typing the name of the new system to be added.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG
 |
 |
 
 
-#. Next, follow this sequence: **Partner Administration tab >> Partners >> Standard Organization >> Systems**.
+#. Next, follow this sequence: *Partner Administration tab >> Partners >> Standard Organization >> Systems*.
 
 .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG
 |
