@@ -3,19 +3,22 @@ Manage Outbound Endpoints
 =========================
 Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* on the *Partner Engagement Platform* so that the endpoint can be used for exporting data.
 
-===================     =======================================================================================================================================================================
-**Description:**        * Outbound Endpoint allows users to make a data endpoint where the data would be transferred from the system to an export functionality, example, an Excel file.
+===================     ================================================================================================================================================
+
+**Description:**        * Outbound Endpoint allows users to make a data endpoint where the data would be transferred from the system to an export functionality,
+                          example, an Excel file.
                         * In *Outbound Endpoint*, an endpoint can have only one process.
 
-**Related topics:**     * *Products*
-                        * *Data Integration Process*
+**Related topics:**     * :doc:`Data Integration Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
 **Application:**        * To create data endpoints, admin decides on the process that would be off-board.
                         * *Example:*
 
-                            *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet, the user can make an endpoint and selects that endpoint at the time of off-board.
+                            *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet,
+                            the user can make an endpoint and selects that endpoint at the time of off-board.
 
-===================     =======================================================================================================================================================================
+===================     ================================================================================================================================================
+
 How to do: Create Outbound Endpoints
 =============================
 To do this, follow these steps:
@@ -27,14 +30,14 @@ To do this, follow these steps:
 |
 |
 
-# Click  *Data integration* tab, click on the 'endpoints' section to the left. To create a endpoint, click on create icon (plus) on right side of the
+# Click  *Data integration* tab, click on the **Endpoints** section to the left. To create a endpoint, click on create icon (plus) on right side of the
 window.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
 |
 |
 
-#  Fill-in the details (Name ,code, type of Endpoint) and select the outbound endpoint to and then click the create button to create an endpoint.
+#  Fill-in the details *(Name ,code, type of Endpoint)* and select the outbound endpoint to and then click the create button to create an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_enterdetails.PNG
 |
@@ -46,7 +49,7 @@ window.
 |
 |
 
-#  Go to 'All/Explore' in PIM and then select the 'articles' to be exported with the export button.
+#  Go to 'All/Explore' in PIM and then select the articles to be exported with the export button.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickexplore.PNG
 |
@@ -58,5 +61,5 @@ window.
 |
 |
 
-.. image:: /feature/_images/pepimages/line-png-32.PNG
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
