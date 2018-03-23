@@ -1,5 +1,5 @@
 =========================
-Manage Outbound Endpoint
+Manage Outbound Endpoints
 =========================
 Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* on the *Partner Engagement Platform* so that the endpoint can be used for exporting data.
 
