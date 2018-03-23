@@ -2,7 +2,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml" lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Custom ETL Export &#8212; Contentsphere  documentation</title>
@@ -118,14 +118,20 @@
             
   <div class="section" id="s-custom-etl-export">
 <span id="custom-etl-export"></span><h1>Custom ETL Export<a class="headerlink" href="#custom-etl-export" title="Permalink to this headline">¶</a></h1>
-<p>Custom ETL (Extract-Transform-Load) Export is a feature that allows an admin to manage <em>Custom ETL-based Endpoints</em> so that data can be exported via a custom ETL Process.</p>
+<p>Custom ETL Export is a feature that allows an admin to manage <em>Custom ETL-based Endpoints</em> so that data can be exported via a custom ETL Process.</p>
 <table class="docutils">
 <colgroup>
 <col width="10%" />
 <col width="90%" />
 </colgroup>
 <tbody valign="top">
-<tr class="row-odd"><td><strong>Description:</strong></td>
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>ETL:</strong> Extract-Transform-Load</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
 <li>This feature is used for any modification of a product and also used to save product on the supplier side.</li>
 <li>This feature will provide JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
@@ -134,14 +140,14 @@ The details will enter the retailer’s system in <em>JSON format</em> and can b
 </ul>
 </td>
 </tr>
-<tr class="row-even"><td><strong>Related topics:</strong></td>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
 <td><ul class="first last simple">
 <li><em>Custom ETL Import</em></li>
 <li><em>Talend jobs</em></li>
 </ul>
 </td>
 </tr>
-<tr class="row-odd"><td><strong>Application:</strong></td>
+<tr class="row-even"><td><strong>Application:</strong></td>
 <td><ul class="first last">
 <li><p class="first">A user can modify and save products.</p>
 </li>
@@ -156,6 +162,88 @@ This updated price will get to the retailer by JSON format through the JMS queue
 </tr>
 </tbody>
 </table>
+<div class="section" id="s-how-to-do-custom-etl-export">
+<span id="how-to-do-custom-etl-export"></span><h2>How to do: Custom ETL Export<a class="headerlink" href="#how-to-do-custom-etl-export" title="Permalink to this headline">¶</a></h2>
+<p>To do this feature, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Log in and click on <em>Administration</em>.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Data Integration</strong> tab and go to <em>Process</em>.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>To create a new process, click on the “+” icon on the right.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Provide the details on the pop-up window and for the <em>Type</em> field, select <strong>Offboarding Process</strong>. Once selected, choose an <em>Event Type</em>.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Create</strong> button.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the newly created process on the list. Set the process using the components based on the requirements.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic">
+<li><p class="first">As an example, drag the <em>Master Article</em> from the <em>Components</em> menu and link it to the <em>Export</em> event.
+Use other components (<em>Extended Article, Extended DAM, Relationship</em>), as needed.</p>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <em>Master Article</em> and fill out the details on the right: <em>Sheet Name, Primary Key Column, Type, Class ID, Multiclassification, Taxonomies</em>.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Save</strong> button.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentsphere line" src="../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -169,6 +257,14 @@ This updated price will get to the retailer by JSON format through the JMS queue
               
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="../../../../../contents.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Custom ETL Export</a><ul>
+<li><a class="reference internal" href="#how-to-do-custom-etl-export">How to do: Custom ETL Export</a></li>
+</ul>
+</li>
+</ul>
+
   <h3>Browse</h3>
   <ul>
     
@@ -211,7 +307,7 @@ This updated price will get to the retailer by JSON format through the JMS queue
         </div>
       </div>
                 <h3>Last update:</h3>
-                <p class="topless">Mar 06, 2018</p>
+                <p class="topless">Mar 23, 2018</p>
             </div>
           </div>
         
