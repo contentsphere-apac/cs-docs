@@ -21,56 +21,78 @@ Simple Flat File Export is a feature that manages *File-based Endpoints* so that
 
 
 How to do: Simple Flat File Export
-=================================
+===================================
 To do a simple flat file export, follow these steps:
 
 |
 
-#. Log in to Contentsphere and click on the **Administration** button to enter the configuration page.
+#. Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_clickadministration.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_login.PNG
 |
 |
 
-#. Click on the **Partner Administration** tab.
+#. Click on the "+" button to create a class.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_clickpartneradmin.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickplusbutton.PNG
 |
 |
 
-#. Click on **Partners**.
+#. Enter the name and select the class type, then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_clickpartners.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_entername.PNG
 |
 |
 
-#. Click on the "+" button to create an organization (or select an existing one).
+#. Click on the "+" icon to add property collection.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_clickplusbutton.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addpropertycollection.PNG
 |
 |
 
-#. Enter the name and click on the **Create** button.
+#. Select the property collection and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_entername.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addpropertycollection2.PNG
 |
 |
 
-#. In the *Systems* section, click on the "+" icon to add systems to the organization.
+#. Go to *Explore* and click on **PIM**.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_clicksystemplus.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickexplore.PNG
+|
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickpim.PNG
 |
 |
 
-#. Select the system to be added and click on the **Apply** button.
+#. Create products with the newly created class type and click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_createproducts.PNG
+|
+|
+
+#. Go back to *Administration*.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_gobacktoadmin.PNG
+|
+|
+
+#. Click on **Data Integration** then click on **Processes**.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdataintegration.PNG
+|
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickprocesses.PNG
+|
+
+#. Click on the "+" icon with the newly created class type and click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_managesystemprofile_selectsystem.PNG
 |
 |
 
-#. Select the endpoints to be used in the system.
+#. Create products with the newly created class type and click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_selectendpoints.PNG
+.. image:: /feature/_images/mdmimages/cs_managesystemprofile_selectsystem.PNG
+|
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
