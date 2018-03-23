@@ -1,8 +1,8 @@
 =============================================
-Data Integration - Manage Outbound Endpoint
+Data Integration - Manage Outbound Endpoints
 =============================================
 
 .. toctree::
    :maxdepth: 1
 
-   manageoutboundendpoint
+   manageoutboundendpoints
