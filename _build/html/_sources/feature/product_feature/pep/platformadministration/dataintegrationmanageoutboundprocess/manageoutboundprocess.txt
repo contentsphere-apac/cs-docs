@@ -8,12 +8,88 @@ Manage Outbound Process is an admin feature that manages *Outbound Processes* so
 **Description:**        * Outbound Process allows the transfer of system data into an Excel sheet.
                         * An outbound process can be used to export multiple articles in one go.
 
-**Related topics:**     * *Products*
-                        * *Data Integration Process*
+**Related topics:**     * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
+                        * :doc:`Products </feature/product_feature/mdm/products/index>`
 
 **Application:**        * To export data from the system into an Excel sheet, admin uses an outbound process.
                         * *Example:*
 
-                            *Organization A* sells electronics. If a user wants to transfer and export product data into a sheet, the user will make an outbound process with desired output.
+                            *Organization A* sells electronics.
+                            If a user wants to transfer and export product data into a sheet, the user will make an outbound process with the desired output.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Manage Outbound Process
+===================================
+To do this feature, follow these steps:
+
+|
+
+#. Log in and click on *Administration*.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Click on the **Data Integration** tab and go to *Process*.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. To create a new process, click on the "+" icon on the right.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Provide the details on the pop-up window and for the *Type* field, select **Onboarding Process**.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Click on the **Create** button.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Click on the newly created process on the list. Set the process using the components based on the requirements.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. As an example, drag the *Master Article* from the *Components* menu and link it to the *Export* event.
+   Use other components (*Extended Article, Extended DAM, Relationship*), as needed.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Click on the *Master Article* and fill out the details on the right: *Sheet Name, Primary Key Column, Type, Class Column*.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
