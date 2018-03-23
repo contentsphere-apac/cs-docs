@@ -29,42 +29,42 @@ To do this feature, follow these steps:
 
 #. Log in and click on *Administration*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_loginandgotoadministration.PNG
 |
 |
 
 
 #. Click on the **Data Integration** tab and go to *Process*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickondataintegration.PNG
 |
 |
 
 
 #. To create a new process, click on the "+" icon on the right.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_tocreateanewprocess.PNG
 |
 |
 
 
-#. Provide the details on the pop-up window and for the *Type* field, select **Onboarding Process**.
+#. Provide the details on the pop-up window and for the *Type* field, select **Offboarding Process**. Once selected, choose an *Event Type*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_providethedetails.PNG
 |
 |
 
 
 #. Click on the **Create** button.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthecreate.PNG
 |
 |
 
 
 #. Click on the newly created process on the list. Set the process using the components based on the requirements.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthenewlycreatedprocess.PNG
 |
 |
 
@@ -72,21 +72,21 @@ To do this feature, follow these steps:
 #. As an example, drag the *Master Article* from the *Components* menu and link it to the *Export* event.
    Use other components (*Extended Article, Extended DAM, Relationship*), as needed.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_asanexample.PNG
 |
 |
 
 
-#. Click on the *Master Article* and fill out the details on the right: *Sheet Name, Primary Key Column, Type, Class Column*.
+#. Click on the *Master Article* and fill out the details on the right: *Sheet Name, Primary Key Column, Type, Class ID, Multiclassification, Taxonomies*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthemasterarticle.PNG
 |
 |
 
 
-#. Step.
+#. Click on the **Save** button.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthesavebutton.PNG
 |
 |
 
