@@ -7,7 +7,7 @@ Platform Administration
 
    systemprofilesetupandmanagesystemspecificdata/index
    systemprofilesetupsystemprofile/index
-   dataintegrationmanageoutboundendpoints/index
+   dataintegrationmanageoutboundendpoint/index
    dataintegrationmanageoutboundprocess/index
    dataintegrationexportproductsviassff/index
    dataintegrationimportproductsincfviaetl/index
