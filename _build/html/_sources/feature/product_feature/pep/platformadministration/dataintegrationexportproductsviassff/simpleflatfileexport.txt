@@ -64,7 +64,7 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. Create products with the newly created class type and click on the **Save** button.
+#. Create products with the newly created class and click on the **Save** button.
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_createproducts.PNG
 |
@@ -80,18 +80,121 @@ To do a simple flat file export, follow these steps:
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdataintegration.PNG
 |
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickprocesses.PNG
 |
 
-#. Click on the "+" icon with the newly created class type and click on the **Save** button.
+#. Click on the "+" icon to create a process.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_selectsystem.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_createprocess.PNG
 |
 |
 
-#. Create products with the newly created class type and click on the **Save** button.
+#. Enter the name for the process and set the type as "Offboarding Process", then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_managesystemprofile_selectsystem.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickcreate.PNG
+|
+|
+
+
+#. Set the event type as "Export Event" then drag and drop the components of the export event from the left side to the process area.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_exportevent.PNG
+|
+|
+
+#. Drag and drop the components from the *Components* section.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_draganddropcomponents1.PNG
+|
+|
+
+#. Click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clicksave.PNG
+|
+|
+
+#. Click on **Mappings** then click on the "+" button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clicksave.PNG
+|
+|
+
+#. Enter the name for the mapping and click on the **Create** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickmappings.PNG
+|
+|
+
+#. Click on **Add Mapping** and enter the attributes and tags to map them to their respective properties in the *Configuration* section.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addmapping.PNG
+|
+|
+
+#. Click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clicksavemapping.PNG
+|
+|
+
+#. Click on **Endpoints** then click on the "+" button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickendpoint.PNG
+|
+|
+
+#. Enter the name for the endpoint and set the type as "Outbound Endpoint", then click on the **Create** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_enternameendpoint.PNG
+|
+|
+
+#. Add the appropriate process and mapping then click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addprocessandmapping.PNG
+|
+|
+
+#. Go to *Explore* and click on **PIM**, then select the products to be exported.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_selectproduct.PNG
+|
+|
+
+#. Click on the **Export** icon and select the created *Endpoint*. The transfer process starts automatically.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickexporticon.PNG
+|
+|
+
+#. Click on **Dashboard**.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_dashboard.PNG
+|
+|
+
+#. View the created *Endpoint*. CHeck if there is a **Download** icon.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
+|
+|
+
+
+#. Click on the **Download** icon. View the information sheet once the download is complete.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
+|
+|
+
+#. Click on the endpoint to view the list of exported products in the *Catalog* tab.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
+|
+|
+
+#. View the downloadeded sheet.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
 |
 |
 
