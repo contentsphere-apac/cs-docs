@@ -7,18 +7,19 @@ Custom ETL Export is a feature that allows an admin to manage *Custom ETL-based 
 ===================     =======================================================================================================================================================================
 **Key Term:**           * **ETL:** Extract-Transform-Load
 
-**Description:**        * This feature is used for any modification of a product and also used to save product on the supplier side.
-                        * This feature will provide JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
+**Description:**        * This feature is used for any modification of a product and also used to save a product on the supplier side.
+                        * This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
                           The details will enter the retailer's system in *JSON format* and can be viewed in queue section with the destination queue name.
-                        * The queue will be used by a retailer to read or use the modified information about the product. This information (JSON content) is only visible to the target retailer.
+                        * The queue will be used by a retailer to read or use the modified information about the product. This information (*JSON content*) is only visible to the target retailer.
 
-**Related topics:**     * *Custom ETL Import*
-                        * *Talend jobs*
+**Related topics:**     * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
+                        * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
 
 **Application:**        * A user can modify and save products.
                         * *Example:*
 
-                            *Red bull Supplier A* wants to update the selling price and he will do the changes on the product.
+                            *Red bull Supplier A* wants to update the selling price and will do the changes on the product information.
                             This updated price will get to the retailer by JSON format through the JMS queue.
 
 ===================     =======================================================================================================================================================================
@@ -30,7 +31,7 @@ To do this feature, follow these steps:
 
 |
 
-*Note: To export files via an ETL-based endpoint, products should be available in the system.*
+*Note: To export files via an ETL-based endpoint, products should already be available in the system.*
 
 |
 
@@ -76,27 +77,119 @@ To do this feature, follow these steps:
 |
 
 
-#. As an example, drag the *Master Article* from the *Components* menu and link it to the *Export* event.
-   Use other components (*Extended Article, Extended DAM, Relationship*), as needed.
+#. Add the components such as *Export Event, Talend Component, and JMS Producer*.
 
    .. image:: /feature/_images/pepimages/image.PNG
 |
 |
 
 
-#. Click on the *Master Article* and fill out the details on the right: *Sheet Name, Primary Key Column, Type, Class ID, Multiclassification, Taxonomies*.
+#. Configure the **Talend Component**.
+
+    |
+
+    #. Click on the Talend Component.
+
+    .. image:: /feature/_images/pepimages/image.PNG
+    |
+    |
+
+
+    #. Configure the component by selecting a Talend job (either *Import or Export Job*) that is available on the right. The job selected will be executed by this component.
+
+    .. image:: /feature/_images/pepimages/image.PNG
+    |
+    |
+
+
+#. Provide the details for the **JMS Producer**.
+
+    |
+
+    #. Set the following details:  *Producer IP Address and Producer Port*.
+        Producer IP Address:  this IP address will get through the JMS URL Link.
+        Producer Port:  Reserve Port number 61616
+
+    .. image:: /feature/_images/pepimages/image.PNG
+    |
+    |
+
+
+    #. Write a *Destination Message Queue Name* and an *Acknowledgement Name* that will appear in the JMS queue.
+       With these names, you can receive a message and will also get an acknowlegment that the message is received.
+
+    .. image:: /feature/_images/pepimages/image.PNG
+    |
+    |
+
+
+#. Create endpoint with an *Outbound Endpoint* type and select the appropriate process.
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
 |
 
 
-#. Click on the **Save** button.
+#. If the all the configurations are ready, go to the selected catalog like *PIM* then to *Offboarding*.
+   Note that permission to access this functionality is set by the Admin side.
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
 |
 
+
+#. Click on **All** and open the product that is to be updated. Modify the attribute or tag (like *List Price, Selling Price, ID, and PID*), as needed.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. Click on the **Save** button. The Save button acts as a trigger that will transfer and the export request will be processed for the selected product.
+   The dashboard of the *Outbound Endpoint* will show the modified product.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+#. The product will be transferred in its respective outbound endpoint in the *Data Integration* catalog.
+   And then, the product's JSON message will appear in the message queue defined while making the process. To see the message, click on the destination queue name.
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+
+#. *Selecting the Destination Message Queue Name:*
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+
+#. *Selecting the Destination Message Queue Name by clicking on the Message ID:*
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+
+
+#. *Viewing the details of the message*
+
+.. image:: /feature/_images/pepimages/image.PNG
+|
+|
+
+*Note: Acknowledgement of the producer is still being developed but will be implemented in a future release.*
+
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

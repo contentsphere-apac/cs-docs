@@ -133,17 +133,18 @@
 </tr>
 <tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
-<li>This feature is used for any modification of a product and also used to save product on the supplier side.</li>
-<li>This feature will provide JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
+<li>This feature is used for any modification of a product and also used to save a product on the supplier side.</li>
+<li>This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
 The details will enter the retailer’s system in <em>JSON format</em> and can be viewed in queue section with the destination queue name.</li>
-<li>The queue will be used by a retailer to read or use the modified information about the product. This information (JSON content) is only visible to the target retailer.</li>
+<li>The queue will be used by a retailer to read or use the modified information about the product. This information (<em>JSON content</em>) is only visible to the target retailer.</li>
 </ul>
 </td>
 </tr>
 <tr class="row-odd"><td><strong>Related topics:</strong></td>
 <td><ul class="first last simple">
-<li><em>Custom ETL Import</em></li>
-<li><em>Talend jobs</em></li>
+<li><a class="reference internal" href="../dataintegrationimportproductsincfviaetl/custometlimport.html"><span class="doc">Custom ETL Import</span></a></li>
+<li><a class="reference internal" href="../dataintegrationmanageoutboundprocess/manageoutboundprocess.html"><span class="doc">Manage Outbound Process</span></a></li>
+<li><a class="reference internal" href="../systemprofilesetupsystemprofile/managesystemprofile.html"><span class="doc">Manage System Profile</span></a></li>
 </ul>
 </td>
 </tr>
@@ -153,7 +154,7 @@ The details will enter the retailer’s system in <em>JSON format</em> and can b
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p><em>Red bull Supplier A</em> wants to update the selling price and he will do the changes on the product.
+<div><p><em>Red bull Supplier A</em> wants to update the selling price and will do the changes on the product information.
 This updated price will get to the retailer by JSON format through the JMS queue.</p>
 </div></blockquote>
 </li>
@@ -168,7 +169,7 @@ This updated price will get to the retailer by JSON format through the JMS queue
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<p><em>Note: To export files via an ETL-based endpoint, products should be available in the system.</em></p>
+<p><em>Note: To export files via an ETL-based endpoint, products should already be available in the system.</em></p>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
@@ -221,8 +222,7 @@ This updated price will get to the retailer by JSON format through the JMS queue
 <div class="line"><br /></div>
 </div>
 <ol class="arabic">
-<li><p class="first">As an example, drag the <em>Master Article</em> from the <em>Components</em> menu and link it to the <em>Export</em> event.
-Use other components (<em>Extended Article, Extended DAM, Relationship</em>), as needed.</p>
+<li><p class="first">Add the components such as <em>Export Event, Talend Component, and JMS Producer</em>.</p>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 </li>
 </ol>
@@ -230,8 +230,14 @@ Use other components (<em>Extended Article, Extended DAM, Relationship</em>), as
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
+<ol class="arabic">
+<li><p class="first">Configure the <strong>Talend Component</strong>.</p>
+<blockquote>
+<div><div class="line-block">
+<div class="line"><br /></div>
+</div>
 <ol class="arabic simple">
-<li>Click on the <em>Master Article</em> and fill out the details on the right: <em>Sheet Name, Primary Key Column, Type, Class ID, Multiclassification, Taxonomies</em>.</li>
+<li>Click on the Talend Component.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 <div class="line-block">
@@ -239,9 +245,116 @@ Use other components (<em>Extended Article, Extended DAM, Relationship</em>), as
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click on the <strong>Save</strong> button.</li>
+<li>Configure the component by selecting a Talend job (either <em>Import or Export Job</em>) that is available on the right. The job selected will be executed by this component.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+</li>
+<li><p class="first">Provide the details for the <strong>JMS Producer</strong>.</p>
+<blockquote>
+<div><div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li><dl class="first docutils">
+<dt>Set the following details:  <em>Producer IP Address and Producer Port</em>.</dt>
+<dd>Producer IP Address:  this IP address will get through the JMS URL Link.
+Producer Port:  Reserve Port number 61616</dd>
+</dl>
+</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Write a <em>Destination Message Queue Name</em> and an <em>Acknowledgement Name</em> that will appear in the JMS queue.
+With these names, you can receive a message and will also get an acknowlegment that the message is received.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+</li>
+<li><p class="first">Create endpoint with an <em>Outbound Endpoint</em> type and select the appropriate process.</p>
+</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>If the all the configurations are ready, go to the selected catalog like <em>PIM</em> then to <em>Offboarding</em>.
+Note that permission to access this functionality is set by the Admin side.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on <strong>All</strong> and open the product that is to be updated. Modify the attribute or tag (like <em>List Price, Selling Price, ID, and PID</em>), as needed.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Save</strong> button. The Save button acts as a trigger that will transfer and the export request will be processed for the selected product.
+The dashboard of the <em>Outbound Endpoint</em> will show the modified product.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>The product will be transferred in its respective outbound endpoint in the <em>Data Integration</em> catalog.
+And then, the product’s JSON message will appear in the message queue defined while making the process. To see the message, click on the destination queue name.</li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li><em>Selecting the Destination Message Queue Name:</em></li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li><em>Selecting the Destination Message Queue Name by clicking on the Message ID:</em></li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li><em>Viewing the details of the message</em></li>
+</ol>
+<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note: Acknowledgement of the producer is still being developed but will be implemented in a future release.</em></p>
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
