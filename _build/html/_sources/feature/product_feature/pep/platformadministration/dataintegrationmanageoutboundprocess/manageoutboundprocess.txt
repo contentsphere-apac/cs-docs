@@ -34,7 +34,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the **Data Integration** tab and go to *Process*.
+#. Click on the **Data Integration** tab and go to *Processes*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickondataintegration.PNG
 |
