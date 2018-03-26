@@ -30,6 +30,10 @@ To do this feature, follow these steps:
 
 |
 
+*Note: To export files via an ETL-based endpoint, products should be available in the system.*
+
+|
+
 #. Log in and click on *Administration*.
 
 .. image:: /feature/_images/pepimages/image.PNG
@@ -37,7 +41,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the **Data Integration** tab and go to *Process*.
+#. Click on the **Data Integration** tab and go to *Processes*.
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
