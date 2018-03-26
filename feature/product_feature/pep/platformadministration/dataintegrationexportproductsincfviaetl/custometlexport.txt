@@ -8,7 +8,7 @@ Custom ETL Export is a feature that allows an admin to manage *Custom ETL-based 
 **Key Term:**           * **ETL:** Extract-Transform-Load
 
 **Description:**        * This feature is used for any modification of a product and also used to save a product on the supplier side.
-                        * This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
+                        * This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that are using the product.
                           The details will enter the retailer's system in *JSON format* and can be viewed in queue section with the destination queue name.
                         * The queue will be used by a retailer to read or use the modified information about the product. This information (*JSON content*) is only visible to the target retailer.
 
@@ -19,8 +19,8 @@ Custom ETL Export is a feature that allows an admin to manage *Custom ETL-based 
 **Application:**        * A user can modify and save products.
                         * *Example:*
 
-                            *Red bull Supplier A* wants to update the selling price and will do the changes on the product information.
-                            This updated price will get to the retailer by JSON format through the JMS queue.
+                            *Red bull Supplier A* wants to update the selling price and will also do changes on some other product information.
+                            The updated price will get to the retailer in JSON format through the JMS queue.
 
 ===================     =======================================================================================================================================================================
 
@@ -95,7 +95,7 @@ To do this feature, follow these steps:
     |
 
 
-    #. Configure the component by selecting a Talend job (either *Import or Export Job*) that is available on the right. The job selected will be executed by this component.
+    #. Configure the component by selecting a Talend job (for this example, it is *Export Job*) that is available on the right. The job selected will be executed by this component.
 
     .. image:: /feature/_images/pepimages/image.PNG
     |
@@ -107,8 +107,8 @@ To do this feature, follow these steps:
     |
 
     #. Set the following details:  *Producer IP Address and Producer Port*.
-        Producer IP Address:  this IP address will get through the JMS URL Link.
-        Producer Port:  Reserve Port number 61616
+        Producer IP Address: this IP address will get through the JMS URL Link.
+        Producer Port: Reserve Port number 61616
 
     .. image:: /feature/_images/pepimages/image.PNG
     |
@@ -130,8 +130,8 @@ To do this feature, follow these steps:
 |
 
 
-#. If the all the configurations are ready, go to the selected catalog like *PIM* then to *Offboarding*.
-   Note that permission to access this functionality is set by the Admin side.
+#. If all the configurations are ready, go to the selected catalog like *PIM*, then to *Offboarding*.
+   Note that permission to access this functionality is set by the Administrator.
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
@@ -145,7 +145,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the **Save** button. The Save button acts as a trigger that will transfer and the export request will be processed for the selected product.
+#. Click on the **Save** button. The Save button acts as a trigger for the transfer and the export request will start and be processed for the selected product.
    The dashboard of the *Outbound Endpoint* will show the modified product.
 
 .. image:: /feature/_images/pepimages/image.PNG
@@ -163,13 +163,11 @@ To do this feature, follow these steps:
 |
 
 
-
 #. *Selecting the Destination Message Queue Name:*
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
 |
-
 
 
 #. *Selecting the Destination Message Queue Name by clicking on the Message ID:*
@@ -179,8 +177,7 @@ To do this feature, follow these steps:
 |
 
 
-
-#. *Viewing the details of the message*
+#. *Viewing the details of the message:*
 
 .. image:: /feature/_images/pepimages/image.PNG
 |

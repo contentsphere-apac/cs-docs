@@ -134,7 +134,7 @@
 <tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
 <li>This feature is used for any modification of a product and also used to save a product on the supplier side.</li>
-<li>This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties using the product.
+<li>This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that are using the product.
 The details will enter the retailer’s system in <em>JSON format</em> and can be viewed in queue section with the destination queue name.</li>
 <li>The queue will be used by a retailer to read or use the modified information about the product. This information (<em>JSON content</em>) is only visible to the target retailer.</li>
 </ul>
@@ -154,8 +154,8 @@ The details will enter the retailer’s system in <em>JSON format</em> and can b
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p><em>Red bull Supplier A</em> wants to update the selling price and will do the changes on the product information.
-This updated price will get to the retailer by JSON format through the JMS queue.</p>
+<div><p><em>Red bull Supplier A</em> wants to update the selling price and will also do changes on some other product information.
+The updated price will get to the retailer in JSON format through the JMS queue.</p>
 </div></blockquote>
 </li>
 </ul>
@@ -245,7 +245,7 @@ This updated price will get to the retailer by JSON format through the JMS queue
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Configure the component by selecting a Talend job (either <em>Import or Export Job</em>) that is available on the right. The job selected will be executed by this component.</li>
+<li>Configure the component by selecting a Talend job (for this example, it is <em>Export Job</em>) that is available on the right. The job selected will be executed by this component.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 <div class="line-block">
@@ -262,8 +262,8 @@ This updated price will get to the retailer by JSON format through the JMS queue
 <ol class="arabic simple">
 <li><dl class="first docutils">
 <dt>Set the following details:  <em>Producer IP Address and Producer Port</em>.</dt>
-<dd>Producer IP Address:  this IP address will get through the JMS URL Link.
-Producer Port:  Reserve Port number 61616</dd>
+<dd>Producer IP Address: this IP address will get through the JMS URL Link.
+Producer Port: Reserve Port number 61616</dd>
 </dl>
 </li>
 </ol>
@@ -292,8 +292,8 @@ With these names, you can receive a message and will also get an acknowlegment t
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>If the all the configurations are ready, go to the selected catalog like <em>PIM</em> then to <em>Offboarding</em>.
-Note that permission to access this functionality is set by the Admin side.</li>
+<li>If all the configurations are ready, go to the selected catalog like <em>PIM</em>, then to <em>Offboarding</em>.
+Note that permission to access this functionality is set by the Administrator.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 <div class="line-block">
@@ -309,7 +309,7 @@ Note that permission to access this functionality is set by the Admin side.</li>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click on the <strong>Save</strong> button. The Save button acts as a trigger that will transfer and the export request will be processed for the selected product.
+<li>Click on the <strong>Save</strong> button. The Save button acts as a trigger for the transfer and the export request will start and be processed for the selected product.
 The dashboard of the <em>Outbound Endpoint</em> will show the modified product.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
@@ -347,7 +347,7 @@ And then, the product’s JSON message will appear in the message queue defined 
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li><em>Viewing the details of the message</em></li>
+<li><em>Viewing the details of the message:</em></li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 <div class="line-block">
