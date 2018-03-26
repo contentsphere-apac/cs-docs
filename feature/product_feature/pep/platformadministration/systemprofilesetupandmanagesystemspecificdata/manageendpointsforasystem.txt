@@ -1,14 +1,14 @@
 ==============================
 Manage Endpoints for a System
 ==============================
-Manage Endpoints for a System is an admin feature that manages endpoints in the system that are used for on-boarding or off-boarding of products.
+Manage Endpoints for a System is an admin feature that manages endpoints in the system that are used for onboarding or offboarding of products.
 
 
 ====================    =======================================================================================================================================================================
 **Key Term:**           * **Endpoint:** is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.
 
 **Description:**        * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
-                          These gateways are used for the on-boarding or off-boarding of one or many products in and out of the system.
+                          These gateways are used for the onboarding or offboarding of one or many products in and out of the system.
 
 **Related topics:**     * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
                         * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
@@ -57,13 +57,13 @@ To manage the endpoints, follow these steps:
 |
 |
 
-      #. If on-boarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
+      #. If onboarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
 
       .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG
       |
       |
 
-      #. If off-boarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
+      #. If offboarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
 
       .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG
       |
