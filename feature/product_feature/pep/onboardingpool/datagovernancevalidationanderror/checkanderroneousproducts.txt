@@ -21,3 +21,8 @@ The Check and Erroneous Products is a feature that can be used by Data Stewards 
                             The feature will show the conditions that have not been met by the on-boarding data.
 
 ===================     =======================================================================================================================================================================
+
+
+How To: How to add rules in supplier products by Data Steward
+==============================================================
+To do this, follow these steps:
