@@ -115,13 +115,13 @@ To do a simple flat file export, follow these steps:
 
 #. Click on **Mappings** then click on the "+" button.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clicksave.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickmappings.PNG
 |
 |
 
 #. Enter the name for the mapping and click on the **Create** button.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickmappings.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_enternamemappings.PNG
 |
 |
 
@@ -173,28 +173,24 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. View the created *Endpoint*. CHeck if there is a **Download** icon.
+#. View the created *Endpoint*. Check if there is a **Download** icon.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
 |
 |
 
 
 #. Click on the **Download** icon. View the information sheet once the download is complete.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
 |
 |
 
 #. Click on the endpoint to view the list of exported products in the *Catalog* tab.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
 |
 |
 
 #. View the downloadeded sheet.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_.PNG
 |
 |
 
