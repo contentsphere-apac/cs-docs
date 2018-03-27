@@ -27,27 +27,27 @@ How To: How to add rules in supplier products by Data Steward
 ==============================================================
 To do this, follow these steps:
 
-#. Login to ContentSphere and explore the products.
+#. Login to ContentSphere and click **Dashboard** explore the products.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboard.PNG
 
 |
 |
 
-#. Click **Catalog**.
+#. Click **Catalog**
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalog.PNG
 
 |
 |
 
-#.  and select a product (in this demo, we selected "Chino Shorts" product). The Data Steward can see supplier products in the catalog.
+#.  Select a product (in this demo, we selected "Chino Shorts" product). The Data Steward displays supplier products in the catalog.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproduct.PNG
 |
 |
 
-#. Data Steward verifies the content and properties of the product and takes corrective actions.
+#. Data Steward also verifies the content and properties of the product and takes corrective actions.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatasteward.PNG
 
