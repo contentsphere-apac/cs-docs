@@ -26,7 +26,7 @@ The Import/Export Data via Endpoints is a feature that provides a *Data Integrat
 
 How to do: Import/Export via Endpoints
 =======================================
-To do a simple flat file export, follow these steps:
+To import and export via endpoints, follow these steps:
 
 |
 
