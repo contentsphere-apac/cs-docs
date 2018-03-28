@@ -5,7 +5,7 @@ The Check and Erroneous Products is a feature that can be used by Data Stewards 
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * In the *Onboarding Master Catalog*, a *Data Steward* can see Products transferred by a supplier.
+**Description:**        * In the *Onboarding Master Catalog*, a Data Steward can see Products transferred by a supplier.
                         * This feature allows an admin to create and apply rules like KPIs for data accuracy in the master catalog.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
@@ -15,10 +15,10 @@ The Check and Erroneous Products is a feature that can be used by Data Stewards 
 **Application:**        * The feature can create an **Onboarding Pool**, where a *Data Steward* manages and corrects product data of a supplier.
                         * *Example:*
 
-                            A data steward manages all the product of a supplier. The supplier transfers the products in the master catalog.
-                            Then, the data steward is able to make corrective actions on the data that are flagged with errors and warnings
-                            due to the rules that have been applied in the master catalog.
-                            The feature will show the conditions that have not been met by the Onboarding data.
+                             A data steward manages all the product of a supplier. The supplier transfers the products in the master catalog.
+                             Then, the data steward can make corrective actions on the data that are flagged with errors and warnings due to
+                             the rules that have been applied in the master catalog. The feature will show the conditions that have not been
+                             met by the Onboarding data.
 
 ===================     =======================================================================================================================================================================
 
