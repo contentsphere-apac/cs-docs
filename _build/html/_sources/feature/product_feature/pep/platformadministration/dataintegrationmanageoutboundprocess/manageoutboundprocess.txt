@@ -34,7 +34,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the **Data Integration** tab and go to *Processes*.
+#. Click on the **Data Integration** tab and go to *Workflow*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickondataintegration.PNG
 |
@@ -48,8 +48,8 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the details on the pop-up window and for the *Type* field, select the **Offboarding Process**. Once selected, choose an *Event Type*.
-   For this example, it is *Export Event*.
+#. Provide the details on the pop-up window: *Name* and the *Event Type*.  For this example, select the **Business Process Workflow**.
+
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_providethedetails.PNG
 |
@@ -63,31 +63,30 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the newly created process on the list. Set the process using the components based on the requirements.
+#. Once clicked, a pop-up window will appear. Check the details for the *Name, Code,* and the *Event Type*.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthenewlycreatedprocess.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_onceclickedapopupwindow.PNG
 |
 |
 
 
-#. For example, drag the *Master Article* from the *Components* menu and link it to the *Export* event.
-   Use other components (*Extended Article, Extended DAM, Relationship*), as needed.
+#. Create a graph for the workflow using the *BPMN (Business Process Modeling Notation)* components on the left menu.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_asanexample.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_createagraphfortheworkflow.PNG
 |
 |
 
 
-#. Click on the *Master Article* and fill out the details on the right: *Sheet Name, Primary Key Column, Type, Class ID, Multiclassification, Taxonomies*.
+#. Once the workflow is created, provide the details of each component used in the graph on the window on the right.  Make sure that each tab is completed and checked.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthemasterarticle.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_oncetheworkflowiscreated.PNG
 |
 |
 
 
-#. Click on the **Save** button.
+#. Once done, click on the **Save** button. A notification will appear to indicate the workflow is saved. Click the **OK** button.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_clickonthesavebutton.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_oncedoneclickthesavebutton.PNG
 |
 |
 
