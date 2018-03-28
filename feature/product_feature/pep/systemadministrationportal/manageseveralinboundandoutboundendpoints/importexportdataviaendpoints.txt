@@ -9,9 +9,9 @@ The Import/Export Data via Endpoints is a feature that provides a *Data Integrat
                         * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
                           It will show key indicators for the products that are transferred through the process.
 
-**Related topics:**     * *Manage Endpoints for a System*
-                        * *Manage System Profile*
-                        * *Monitor Data Quality*
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
+                        * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
 
 **Application:**        * Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
                           The supplier/user can then take appropriate corrective measures and decisions.
@@ -22,3 +22,50 @@ The Import/Export Data via Endpoints is a feature that provides a *Data Integrat
                             The dashboard will also give a glimpse of erroneous or incomplete data that can be corrected  by the supplier.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Import/Export via Endpoints
+=======================================
+To do a simple flat file export, follow these steps:
+
+|
+
+#. Log in using the supplier username and password, then click on the **Log In** button.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_loginsupplier.PNG
+|
+|
+
+#. Click on **Data Integration**.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickdataintegration.PNG
+|
+|
+
+#. Click on the desired endpoint to open and view the endpoint.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickendpoint.PNG
+|
+|
+
+#. Click on the **Import File** button to import data.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickimportfile1.PNG
+|
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickimportfile2.PNG
+|
+
+#. VIew the process under the *Process Status* tab and click on the **Back** icon to go back to *Dashboard*.
+
+|
+|
+
+#. Click on the drop-down button and select the scenario to be shown in the report.
+
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdropdown.PNG
+|
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdropdown2.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
