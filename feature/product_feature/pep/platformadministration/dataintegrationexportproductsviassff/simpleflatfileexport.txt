@@ -76,41 +76,45 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. Click on **Data Integration** then click on **Processes**.
+#. Click on **Data Integration**.
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdataintegration.PNG
 |
 |
 
-#. Click on the "+" icon to create a process.
+#. Click on **Workflow** then click on the "+" icon to create a process.
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_createprocess.PNG
 |
 |
 
-#. Enter the name for the process and set the type as "Offboarding Process", then click on the **Create** button.
+#. Enter the name for the process and set the type as "Business Process Workflow", then click on the **Create** button.
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickcreate.PNG
 |
 |
 
+#. Drag and drop the components from the *Graph* section.
 
-#. Set the event type as "Export Event" then drag and drop the components of the export event from the left side to the process area.
-
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_exportevent.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_draganddrop.PNG
 |
 |
 
-#. Drag and drop the components from the *Components* section.
+#. Click the **Connect** icon to connect the components.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_draganddropcomponents1.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_connecticon.PNG
 |
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_connecticon2.PNG
+|
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_connecticon3.PNG
 |
 
-#. Click on the **Save** button.
+#. Click on the **Change type** icon.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clicksave.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype.PNG
 |
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype2.PNG
+
 |
 
 #. Click on **Mappings** then click on the "+" button.
