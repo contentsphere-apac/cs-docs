@@ -1,7 +1,7 @@
 ========================
 Manage Outbound Process
 ========================
-Manage Outbound Process is an admin feature that manages *Outbound Processes* so that data can be evaluated correctly and be transformed to the required output format before exporting.
+Manage Outbound Process is an admin feature that manages *Outbound Processes* so that data can be evaluated correctly and be transformed into the required output format before exporting.
 
 
 ===================     =======================================================================================================================================================================
@@ -48,8 +48,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the details on the pop-up window: *Name* and the *Event Type*.  For this example, select the **Business Process Workflow**.
-
+#. On the pop-up window, provide the following details: *Name* and the *Event Type*.  For this example, select the **Business Process Workflow**.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_providethedetails.PNG
 |
@@ -63,21 +62,22 @@ To do this feature, follow these steps:
 |
 
 
-#. Once clicked, a pop-up window will appear. Check the details for the *Name, Code,* and the *Event Type*.
+#. Once clicked, a pop-up window will appear. Check that the details are correct for the *Name, Code,* and the *Event Type*.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_onceclickedapopupwindow.PNG
 |
 |
 
 
-#. Create a graph for the workflow using the *BPMN (Business Process Modeling Notation)* components on the left menu.
+#. Create a graph for the workflow using *BPMN (Business Process Modeling Notation)* components on the left menu.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_createagraphfortheworkflow.PNG
 |
 |
 
 
-#. Once the workflow is created, provide the details of each component used in the graph on the window on the right.  Make sure that each tab is completed and checked.
+#. Once the workflow is created, provide the details of each component used in the graph.
+   On the window on the right, make sure that all details are completed for each tab.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundprocess_oncetheworkflowiscreated.PNG
 |
