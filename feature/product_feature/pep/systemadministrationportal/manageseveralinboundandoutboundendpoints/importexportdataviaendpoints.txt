@@ -5,6 +5,8 @@ The Import/Export Data via Endpoints is a feature that provides a *Data Integrat
 
 
 ===================     =======================================================================================================================================================================
+**Key Term**            * **Endpoint**: an endpoint is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+
 **Description:**        * The dashboard provides an at-a-glance view of the key indicators in the process or system.
                         * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
                           It will show key indicators for the products that are transferred through the process.
