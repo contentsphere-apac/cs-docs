@@ -34,22 +34,39 @@ To do this, follow these steps:
 |
 |
 
-#. Click **Catalog**
-
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalog.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboard.PNG
 
 |
 |
 
-#.  Select a product (in this demo, we selected "Chino Shorts" product). The Data Steward displays supplier products in the catalog.
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdatainteg.PNG
+
+|
+|
+
+#. Click an endpoint.
+
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickendpoint.PNG
+
+|
+|
+
+#. Then, Click **Catalog**
+
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog.PNG
+
+|
+|
+
+#.  Select a product . The Data Steward can display supplier products appear using Catalog.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproduct.PNG
 |
 |
 
-#. Data Steward also verifies the content and properties of the product and takes corrective actions.
+#. Data Steward can also verify the content and properties of the product and takes corrective actions using the assigned tabs.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatasteward.PNG
+.. image:: /feature/_images/pepimages/\cs_checkanderroneousproducts_selectproduct2.PNG
 
 |
 |
