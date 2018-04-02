@@ -66,7 +66,7 @@ To do this, follow these steps:
 
 #. Data Steward can also verify the content and properties of the product and takes corrective actions using the assigned tabs.
 
-.. image:: /feature/_images/pepimages/\cs_checkanderroneousproducts_selectproduct2.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproduct2.PNG
 
 |
 |
