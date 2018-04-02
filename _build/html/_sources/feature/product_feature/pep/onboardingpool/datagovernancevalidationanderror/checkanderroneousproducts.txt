@@ -51,9 +51,9 @@ To do this, follow these steps:
 |
 |
 
-#. Then, Click **Catalog**
+#. Then, click **Catalog**
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalogb.PNG
 
 |
 |
