@@ -108,6 +108,7 @@ To do a simple flat file export, follow these steps:
 |
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_connecticon3.PNG
 |
+|
 
 #. Click on the **Change type** icon.
 
@@ -116,6 +117,8 @@ To do a simple flat file export, follow these steps:
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype2.PNG
 |
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype3.PNG
+|
+|
 
 #. Click on **Mappings** then click on the "+" button.
 
@@ -153,9 +156,9 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. Add the appropriate process and mapping then click on the **Save** button.
+#. Add the appropriate workflow and mapping, then click on the **Save** button.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addprocessandmapping.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_addworkflowandmapping.PNG
 |
 |
 
@@ -171,6 +174,7 @@ To do a simple flat file export, follow these steps:
 |
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_selectendpoint.PNG
 |
+|
 
 #. Click on **Dashboard** then click on the **Data Integration** tab.
 
@@ -182,7 +186,6 @@ To do a simple flat file export, follow these steps:
 
 |
 |
-
 
 #. Click on the **Download** icon. View the information sheet once the download is complete.
 
