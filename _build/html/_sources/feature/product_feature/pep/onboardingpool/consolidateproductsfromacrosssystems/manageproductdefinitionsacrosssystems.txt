@@ -5,7 +5,7 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of on-boarding.
+**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
                         * The feature manages all the content of the product before transferring it to PIM and allows a Data Steward to make changes to the product content.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
@@ -39,11 +39,11 @@ To do this,  follow these steps:
 |
 |
 
-#. Select a product and click **Transfer to Onboarding** *Note:The supplier needs to have prior data integration permission to onboard the products in the Master catalog*.
+#. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
 |
 |
 
-Then Data Steward can operate the system and manage the supplier'sonboarding catalog products.
+Then, Data Steward can operate the system and manage the supplier's onboarding catalog products.
 Once the Products are  quality checked, data steward can transfers the products to the PIM.
