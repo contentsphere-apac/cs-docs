@@ -76,7 +76,7 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. Click on **Data Integration**.
+#. Click on the **Data Integration** tab.
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdataintegration.PNG
 |
@@ -114,8 +114,8 @@ To do a simple flat file export, follow these steps:
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype.PNG
 |
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype2.PNG
-
 |
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_changetype3.PNG
 
 #. Click on **Mappings** then click on the "+" button.
 
@@ -169,11 +169,12 @@ To do a simple flat file export, follow these steps:
 
 .. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickexporticon.PNG
 |
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_selectendpoint.PNG
 |
 
-#. Click on **Dashboard**.
+#. Click on **Dashboard** then click on the **Data Integration** tab.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_dashboard.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickdashboard.PNG
 |
 |
 
