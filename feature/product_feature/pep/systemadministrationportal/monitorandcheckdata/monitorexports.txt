@@ -6,7 +6,7 @@ The Monitor Exports feature provides an export summary for every export of produ
 
 ===================     =======================================================================================================================================================================
 **Description:**        * The user will get a summary of the reports for each completed export process.
-                        * The summary includes a report on key indicators of the products being exported so the user can check product violations and can appropriately correct them.
+                        * The summary includes a report on key indicators of the products being exported so the user can check product violations and may appropriately correct them.
 
 **Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
