@@ -6,7 +6,7 @@ The Monitor Exports feature provides an export summary for every export of produ
 
 ===================     =======================================================================================================================================================================
 **Description:**        * The user will get a summary of the reports for each completed export process.
-                        * The brief summary includes a report on key indicators of the products being exported so the user can check the product violations and appropriately correct them.
+                        * The summary includes a report on key indicators of the products being exported so the user can check product violations and can appropriately correct them.
 
 **Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
@@ -32,7 +32,9 @@ To monitor exports, follow these steps:
 |
 
 
-#. Go to *PIM* and select the products to be exported. To select all the products, click on the **Select All** button.
+#. | Go to *PIM* and select the products to be exported.
+   | *Note: To select all the products, click on the Select All button.*
+   |
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproducts.PNG
 |
@@ -64,26 +66,20 @@ To monitor exports, follow these steps:
 |
 
 
-#. Select the products and click on the **Export** button.  Then, select the desired *Export Endpoint*.
+#. Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport.PNG
 |
 .. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport2.PNG
 |
-|
-
-
-#. Step.
-
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport3.PNG
 |
 |
 
 
-#. Step.
+*Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the report summary.*
 
-.. image:: /feature/_images/pepimages/image.PNG
-|
+
 |
 
 
