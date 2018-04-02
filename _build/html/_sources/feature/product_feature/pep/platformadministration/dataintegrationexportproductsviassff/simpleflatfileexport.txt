@@ -82,15 +82,15 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. Click on **Workflow** then click on the "+" icon to create a process.
+#. Click on **Workflow** then click on the "+" icon to create a workflow.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_createprocess.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_workflow.PNG
 |
 |
 
-#. Enter the name for the process and set the type as "Business Process Workflow", then click on the **Create** button.
+#. Enter the name for the workflow and set the type as "Business Process Workflow", then click on the **Create** button.
 
-.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickcreate.PNG
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_clickcreateworkflow.PNG
 |
 |
 
