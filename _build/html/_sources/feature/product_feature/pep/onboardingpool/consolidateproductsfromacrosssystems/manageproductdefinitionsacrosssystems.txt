@@ -19,3 +19,30 @@ The Manage Product Definitions across Systems feature is a feature that allows a
                             the Data Steward will push the products to PIM. These products will now be visible in the Master Catalog.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: How the Data Steward will see all the products
+===========================================================
+To do this,  follow these steps:
+
+
+#. Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_gotodash.PNG
+|
+|
+
+#. Click **Catalog**.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickcatalog.PNG
+|
+|
+
+#. Select a product and transfer to onboarding *Note:The supplier needs to have prior data integration permission to onboard the products in the Master catalog*.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
+|
+|
+
+Then Data Steward can operate the system and manage the supplier'sonboarding catalog products.
+Once the Products are  qualitychecked, data steward can transfers the products to the PIM.
