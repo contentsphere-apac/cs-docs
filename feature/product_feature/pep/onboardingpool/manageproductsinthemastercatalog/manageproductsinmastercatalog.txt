@@ -10,7 +10,7 @@ The Manage Products in the Master Catalog is a feature that allows a Data Stewar
 
 **Related topics:**     * :doc:`Import/Export Data via Endpoints </feature/product_feature/pep/systemadministrationportal/manageseveralinboundandoutboundendpoints/importexportdataviaendpoints>`
                         * :doc:`Check and Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
-                        * :doc:`Consolidate Products from across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+                        * :doc:`Manage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
 
 
 **Application:**        * The Master Catalog feature can permit users to manage all of the product content.
