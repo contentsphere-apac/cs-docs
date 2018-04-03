@@ -6,7 +6,7 @@ The Monitor Exports feature provides an export summary for every export of produ
 
 ===================     =======================================================================================================================================================================
 **Description:**        * The user will get a summary of the reports for each completed export process.
-                        * The summary includes a report on key indicators of the products being exported so the user can check product violations and may appropriately correct them.
+                        * The summary includes a report on key indicators of the products being exported so that the user can check product violations and may appropriately correct them.
 
 **Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
@@ -67,6 +67,7 @@ To monitor exports, follow these steps:
 
 
 #. Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
+   Wait for the data to be exported. Once done, view the exported data.
 
 .. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport.PNG
 |
@@ -77,7 +78,7 @@ To monitor exports, follow these steps:
 |
 
 
-*Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the report summary.*
+*Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the offboarding report summary.*
 
 
 |

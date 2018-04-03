@@ -86,7 +86,7 @@ On that page, the *Start Time, End Time, and the Status* are provided for review
 
 *Note: In the Endpoint Dashboard Entry, there is a drop-down menu for the details of the import process. It is set with the default value, Summary.*
 Other options are available: *Last Upload and All Uploads*.
-*Also, in the Endpoint Dashboard Entry, the violations (Red, Orange, and Yellow) can be viewed that allow for the maintenance and protection of Data Quality in the system.*
+*Also, the violations (Red, Orange, and Yellow) can be viewed that will notify the user if there are product data to be corrected so that Data Quality can be maintained.*
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_noteintheendpoint.PNG
 |
