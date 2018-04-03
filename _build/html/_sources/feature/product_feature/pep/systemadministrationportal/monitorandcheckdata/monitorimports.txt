@@ -1,7 +1,7 @@
 ================
 Monitor Imports
 ================
-The Monitor Imports feature provides an import summary for every import of product data that allows corrective action to be promptly done, if required.
+The Monitor Imports feature provides an import summary for every import of product data that allows corrective action to be promptly done, if necessary.
 
 
 ===================     =======================================================================================================================================================================
@@ -21,8 +21,8 @@ The Monitor Imports feature provides an import summary for every import of produ
 
 How to do: Monitor Imports
 ===========================
-| For this example, the user will be a general user account.
-| To monitor imports as a user, follow the instructions below:
+| For this example, we will use a user with a general account.
+| To monitor imports as a general user, follow the instructions below:
 
 |
 
@@ -54,16 +54,16 @@ How to do: Monitor Imports
 |
 
 
-#. Select the file from your computer to be imported. Once selected, click **Open**.
+#. Select the file to be imported from your computer. Once selected, click **Open**.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_onceclicked.PNG
 |
 |
 
 
-*Note:  As a user, you may check the status or the progress of the onboarding process by going to the Workflow Status*.
+*Note:  You may check the status or the progress of the onboarding process by going to the Workflow Status*.
 
-Here, the *Start Time, End Time, and the Status* are provided for review.
+On that page, the *Start Time, End Time, and the Status* are provided for review.
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_noteasauser.PNG
 |
@@ -84,8 +84,9 @@ Here, the *Start Time, End Time, and the Status* are provided for review.
 |
 
 
-*Note: In the Endpoint Dashboard Entry, there is a drop-down menu with the default value, Summary.*  Other options are available: *Last Uploads and All Uploads*.
-*Also, in the Endpoint Dashboard Entry, the violations (Red, Orange, and Yellow) can be viewed that protect the Data Quality.*
+*Note: In the Endpoint Dashboard Entry, there is a drop-down menu for the details of the import process. It is set with the default value, Summary.*
+Other options are available: *Last Upload and All Uploads*.
+*Also, in the Endpoint Dashboard Entry, the violations (Red, Orange, and Yellow) can be viewed that allow for the maintenance and protection of Data Quality in the system.*
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_noteintheendpoint.PNG
 |
@@ -100,7 +101,7 @@ If there are violations in the *Endpoint Dashboard Entry*, the user may correct 
 
 |
 
-#. Go to *Catalog* that can be found on the left menu.
+#. Go to *Catalog* that can be found on the side menu.
 
 |
 

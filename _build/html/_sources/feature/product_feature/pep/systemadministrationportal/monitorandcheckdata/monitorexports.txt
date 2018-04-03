@@ -1,7 +1,7 @@
 ================
 Monitor Exports
 ================
-The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if required.
+The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if necessary.
 
 
 ===================     =======================================================================================================================================================================
