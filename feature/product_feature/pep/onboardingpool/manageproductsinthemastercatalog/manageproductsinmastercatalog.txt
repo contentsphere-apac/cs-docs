@@ -8,8 +8,10 @@ The Manage Products in the Master Catalog is a feature that allows a Data Stewar
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of on-boarding.
                         * The feature also allows a Data Steward to manage all the content and data of a product before transferring it to PIM.
 
-**Related topics:**     * *On-boarding Features*
-                        * *Users and Permissions Features*
+**Related topics:**     * :doc:`Import/Export Data via Endpoints </feature/product_feature/pep/systemadministrationportal/manageseveralinboundandoutboundendpoints/importexportdataviaendpoints>`
+                        * :doc:`Check and Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
+                        * :doc:`Consolidate Products from across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+
 
 **Application:**        * The Master Catalog feature can permit users to manage all of the product content.
                         * *Example:*
@@ -20,3 +22,69 @@ The Manage Products in the Master Catalog is a feature that allows a Data Stewar
                             where all the Products are verified and corrected by the Data Steward, if necessary.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Add additional information in the Product
+=====================================================
+To add additional information in the product, follow these steps:
+
+|
+
+#. Log in as supplier.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_loginsupplier.PNG
+|
+|
+
+#. Click on the **Data Integration** tab. With permission for data integration, the supplier can onboard data in the Master CAtalogs.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dataintegration.PNG
+|
+|
+
+#. Select the applicable endpoint.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_selectendpoint.PNG
+|
+|
+
+#. Click on **Catalog**.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_catalog.PNG
+|
+|
+
+#. Select the products to be transferred.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_product.PNG
+|
+|
+
+#. Click on the **Transfer** icon then click on **Transfer to Onboarding**.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboarding.PNG
+|
+|
+
+#. Go back to *Dashboard*.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_backdashboard.PNG
+|
+|
+
+#. Click on the drop-down button and select **Onboarding**.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dropdown.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dropdown2.PNG
+|
+
+#. View and manage the transferred products.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingpim.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
