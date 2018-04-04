@@ -197,7 +197,7 @@ To do a simple flat file export, follow these steps:
 |
 |
 
-#. View the downloadeded sheet.
+#. View the downloaded sheet.
 
 |
 |
