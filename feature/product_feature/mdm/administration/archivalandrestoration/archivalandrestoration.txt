@@ -5,7 +5,7 @@ The Archival and Restoration is a feature that allows to restore the archived pr
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Archival**: archival is the process of removing a product from the PIM and moving it into a separate storage area (archive).
+**Key Term:**           * **Archival**: archival is the process of removing a product from the PIM and moving it into a separate storage area (archive).
                           This process will not delete the product.
                         * **Restoration**: restoration is the action of returning products from the archive to its previous location in the PIM.
 
