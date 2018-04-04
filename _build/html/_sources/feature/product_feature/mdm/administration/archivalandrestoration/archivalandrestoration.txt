@@ -14,7 +14,7 @@ The Archival and Restoration is a feature that allows to restore the archived pr
 
 **Related topics:**     * :doc:`Rollback </feature/product_feature/mdm/general/rollback/rollback>`
                         * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
-                        * :doc:`Consolidate Products from across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+                        * :doc:`Manage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
 
 **Application:**        * The products that have reached their end of life can be removed from the PIM while still keeping them on record.
                         * Archived products can be retrieved whenever needed.
