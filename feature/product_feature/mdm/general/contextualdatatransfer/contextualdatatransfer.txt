@@ -1,0 +1,52 @@
+=========================
+Contextual Data Transfer
+=========================
+The Contextual Data Transfer is a feature that replicates and transfers the data from a parent product to its child products.
+This feature provides the facility to transfer the details of contextual products to the different variants of the product.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Contextual Data Transfer**: contextual data transfer refers to the replication and transmission of data from the parent product to its child product.
+
+**Description:**        * The dashboard provides an at-a-glance view of the key indicators in the process or system.
+                        * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
+                          It will show key indicators for the products that are transferred through the process.
+
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
+                        * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+
+**Application:**        * Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
+                          The supplier/user can then take appropriate corrective measures and decisions.
+                        * *Example:*
+
+                            The *Import Endpoint* dashboard helps a *Fashion* supplier to import the fashion data into the system.
+                            The dashboard will show a summarized report, as well as, a detailed report for the products imported.
+                            The dashboard will also give a glimpse of erroneous or incomplete data that can be corrected  by the supplier.
+
+===================     =======================================================================================================================================================================
+
+
+How to do: Contextual Data Transfer
+====================================
+To import and export via endpoints, follow these steps:
+
+|
+
+#. Log in using the supplier username and password, then click on the **Log In** button.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_loginsupplier.PNG
+|
+|
+
+#. Click on **Data Integration**.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickdataintegration.PNG
+|
+|
+
+#. Click on the desired endpoint to open and view the endpoint.
+
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_clickendpoint.PNG
+|
+|
