@@ -133,8 +133,8 @@
 </tr>
 <tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
-<li>This feature is used for any modification of a product and also used to save a product on the supplier side.</li>
-<li>This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that are using the product.
+<li>This feature is used for any modification of a product and also used to save product information on the supplier side.</li>
+<li>This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that use the product.
 The details will enter the retailer’s system in <em>JSON format</em> and can be viewed in queue section with the destination queue name.</li>
 <li>The queue will be used by a retailer to read or use the modified information about the product. This information (<em>JSON content</em>) is only visible to the target retailer.</li>
 </ul>
@@ -150,11 +150,11 @@ The details will enter the retailer’s system in <em>JSON format</em> and can b
 </tr>
 <tr class="row-even"><td><strong>Application:</strong></td>
 <td><ul class="first last">
-<li><p class="first">A user can modify and save products.</p>
+<li><p class="first">A user can modify data and product information and save these changes.</p>
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p><em>Red bull Supplier A</em> wants to update the selling price and will also do changes on some other product information.
+<div><p><em>Red bull Supplier A</em> wants to update the selling price.
 The updated price will get to the retailer in JSON format through the JMS queue.</p>
 </div></blockquote>
 </li>
@@ -169,22 +169,22 @@ The updated price will get to the retailer in JSON format through the JMS queue.
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<p><em>Note: To export files via an ETL-based endpoint, products should already be available in the system.</em></p>
+<p><em>Note: To export product files via an ETL-based endpoint, the products should be available in the system.</em></p>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
 <li>Log in and click on <em>Administration</em>.</li>
 </ol>
-<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<img alt="feature/_images/pepimages/cs_exportincfviaetl_loginandclickadmin.PNG" src="feature/_images/pepimages/cs_exportincfviaetl_loginandclickadmin.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click on the <strong>Data Integration</strong> tab and go to <em>Processes</em>.</li>
+<li>Click on the <strong>Data Integration</strong> tab and go to <em>Workflow</em>.</li>
 </ol>
-<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<img alt="feature/_images/pepimages/cs_exportincfviaetl_clickonthedataintegration.PNG" src="feature/_images/pepimages/cs_exportincfviaetl_clickonthedataintegration.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -192,13 +192,13 @@ The updated price will get to the retailer in JSON format through the JMS queue.
 <ol class="arabic simple">
 <li>To create a new process, click on the “+” icon on the right.</li>
 </ol>
-<img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
+<img alt="feature/_images/pepimages/cs_exportincfviaetl_tocreateanewprocess.PNG" src="feature/_images/pepimages/cs_exportincfviaetl_tocreateanewprocess.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Provide the details on the pop-up window and for the <em>Type</em> field, select <strong>Offboarding Process</strong>. Once selected, choose an <em>Event Type</em>.</li>
+<li>Provide the details on the pop-up window and for the <em>Event Type</em> field, select <strong>JMS Integration Workflow</strong>.</li>
 </ol>
 <img alt="feature/_images/pepimages/image.PNG" src="feature/_images/pepimages/image.PNG" />
 <div class="line-block">
@@ -424,7 +424,7 @@ And then, the product’s JSON message will appear in the message queue defined 
         </div>
       </div>
                 <h3>Last update:</h3>
-                <p class="topless">Mar 26, 2018</p>
+                <p class="topless">Apr 04, 2018</p>
             </div>
           </div>
         

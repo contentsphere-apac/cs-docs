@@ -7,8 +7,8 @@ Custom ETL Export is a feature that allows an admin to manage *Custom ETL-based 
 ===================     =======================================================================================================================================================================
 **Key Term:**           * **ETL:** Extract-Transform-Load
 
-**Description:**        * This feature is used for any modification of a product and also used to save a product on the supplier side.
-                        * This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that are using the product.
+**Description:**        * This feature is used for any modification of a product and also used to save product information on the supplier side.
+                        * This feature will provide a JSON message of the modified product to any ERP system or any downstream system to update the other parties that use the product.
                           The details will enter the retailer's system in *JSON format* and can be viewed in queue section with the destination queue name.
                         * The queue will be used by a retailer to read or use the modified information about the product. This information (*JSON content*) is only visible to the target retailer.
 
@@ -16,10 +16,10 @@ Custom ETL Export is a feature that allows an admin to manage *Custom ETL-based 
                         * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
 
-**Application:**        * A user can modify and save products.
+**Application:**        * A user can modify data and product information and save these changes.
                         * *Example:*
 
-                            *Red bull Supplier A* wants to update the selling price and will also do changes on some other product information.
+                            *Red bull Supplier A* wants to update the selling price.
                             The updated price will get to the retailer in JSON format through the JMS queue.
 
 ===================     =======================================================================================================================================================================
@@ -31,32 +31,32 @@ To do this feature, follow these steps:
 
 |
 
-*Note: To export files via an ETL-based endpoint, products should already be available in the system.*
+*Note: To export product files via an ETL-based endpoint, the products should be available in the system.*
 
 |
 
 #. Log in and click on *Administration*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_loginandclickadmin.PNG
 |
 |
 
 
-#. Click on the **Data Integration** tab and go to *Processes*.
+#. Click on the **Data Integration** tab and go to *Workflow*.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_clickonthedataintegration.PNG
 |
 |
 
 
 #. To create a new process, click on the "+" icon on the right.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_tocreateanewprocess.PNG
 |
 |
 
 
-#. Provide the details on the pop-up window and for the *Type* field, select **Offboarding Process**. Once selected, choose an *Event Type*.
+#. Provide the details on the pop-up window and for the *Event Type* field, select **JMS Integration Workflow**. 
 
 .. image:: /feature/_images/pepimages/image.PNG
 |
