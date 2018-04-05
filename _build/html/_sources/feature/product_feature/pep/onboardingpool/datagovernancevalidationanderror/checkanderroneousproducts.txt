@@ -36,14 +36,9 @@ To do this, follow these steps:
 
 #. Click **Catalog**
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_gotocatalog.PNG
+#.   The Data Steward views supplier products in the catalog. Then, select a product.
 
-|
-|
-
-#.  Select a product (in this demo, we selected "Chino Shorts" product). The Data Steward views supplier products in the catalog.
-
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_selectproduct.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_selectcatalog2.PNG
 |
 |
 
