@@ -26,25 +26,25 @@ To do this, follow these steps:
 
 #.  Go to the **Settings**.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_gotosettings.PNG
 |
 |
 
 #. Click  *Translations* tab on the top.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktrans.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_clicktrans.PNG
 |
 |
 
 #. Click  the **Tags** icon to view all the tags in the system.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktags.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_clicktags.PNG
 |
 |
 
 #. Select the desired tag and enter the translation value for the language on the left.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_seltag2.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_seltag2.PNG
 |
 |
 
@@ -53,7 +53,7 @@ To do this, follow these steps:
 
 #.    Login again with the desired language; you can see the translated data model items.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_login.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_login.PNG
 |
 |
 
