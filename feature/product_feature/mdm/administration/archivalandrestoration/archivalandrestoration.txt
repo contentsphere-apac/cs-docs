@@ -1,7 +1,7 @@
 =========================
 Archival and Restoration
 =========================
-The Archival and Restoration is a feature that allows to restore the archived products so as to make them available when needed.
+The Archival and Restoration is a feature that enables restoration of archived products so as to make them available when needed.
 
 
 ===================     =======================================================================================================================================================================
@@ -20,7 +20,7 @@ The Archival and Restoration is a feature that allows to restore the archived pr
                         * Archived products can be retrieved whenever needed.
                         * *Example:*
 
-                            An electronics retailer wants to remove an old iPhone version from their PIM amd replace it with the latest model.
+                            An electronics retailer wants to remove an old iPhone version from their PIM and replace it with the latest model.
                             The retailer archives the older version so that it is no longer available in the PIM.
                             The older version of the product can be restored when the needed arises.
 
