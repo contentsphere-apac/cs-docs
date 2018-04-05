@@ -41,7 +41,7 @@ To do this, follow these steps:
 |
 |
 
-#.  Select a product (in this demo, we selected "Chino Shorts" product). The Data Steward displays supplier products in the catalog.
+#.  Select a product (in this demo, we selected "Chino Shorts" product). The Data Steward views supplier products in the catalog.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_selectproduct.PNG
 |
@@ -50,7 +50,6 @@ To do this, follow these steps:
 #. Data Steward also verifies the content and properties of the product and takes corrective actions.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_opendatasteward.PNG
-
 |
 |
 
