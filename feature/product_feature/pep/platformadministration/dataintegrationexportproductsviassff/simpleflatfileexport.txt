@@ -199,6 +199,7 @@ To do a simple flat file export, follow these steps:
 
 #. View the downloaded sheet.
 
+.. image:: /feature/_images/pepimages/cs_simpleflatfileexport_downloadedxls.PNG
 |
 |
 
