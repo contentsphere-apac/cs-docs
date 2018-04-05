@@ -6,13 +6,13 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 
 ===================     =======================================================================================================================================================================
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
-                        * The feature manages all the content of the product before transferring it to PIM and allows a Data Steward to make changes to the product content.
+                        * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
 
                         *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
-**Application:**        * Master Catalog allows a user to manage all of the product content.
+**Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 
                             A retailer, with 5 suppliers, creates a user, *Data Steward* who monitors the data quality of products that are onboarded.
