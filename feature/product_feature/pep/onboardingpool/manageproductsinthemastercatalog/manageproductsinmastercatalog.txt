@@ -13,13 +13,13 @@ The Manage Products in the Master Catalog is a feature that allows a user to add
                         * :doc:`Manage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
 
 
-**Application:**        * The Master Catalog feature can permit users to manage all of the product content.
+**Application:**        * Using the Master Catalog feature, the user can manage all of the product content.
                         * *Example:*
 
-                            An organization has a user who manages all the products in the Master Catalog and there are *Suppliers A and B*, who sell furniture and fashion products.
-                            User gives permission for *Data Integration* to both suppliers.
-                            They proceeded with the onboarding of their products and transferring to the Master Catalog,
-                            where all the Products are verified and corrected by the Data Steward, if necessary.
+                            An organization assigns a user to manage all the products in the Master Catalog.
+                            User gives permission for *Data Integration* to *Suppliers A and B* that sell furniture and fashion products, respectively.
+                            The suppliers proceeded with the onboarding of their products and had their products transferred to the Master Catalog,
+                            If needed, the user can supply additional information in the configuration page to improve product definition.
 
 ===================     =======================================================================================================================================================================
 
@@ -30,21 +30,9 @@ To add additional information in the product, follow these steps:
 
 |
 
-#. Log in as supplier.
+#. Log in as Supplier and click on **Dashboard**, then click on the **Data Integration** tab and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_loginsupplier.PNG
-|
-|
-
-#. Click on the **Data Integration** tab. With permission for data integration, the supplier can onboard data in the Master Catalogs.
-
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dataintegration.PNG
-|
-|
-
-#. Select the applicable endpoint.
-
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_selectendpoint.PNG
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_login.PNG
 |
 |
 
@@ -54,37 +42,19 @@ To add additional information in the product, follow these steps:
 |
 |
 
-#. Select the products to be transferred to onboarding.
+#. Select the products and click on the **Transfer** button, then select **Transfer to Onboarding**.
+   *Note: The supplier has permission for data integration for onboarding its products in the Master Catalog.*
 
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_product.PNG
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_transfer.PNG
 |
-|
-
-#. Click on the **Transfer** icon then click on **Transfer to Onboarding**.
-
 .. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboarding.PNG
 |
 |
 
-#. Go back to *Dashboard*.
-
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_backdashboard.PNG
-|
-|
-
-#. Click on the drop-down button and select **Onboarding**.
-
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dropdown.PNG
-|
-.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_dropdown2.PNG
-|
-
-#. Admin can view and manage the onboarding products by adding information in the configuration page.
+#. View the onboarded products and add information in the configuration page if necessary.
 
 .. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingpim.PNG
 |
-|
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
