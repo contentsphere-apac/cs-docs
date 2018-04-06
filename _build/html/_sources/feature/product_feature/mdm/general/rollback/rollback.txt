@@ -6,21 +6,19 @@ The Rollback feature allows a user to switch (or to revert) to a previous versio
 
 ===================  =================================================================================================================================================================
 
-**Key Term:**             * The feature is used to revert to any former version of an article/product.
-
 **Description:**          * The rollback allows a user to go back to any version if the user/supplier wishes to revert back to previous changes.
 
 **Related topics:**       * :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
                           * :doc:`Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                           * :doc:`Compare Product Revisions </feature/product_feature/mdm/general/timelineandhistory/compareproductrevisions>`
 
-**Application:**          * The Rollback feature is used to switch back to a desired version of a product.
+**Application:**          * he Rollback feature is used to switch back to the desired version of a product.
                           * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
                             product relationship/context and return it back to the previous version.
                           * *Example:*
 
-                              Supplier can add commercial text in the 'description' for Toblerone Chocolates during Holiday season.
-                              Once the season is over, he can rollback to the  original description version.
+                              The supplier can add commercial text in the ‘description’ for Toblerone Chocolates during Holiday season.
+                              Once the season is over, he can rollback to the original description version.
 
 ===================  =================================================================================================================================================================
 
@@ -36,7 +34,7 @@ To do this, follow these steps:
 
 #. Click to select the desired product for which you want to perform rollback operation (in this demo, we select 'Orange bone toy').
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_selectproduct.PNG
 |
 |
 
