@@ -12,7 +12,7 @@ The Rollback feature allows a user to switch (or to revert) to a previous versio
                           * :doc:`Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                           * :doc:`Compare Product Revisions </feature/product_feature/mdm/general/timelineandhistory/compareproductrevisions>`
 
-**Application:**          * he Rollback feature is used to switch back to the desired version of a product.
+**Application:**          * The Rollback feature is used to switch back to the desired version of a product.
                           * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
                             product relationship/context and return it back to the previous version.
                           * *Example:*
