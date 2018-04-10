@@ -56,30 +56,30 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the details on the pop-up window and for the *Event Type* field, select **JMS Integration Workflow**. 
+#. Provide the details on the pop-up window and for the *Event Type* field, select **JMS Integration Workflow**.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_providethedetails.PNG
 |
 |
 
 
 #. Click on the **Create** button.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_clickonthecreatebutton.PNG
 |
 |
 
 
-#. Click on the newly created process on the list. Set the process using the components based on the requirements.
+#. Once clicked, view the window of the newly create process. Set the process using the components based on the requirements.
 
-.. image:: /feature/_images/pepimages/image.PNG
+.. image:: /feature/_images/pepimages/cs_exportincfviaetl_onceclickedviewthewindow.PNG
 |
 |
 
 
 #. Add the components such as *Export Event, Talend Component, and JMS Producer*.
 
-   .. image:: /feature/_images/pepimages/image.PNG
+   .. image:: /feature/_images/pepimages/cs_exportincfviaetl_addthecomponents.PNG
 |
 |
 
