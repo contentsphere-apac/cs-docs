@@ -5,6 +5,8 @@ Relationships
 The Relationships feature enables the user to set up relationships or links between products, assets, articles, and entities.
 
 ====================      ===============================================================================================================================================================
+**Key Term**              * **Relationships**: a way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
+
 **Description:**          * A user can set up relationships between a *Product* and an *Asset.*
                           * A user can set up relationships between *Articles.*
                           * A user can set up relationships between *Entities.*
@@ -17,9 +19,9 @@ The Relationships feature enables the user to set up relationships or links betw
 
                              A product is linked to a particular supplier. In the supplier module, the supplier can view all the products that he had supplied.
 
-**Related topics:**       * *Manage Media Links*
-                          * *Define Article Links*
-                          * *Define Relationships*
+**Related topics:**       * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+                          * :doc:`Define Article Links </feature/product_feature/mdm/administration/datamodelrelationships/definearticlelinks>`
+                          * :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
 
 **Application:**          * Define Article Links feature will link rich content to the products like adding multiple images, videos, PDFs, or even the market
                             that the products are available in.

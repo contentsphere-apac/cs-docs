@@ -5,12 +5,17 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 
 ====================      ===============================================================================================================================================================
+**Key Term**              * **Relationships**: *(configuration)* A way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
+                          * *Example:*
+
+                                    Products + supplier + image + target
+
 **Description:**          * This feature allows the linking of products to various assets like *Images, Videos, PDFs,* and other relevant files.
                             The images if linked to a product will be visible in the product thumbnail and in the relationship tab.
                             In the image relationship tab, the product to which that image is linked to would be visible too.
 
-**Related topics:**       * *Define Article Links*
-                          * *Define Relationships*
+**Related topics:**       * :doc:`Define Article Links </feature/product_feature/mdm/administration/datamodelrelationships/definearticlelinks>`
+                          * :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
 
 **Application:**          * Manage Media Links can be used to link a product to its media assets. An example would be an article that is linked to its video files
                             that will provide additional information regarding the article.

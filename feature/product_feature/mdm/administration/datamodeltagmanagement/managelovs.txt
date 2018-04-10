@@ -1,20 +1,22 @@
 ===========
 Manage LOVs
 ===========
-
-
-Manage LOVs lets you create a property with many possible values.
+Manage LOVs feature is a feature that lets you create a property with many possible values.
 
 
 ====================    =============================================================================================================================================================
-**Description:**        * Classify your products by setting up LOVs as tags.
-                        * Unlike categories, there is no hierarchy in tags.
+**Key Term**            * **Property**: *(class within data model)* A property is a field used to describe a product.
+                          It comes in several different types: *Name of Product, Price, Description*.
 
-**Related topics:**     * *Manage Affinities*
+**Description:**        * This feature  is used to create a property with many possible values.
+                        * Tags can be used to categorize your products, Contrary to categories.
 
-**Application:**        * Have a property where only one value applies to the product.
+**Related topics:**     *  :doc:`Manage Affinities </feature/product_feature/mdm/administration/datamodeltagmanagement/manageaffinities>`
+
+**Application:**        * Some property may have multiple values, wherein  it may/may not be appropriate to a value.
                         * Multi-select the values that are applicable to the product.
                         * Apply a boolean tag when the value is either true or false.
+
 ====================    =============================================================================================================================================================
 
 

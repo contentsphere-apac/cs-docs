@@ -1,12 +1,12 @@
 =======================
 Manage Tag Hierarchies
 =======================
-The Manage Tag Hierarchies is an admin feature that sets up tag-based hierarchies wherein each master tag is considered as one level.
+The Manage Tag Hierarchies is an administrator feature that sets up tag-based hierarchies wherein each master tag is considered as one level.
 This feature allows mixing and matching of tags to build simple hierarchies.
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Tag:** is a property that is used to describe a product (like *bottle size or color*).
+**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
 
 **Description:**        * Hierarchy is concerned with the classification of different objects.
                         * The system allows multiple levels of hierarchies:
