@@ -4,23 +4,21 @@ Rollback
 
 The Rollback feature allows a user to switch (or to revert) to a previous version of a product in the system.
 
-===================  =================================================================================================================================================================
-
-**Description:**          * The rollback allows a user to go back to any version if the user/supplier wishes to revert back to previous changes.
+===================  ================================================================================================================================================================
+**Key Terms**             * **Rollback** – This feature enables the user to switch back to a version of a product that he wishes to.
+**Description:**          * This is an enhancement to the basic ‘Rollback’ feature, where when the user adds or remove any relationship/context to a product it can be rolled back to the previous version.
 
 **Related topics:**       * :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
                           * :doc:`Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                           * :doc:`Compare Product Revisions </feature/product_feature/mdm/general/timelineandhistory/compareproductrevisions>`
 
 **Application:**          * The Rollback feature is used to switch back to the desired version of a product.
-                          * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
-                            product relationship/context and return it back to the previous version.
+                          * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove anyproduct relationship/context and return it back to the previous version.
                           * *Example:*
 
-                              The supplier can add commercial text in the ‘description’ for Toblerone Chocolates during Holiday season.
-                              Once the season is over, he can rollback to the original description version.
+                          Retailer A accidentally deletes an image of a product and, he wants it to be restored. This can be achieved by rolling back to the original version.
 
-===================  =================================================================================================================================================================
+===================  ================================================================================================================================================================
 
 How to do: Rollback
 =============================
@@ -57,7 +55,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage3.PNG
 |
 |
-#. Click on **SAVE** TO save to save the changes on the product.
+#. Click on **Save** TO save to save the changes on the product.
 
 .. image:: /feature/_images/mdmimages/cs_rollbackb_clicksave.PNG
 |
