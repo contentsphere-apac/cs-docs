@@ -16,7 +16,7 @@ The Version Context feature allows a user to create a special version of a produ
 
                             *Retailer ‘A’* wants to run a promotion on the mobile phone's 32 GB and 64 GB variants during Christmas and will only run for that holiday season.
                             The retailer will create variants of the original product through the feature,
-                            *Version Context* and have a time-bound campaign running for those versions.
+                            *Version Context* and will have a time-bound campaign running for those versions.
 
 ===================     ===============================================================================================================================================================
 
@@ -68,51 +68,60 @@ To do this feature, follow these steps:
 
 #. Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonarticleundertheclasses.PNG
 |
 |
 
 
-#. Once selected, update the *Version Context* field that can be seen on the right and select the newly created version context.
+#. Once selected, update the *Version Context* field that can be seen on the right and select the newly created version context and save the changes.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext2.PNG
 |
 |
 
 
 #. Click on the **Explore** icon and go to the product.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonexplore.PNG
 |
 |
 
 
-#. In the *Overview* tab, click on the **Version Context** to create versions of the product.
+#. In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create versions of the product.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab2.PNG
 |
 |
 
 
-#. Click the **Create** button and then wait for the new window, *Create Clone Variant* to load.
+#. Provide the necessary details and then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providethenecessarydetails.PNG
 |
 |
 
 
-#. Select all the *Tags* and *Attributes* that apply to that variant.
+#. Wait for the new window, *Create Clone Variant* to load.  Select all the *Tags* and *Attributes* that apply to that variant.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_waitforthenewwindow.PNG
 |
 |
 
 
-#. Click the **Create** button.
+#. Click the **Create** button and then, view the created variant.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton2.PNG
 |
 |
+
+
+
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
