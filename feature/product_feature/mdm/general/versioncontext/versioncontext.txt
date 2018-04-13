@@ -11,12 +11,12 @@ The Version Context feature allows a user to create a special version of a produ
 **Related topics:**     * :doc:`Cloning </feature/product_feature/mdm/general/cloning/index>`
                         * :doc:`Manage Individual Articles </feature/product_feature/mdm/products/producttypesindividualarticle/manageindividualarticles>`
 
-**Application:**        * The *Version Context* can create a product version that is limited for a seasonal campaign or promotion.
+**Application:**        * The *Version Context* can create a product version that is limited to a seasonal campaign or promotion.
                         * *Example:*
 
-                            *Retailer ‘A’* wants to run a promotion on the mobile phone's 32 GB and 64 GB variants during Christmas and will only run for that holiday season.
-                            The retailer will create variants of the original product through the feature,
-                            *Version Context* and will have a time-bound campaign running for those versions.
+                            *Retailer ‘A’* wants to run a promotion on the mobile phone's 64 GB variant during Christmas (that will only run for that holiday season).
+                            The retailer will create a variant of the original product through the feature,
+                            *Version Context* and will have a time-bound campaign running for that version.
 
 ===================     ===============================================================================================================================================================
 
@@ -73,7 +73,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Once selected, update the *Version Context* field that can be seen on the right and select the newly created version context and save the changes.
+#. Once selected, update the *Version Context* field that can be seen on the right. Select the newly created version context from the options and save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext.PNG
 |
@@ -89,7 +89,7 @@ To do this feature, follow these steps:
 |
 
 
-#. In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create versions of the product.
+#. In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create a version of the product.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab.PNG
 |
