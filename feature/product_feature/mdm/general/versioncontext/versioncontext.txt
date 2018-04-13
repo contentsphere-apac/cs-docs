@@ -1,14 +1,15 @@
 ================
 Version Context
 ================
-The Version Context feature is
+The Version Context feature allows a user to create a special version of a product that contains specific information intended for certain targets or channels.
 
 
 ===================     ===============================================================================================================================================================
-**Description:**        * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
-                        * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
+**Description:**        * This feature helps create various versions (varying according to the tags) of a product.
+                        * This feature creates clones of an original product and helps a user to run a promotional campaign on a specific version (or few versions) of a product.
 
-**Related topics:**     * *Products, Articles, or Images*  to be exported.
+**Related topics:**     * :doc:`Cloning </feature/product_feature/mdm/general/cloning/index>`
+                        * :doc:`The <>`
 
 **Application:**        * The simple Excel-based export makes a record of data that is saved as an Excel file.
                         * *Example:*
@@ -18,6 +19,7 @@ The Version Context feature is
 
 ===================     ===============================================================================================================================================================
 
+|
 
 How to do: Version Context
 ===========================
@@ -29,6 +31,46 @@ To do this feature, follow these steps:
 
 .. image:: /feature/_images/mdmimages/image.PNG
 |
+|
+
+
+#. Step
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step
+
 .. image:: /feature/_images/mdmimages/image.PNG
 |
 |
