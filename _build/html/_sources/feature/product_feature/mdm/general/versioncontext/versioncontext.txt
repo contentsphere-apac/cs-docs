@@ -1,20 +1,22 @@
 ================
 Version Context
 ================
-The Version Context feature is a feature that allows a user to create a special version of the
+The Version Context feature allows a user to create a special version of a product that contains specific information intended for certain targets or channels.
 
 
 ===================     ===============================================================================================================================================================
-**Description:**        * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
-                        * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
+**Description:**        * This feature helps create various versions (varying according to the tags) of a product.
+                        * This feature creates clones of an original product and helps a user to run a promotional campaign on a specific version (or few versions) of a product.
 
-**Related topics:**     * *Products, Articles, or Images*  to be exported.
+**Related topics:**     * :doc:`Cloning </feature/product_feature/mdm/general/cloning/index>`
+                        * :doc:`Manage Individual Articles </feature/product_feature/mdm/products/producttypesindividualarticle/manageindividualarticles>`
 
-**Application:**        * The simple Excel-based export makes a record of data that is saved as an Excel file.
+**Application:**        * The *Version Context* can create a product version that is limited for a seasonal campaign or promotion.
                         * *Example:*
 
-                            A user has a department/workgroup that uses Microsoft Excel to work on data.
-                            The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
+                            *Retailer ‘A’* wants to run a promotion on the mobile phone's 32 GB and 64 GB variants during Christmas and will only run for that holiday season.
+                            The retailer will create variants of the original product through the feature,
+                            *Version Context* and have a time-bound campaign running for those versions.
 
 ===================     ===============================================================================================================================================================
 
@@ -25,23 +27,88 @@ To do this feature, follow these steps:
 
 |
 
-#. Step
+#. Log in and go to *Administration*.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_login.PNG
+|
+|
+
+
+#. Click on **Contexts** and then, click on "+" icon to create a context.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickoncontexts.PNG
+|
+|
+
+
+#. Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype2.PNG
+|
+|
+
+
+#. A new window will pop up; set the details and options: *Icon, Enable Time (Campaign Period), Allow Duplicate,* and  the relevant *Tags*.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_anewwindowwillpopup.PNG
+|
+|
+
+
+#. Click the **Save** button once done. And then, click **Ok**.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton2.PNG
+|
+|
+
+
+#. Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
 
 .. image:: /feature/_images/mdmimages/image.PNG
 |
+|
+
+
+#. Once selected, update the *Version Context* field that can be seen on the right and select the newly created version context.
+
 .. image:: /feature/_images/mdmimages/image.PNG
 |
 |
 
 
-#. Step
+#. Click on the **Explore** icon and go to the product.
 
 .. image:: /feature/_images/mdmimages/image.PNG
 |
 |
 
 
-#. Step
+#. In the *Overview* tab, click on the **Version Context** to create versions of the product.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Click the **Create** button and then wait for the new window, *Create Clone Variant* to load.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Select all the *Tags* and *Attributes* that apply to that variant.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Click the **Create** button.
 
 .. image:: /feature/_images/mdmimages/image.PNG
 |
