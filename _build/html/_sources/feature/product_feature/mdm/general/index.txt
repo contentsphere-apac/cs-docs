@@ -18,3 +18,4 @@ General
    masseditinggridediting/index
    selectandcompare/index
    rollback/index
+   versioncontext/index
