@@ -31,11 +31,11 @@ To do this, follow these steps:
 
 #. Go to **PIM**.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickpim.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_gotopim.PNG
 |
 |
 
-#. Click to select the desired product for which you want to perform rollback operation (in this demo, we select 'Orange bone toy').
+#. Click to select the desired product for which you want to perform rollback operation.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_selectproduct.PNG
 |
@@ -43,63 +43,78 @@ To do this, follow these steps:
 
 #. Click on the *Relationships* tab.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrelationship.PNG
 |
 |
 
-#. In this demo, we will replace the image and roollback to the previous image.
+#. In this demo, we will remove the image and change an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_removeimage.PNG
+|
+|
+#. Click **OK** to save the changes.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickoksave.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage2.PNG
+#. In the *Properties* Tab, change the price of the product (or any other attribute).
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickproperties.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_rollback_changepricing.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage3.PNG
-|
-|
-#. Click on **Save** TO save to save the changes on the product.
+#. Click on **Save** to save to save the changes on the product.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clicksave.PNG
 |
 |
 
-#. Go to *Relationship* tab.
+#. Click **Timeline**. The current version of the product would be with the latest version number on the top.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clicktimeline.PNG
+
+|
+|
+#. Click on **Zoom in** icon to preview the changes in the product versions.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickzoomin.PNG
 |
 |
 
+Select the versions (one or more) that you would like to compare the current version to (in this demo, we selected *'Version 6'*.
 
-#.  Go to the *Timeline* tab. The current version of the product would be with the latest version number on the top.
-
-  .. image:: /feature/_images/mdmimages/cs_rollbackb_clicktimeline.PNG
-  |
-  |
-
-  .. image:: /feature/_images/mdmimages/cs_rollbackb_timeline.PNG
-  |
-  |
-
-#.  Click on the version before we replaced the image (in this demo, we selected 'version 0 27th March, 2018').
-
-.. image:: /feature/_images/mdmimages/cs_rollbackb_selectversion.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_selectversion.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrollback.PNG
+#.  Click on **Compare** icon.Then, and click **OK** to close the window.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickcompare.PNG
 |
 |
 
-#.    Once the rollback has been confirmed, Relationship Tab opens, and the relationship is restored.View the image (now rereverted to the old version).
+.. image:: /feature/_images/mdmimages/cs_rollback_clickcompareb.PNG
+|
+|
+# Click **Rollback** icon of the selected version.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_viewimage.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrollback.PNG
 |
 |
 
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrollbackconfirm.PNG
+|
+|
 
+#.    Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
+
+.. image:: /feature/_images/mdmimages/cs_rollback_viewimage.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
