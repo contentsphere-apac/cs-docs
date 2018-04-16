@@ -1,0 +1,158 @@
+==============
+Golden Record
+==============
+The Golden Record is a feature that sets up matching rules to consolidate multiple supplier records for the same article.
+It also sets up merging rules to facilitate the best merging of content.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**             * **Golden Record:** is a single, well-defined version of a data entity in an organization. There may be multiple sources and suppliers for a single product and
+                            the Golden Record feature allows the combination and consolidation of all matching products (duplicate products) in one single record.
+                            With the Golden Record, you will always have exact and consistent product data that are available.
+                            Golden Record uses matching and merging rules to consolidate the product details.
+
+                          * **Match:** is the process of identifying duplicate records of all products.
+                            It compares products based on defined *attributes, tags, taxonomies, and classes* and by the comparison, identifies duplicate records of a product.
+
+                          * **Merge:** is the process of consolidating data from identified duplicate records to create a Golden Record.
+                            This is the best record of the current, complete, and accurate view of product information.
+                            The merging process determines what data elements and their corresponding values from duplicated data need to be considered to create the Golden Record.
+
+**Description:**          * Golden Record is concerned with creating a single view of the master data.
+                          * This feature provides out-of-the-box cleansing, verifying, matching, merging, and de-duplication mechanism of data.
+
+**Related topics:**       * The
+
+**Application:**          * *Example:*
+
+                                Two duplicate records are available in the system for a single product.
+                                These details come from two different sources. The records contain the details like name, GTIN, description, and price of a product.
+                                Now, all the details provided by one source is accurate except the description of the product.
+                                Golden Record feature will allow to create a single product which will have all the details like name, GTIN, and price from one source
+                                and it can fetch and display the description from the other source.
+                                Now, all the duplicate records will be eliminated and a single record will be there for a single product.
+                                This record will contain the accurate data related to products.
+
+====================      ===============================================================================================================================================================
+
+
+How to do: Golden Record
+==========================
+To set up this feature, follow these steps:
+
+|
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line

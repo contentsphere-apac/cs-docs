@@ -12,3 +12,4 @@ Governance
    standardizationandnormalization/index
    dataremediation/index
    governancedashboard/index
+   goldenrecord
