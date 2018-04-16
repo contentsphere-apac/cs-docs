@@ -10,8 +10,6 @@ The Rollback feature allows a user to switch (or to revert) to a previous versio
                           * This feature allows the user *(retailer/supplier)* to compare various versions of the product, before deciding which version to rollback to.
                           * This feature allows the user *(retailer/supplier)* to preview the changes in the product versions.
 
-                          * *Example:*
-
 **Related topics:**       * :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
                           * :doc:`Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                           * :doc:`Compare Product Revisions </feature/product_feature/mdm/general/timelineandhistory/compareproductrevisions>`
