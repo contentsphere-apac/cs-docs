@@ -8,22 +8,20 @@ This feature provides the facility to transfer the details of contextual product
 ===================     =======================================================================================================================================================================
 **Key Term:**           * **Contextual Data Transfer**: contextual data transfer refers to the replication and transmission of data from the parent product to its child product.
 
-**Description:**        * The dashboard provides an at-a-glance view of the key indicators in the process or system.
-                        * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
-                          It will show key indicators for the products that are transferred through the process.
+**Description:**        * Contextual data transfer is concerned with the transmission of data from a parent product to its child products.
+                        * This feature is useful whenever you create any type of variant in the system and you want to replicate the details of the parent product into all of its variants.
 
-**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
-                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
-                        * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
+                        * :doc:`Inheritance via Taxonomy </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
 
-**Application:**        * Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
-                          The supplier/user can then take appropriate corrective measures and decisions.
+**Application:**        * This feature helps to reduce the time and effort needed for providing details in the variants of the product.
                         * *Example:*
 
-                            The *Import Endpoint* dashboard helps a *Fashion* supplier to import the fashion data into the system.
-                            The dashboard will show a summarized report, as well as, a detailed report for the products imported.
-                            The dashboard will also give a glimpse of erroneous or incomplete data that can be corrected  by the supplier.
-
+                            A fashion retailer wants to create the different size and color variants of the shirt product.
+                            Using Contextual Data Transfer, only the details for only parent shirt product are required.
+                            Once the retailer provides the details in the parent product, he will be able to transfer all the details in all variant products.
+                            Thus, he will not have to manually provide all the details in all variants.
 ===================     =======================================================================================================================================================================
 
 
@@ -70,7 +68,7 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
-#. Select attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+#. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute.PNG
 |
