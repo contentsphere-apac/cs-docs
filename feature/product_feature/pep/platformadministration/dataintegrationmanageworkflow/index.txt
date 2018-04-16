@@ -1,5 +1,5 @@
 ===================================
-Data Integration _ Manage Workflow
+Data Integration - Manage Workflow
 ===================================
 
 .. toctree::
