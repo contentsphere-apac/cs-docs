@@ -21,135 +21,215 @@ It also sets up merging rules to facilitate the best merging of content.
 **Description:**          * Golden Record is concerned with creating a single view of the master data.
                           * This feature provides out-of-the-box cleansing, verifying, matching, merging, and de-duplication mechanism of data.
 
-**Related topics:**       * The
+**Related topics:**       * :doc:`Data Quality Rule </feature/product_feature/mdm/governance/dataqualityrule>`
+                          * :doc:`Measure and Monitor </feature/product_feature/mdm/governance/measureandmonitor/index>`
+                          * :doc:`Standardization and Normalization </feature/product_feature/mdm/governance/standardizationandnormalization/index>`
 
 **Application:**          * *Example:*
 
                                 Two duplicate records are available in the system for a single product.
-                                These details come from two different sources. The records contain the details like name, GTIN, description, and price of a product.
-                                Now, all the details provided by one source is accurate except the description of the product.
-                                Golden Record feature will allow to create a single product which will have all the details like name, GTIN, and price from one source
-                                and it can fetch and display the description from the other source.
+                                These records come from two different sources. The records contain details such as: *Name, GTIN, Description, and Price* of a product.
+                                All the details provided by one source is accurate except for the description of the product.
+                                The **Golden Record** feature will allow the creation of a single product, which will have the *Name, GTIN, and Price* details from one source
+                                and it can fetch and display the correct *Description* from the other source.
                                 Now, all the duplicate records will be eliminated and a single record will be there for a single product.
-                                This record will contain the accurate data related to products.
+                                This record will contain the accurate data related to that product.
 
 ====================      ===============================================================================================================================================================
 
 
 How to do: Golden Record
 ==========================
-To set up this feature, follow these steps:
+To create a Golden Record, follow these steps:
 
 |
 
-#. Step.
+#. Log in and then go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
-|
-|
-
-
-#. Step.
-
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_login.PNG
 |
 |
 
 
-#. Step.
+#. Go to *Data Governance*. Click on the **Golden Record Rules** option.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_gotodatagovernance.PNG
 |
 |
 
 
-#. Step.
+#. Click on the "+" icon to create a *Golden Record*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clickontheicon.PNG
 |
 |
 
 
-#. Step.
+#. Name the *Golden Record rule* and select the *Nature Class* where the rule will be applied.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_namethegoldenrecordrule.PNG
 |
 |
 
 
-#. Step.
+#. Once the details are provided, click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_oncethedetailsareprovided.PNG
 |
 |
 
 
-#. Step.
+#. Once clicked, a Golden Record Rule window will load. Provide the details for the following: *Partners and Physical Catalog*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_onceclickedagoldenrecordrule.PNG
 |
 |
 
 
-#. Step.
+#. Then, complete the details under the **Match** section: *Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies*.
+   As mentioned in the description, the details to be provided in these fields will be used to compare records and to match for duplicates.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_thencompletethedetails.PNG
 |
 |
 
 
-#. Step.
+#. For the **Merge** section, define the *Attributes, Tags, Relationships, and Nature Relationships*.
+   When you define these parameters, the default value gets reflected for the defined attribute, tag, relationship, or nature relationship while merging
+   (though one can override the values in the merging process).
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_forthemergesection.PNG
 |
 |
 
 
-#. Step.
+#. Click on the "+" icon and then, select the attributes from the menu. Click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clickontheiconandthenselectattributes.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clickontheiconandthenselectattributes2.PNG
 |
 |
 
 
-#. Step.
+#. Once the **Apply** button is clicked, a new window will open.  Notice that the *Latest* radio button is turned on, by default.
+   This means that the system will consider the value of the latest record from the duplicate records for the selected/defined attribute.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_oncetheapplybutton.PNG
 |
 |
 
 
-#. Step.
+#. Similarly for the *Supplier*, click on the "+" icon to define this attribute. Then, select a supplier from the list and click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_similarlyforthesupplier.PNG
 |
 |
 
 
-#. Step.
+#. Repeat the steps for the *Tags, Relationships, and Nature Relationships*.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_repeatthesteps.PNG
 |
 |
 
 
-#. Step.
+#. Once completed, click the **Ok** button.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_oncecompletedclicktheokbutton.PNG
 |
 |
 
 
-#. Step.
+#. Click on the **Explore** button and go to *PIM* to view the products.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clicktheexplorebutton.PNG
 |
 |
 
 
-#. Step.
+#. To test the feature, create a new *Nature Class* (as defined in the *Match* section).
+   Do this by placing the cursor over the "+" icon in PIM and selecting the Nature Class defined in the Golden Record rule.
 
-.. image:: /feature/_images/mdmimages/image.PNG
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_totestthefeature.PNG
+|
+|
+
+
+#. Create the product and provide details like the *Values of properties, Relationships, Classes, and Taxonomies*.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_createtheproductandprovide.PNG
+|
+|
+
+
+#. Repeat the steps to create as many products as desired using the defined nature class.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_repeatthestepstocreateasmany.PNG
+|
+|
+
+
+*Note: Once there are duplicates in the system whose attributes correspond to the Golden Record rule, the system will compare the provided details of each product (Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies) to find these duplicates.
+Once found, the system will put these records in a bundle and will create a bucket of the product.
+
+|
+|
+
+#. To view this bucket, go to the *Dashboard* and click on the **Buckets** tab. View the *Properties* and *Matches* of the set Golden Record rule.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_toviewthisbucket.PNG
+|
+|
+
+#. Click on the icon on the upper right corner of the Golden Record rule entry.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clickontheiconontheupperright.PNG
+|
+|
+
+
+#. View the duplicate records as the records are presented in a table. Each duplicate is shown in one column.
+   Each column will also display the value of the *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships* applied to each record.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_viewtheduplicaterecords.PNG
+|
+|
+
+
+#. Select one from the values of all the shown *Tags, Attributes, Nature Class, Non-Nature Class, Taxonomies, and Relationships*.
+   All the selected values will be displayed in a final product when we merge the records into a single record.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_selectoneofthevalues.PNG
+|
+|
+
+
+#. Note that there are symbols beside each value.  An equal sign symbol means that this value will be used in the merged record.
+   Make sure that all values you want to include in the merged record have this symbol.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_notethattherearesymbols.PNG
+|
+|
+
+
+#. Once all the values are added and completed, click on the **Create** button. This will then merge all the duplicates into a single record.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_onceallthevaluesareadded.PNG
+|
+|
+
+
+#. Go to *PIM* and find the merged record. To locate it, look for the **Crown** symbol on the lower right.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_gotopimandfindtherecord.PNG
+|
+|
+
+
+#. Click on the product and go to the *Source* tab to view the list of the duplicate records that have been merged into a *Golden Record*.
+
+.. image:: /feature/_images/mdmimages/cs_goldenrecord_clickontheproductandgotosource.PNG
 |
 |
 
