@@ -1,0 +1,86 @@
+===================================
+Data Integration - Manage Workflow
+===================================
+Manage Workflow is a feature that allows the user to create and configure workflows that visually represent the business processes in a standardized graphical notation.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Workflow**: a Workflow provides business the capability to understand its internal onboarding procedures in a graphical notation and
+                          also enables the organization to communicate the procedure in a standard manner. It depicts the end-to-end flow of the onboarding process.
+
+**Description:**        * Workflow helps to customize and automate the onboarding process.
+                        * This feature provides standard and easy-to-understand visual representation of the detailed steps of the onboarding process.
+
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
+                        * :doc:`Inheritance via Taxonomy </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
+
+**Application:**        * This feature allows for a more efficient way to track the status of the processes.
+                        * *Example:*
+
+                            Consider an organization 'A' that sells electronics.
+                            If the user wants to transfer this data into a sheet, the user will make a workflow for the data transfer process.
+===================     =======================================================================================================================================================================
+
+
+How to do: Create a Workflow
+=============================
+To create a workflow, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** icon.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_login.PNG
+|
+|
+
+#. Click on the **Data Integration** tab.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_dataintegration.PNG
+|
+|
+
+#. Click on **Workflow** from the left side menu.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_clickworkflow.PNG
+|
+|
+
+#. Click on the "+" icon to create a workflow.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_clickplusicon.PNG
+|
+|
+
+#. Enter the details such as *Name, Event Type, and Code* then click on the **Create** button.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_enterdetails.PNG
+|
+|
+
+#. View the *Graph* section that consists of three vertical sections. The first vertical section contains the list of all the components of the system.
+   The second vertical section is used to define the flow of each component used in the onboarding file.
+   The third vertical section contains the details of each component.
+
+   .. image:: /feature/_images/pepimages/cs_manageworkflow_graphsection.PNG
+|
+|
+
+#. Drag the components from the first vertical section and drop them to the second vertical section.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_draganddrop1.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageworkflow_draganddrop2.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageworkflow_draganddrop3.PNG
+|
+|
+
+#. Click on each component and enter the details of each component in the third vertical section then click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_manageworkflow_clicksave.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line

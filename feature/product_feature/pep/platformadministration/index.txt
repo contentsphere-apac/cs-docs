@@ -12,4 +12,5 @@ Platform Administration
    dataintegrationexportproductsviassff/index
    dataintegrationimportproductsincfviaetl/index
    dataintegrationexportproductsincfviaetl/index
+   dataintegrationmanageworkflow/index
    systemprofile/index
