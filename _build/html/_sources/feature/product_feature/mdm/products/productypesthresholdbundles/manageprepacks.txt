@@ -27,10 +27,11 @@ To do this, follow these steps:
 #. Click  **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_gotoadmin.PNG
+
 |
 |
 
-#.  Click Data *Model*  tab.Then, click **Article**
+#.  Click Data *Model* tab.Then, click **Article**
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickdatamod.PNG
 |

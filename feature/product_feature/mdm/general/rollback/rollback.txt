@@ -1,27 +1,27 @@
-========
+=========
 Rollback
-========
+=========
 
 The Rollback feature allows a user to switch (or to revert) to a previous version of a product in the system.
 
-===================  =================================================================================================================================================================
-
-**Description:**          * The rollback allows a user to go back to any version if the user/supplier wishes to revert back to previous changes.
-                          * This feature can be accessed from within a product's page under the 'Timeline' tab.
+===================  ================================================================================================================================================================
+**Key Term:**              * **Rollback**: A feature that enables the user to switch back to a desired version of a product.
+**Description:**          * This is an enhancement to the basic *Rollback* feature, where when the user adds or remove any relationship/context to a product, it can be rolled back to the previous version.
+                          * This feature allows the user *(retailer/supplier)* to compare various versions of the product, before deciding which version to rollback to.
+                          * This feature allows the user *(retailer/supplier)* to preview the changes in the product versions.
 
 **Related topics:**       * :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
                           * :doc:`Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                           * :doc:`Compare Product Revisions </feature/product_feature/mdm/general/timelineandhistory/compareproductrevisions>`
 
-**Application:**          * The Rollback feature is used to switch back to a desired version of a product.
-                          * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
-                            product relationship/context and return it back to the previous version.
+**Application:**          * The Rollback feature is used to switch back to the desired version of a product.
+                          * This is an enhancement to the basic *Rollback* feature. It allows the user add or remove any product relationship/context and return it back to the previous version.
+                          * This feature allows the user *(retailer/supplier)* to compare various versions of the product, before deciding which version to rollback to.
+                          *  This feature allows the user *(retailer/supplier)* to preview the changes in the product versions.
                           * *Example:*
 
-                              Supplier can add commercial text in the 'description' for Toblerone Chocolates during Holiday season.
-                              Once the season is over, he can rollback to the  original description version.
-
-===================  =================================================================================================================================================================
+                                Retailer ‘A’ has made several changes in the product namely: deleted an image, changed the language preference, removed an attribute, etc. The Zoom in/out and compare  feature will help him examine those details across the product versions and compare these versions, before he decides to roll back to the desired one.
+===================  ================================================================================================================================================================
 
 How to do: Rollback
 =============================
@@ -29,75 +29,90 @@ To do this, follow these steps:
 
 #. Go to **PIM**.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickpim.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_gotopim2.PNG
 |
 |
 
-#. Click to select the desired product for which you want to perform rollback operation (in this demo, we select 'Orange bone toy').
+#. Click to select the desired product for which you want to perform rollback operation.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_selectproduct.PNG
 |
 |
 
 #. Click on the *Relationships* tab.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrelationship.PNG
 |
 |
 
-#. In this demo, we will replace the image and roollback to the previous image.
+#. In this demo, we will remove the image and change an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_removeimage.PNG
+|
+|
+#. Click **OK** to save the changes.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickoksave.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage2.PNG
+#. In the *Properties* Tab, change the price of the product (or any other attribute).
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickproperties.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_rollback_changepricing.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_replaceimage3.PNG
-|
-|
-#. Click on **SAVE** TO save to save the changes on the product.
+#. Click on **Save** to save to save the changes on the product.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clicksave.PNG
 |
 |
 
-#. Go to *Relationship* tab.
+#. Click **Timeline**. The current version of the product would be with the latest version number on the top.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clicktimeline.PNG
+
+|
+|
+#. Click on **Zoom in** icon to preview the changes in the product versions.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickzoomin.PNG
 |
 |
 
+Select the versions (one or more) that you would like to compare the current version to (in this demo, we selected *'Version 6'*).
 
-#.  Go to the *Timeline* tab. The current version of the product would be with the latest version number on the top.
-
-  .. image:: /feature/_images/mdmimages/cs_rollbackb_clicktimeline.PNG
-  |
-  |
-
-  .. image:: /feature/_images/mdmimages/cs_rollbackb_timeline.PNG
-  |
-  |
-
-#.  Click on the version before we replaced the image (in this demo, we selected 'version 0 27th March, 2018').
-
-.. image:: /feature/_images/mdmimages/cs_rollbackb_selectversion.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_selectversion.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_clickrollback.PNG
+#.  Click on **Compare** icon.Then, and click **OK** to close the window.
+
+.. image:: /feature/_images/mdmimages/cs_rollback_clickcompare.PNG
 |
 |
 
-#.    Once the rollback has been confirmed, Relationship Tab opens, and the relationship is restored.View the image (now rereverted to the old version).
+.. image:: /feature/_images/mdmimages/cs_rollback_clickcompareb.PNG
+|
+|
+# Click **Rollback** icon of the selected version.
 
-.. image:: /feature/_images/mdmimages/cs_rollbackb_viewimage.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrollback.PNG
 |
 |
 
+.. image:: /feature/_images/mdmimages/cs_rollback_clickrollbackconfirm.PNG
+|
+|
 
+#.    Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
+
+.. image:: /feature/_images/mdmimages/cs_rollback_viewimage.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
