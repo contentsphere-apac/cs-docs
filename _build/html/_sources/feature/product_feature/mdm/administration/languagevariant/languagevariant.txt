@@ -2,10 +2,10 @@
 Language Variant
 ================
 
-Language Variant is a feature that allows user to assign ovide language specific values for an attribute o product information can be maintained in multiple languages.
+Language Variant is a feature that allows user to assign language specific values for an attribute o product information can be maintained in multiple languages.
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **Attribute:** A data field which describes a product, can also use *property*.
+**Key Term:**           * **Attribute:** A data field which describes a product, it can also use *property*.
 **Description:**        *  The *Contentsphere’s MDM* system will have multiple users belonging to various countries.
                         * *Language Variant* will help them create products and write information in several languages.
 
@@ -13,7 +13,7 @@ Language Variant is a feature that allows user to assign ovide language specific
 **Related topics:**     * :doc:`Embedded Variants within Contexts </feature/product_feature/mdm/general/contextualization/embeddedvariants>`
                         * :doc:`Improve Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
 
-**Application:**        * Link an object to a taxonomy for proper classification.
+**Application:**        * Link an object to taxonomy for proper classification.
                         * Taxonomy branches serve as classification of the parts.
 ====================    =============================================================================================================================================================
 
@@ -97,7 +97,7 @@ C#. lick **Explore** and then **PIM**. Select or create a product (In this demo,
 |
 |
 
-#. Click on CREATE to select the country whose Language Variant you would like to create ( in thisd demo, we selected to add *'English'* language variant and Single Article: *'Bluebone toy'*).
+#. Click on **Create** to select the country whose Language Variant you would like to create (in this demo, we selected to add *'English'* language variant and Single Article: *'Bluebone toy'*).
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_createlanguagevariant.PNG
 |
