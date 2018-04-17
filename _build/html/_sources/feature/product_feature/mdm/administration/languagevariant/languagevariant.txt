@@ -101,13 +101,13 @@ C#. lick **Explore** and then **PIM**. Select or create a product (In this demo,
 |
 |
 
-#. Click on **Create** to select the country whose Language Variant you would like to create (in this demo, we selected to add *'English'* language variant).
+#. Click on **Create** to select the country whose Language Variant you would like to create.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_createlanguagevariant.PNG
 |
 |
 
-#. Add corresponding values in selected languages and click **Create** to save.
+#. Add corresponding values in selected languages ( in this demo, we selected *'English'* and click **Create** to save.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_addcorrespondingvalues.PNG
 |
