@@ -15,6 +15,7 @@ Administration
    importexportdatamodeltags/index
    hierarchy/index
    hierarchiesmastertagbasedhierarchy/index
+   languagevariant/index
    usersandpermissionscrudrights/index
    usersandpermissionsaccesslevels/index
    usersandpermissionsviewtemplates/index

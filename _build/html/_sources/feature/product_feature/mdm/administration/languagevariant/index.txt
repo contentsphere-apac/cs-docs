@@ -1,0 +1,9 @@
+================
+Language Variant
+================
+
+.. toctree::
+   :maxdepth: 1
+
+   linkingobjects
+   languagevariant

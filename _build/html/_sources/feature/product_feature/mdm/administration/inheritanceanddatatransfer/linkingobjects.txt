@@ -15,39 +15,25 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
                         * Taxonomy branches serve as classification of the parts.
 ====================    =============================================================================================================================================================
 
+How to do: Create a Language Variant
+====================================
+To do this, follow these steps:
 
-How to do: Linking Objects
-==========================
+#. Log in, and click  **Administration**.
 
-Classify with ease by linking objects, and here's how to do it.
-
-|
-
-#. Go to PIM and hover on the "+" icon.
-
-.. image:: /feature/_images/mdmimages/linkingobjects_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickadministration.PNG
 |
 |
 
-#. Select your product.
-
-.. image:: /feature/_images/mdmimages/linkingobjects_selectproduct.PNG
-|
-|
-
-#. Click **Add Taxonomy**.
-
-.. image:: /feature/_images/mdmimages/linkingobjects_addtaxonomy.PNG
-|
-.. image:: /feature/_images/mdmimages/linkingobjects_addtaxonomy2.PNG
-|
-|
-
-#. Property collection is added via Taxonomy. You can link more products if necessary.
-
-.. image:: /feature/_images/mdmimages/linkingobjects_propertycollection.PNG
-|
-
-
-.. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+Click on Classes and then click on Article.
+Click on Create symbol to create Language Variant class.
+Fill in the details like Name, enable the nature type and select the type ‘Language’.
+Create.
+Once the Language class is made, click on the Context.
+In Selected Tag Group, choose tag Country. Select the as many countries as you find relevant to your product and audience.
+Add required property collection to the language class.
+Select any product or create a new one to assign the ‘Language class’ in its Language Class section.
+Click on Explore and then PIM. Hover over + icon to see your product.
+Click on the product and then go to Contexts Tab.
+Click on CREATE to select country whose Language Variant you would like to create.
+Add corresponding values in selected languages and Save.

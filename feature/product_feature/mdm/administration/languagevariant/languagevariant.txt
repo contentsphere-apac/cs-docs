@@ -1,0 +1,120 @@
+================
+Language Variant
+================
+
+Language Variant is a feature that allows user to assign ovide language specific values for an attribute o product information can be maintained in multiple languages.
+
+====================    =============================================================================================================================================================
+**Key Term:**           * **Attribute:** A data field which describes a product, can also use *property*.
+**Description:**        *  The *Contentsphere’s MDM* system will have multiple users belonging to various countries.
+                        * *Language Variant* will help them create products and write information in several languages.
+
+
+**Related topics:**     * :doc:`Embedded Variants within Contexts </feature/product_feature/mdm/general/contextualization/embeddedvariants>`
+                        * :doc:`Improve Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
+
+**Application:**        * Link an object to a taxonomy for proper classification.
+                        * Taxonomy branches serve as classification of the parts.
+====================    =============================================================================================================================================================
+
+How to do: Create a Language Variant
+====================================
+To do this, follow these steps:
+
+#. Log in, and click  **Administration**.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickadministration.PNG
+|
+|
+
+#. Click on **Classes** and then click  **Article**.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickarticle.PNG
+|
+|
+
+#. Click on Create symbol to create Language Variant class.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickcreatevariantclass.PNG
+|
+|
+
+#. Enter  details:Name, enable the nature type, and select the type *Language*. Then, click **Create**.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_centerdetails.PNG
+|
+|
+
+#. Once the Language class is made, click **Language Class** to edit the Context.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickcontext.PNG
+|
+|
+
+#. In Selected Tag Group, clict to  tag a language. Select the as many countries as you find relevant to your product and audience.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickselectedtaggroup.PNG
+|
+|
+
+#. Click **Add Property Collection icon** to add the required property collection to the language class.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_addpropertycollection.PNG
+|
+|
+
+#. Click **Add class** to assign a language class to any product.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_assignclass.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_assignclassb.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_assignclassc.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_assignclassd.PNG
+|
+|
+
+C#. lick **Explore** and then **PIM**. Select or create a product (In this demo, we selected *'Bluebone toy'*.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickexplore.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_clickpim.PNG
+|
+|
+
+#. Click on the product, and then go to *Contexts* Tab.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_gotocontext.PNG
+|
+|
+
+#. Click on CREATE to select the country whose Language Variant you would like to create ( in thisd demo, we selected to add *'English'* language variant and Single Article: *'Bluebone toy'*).
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_createlanguagevariant.PNG
+|
+|
+
+#. Add corresponding values in selected languages and click **Create** to save.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_addcorrespondingvalues.PNG
+|
+|
+
+#. View the added *English language variant* in the selected *Bluebone toy*.
+
+.. image:: /feature/_images/mdmimages/cs_languagevariant_viewaddedlanguagevariant.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
