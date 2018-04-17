@@ -30,27 +30,27 @@ To do this, follow these steps:
 
 #. Login to ContentSphere and click **Dashboard** to explore the products.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboard.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboardb.PNG
 
 |
 |
 
 #. Click **Catalog**
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalog.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalogb.PNG
 
 |
 |
 
 #.  Select a product (in this demo, we selected "Chino Shorts" product). The user displays supplier products in the catalog.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproduct.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproductb.PNG
 |
 |
 
 #. The user also verifies the content and properties of the product and takes corrective actions.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatasteward.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatastewardb.PNG
 
 |
 |
