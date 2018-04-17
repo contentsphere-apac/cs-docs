@@ -18,6 +18,18 @@ A
 administrator
     *(user type, customer role)* A technical specialist who configures a software system.
 
+|
+
+attribute
+    *(concept)* A data field which describes a product, can also use 'property'.
+
+|
+
+attribution class
+    *(class type)* A class that adds specific attributes to the product it is assigned to.
+    For example, a 'Mobile Phone' class may add attributes for Screen Size, Memory Size, Operating System etc.
+
+|
 
 .. _B:
 
@@ -138,6 +150,12 @@ fixed bundle
 G
 -
 
+Golden Record
+    *(concept)* A Golden Record is a single, well-defined version of the data entity in an organization. There may be multiple sources/suppliers for a single product.
+    Golden record feature allows you to combine and consolidate all matching products (duplicate products) in one single record.
+    With the golden record, you always have exact and consistent, product data available.
+    Golden Record uses matching and merging rules to consolidate the product details.
+
 No glossary entries found.
 
 
@@ -204,6 +222,13 @@ Master Data Management (MDM)
 
         The functionality of an MDM supports aspects such as workflow rules, data quality, catalogue management, user security and data distribution.
 
+
+match
+    *(process type)* Matching is a process of identifying duplicate records for all products.
+    It compares the products based on defined attributes, tags, taxonomies, and classes and identifies duplicate records of a product.
+
+|
+
 measurement property
     *(property type)* A measurement property uses a predefined measurement standard.
 
@@ -211,10 +236,20 @@ measurement property
 
         Length: 10 metres
 
+merge
+    *(process type)* Once the duplicate records are identified, they need to be merged to create the Golden Record.
+    This record will be the best possible data representing current, complete and accurate view of customer information.
+    Merging process determines what data elements and their values from duplicated data needs to be considered to create the Golden Record.
+
+|
+
 .. _N:
 N
 -
-No glossary entries found.
+
+nature class
+    *(class type)* A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software.
+    Nature Classes could include Single Article, Product, Bundle or other custom-made product types.
 
 
 .. _O:
@@ -295,6 +330,11 @@ relationships
     * *Example:*
 
         Products + supplier + image + target
+
+rollback
+    *(feature)* Rollback is a feature that enables the user to switch back to a desired version of a product.
+
+|
 
 .. _S:
 
