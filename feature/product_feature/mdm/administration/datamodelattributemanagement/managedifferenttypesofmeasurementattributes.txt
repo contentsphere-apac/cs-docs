@@ -301,10 +301,11 @@ Measurement Type: Volume
 This feature example allows an administrator to set an attribute as *Volume*.
 
 ===================     ===============================================================================================================================================================
+**Key Term**            * **Attribute:** A data field which describes a product, can also use *'property'*.
 **Description:**        * This feature allows the setting of an attribute type as *Volume*.
                         * This feature makes an attribute type as *Volume* and applies the appropriate default units to be associated with the volume.
 
-**Related topics:**     * *Volume* type attribute.
+**Related topics:**      * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
 **Application:**        * Volume measurement type can set the volume of a liquid product (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
@@ -316,8 +317,8 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 
 How to do: Measurement Type: Volume
-------------------------------------
-To set an attribute as a volume, follow these steps:
+===================================
+To do this, follow these steps:
 
 |
 
@@ -333,7 +334,7 @@ To set an attribute as a volume, follow these steps:
 |
 |
 
-#. Click the "+" icon to create an attribute.
+#. Click the **''+' icon** to create an attribute.
 
 .. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
 |
@@ -373,10 +374,11 @@ Measurement Type: Weight
 This feature example allows an administrator to set an attribute as *Weight*.
 
 ===================     ===============================================================================================================================================================
+**Key Term**            * **Property:**A data field which describes a product, can also use *'attribute'*.
 **Description:**        * This feature allows the setting of an attribute type as *Weight*.
                         * This feature makes an attribute type as *Weight* and applies the appropriate default units to be associated with the weight (e.g. *Grams, Kg, etc.*).
 
-**Related topics:**     * *Weight* type attribute.
+**Related topics:**     * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
 **Application:**        * Weight measurement type can set how heavy a product is or the weight of a product (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
@@ -388,7 +390,7 @@ This feature example allows an administrator to set an attribute as *Weight*.
 
 
 How to do: Measurement Type: Weight
-------------------------------------
+===================================
 To set an attribute as a weight, follow these steps:
 
 |
@@ -405,7 +407,7 @@ To set an attribute as a weight, follow these steps:
 |
 |
 
-#. Click the "+" icon to create an attribute.
+#. Click the **'+' icon** to create an attribute.
 
 .. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
 |
@@ -445,11 +447,12 @@ Measurement Type: Temperature
 This feature example allows an administrator to set an attribute as *Temperature*.
 
 ===================     ===============================================================================================================================================================
+**Key Term**            * **Attribute:** A data field which describes a product, can also use *'property'*.
 **Description:**        * This feature allows the setting of an attribute type as *Temperature*.
                         * This feature makes an attribute type as *Temperature* and applies the appropriate default units to be associated with the temperature
                           (e.g. *Celsius, Fahrenheit, etc*).
 
-**Related topics:**     * *Temperature* type attribute.
+**Related topics:**     * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
 **Application:**        * Temperature attribute type can set how hot or cold a product is (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
@@ -461,7 +464,7 @@ This feature example allows an administrator to set an attribute as *Temperature
 
 
 How to do: Measurement Type: Temperature
------------------------------------------
+=========================================
 To set an attribute as a temperature, follow these steps:
 
 |
@@ -478,7 +481,7 @@ To set an attribute as a temperature, follow these steps:
 |
 |
 
-#. Click the "+" icon to create an attribute.
+#. Click the **''+' icon** to create an attribute.
 
 .. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
 |

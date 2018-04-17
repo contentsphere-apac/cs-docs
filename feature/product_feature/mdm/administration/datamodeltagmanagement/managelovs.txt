@@ -23,7 +23,7 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 How to do: Manage LOVs
 ======================
 
-Easily classify your products by using LOVs as tags, and here's how to do it.
+To do this, follow these steps:
 
 |
 
@@ -39,7 +39,7 @@ Easily classify your products by using LOVs as tags, and here's how to do it.
 |
 |
 
-#. Click on the "+" icon to create a new tag (LOVs).
+#. Click on the **'+'** icon to create a new tag (LOVs).
 
 .. image:: /feature/_images/mdmimages/managelovs_create.PNG
 |
