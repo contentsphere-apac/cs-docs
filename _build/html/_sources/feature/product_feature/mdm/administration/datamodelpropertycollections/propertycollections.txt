@@ -6,7 +6,7 @@ This feature allows a user to group the attributes and tags under one area to ea
 
 
 ===================     =============================================================================================================================================================
-**Key Terms:**          * **Property:** A data field which describes a product, can also use 'attribute'.
+**Key Term:**          * **Property:** A data field which describes a product, can also use 'attribute'.
                         * **Attribute:** A data field which describes a product, can also use 'property'.
 
 **Description:**        * A property collection is a group of attributes, properties, tags, and roles. This collection can be added to a class or taxonomy level.
