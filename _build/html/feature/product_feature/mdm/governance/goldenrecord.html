@@ -176,7 +176,7 @@ The merging process determines the data elements and values from duplicates that
 <td><ul class="first last">
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p>Two duplicate records are available in the system for a single product.
+<div><p>Multiple duplicate records are available in the system for a single product.
 These records come from two different sources. The records contain details such as: <em>Name, GTIN, Description, and Price</em> of a product.
 All the details provided by one source is accurate except for the description of the product.
 The <strong>Golden Record</strong> feature will allow the creation of a single product, which will have the <em>Name, GTIN, and Price</em> details from one source
@@ -221,7 +221,7 @@ This record will contain the accurate data and up-to-date information of the pro
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Provide a name for the <em>rule</em> and select the <em>Nature Class</em> where the rule will be applied.</li>
+<li>Provide a name for the <em>rule</em> and select the <em>Nature Class</em>, where the rule will be applied.</li>
 </ol>
 <img alt="../../../../_images/cs_goldenrecord_namethegoldenrecordrule.PNG" src="../../../../_images/cs_goldenrecord_namethegoldenrecordrule.PNG" />
 <div class="line-block">
@@ -246,7 +246,7 @@ This record will contain the accurate data and up-to-date information of the pro
 </div>
 <ol class="arabic simple">
 <li>Then, complete the details under the <strong>Match</strong> section: <em>Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies</em>.
-As mentioned in the description, the details to be provided in these fields will be used to compare records and to match them for duplicates.</li>
+As mentioned in the description, the details to be provided in these fields will be used to compare records and to classify them as duplicates.</li>
 </ol>
 <img alt="../../../../_images/cs_goldenrecord_thencompletethedetails.PNG" src="../../../../_images/cs_goldenrecord_thencompletethedetails.PNG" />
 <div class="line-block">
@@ -326,7 +326,7 @@ Do this by placing the cursor over the “+” icon in PIM and selecting the Nat
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Create the product and provide details like the <em>Values of properties, Relationships, Classes, and Taxonomies</em>.</li>
+<li>Create the product and provide details like the values of <em>Properties, Relationships, Classes, and Taxonomies</em>.</li>
 </ol>
 <img alt="../../../../_images/cs_goldenrecord_createtheproductandprovide.PNG" src="../../../../_images/cs_goldenrecord_createtheproductandprovide.PNG" />
 <div class="line-block">
@@ -342,7 +342,7 @@ Do this by placing the cursor over the “+” icon in PIM and selecting the Nat
 <div class="line"><br /></div>
 </div>
 <p><em>Note: Once there are duplicates, whose attributes are monitored by the Golden Record rule, the system will compare the provided details of each product (Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies) to find these duplicates.
-Once found, the system will put these records in a bundle and will create a bucket of the product.</em></p>
+Once found, the system will put these records in a bundle and will create a bucket.</em></p>
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -382,7 +382,7 @@ All the selected values will be displayed in a final product when we merge the r
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Note that there is a symbol beside each value.  An equal sign means that this value is similar to the value in the merged record.
+<li>Note that there is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record.
 Make sure that all values you want to include in the Golden Record have this symbol.</li>
 </ol>
 <img alt="../../../../_images/cs_goldenrecord_notethattherearesymbols.PNG" src="../../../../_images/cs_goldenrecord_notethattherearesymbols.PNG" />

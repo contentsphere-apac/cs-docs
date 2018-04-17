@@ -27,7 +27,7 @@ it also sets up merging rules to consolidate information and to facilitate the b
 
 **Application:**          * *Example:*
 
-                                Two duplicate records are available in the system for a single product.
+                                Multiple duplicate records are available in the system for a single product.
                                 These records come from two different sources. The records contain details such as: *Name, GTIN, Description, and Price* of a product.
                                 All the details provided by one source is accurate except for the description of the product.
                                 The **Golden Record** feature will allow the creation of a single product, which will have the *Name, GTIN, and Price* details from one source
@@ -65,7 +65,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-#. Provide a name for the *rule* and select the *Nature Class* where the rule will be applied.
+#. Provide a name for the *rule* and select the *Nature Class*, where the rule will be applied.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_namethegoldenrecordrule.PNG
 |
@@ -87,7 +87,7 @@ To create a *Golden Record*, follow these steps:
 
 
 #. Then, complete the details under the **Match** section: *Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies*.
-   As mentioned in the description, the details to be provided in these fields will be used to compare records and to match them for duplicates.
+   As mentioned in the description, the details to be provided in these fields will be used to compare records and to classify them as duplicates.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_thencompletethedetails.PNG
 |
@@ -156,7 +156,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-#. Create the product and provide details like the *Values of properties, Relationships, Classes, and Taxonomies*.
+#. Create the product and provide details like the values of *Properties, Relationships, Classes, and Taxonomies*.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_createtheproductandprovide.PNG
 |
@@ -171,7 +171,7 @@ To create a *Golden Record*, follow these steps:
 
 
 *Note: Once there are duplicates, whose attributes are monitored by the Golden Record rule, the system will compare the provided details of each product (Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies) to find these duplicates.
-Once found, the system will put these records in a bundle and will create a bucket of the product.*
+Once found, the system will put these records in a bundle and will create a bucket.*
 
 |
 |
@@ -207,7 +207,7 @@ Once found, the system will put these records in a bundle and will create a buck
 |
 
 
-#. Note that there is a symbol beside each value.  An equal sign means that this value is similar to the value in the merged record.
+#. Note that there is a symbol beside each value.  An equal sign means that this value is equal to the value in the merged record.
    Make sure that all values you want to include in the Golden Record have this symbol.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_notethattherearesymbols.PNG
