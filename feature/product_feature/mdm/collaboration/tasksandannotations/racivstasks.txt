@@ -10,9 +10,9 @@ The RACI-VS Tasks is a feature that allows users to create a task and assign rol
                           These roles have different levels of rights and permissions in the system.
                           The life cycle of a task also depends on the decision of the user assigned to a specific role.
 
-**Related topics:**     * *Tasks and Annotations*
-                        * *Task Dashboard*
-                        * *Public/Private Tasks*
+**Related topics:**     * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/tasksandannotations>`
+                        * :doc:`Tasks Dashboards </feature/product_feature/mdm/collaboration/tasksandannotations/taskdashboard>`
+                        * :doc:`Public/Private Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/publicprivatetasks>`
 
 **Application:**        * The review and approval of tasks can be assigned to the roles (roles may then be assigned to users).
                           Each role will have its set of rights and permissions in the system.

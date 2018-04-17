@@ -11,9 +11,9 @@ The Public/Private Tasks feature allows a user to set a task to either *Public (
                               A **Public** task is shared among users.
                               A **Private** task is only for the user who created that task (and other users granted with permission to access the task).
 
-**Related topics:**     * *Tasks and Annotations*
-                        * *Task Dashboard*
-                        * *RACI-VS Tasks*
+**Related topics:**     * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/tasksandannotations>`
+                        * :doc:`Tasks Dashboards </feature/product_feature/mdm/collaboration/tasksandannotations/taskdashboard>`
+                        * :doc:`RACI-VS Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
 
 **Application:**        * An administrator can set a task to remind another user of an action that needs to be done on a particular day.
                         * *Example:*
