@@ -10,7 +10,7 @@ The Compare Product Revision feature allows the selection and comparison of diff
                         * This feature creates a comparison table that shows columns for the product versions and rows for the attributes.  This table allows quick and easy
                           comparison between each offering's features and characteristics.
 
-**Related topics:**     * *Products*
+**Related topics:**     * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
 
 **Application:**        * A user can track all the changes that are made to a product/article. Based on values, a user can merge a value from a previous version to the newer one.
                         * *Example:*

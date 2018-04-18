@@ -11,7 +11,7 @@ Product Comparison lets the user select and compare products within the PIM.
                         * Products are compared not only based on their attributes but also on their relationships.
                         * It is accessible from the main PIM catalog by selecting several products and clicking the compare button.
 
-**Related topics:**     * *Parametric Search*
+**Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
 
 **Application:**        * This feature is helpful when deciding which product to use for a promotion or comparing similar products for data quality.
                         * *Example:*
