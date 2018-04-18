@@ -5,6 +5,9 @@ Bulk Edit
 The Bulk Edit feature allows a user to change the values of multiple attributes/tags for multiple products in a single operation.
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**           * **Grid Edit:** is a data editing functionality wherein the product data are presented in grid.
+
 **Description:**        * Bulk Edit can change the values of multiple attributes/tags for multiple products in a single operation.
                         * Bulk Edit can be used on similar or dissimilar types of products.
                         * Bulk Edit allows multiple attributes/tags to be edited in a single operation.

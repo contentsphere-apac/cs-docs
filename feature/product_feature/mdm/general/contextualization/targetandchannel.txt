@@ -5,6 +5,9 @@ Target and Channel Contextualization is a feature that allows users to have attr
 
 
 ===================     =============================================================================================================================================================
+
+**Key Term**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * Target and channel contextualization enables the user to setup values which are based on a context.
                         * This feature is particularly useful for values that are dependent on a context or tag.
                         * The value can be based on two or more contexts.
