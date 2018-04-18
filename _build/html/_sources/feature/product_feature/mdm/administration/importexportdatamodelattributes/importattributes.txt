@@ -5,7 +5,7 @@ The Import Attributes is a feature that allows importing of attribute definition
 
 
 ===================     =========================================================================================================================================================================
-**Key Term**            ***Attribute:** A data field which describes a product, can also use 'property'. 
+**Key Term**            * **Attribute:** A data field which describes a product, can also use 'property'. 
 **Description:**        * It allows the import of a document with a list of different types of attributes: *HTML, Text, Number, Price, Concatenated, Measurement, Date, and Standard Attribute*.
                         * It also allows a user to import attributes in bulk instead of creating them one by one, manually.
 
