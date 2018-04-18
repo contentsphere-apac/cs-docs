@@ -5,6 +5,9 @@ Manage Product Keys is a feature that sets up certain attributes as *Product Key
 
 
 ===================     =======================================================================================================================================================================
+
+**Key Term**            * **Property:** A data field which describes a product, can also use *'attribute'*.
+
 **Description:**        * Products are created with unique values, which are called *Product Keys*.
                         * Product Keys define attributes to be a unique value. If non-unique values will be used, a violation will appear for the *Product or Article*.
 

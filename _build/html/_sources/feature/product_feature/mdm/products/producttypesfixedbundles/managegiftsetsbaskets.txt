@@ -7,7 +7,9 @@ The Manage Gift Sets or Basket feature allows a user to group articles together 
 
 ===================     ===============================================================================================================================================================
 
-**Key Term**            * **Collection:** (feature) A fixed collection of objects relevant to the user.
+
+**Key Term**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
 **Description:**        * This feature allows the retailer to manage a Bundle of Single Articles.
                           The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
 

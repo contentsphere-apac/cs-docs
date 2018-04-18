@@ -5,6 +5,9 @@ Manage Supplier Records is a feature that manages supplier records and their ide
 
 
 ===================     =======================================================================================================================================================================
+
+**Key Term**            * **Class:** a class defines the base configuration for products.
+
 **Description:**        * The feature allows managing of the products received from various suppliers by adhering to a few standard *Standards/Units*.
 
                         * **Standard Identifier:** Standard Identifier assigns a unique identifier to the *Products/Supplier*.
