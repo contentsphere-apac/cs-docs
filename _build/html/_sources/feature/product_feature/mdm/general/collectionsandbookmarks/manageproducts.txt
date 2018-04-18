@@ -5,6 +5,8 @@ Manage Products across Collections lets you copy or move products between collec
 
 
 ====================    =============================================================================================================================================================
+
+**Key Term**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 **Description:**        * Collections are created to store a group of products based on their relevance to a user.
                         * Collections can have their own hierarchy and the products in the collection can belong to these hierarchies.
                         * With the use of collections, a group of products can be classified easily.
