@@ -5,7 +5,7 @@ Remedy Quality Issues is a data governance feature that edits records with incor
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Class: a class defines the base configuration for products.
+**Key Term:**            * **Class:** a class defines the base configuration for products.
 
 **Description:**        * An administrator can improve *Accuracy* and *Quality of Data* by restricting the properties of *Attributes, Tags, and Classes* entered.
 
