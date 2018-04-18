@@ -5,12 +5,14 @@ Manage View Templates lets you set up view templates that are customized to diff
 
 
 ===================     =============================================================================================================================================================
+
+**Key Term**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 **Description:**        * Easily customize the templates and hide certain portions as necessary.
                         * Create templates as per user's requirements.
                         * Show the custom template to the authorized users.
                         * Hide certain modules within the product. Even portions of property collections can be hidden from certain users.
 
-**Related topics:**      * *Manage Permissions*
+**Related topics:**     * :doc:`Manage Permissions </feature/product_feature/mdm/administration/inheritanceanddatatransfer/linkingobjects>`
 
 **Application:**        * Limit the access of a user to certain information.
                         * Hide sensitive information.

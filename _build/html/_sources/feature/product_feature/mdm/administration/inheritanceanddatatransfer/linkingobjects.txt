@@ -5,11 +5,13 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
 
 
 ====================    =============================================================================================================================================================
+*Key Term**             * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 **Description:**        * The feature allows the classification of objects to various sub-taxonomies for smooth navigation and easy searching of other linked objects.
                         * It can apply multiple taxonomies to a product to show the categories the product falls under.
 
-**Related topics:**     * *Inheritance via Taxonomy*
-                        * *Multi-taxonomy Assignment*
+**Related topics:**     * :doc:`Linking Objects </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
+
+                        * :doc:`Multi-taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
 
 **Application:**        * Link an object to a taxonomy for proper classification.
                         * Taxonomy branches serve as classification of the parts.
@@ -23,7 +25,7 @@ Classify with ease by linking objects, and here's how to do it.
 
 |
 
-#. Go to PIM and hover on the "+" icon.
+#. Go to PIM and hover on the **'+'** icon.
 
 .. image:: /feature/_images/mdmimages/linkingobjects_gotopim.PNG
 |
