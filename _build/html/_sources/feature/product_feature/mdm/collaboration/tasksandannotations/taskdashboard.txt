@@ -5,6 +5,9 @@ The Task Dashboard is where the created tasks can be viewed by the users. The ta
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Tabs:** *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+
 **Description:**        * This feature provides the capability to view and edit tasks per category.
                         * This feature can restrict access to tasks depending on the permission level given to a user.
 
