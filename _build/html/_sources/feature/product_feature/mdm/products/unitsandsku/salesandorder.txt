@@ -8,7 +8,7 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
 
 ===================     =============================================================================================================================================================
 
-**Key Term**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
                           (Example: *a single can of Red Bull)*
