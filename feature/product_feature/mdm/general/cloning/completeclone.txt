@@ -12,7 +12,7 @@ In a complete clone, all the values of the original product are cloned into the 
 **Description:**        * Create an identical twin of a product by completely cloning it.
                         * All attributes and tag values of the parent product are copied to the clone.
                         * A complete cloned product even has the relationship of the parent product.
-**Related topics:**     * :doc:`Creating a Partial Clone </feature/product_feature/mdm/general/cloning/completeclone>`
+**Related topics:**     * :doc:`Creating a Partial Clone </feature/product_feature/mdm/general/cloning/partialclone>`
 
 
 **Application:**        * Instantly create a duplicate or copy of a product.

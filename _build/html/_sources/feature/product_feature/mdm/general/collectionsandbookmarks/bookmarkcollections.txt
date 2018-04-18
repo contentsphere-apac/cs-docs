@@ -5,6 +5,8 @@ Public or Private Bookmarks and Collections feature lets you define whether book
 
 
 ====================    =============================================================================================================================================================
+
+**Key Term**            * **Bookmark:** *(feature)* A self-updating bookmark that saves the results of a search.
 **Description:**        * Public bookmarks are intended for all users of the system.
                         * Only the user who set a bookmark as private can access that bookmark.
                         * A locked icon indicates that a bookmark is a private one.
