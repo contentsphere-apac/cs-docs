@@ -5,6 +5,10 @@ The Compare Product Revision feature allows the selection and comparison of diff
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*.
+
+
 **Description:**        * This feature allows a user to compare versions of a product/article.
                         * This feature gives an overview of the similarities and differences of comparable versions and merge values from any previous version to the newer version.
                         * This feature creates a comparison table that shows columns for the product versions and rows for the attributes.  This table allows quick and easy

@@ -6,7 +6,7 @@ The Manage Virtual Catalogs feature creates multiple collections and bookmarks t
 
 ===================     =======================================================================================================================================================================
 
-**Key Term**            * **Class:** a class defines the base configuration for products.
+**Key Term:**            * **Class:** a class defines the base configuration for products.
 
 **Description:**        * A *Virtual Catalog* is a collection of various items put together by a user (usually a retailer) to be used at a specific time or for a certain occasion.
                         * The catalogs vary according to users and access to these catalogs can be restricted in terms of who can view and edit them.

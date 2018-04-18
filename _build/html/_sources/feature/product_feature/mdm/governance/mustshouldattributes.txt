@@ -6,10 +6,14 @@ which means that a user will be required to provide data for that specific field
 
 
 ===================     ===============================================================================================================================================================
+
+
+**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*
+
 **Description:**        * This feature provides the functionality to set and classify fields to be either *Mandatory* or *Optional*.
                         * This feature allows the system to show a warning message if a mandatory field is left blank. The system still saves any changes done on the page.
 
-**Related topics:**     * *Data Quality Rule*
+**Related topics:**     * :doc:`Data Quality Rule </feature/product_feature/mdm/governance/dataqualityrule>`
 
 **Application:**        * The feature prompts the types of field present on the page to prevent errors and minimize workload.
                         * The feature shows that a field is mandatory and will prevent validation errors upon submission.

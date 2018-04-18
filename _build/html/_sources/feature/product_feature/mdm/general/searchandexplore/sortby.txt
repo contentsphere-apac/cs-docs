@@ -5,6 +5,7 @@ The Sort By feature allows a user to view products and assets in the system acco
 
 
 ===================     =============================================================================================================================================================
+**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*.
 **Description:**        * The Sort By feature allows the use of filters to sort products in ascending or descending order.
 
 **Related topics:**     * :doc:`Group By </feature/product_feature/mdm/general/searchandexplore/groupby>`

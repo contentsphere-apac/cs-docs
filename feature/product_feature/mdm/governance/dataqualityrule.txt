@@ -5,6 +5,8 @@ The Data Quality Rule feature provides the functionality to create and set rules
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**           * **Administrator:** *(user type, customer role)* A technical specialist who configures a software system.
 **Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
                         * This feature allows data quality rules to be customized.
                         * This feature has two main types of rule: *Rule Violation and Normalization*.

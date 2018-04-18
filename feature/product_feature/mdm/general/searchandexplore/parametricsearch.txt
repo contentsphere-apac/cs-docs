@@ -6,6 +6,8 @@ so that the users can narrow down items using the specified criteria.
 
 
 ===================     =============================================================================================================================================================
+**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*.
+
 **Description:**        * This feature allows searching for products or assets using various/detailed criteria that can narrow down items using the fine criteria.
                         * The search is expressed in terms of values of the *Tags*, *Attributes*, and *Roles* in the products/articles.
                         * A user can put the conditions for the filter values.

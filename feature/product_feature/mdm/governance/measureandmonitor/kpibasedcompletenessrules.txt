@@ -5,8 +5,8 @@ The KPI-based Completeness Rules is a data governance feature that sets up rules
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Key Performance Indicator (KPI):** is a measurement used to determine the quality of product data added into the system in relation to a set standard.
 
+**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 **Description:**        * KPIs demonstrate the accuracy of the products on the basis of an article's attributes, taxonomy, and tags.
                         * KPIs check the following data accuracy measures: *Accuracy, Completeness, Conformity and Uniqueness*.
                         * KPIs can be drilled down on the basis of *Taxonomy* and *Tags*.

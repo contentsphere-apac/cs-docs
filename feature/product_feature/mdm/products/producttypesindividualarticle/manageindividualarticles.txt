@@ -6,7 +6,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
 
 ===================  =================================================================================================================================================================
 
-**Key Term**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**     * A Single Article is the basic unit in Contentsphere for a product without variants.
                      * Contentsphere allows you to create, edit and delete individual products.

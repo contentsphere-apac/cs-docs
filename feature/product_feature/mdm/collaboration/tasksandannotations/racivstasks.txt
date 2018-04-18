@@ -6,7 +6,7 @@ The RACI-VS Tasks is a feature that allows users to create a task and assign rol
 
 ===================     ===============================================================================================================================================================
 
-**Key Term**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * This feature allows users to create tasks and assign the checking of the task to users using different roles.
                         * The role assigned to a user can be one of the following: *Responsible, Accountable, Consulted, Informed, Verifier, and Sign off*.

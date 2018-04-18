@@ -6,7 +6,7 @@ The Public/Private Tasks feature allows a user to set a task to either *Public (
 
 ===================     ===============================================================================================================================================================
 
-**Key Term**            * **Product Information Management (PIM)** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM)** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 **Description:**        * Tasks are action events created within an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
                           This feature allows a user to set a task to either *Public or Private*:
 
