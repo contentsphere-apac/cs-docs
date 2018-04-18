@@ -5,11 +5,13 @@ Embedded Variants within Context is a feature that allows users to create a vari
 
 
 ===================  =============================================================================================================================================================
+
+**Key Term**            * **linked variant** *(product type)* A variant which belongs to a Product.
+
 **Description:**     * Embedded Variants enable the user to create variants for a product in terms of a context.
                      * A product can have several variants, and these variants can be distinguished based on a context.
 
-**Related topics:**  * *Product creation*
-                     * *Embedded variant configuration*
+**Related topics:**  * :doc:`Target and Channel Contextualization </feature/product_feature/mdm/general/contextualization/targetandchannel>`
 
 **Application:**     * A product can have a number of variants with the master product representing the group of products.
                      * *Example:*

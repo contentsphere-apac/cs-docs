@@ -6,8 +6,10 @@ The Group By feature allows a user to view a group of objects in the system by s
 
 ===================     =============================================================================================================================================================
 **Description:**        * The feature provides a user the functionality to view a grouping of products with the desired sequence of attributes and tags (filterable).
+                        * *Group By* allows the user to make groups according to *Tags* and *Attributes*.
 
-**Related topics:**      * *Group By*  to make groups according to *Tags* and *Attributes*.
+**Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
+                        * :doc:`Multi-faceted Search </feature/product_feature/mdm/general/searchandexplore/facetedsearch>`
 
 **Application:**        * The feature provides a user the functionality to view a grouping of products with the desired sequence of attributes and tags (filterable).
                         * The feature allows a user to specify the sequence of grouping attributes.

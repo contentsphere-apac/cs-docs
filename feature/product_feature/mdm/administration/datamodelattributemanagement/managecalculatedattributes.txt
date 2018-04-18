@@ -1,15 +1,12 @@
 =============================
 Manage Calculated Attributes
-<<<<<<< HEAD
 =============================
-=======
-============================
->>>>>>> 59c24adf10841ed3c8376fed55d23f7d16f6dbd5
+
 The Manage Calculated Attributes is a feature that allows attributes to be calculated by using a formula that takes values from other attributes.
 
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Administrator**: A technical specialist who configures a software system.
+**Key Term:**           * **Administrator**: A technical specialist who configures a software system.
 **Description:**        * This feature allows attributes to be calculated. A calculated attribute is a read-only field whose value is based on a specified formula that takes values
                           from other defined attributes.
 

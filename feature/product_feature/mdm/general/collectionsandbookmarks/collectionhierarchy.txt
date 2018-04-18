@@ -5,7 +5,7 @@ Collection Hierarchy lets you organize and view your collections within a struct
 
 
 ====================    =============================================================================================================================================================
-**Key Term**            * **Bookmark:** *(feature)* A self-updating bookmark that saves the results of a search.
+**Key Term:**           * **Bookmark:** *(feature)* A self-updating bookmark that saves the results of a search.
 **Description:**        * Collection Hierarchy creates levels in the hierarchy for the products.
                         * Products can be copied or moved between these levels.
 

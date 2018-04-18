@@ -6,6 +6,7 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 
 ===================     ===============================================================================================================================================================
 **Key Term**            * **Attribute**: A data field which describes a product.
+
 **Description:**        * This feature is used to concatenate two or more attributes to form one new attribute.
                         * *Example:*
 
