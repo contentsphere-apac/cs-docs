@@ -1,11 +1,11 @@
-================================================
+=================================================
 Manage Different Types of Measurement Attributes
-================================================
-
+=================================================
 The table below shows the different types of measurement attributes that can be managed in the system:
 
-Attributes: Measurement Type
-============================
+
+Attributes: Measurement Typess
+==============================
 
 .. list-table::
    :widths: 25 50
@@ -14,283 +14,219 @@ Attributes: Measurement Type
    * - Measurement Type:
      - Default Unit(s):
    * - Length
-     - * km
-       * m
-       * dm
-       * cm
-       * mm
-       * um
-       * nm
-       * mi
-       * yd
-       * ft
-       * in
-       * nmi
+     - * Kilometer (km)
+       * Meter (m)
+       * Decimeter (dm)
+       * Centimeter (cm)
+       * Millimeter (mm)
+       * Micrometer (um)
+       * Nanometer (nm)
+       * Mile (mi)
+       * Yard (yd)
+       * Feet (ft)
+       * Inch (in)
+       * Nautical mile (nmi)
    * - Current
-     - * A
-       * mA
+     - * Ampere (A)
+       * Milliampere (mA)
    * - Potential
-     - * V
-       * mV
+     - * Volt (V)
+       * Millivolt (mV)
    * - Frequency
-     - * Hz
-       * kHz
-       * MHz
+     - * Hertz (Hz)
+       * Kilohertz (kHz)
+       * Megahertz (MHz)
+       * Gigahertz (GHz)
    * - Time
-     - * ns
-       * us
-       * ms
-       * sec
-       * min
-       * hr
-       * days
-       * weeks
-       * years
-       * decades
-       * centuries
+     - * Nanosecond (ns)
+       * Microsecond (us)
+       * Millisecond (ms)
+       * Second (sec)
+       * Minute (min)
+       * Hour (hr)
+       * Day (days)
+       * Week (weeks)
+       * Year (years)
+       * Decade (decades)
+       * Century (centuries)
    * - Temperature
-     - * tempC
-       * tempF
-       * tempK
-   * - Area
-     - * km2
-       * m2
-       * mi2
-       * yd2
-       * sqft
-       * in2
-       * hectare
-       * acre
-       * cm2
-   * - Currency
-     - * AUD
-       * BGN
-       * BRL
-       * CAD
-       * CHF
-       * CNY
-       * CZK
-       * DKK
-       * GBP
-       * HKD
-       * HRK
-       * HUF
-       * IDR
-       * ILS
-       * INR
-       * JPY
-       * KRW
-       * MXN
-       * MYR
-       * NOK
-       * NZD
-       * PHP
-       * PLN
-       * RON
-       * RUB
-       * SEK
-       * SGD
-       * THB
-       * TRY
-       * ZAR
-       * EUR
-       * USD
-   * - Digital Storage
-     - * b
-       * kb
-       * Kib
-       * Mb
-       * Mib
-       * Gb
-       * Gib
-       * Tb
-       * Tib
-       * Pb
-       * Pib
-       * B
-       * kB
-       * KiB
-       * MB
-       * MiB
-       * GB
-       * GiB
-       * TB
-       * TiB
-       * PB
-       * PiB
-   * - Mass
-     - * tonne
-       * kg
-       * g
-       * mg
-       * ug
-       * ton
-       * stone
-       * lbs
-       * oz
-   * - Energy
-     - * J
-       * kJ
-       * Cal
-       * Wh
-       * kWh
-       * BTU
-       * therm
-   * - Plane Angle
-     - * deg
-       * gon
-       * mrad
-       * rad
-   * - Pressure
-     - * Pa
-       * atm
-       * bar
-       * psi
-       * torr
-       * kPa
+     - * Celsius (°C)
+       * Fahrenheit (°F)
+       * Kelvin (K)
    * - Volume
-     - * gal
-       * qt
-       * pt
-       * cu
-       * floz
-       * tbsp
-       * tsp
-       * m3
-       * L
-       * ml
-       * ft3
-       * in3
-       * cm3
+     - * Gallon (gal)
+       * Quart (qt)
+       * Pint (pt)
+       * Cup (cu)
+       * Ounce (floz)
+       * Tablespoon (tbsp)
+       * Teaspoon (tsp)
+       * Cubic meter (m3)
+       * Liter (L)
+       * Milliliter (mL)
+       * Cubic foot (ft3)
+       * Cubic inch (in3)
+       * Cubic centimeter (cm3)
+   * - Area
+     - * Sq. Kilometer (km2)
+       * Sq. Meter (m2)
+       * Sq. Mile (mi2)
+       * Sq. Yard (yd2)
+       * Sq. Foot (sqft)
+       * Sq. Inch (in2)
+       * Hectare (hectare)
+       * Acre (acre)
+       * Sq. Centimeter (cm2)
+   * - Mass
+     - * Tonne (tonne)
+       * Kilogram (kg)
+       * Gram (g)
+       * Milligram (mg)
+       * Microgram (ug)
+       * US ton (ton)
+       * Stone (stone)
+       * Pounds (lbs)
+       * Ounce (oz)
+   * - Digital Storage
+     - * Bit (b)
+       * Kilobit (kb)
+       * Kibibit (Kib)
+       * Megabit (Mb)
+       * Mebibit (Mib)
+       * Gigabit (Gb)
+       * Gibibit (Gib)
+       * Terabit (Tb)
+       * Tebibit (Tib)
+       * Petabit (Pb)
+       * Pebibit (Pib)
+       * Byte (B)
+       * Kilobyte (kB)
+       * Kibibyte (KiB)
+       * Megabyte (MB)
+       * Mebibyte (MiB)
+       * Gigabyte (GB)
+       * Gibibyte (GiB)
+       * Terabyte (TB)
+       * Tebibyte (TiB)
+       * Petabyte (PB)
+       * Pebibyte (PiB)
+   * - Energy
+     - * Joule (J)
+       * Kilojoule (kJ)
+       * Calorie (cal)
+       * Watt-hour (Wh)
+       * Kilowatt-hour (kWh)
+       * British Thermal Unit (BTU)
+       * US therm (therm)
+   * - Plane Angle
+     - * Degree (deg)
+       * Gradian (gon)
+       * Milliradian (mrad)
+       * Radian (rad)
+   * - Pressure
+     - * Atmosphere (atm)
+       * Bar (bar)
+       * Pascal (Pa)
+       * Pound-force per square inch (psi)
+       * Torr (torr)
+       * Kilopascal (kPa)
    * - Speed
-     - * mph
-       * fps
-       * kph
-       * m/s
-       * knot
+     - * Miles per hour (mph)
+       * Foot per second (fps)
+       * Meter per second (mps)
+       * Kilometer per hour (kph)
+       * Knot (kt)
    * - Power
-     - * W
-       * hp
-       * kW
+     - * Watt (W)
+       * Horsepower (hp)
+       * Kilowatt (kW)
    * - Luminosity
-     - * cd
-       * mcd
-       * lm
+     - * Candela (cd)
+       * Millicandela (mcd)
+       * Lumen (lm)
    * - Radiation
-     - * Gy
-       * R
-       * Sv
+     - * Gray (Gy)
+       * Roentgen (R)
+       * Sievert (Sv)
    * - Illuminance
-     - * lux
+     - * Lux (lux)
    * - Force
-     - * N
-       * dyn
-       * lbf
+     - * Newton (N)
+       * Dyne (dyn)
+       * Pound-force (lbf)
    * - Acceleration
-     - * gee
+     - * Gee (gee)
    * - Capacitance
-     - * F
+     - * Farad (farad)
    * - Viscosity
-     - * P
-       * St
+     - * Poise (P)
    * - Inductance
-     - * H
+     - * Henry (H)
    * - Resistance
-     - * ohm
+     - * Ohm (Ω)
    * - Magnetism
-     - * T
-       * G
+     - * Tesla (T)
+       * Gauss (G)
    * - Charge
-     - * C
-       * Ah
+     - * Coulomb (C)
+       * Ah (Ah)
    * - Conductance
-     - * S
+     - * Siemens (S)
    * - Substance
-     - * mol
+     - * Mole (mol)
    * - Weight per Area
-     - * kg/m2
-       * gm/m2
-       * lb/yd2
-       * lb/ft2
-       * lb/in2
-       * oz/in2
-       * oz/ft2
-       * tn/mi2
-       * tn/ac1
-       * t/km2
+     - * Kilogram per square meter (Kg/m2)
+       * Gram per square meter (g/m2)
+       * Pound per square yard (lb/yd2)
+       * Pound per square foot (lb/ft2)
+       * Pound per square inch (lb/in2)
+       * Ounce per square inch (oz/in2)
+       * Ounce per square foot (oz/ft2)
+       * ton (short US) per square mile (t(US)/mi2)
+       * ton (short US) per acre (t(US)/ac)
+       * tonnes (metric ton) per square kilometer (t/km2)
    * - Proportion
-     - * %
-       * x/y
+     - * Proportion (%)
+       * Proportion (x/y)
    * - Thermal Insulation
-     - * m2K/W
-       * hr-ft2-F/BTU
+     - * Metric R Value = Kelvin square meters per watt (K-m2/W)
+       * Imperial R Value = Fahrenheit square feet hours per British Thermal Unit (F-ft2-hr/BTU)
+   * - Custom
+     - * Custom
    * - Heating Rate
-     - * °C/sec
-       * °C/min
-       * °C/hr
+     - * Celsius per second (°C/sec)
+       * Celsius per minute (°C/min)
+       * Celsius per hour (°C/hr)
    * - Density
-     - * kg/m3
-       * kg/cm3
-       * g/m3
-       * g/cm3
+     - * Kilogram per cubic meter (kg/m3)
+       * Kilogram per cubic centimeter (kg/cm3)
+       * Gram per cubic meter (g/m3)
+       * Gram per cubic centimeter (g/cm3)
    * - Weight Per Time
-     - * gm/sec
-       * gm/min
-       * gm/hr
-       * gm/day
-       * kg/sec
-       * kg/min
-       * kg/hour
-       * kg/day
+     - * Gram per second (gm/sec)
+       * Gram per minute (gm/min)
+       * Gram per hour (gm/hr)
+       * Gram per day (gm/day)
+       * Kilogram per second (kg/sec)
+       * Kilogram per minute (kg/min)
+       * Kilogram per hour (kg/hour)
+       * Kilogram per day (kg/day)
    * - Volume Flow Rate
-     - * m3/sec
-       * m3/min
-       * m3/hr
-       * L/sec
-       * L/min
-       * L/hr
+     - * Cubic meter per second (m3/sec)
+       * Cubic meter per minute (m3/min)
+       * Cubic meter per hour (m3/hr)
+       * Liter per second (L/sec)
+       * Liter per minute (L/min)
+       * Liter per hour (L/hr)
    * - Area Per Volume
-     - * cm2/mL
-       * cm2/L
-       * m2/mL
-       * m2/L
+     - * Square centimeter per milliliter (cm2/mL)
+       * Square centimeter per liter (cm2/L)
+       * Square meter per milliliter (m2/mL)
+       * Square meter per liter (m2/L)
    * - Rotation Frequency
-     - * rev/sec
-       * rev/min
-       * rev/hr
-   * - Price
-     - * AUD
-       * BGN
-       * BRL
-       * CAD
-       * CHF
-       * CNY
-       * CZK
-       * DKK
-       * GBP
-       * HKD
-       * HRK
-       * HUF
-       * IDR
-       * ILS
-       * INR
-       * JPY
-       * KRW
-       * MXN
-       * MYR
-       * NOK
-       * NZD
-       * PHP
-       * PLN
-       * RON
-       * RUB
-       * SEK
-       * SGD
-       * THB
-       * TRY
-       * ZAR
-       * EUR
-       * USD
+     - * Revolutions per second (rev/sec)
+       * Revolutions per minute (rev/min)
+       * Revolutions per hour (rev/hr)
 
 |
 
@@ -301,11 +237,12 @@ Measurement Type: Volume
 This feature example allows an administrator to set an attribute as *Volume*.
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Attribute:** A data field which describes a product, can also use *'property'*.
 **Description:**        * This feature allows the setting of an attribute type as *Volume*.
-                        * This feature makes an attribute type as *Volume* and applies the appropriate default units to be associated with the volume.
+                        * This feature makes an attribute type as *Volume* and applies the appropriate default unit for volume (e.g. *Gallon, Cubic meter, Liter*).
 
-**Related topics:**      * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage Concatenated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/manageconcatenatedattributes>`
+                        * :doc:`Manage Calculated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managecalculatedattributes>`
 
 **Application:**        * Volume measurement type can set the volume of a liquid product (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
@@ -317,50 +254,70 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 
 How to do: Measurement Type: Volume
-===================================
-To do this, follow these steps:
+------------------------------------
+To set an attribute as a volume, follow these steps:
 
 |
 
 #. Go to *Settings*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_gotoconfigsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_gotosettings.PNG
 |
 |
 
-#. Go to the *Attribute Configuration* section.
+#. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clickonattributeconfigurationsection.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_gotodatamodeltab.PNG
 |
 |
 
-#. Click the **''+' icon** to create an attribute.
+#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_clickmeasurement.PNG
 |
 |
 
-#. Select *Volume* under the type field.
+#. Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_selectvolumeunderthemeasurementtype.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_clicktheicontocreateanattribute.PNG
 |
 |
 
-#. Select the appropriate unit for the volume attribute (e.g. *Pint, Quart, Cup, and more*).
+#. Enter the name of the volume attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_selecttheappropriateunit.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_enterthename.PNG
 |
 |
 
-#. Set the *Precision* and the *Default Value*.
+#. Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_setprecisionanddefaultvalue.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_checkthatheattributehasbeenadded.PNG
+|
+|
+
+#. Under the measurement type, search and select *Volume* in the drop-down menu.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_searchandselectvolume.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_searchandselectvolume2.PNG
+|
+|
+
+#. Select the appropriate unit for the volume attribute in the *Default Unit* column (e.g. *Gallon, Cubic meter, Liter*).
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_selecttheappropriateunit.PNG
+|
+|
+
+#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_completetheotherattributefields.PNG
 |
 |
 
 #. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_clickonthesavebutton.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementvolume_clickonthesavebutton.PNG
 |
 |
 
@@ -369,18 +326,19 @@ To do this, follow these steps:
 
 
 
-Measurement Type: Weight
-=========================
-This feature example allows an administrator to set an attribute as *Weight*.
+Measurement Type: Weight (Mass)
+===============================
+This feature example allows an administrator to set an attribute as *Weight (Mass)*.
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Property:**A data field which describes a product, can also use *'attribute'*.
-**Description:**        * This feature allows the setting of an attribute type as *Weight*.
-                        * This feature makes an attribute type as *Weight* and applies the appropriate default units to be associated with the weight (e.g. *Grams, Kg, etc.*).
+**Description:**        * This feature allows the setting of an attribute type as *Weight (Mass)*.
+                        * This feature makes an attribute type as *Weight (Mass)* and applies the appropriate default unit for weight/mass (e.g. *Tonne, Kilogram, Gram*).
 
-**Related topics:**     * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage Concatenated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/manageconcatenatedattributes>`
+                        * :doc:`Manage Calculated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managecalculatedattributes>`
 
-**Application:**        * Weight measurement type can set how heavy a product is or the weight of a product (e.g. *Beverages*) and also set its corresponding unit.
+**Application:**        * Weight (Mass) measurement type can set how heavy a product is or the weight of a product (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
 
                             An administrator can set an attribute of a Red Bull product to weight so that a user can easily enter how heavy that product is and then, select
@@ -389,56 +347,76 @@ This feature example allows an administrator to set an attribute as *Weight*.
 ===================     ===============================================================================================================================================================
 
 
-How to do: Measurement Type: Weight
-===================================
-To set an attribute as a weight, follow these steps:
+How to do: Measurement Type: Weight (Mass)
+-------------------------------------------
+To set an attribute as a weight/mass, follow these steps:
 
 |
 
 #. Go to *Settings*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_gotoconfigsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_gotosettings.PNG
 |
 |
 
-#. Go to the *Attribute Configuration* section.
+#. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clickonattributeconfigurationsection.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_gotodatamodeltab.PNG
 |
 |
 
-#. Click the **'+' icon** to create an attribute.
+#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_clickmeasurement.PNG
 |
 |
 
-#. Select *Mass* under the type field.
+#. Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsweight_selectmassunderthemeasurementtype.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_clicktheicontocreateanattribute.PNG
 |
 |
 
-#. Select the appropriate unit for mass (e.g. *Gram, Kilogram, Tonne, and more*).
+#. Enter the name of the weight (mass) attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsweight_selecttheappropriateunitformass.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_enterthename.PNG
 |
 |
 
-#. Set the *Precision* and the *Default Value*.
+#. Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsweight_setprecisionanddefaultvalue.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_checkthatheattributehasbeenadded.PNG
+|
+|
+
+#. Under the measurement type, search and select *Mass* in the drop-down menu.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_searchandselectweight.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_searchandselectweight2.PNG
+|
+|
+
+#. Select the appropriate unit for the weight (mass) attribute in the *Default Unit* column (e.g. *Tonne, Kilogram, Gram*).
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_selecttheappropriateunit.PNG
+|
+|
+
+#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_completetheotherattributefields.PNG
 |
 |
 
 #. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsweight_clickonthesavebutton.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementweight_clickonthesavebutton.PNG
 |
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-  :alt: Contentsphere line
+   :alt: Contentsphere line
 
 
 
@@ -447,12 +425,13 @@ Measurement Type: Temperature
 This feature example allows an administrator to set an attribute as *Temperature*.
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Attribute:** A data field which describes a product, can also use *'property'*.
 **Description:**        * This feature allows the setting of an attribute type as *Temperature*.
-                        * This feature makes an attribute type as *Temperature* and applies the appropriate default units to be associated with the temperature
-                          (e.g. *Celsius, Fahrenheit, etc*).
+                        * This feature makes an attribute type as *Temperature* and applies the appropriate default unit for temperature
+                          (e.g. *Celsius, Fahrenheit, Kelvin*).
 
-**Related topics:**     * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage Concatenated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/manageconcatenatedattributes>`
+                        * :doc:`Manage Calculated Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managecalculatedattributes>`
 
 **Application:**        * Temperature attribute type can set how hot or cold a product is (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
@@ -464,53 +443,72 @@ This feature example allows an administrator to set an attribute as *Temperature
 
 
 How to do: Measurement Type: Temperature
-=========================================
+-----------------------------------------
 To set an attribute as a temperature, follow these steps:
 
 |
 
 #. Go to *Settings*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_gotoconfigsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_gotosettings.PNG
 |
 |
 
-#. Go to the *Attribute Configuration* section.
+#. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/managedifferenttypesofattributes_clickonattributeconfigurationsection.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_gotodatamodeltab.PNG
 |
 |
 
-#. Click the **''+' icon** to create an attribute.
+#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/managemeasurementsvolume_clicktheicontocreateanattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_clickmeasurement.PNG
 |
 |
 
-#. Select *Temperature* under the type field.
+#. Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/managemeasurementstemperature_selecttemperature.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_clicktheicontocreateanattribute.PNG
 |
 |
 
-#. Select the appropriate unit for temperature (e.g. *Celsius, Fahrenheit, Kelvin*).
+#. Enter the name of the temperature attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/managemeasurementstemperature_selectappropriateunit.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_enterthename.PNG
 |
 |
 
-#. Set the *Precision* and the *Default Value*.
+#. Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/managemeasurementstemperature_setprecisionanddefaultvalue.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_checkthatheattributehasbeenadded.PNG
+|
+|
+
+#. Under the measurement type, search and select *Temperature* in the drop-down menu.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_searchandselecttemperature.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_searchandselecttemperature2.PNG
+|
+|
+
+#. Select the appropriate unit for the temperature attribute in the *Default Unit* column (e.g. *Celsius, Fahrenheit, Kelvin*).
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_selecttheappropriateunit.PNG
+|
+|
+
+#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
+
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_completetheotherattributefields.PNG
 |
 |
 
 #. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/managemeasurementstemperature_clickonthesavebutton.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_managemeasurementtemperature_clickonthesavebutton.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
