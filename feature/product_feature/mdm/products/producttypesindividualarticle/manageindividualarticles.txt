@@ -9,7 +9,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
 **Description:**     * A Single Article is the basic unit in Contentsphere for a product without variants.
                      * Contentsphere allows you to create, edit and delete individual products.
 
-**Related topics:**  * *Manage Units for individual articles*
+**Related topics:**  * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
 
 **Application:**     * Create a Single Article in the system to represent a single item.
                      * *Example:*

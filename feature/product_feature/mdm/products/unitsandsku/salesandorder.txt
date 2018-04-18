@@ -15,7 +15,7 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
                           (Example: *a box or 30 beer bottles, a large box of vegetables)*
                         * Some products can be classified as sales unit and order unit.
 
-**Related topics:**     * *Manage Individual Articles*
+**Related topics:**     * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
 
 **Application:**        * Use these tags to distinguish whether an article is a sales unit or an order unit.
                         * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.

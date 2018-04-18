@@ -8,7 +8,7 @@ The Manage Displays feature allows the user to sell multiple quantity products.
 
 **Description:**     * The Manage Displays feature allows you to create a Bundle of products grouped for the purpose of displays in store.
 
-**Related topics:**  * *Manage Media Links*
+**Related topics:**  * *Manage Media Links* :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
 
 **Application:**     * This feature brings single articles together in multiple quantities and sells them.
                      * This type of bundle can be used during stock clearance, where the retailer can add a single item in multiple quantities and can sell them at an offered price.

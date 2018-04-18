@@ -9,7 +9,7 @@ Manage Units for Individual Articles allows you to efficiently handle various qu
                           Therefore, handling the products in various units of measure is necessary for both retailers and wholesalers.
                         * Being able to track the units in a tabular form allows for a more efficient handling operation.
 
-**Related topics:**     * *Manage Sales and Order Units*
+**Related topics:**     * :doc:`Manage Sales and Order Units </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
 
 **Application:**        * Enable the system to handle not only multiple units but also similar units with different meanings.
                         * *Example:*

@@ -9,7 +9,7 @@ Manage Prepacks is a feature that allows a user to group together different prod
 **Description:**        * It is a collection of single articles (*similar or dissimilar*), tied or wrapped up together as one.
                         * This feature creates *Threshold Bundle*, which is also known as *Loose bundle*.
 
-**Related topics:**     *  :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
+**Related topics:**     * :doc:`Manage Displays </feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
 
 **Application:**        * A *Loose bundle* or *Combination of Products* may help retailers to increase the sales of products.
                         * This type of bundle can be used during stock clearance, where the retailer can add a single item in multiple quantities or can sell the bundle at a discounted price.
