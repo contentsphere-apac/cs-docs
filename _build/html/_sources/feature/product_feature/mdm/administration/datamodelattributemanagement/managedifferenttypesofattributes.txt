@@ -1,15 +1,16 @@
 ====================================
 Manage Different Types of Attributes
 ====================================
+
 The Manage Different Types of Attributes is a feature that allows an administrator to manage and set up attributes in the system.
 
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Property**: A property is a field used to describe a product. It comes in several different types.
+**Key Term:**           * **Property**: A property is a field used to describe a product. It comes in several different types.
 **Description:**        * This feature can create and manage different types of attributes (properties) for various data. This will restrict
                           the attribute to the selected type only.
 
-**Related topics:**     * :doc:`Types of Measurement Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofmeasurementattributes>`
+**Related topics:**     * :doc:`Manage Different Types of Measurement Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofmeasurementattributes>`
 
 **Application:**        * The feature will allow an administrator to set up the attributes in the system that will help other users
                           put relevant information to the product data fields.

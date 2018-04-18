@@ -305,7 +305,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 **Description:**        * This feature allows the setting of an attribute type as *Volume*.
                         * This feature makes an attribute type as *Volume* and applies the appropriate default units to be associated with the volume.
 
-**Related topics:**      * :doc:`Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+**Related topics:**      * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
 **Application:**        * Volume measurement type can set the volume of a liquid product (e.g. *Beverages*) and also set its corresponding unit.
                         * *Example:*
