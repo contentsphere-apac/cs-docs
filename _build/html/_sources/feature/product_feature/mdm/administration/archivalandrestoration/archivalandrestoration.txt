@@ -1,0 +1,91 @@
+=========================
+Archival and Restoration
+=========================
+The Archival and Restoration is a feature that enables restoration of archived products so as to make them available when needed.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Archival**: archival is the process of removing a product from the PIM and moving it into a separate storage area (archive).
+                          This process will not delete the product.
+                        * **Restoration**: restoration is the action of returning products from the archive to its previous location in the PIM.
+
+**Description:**        * The Archival and Restoration feature is concerned with managing the archived products.
+                        * This feature allows the user to restore and reuse the products that have been archived.
+
+**Related topics:**     * :doc:`Rollback </feature/product_feature/mdm/general/rollback/rollback>`
+                        * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
+                        * :doc:`Manage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+
+**Application:**        * The products that have reached their end of life can be removed from the PIM while still keeping them on record.
+                        * Archived products can be retrieved whenever needed.
+                        * *Example:*
+
+                            An electronics retailer wants to remove an old iPhone version from their PIM and replace it with the latest model.
+                            The retailer archives the older version so that it is no longer available in the PIM.
+                            The older version of the product can be restored when the needed arises.
+
+===================     =======================================================================================================================================================================
+
+
+How to do: Perform Archival and Restoration Operation
+======================================================
+To archive and restore products, follow these steps:
+
+|
+
+#. Log in and click on **PIM**.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_login.PNG
+|
+|
+
+#. Select the products you want to archive.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsdelete.PNG
+|
+|
+
+#. Click on the **Delete** icon.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_delete.PNG
+|
+|
+
+#. Click on the **OK** button.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_clickok.PNG
+|
+|
+
+#. Click on the drop-down button at the top left section of the screen.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_dropdown.PNG
+|
+|
+
+#. Select the **PIM Archival** option from the drop-down list to show the archived products.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_pimarchival.PNG
+|
+|
+
+#. Select the products that you want to restore.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsrestore.PNG
+|
+|
+
+#. Click on the **Restore** icon to restore the selected products to their previous location.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_restore.PNG
+|
+|
+
+#. View the restored products.
+
+.. image:: /feature/_images/mdmimages/cs_archivalandrestoration_viewrestoredproducts.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
