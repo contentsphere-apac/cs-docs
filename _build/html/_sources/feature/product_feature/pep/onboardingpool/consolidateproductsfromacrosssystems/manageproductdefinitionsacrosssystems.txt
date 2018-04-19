@@ -1,21 +1,49 @@
 ==========================================
 Manage Product Definitions across Systems
 ==========================================
-The Manage Product Definitions across Systems feature is a feature that allows a Data Steward to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
+The Manage Product Definitions across Systems feature is a feature that allows a user to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of on-boarding.
-                        * The feature manages all the content of the product before transferring it to PIM and allows a Data Steward to make changes to the product content.
+**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
+                        * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
 
-**Related topics:**     * *On-boarding Features*
-                        * *Users and Permissions Features*
+**Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
 
-**Application:**        * Master Catalog allows a user to manage all of the product content.
+                        *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+
+**Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 
-                            A retailer, with 5 suppliers, creates a user, *Data Steward* who monitors the data quality of products that are on-boarded.
+                            A retailer, with 5 suppliers, creates a user, *Data Steward* who monitors the data quality of products that are onboarded.
                             The Data Steward allows the suppliers to import their products via *Data Integration* and once the data quality check is passed and completed,
                             the Data Steward will push the products to PIM. These products will now be visible in the Master Catalog.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do:  Define Products Across the Systems
+===========================================================
+To do this,  follow these steps:
+
+
+#. Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_gotodash.PNG
+|
+|
+
+#. Click **Catalog**.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickcatalog.PNG
+|
+|
+
+#. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
+|
+|
+
+Then, Data Steward can operate the system and manage the supplier's onboarding catalog products.
+Once the Products are  quality checked, data steward can transfers the products to the PIM.
