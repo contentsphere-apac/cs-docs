@@ -5,7 +5,8 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
 
 
 ====================    =============================================================================================================================================================
-*Key Term**             * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * The feature allows the classification of objects to various sub-taxonomies for smooth navigation and easy searching of other linked objects.
                         * It can apply multiple taxonomies to a product to show the categories the product falls under.
 

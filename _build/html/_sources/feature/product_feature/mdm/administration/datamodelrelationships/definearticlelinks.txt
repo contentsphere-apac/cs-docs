@@ -6,7 +6,7 @@ The linking between article-to-article or product-to-product is bi-directional.
 
 
 ====================      ===============================================================================================================================================================
-**Key Term**              * **Tabs**: *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+**Key Term:**             * **Tabs**: *(property group)* Tabs are used to categorize the properties shown on a product’s page.
 **Description:**          * This feature allows the linking of a product to other different products (e.g. *Related Products, others,* etc).
                             The related products will be visible in the product relationship side. The product is visible in the relationship tab of the related products, too.
 

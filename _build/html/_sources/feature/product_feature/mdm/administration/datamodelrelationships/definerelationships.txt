@@ -5,11 +5,11 @@ The Define Relationships feature provides the functionality to set up relationsh
 
 
 ====================      ===============================================================================================================================================================
-**Key Term**              * **Classes**: Classes define base configurations for products. Each class that is given to a product allows that product to have a more precise definition.
+**Key Term:**             * **Classes**: Classes define base configurations for products. Each class that is given to a product allows that product to have a more precise definition.
                             There are multiple levels of classes that can be used in conjunction
 
                             * *Example*
-                            
+
                                     Product, Single Article
 
 **Description:**          * This feature links two objects or entities in the system. An example of this linking is the relationship set for an *Article* to its target *Market*
