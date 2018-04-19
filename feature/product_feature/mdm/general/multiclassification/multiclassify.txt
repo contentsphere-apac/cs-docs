@@ -8,6 +8,7 @@ This enables better categorization of products as well as inheritance of relevan
 
 
 ====================    =================================================================================================================================================================================================================================================================
+
 **Key Terms:**          * **Nature Class:** A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include *Single Article, Product, Bundle,* or other custom-made product types.
                         * **Attribution Class:** A class that adds specific attributes to the product it is assigned to. For example, a *Mobile Phone* class may add attributes for *Screen Size, Memory Size, Operating System,* etc.
 
@@ -42,7 +43,7 @@ To do this, follow these steps:
 
 |
 
-#. Go to PIM and hover on the "+" icon.
+#. Go to PIM and hover on the **'+'** icon.
 
 .. image:: /feature/_images/mdmimages/multiclassify_gotopim.PNG
 |

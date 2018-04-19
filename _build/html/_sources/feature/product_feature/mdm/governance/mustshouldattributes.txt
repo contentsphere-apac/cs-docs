@@ -8,7 +8,7 @@ which means that a user will be required to provide data for that specific field
 ===================     ===============================================================================================================================================================
 
 
-**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*
+**Key Term:**            * **Endpoint:** *(concept)* Gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
 
 **Description:**        * This feature provides the functionality to set and classify fields to be either *Mandatory* or *Optional*.
                         * This feature allows the system to show a warning message if a mandatory field is left blank. The system still saves any changes done on the page.

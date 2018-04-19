@@ -6,7 +6,7 @@ The Full-text Search feature gives the user the ability to search for a product 
 
 ===================     ===================================================================================================================================================================================
 
-**administrator:**       * **Administrator** *(user type, customer role)* A technical specialist who configures a software system.
+**Key Term:**            * **Administrator** *(user type, customer role)* A technical specialist who configures a software system.
 
 **Description:**        * This feature is used to to search for products or assets in the system using a full-text search.
                           The search feature will return all objects that match the search criteria.

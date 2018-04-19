@@ -5,6 +5,9 @@ Manage Endpoints for a System is an admin feature that manages endpoints in a sy
 
 
 ====================    =======================================================================================================================================================================
+
+**Key Term:**            * **Endpoint:** *(concept)* Gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+
 **Description:**        * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
                           These gateways are used for the on-boarding or off-boarding of one or many products in and out of the system.
 

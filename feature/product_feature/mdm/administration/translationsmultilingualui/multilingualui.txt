@@ -6,7 +6,7 @@ Multilingual UI is a feature that provides translation capability for UI menu it
 
 ===================  ============================================================================================================================================================================
 
-**Key Terms:**			* **User Interface (UI):** The digital interface used to interact with the Contentserv software.
+**Key Term:**			* **User Interface (UI):** The digital interface used to interact with the Contentserv software.
 
 **Description:**        * The UI can be in various languages such as *French, German and Spanish*.
                         * The administrator can set up the data model (attributes, tags, classes) in various languages so that it can be understood by users in multiple countries or regions.

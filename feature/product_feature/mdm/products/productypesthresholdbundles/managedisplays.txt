@@ -6,7 +6,7 @@ The Manage Displays feature allows the user to sell multiple quantity products.
 
 ===================  =================================================================================================================================================================
 
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**            * **Loose bundle:** *(property type)* A group of products where the quantity of each product can be defined by the retailer.
 
 **Description:**     * The Manage Displays feature allows you to create a Bundle of products grouped for the purpose of displays in store.
 

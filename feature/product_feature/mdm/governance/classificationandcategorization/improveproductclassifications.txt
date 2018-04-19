@@ -5,7 +5,7 @@ Improve Product Classifications is a data governance feature that manually class
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Class: a class defines the base configuration for products.
+**Key Term:**            * **Class:** a class defines the base configuration for products.
 
 **Description:**        * This feature improves the definition of a product via classification. A user can set the *Rules* for the classes.
                         * Taxonomy is not only for the products but also for the users. Each user has his own **correct** taxonomy to precisely classify a product.
