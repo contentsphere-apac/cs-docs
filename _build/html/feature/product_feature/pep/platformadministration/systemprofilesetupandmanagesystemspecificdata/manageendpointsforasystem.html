@@ -137,36 +137,153 @@
             
   <div class="section" id="s-manage-endpoints-for-a-system">
 <span id="manage-endpoints-for-a-system"></span><h1>Manage Endpoints for a System<a class="headerlink" href="#manage-endpoints-for-a-system" title="Permalink to this headline">¶</a></h1>
-<p>Manage Endpoints for a System is an admin feature that manages endpoints in a system used for on-boarding or off-boarding of products.</p>
+<p>Manage Endpoints for a System is an admin feature that manages endpoints in the system that are used for onboarding or offboarding of products.</p>
 <table class="docutils">
 <colgroup>
 <col width="11%" />
 <col width="89%" />
 </colgroup>
 <tbody valign="top">
-<tr class="row-odd"><td><strong>Description:</strong></td>
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Endpoint:</strong> is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
 <li>This feature allows the managing of endpoints which are considered gateways of a <em>system, process, or mapping</em>.
-These gateways are used for the on-boarding or off-boarding of one or many products in and out of the system.</li>
+These gateways are used for the onboarding or offboarding of one or many products in and out of the system.</li>
 </ul>
 </td>
 </tr>
-<tr class="row-even"><td><strong>Related topics:</strong></td>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
 <td><ul class="first last simple">
-<li><em>Data Integration Process</em></li>
-<li><em>Data Integration Mapping</em></li>
+<li><a class="reference internal" href="../dataintegrationmanageoutboundendpoint/manageoutboundendpoint.html"><span class="doc">Manage Outbound Endpoint</span></a></li>
+<li><a class="reference internal" href="../dataintegrationmanageoutboundprocess/manageoutboundprocess.html"><span class="doc">Manage Outbound Process</span></a></li>
+<li><a class="reference internal" href="../dataintegrationexportproductsviassff/simpleflatfileexport.html"><span class="doc">Simple Flat File Export</span></a></li>
+<li><a class="reference internal" href="../dataintegrationimportproductsincfviaetl/custometlimport.html"><span class="doc">Custom ETL Import</span></a></li>
+<li><a class="reference internal" href="../dataintegrationexportproductsincfviaetl/custometlexport.html"><span class="doc">Custom ETL Export</span></a></li>
 </ul>
 </td>
 </tr>
-<tr class="row-odd"><td><strong>Application:</strong></td>
+<tr class="row-even"><td><strong>Application:</strong></td>
 <td><ul class="first last simple">
-<li>It helps a user to choose the gateway from the Data Integration window for importing or exporting files.</li>
-<li>It gives a numerical conclusion for the different aspects that the endpoint has been used for in the data integration window.</li>
+<li>It helps a user to choose the gateway from the <em>Data Integration</em> window for the importing or exporting of files.</li>
+<li>It gives a numerical conclusion/summary in the <em>Data Integration</em> window for the different aspects that the endpoint has been used for.</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="section" id="s-how-to-do-manage-endpoints-for-a-system">
+<span id="how-to-do-manage-endpoints-for-a-system"></span><h2>How to do: Manage Endpoints for a System<a class="headerlink" href="#how-to-do-manage-endpoints-for-a-system" title="Permalink to this headline">¶</a></h2>
+<p>To manage the endpoints, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Log in and go to <em>Administration</em>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_login.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>Data Integration</strong> tab and then go to <em>Endpoints</em>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickondataintegration.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickondataintegration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickondataintegration2.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickondataintegration2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>On the right, click on the “+” icon to create a new endpoint.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_ontherightclickontheicon.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_ontherightclickontheicon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Provide the required details.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><ol class="arabic simple">
+<li>If onboarding products, select the <em>Inbound Endpoint</em> for the <em>Type</em>. Click <strong>Create</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>If offboarding products, select the <em>Outbound Endpoint</em> for the <em>Type</em>. Click <strong>Create</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+<ol class="arabic simple">
+<li>Once the endpoint has been added, enable (or disable) the <em>Realtime Mapping</em>. This allows the mapping in runtime that can be tracked in the dashboard. Click the <strong>Save</strong> button.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <strong>System</strong> field and create a new system or use the <em>“Standard System”</em> from the selection.
+To create a new system, click on the <strong>Create ‘system name’</strong> button after typing the name of the new system to be added.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Next, follow this sequence: <em>Partner Administration tab &gt;&gt; Partners &gt;&gt; Standard Organization &gt;&gt; Systems</em>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Add the created system or select the <em>Standard System</em> as you click on the “+” icon to add systems.
+Then, enable the endpoint that was created.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_addthesystem.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_addthesystem.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_addthesystem2.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_addthesystem2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>View the endpoint in the <em>Dashboard</em>.</li>
+</ol>
+<img alt="../../../../../_images/cs_systemprofilesetupandmanageendpoints_viewtheendpoint.PNG" src="../../../../../_images/cs_systemprofilesetupandmanageendpoints_viewtheendpoint.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentsphere line" src="../../../../../_images/line-png-32.PNG" />
+</div>
 </div>
 
 
@@ -181,6 +298,14 @@ These gateways are used for the on-boarding or off-boarding of one or many produ
               
       <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
+  <h3><a href="../../../../../contents.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Manage Endpoints for a System</a><ul>
+<li><a class="reference internal" href="#how-to-do-manage-endpoints-for-a-system">How to do: Manage Endpoints for a System</a></li>
+</ul>
+</li>
+</ul>
+
   <h3>Browse</h3>
   <ul>
     
