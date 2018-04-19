@@ -239,7 +239,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 ===================     ===============================================================================================================================================================
 
 
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.**Description:**        * This feature allows the setting of an attribute type as *Volume*.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.**Description:**        * This feature allows the setting of an attribute type as *Volume*.
 
                         * This feature makes an attribute type as *Volume* and applies the appropriate default unit for volume (e.g. *Gallon, Cubic meter, Liter*).
 

@@ -11,8 +11,8 @@ Manage Endpoints for a System is an admin feature that manages endpoints in a sy
 **Description:**        * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
                           These gateways are used for the on-boarding or off-boarding of one or many products in and out of the system.
 
-**Related topics:**     * *Data Integration Process*
-                        * *Data Integration Mapping*
+**Related topics:**     * :doc:`Data Integration Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/index>`
+                        * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
 
 **Application:**        * It helps a user to choose the gateway from the Data Integration window for importing or exporting files.
                         * It gives a numerical conclusion for the different aspects that the endpoint has been used for in the data integration window.
