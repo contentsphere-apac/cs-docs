@@ -33,88 +33,81 @@ To do this, follow these steps:
 |
 |
 
-#. Click the *Data Governance* tab from the top.
+#. Click on the *Data Governance* tab from the tab at the top.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickgov.PNG
 |
 |
 
-#.  Click   **KPIs**.
+#.  Click   **KPIs** on the leftside in the Data *Governance* tab.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickkpi.PNG
 |
 |
 
-#. Click the **+** icon at the top right to create a new KPI.
+#. Click the '+' icon at the top right to create a new KPI.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickplus.PNG
 |
 |
 
-#.   Enter a name and code(optional). Then, click  **CREATE** to create the KPI.
+#.   Fill the name and code(optional) and click on 'Create' to create the KPI.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_enterdetails.PNG
 |
 |
 
-#.      Once the KPI is created, it will appear in the list of KPI, click  the **Edit** icon.
+#.      Once the KPI is created, it will appear in the list of KPI, click on the 'Edit' icon at the extreme right in the list of KPI.
 
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickedit.PNG
+
+.. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
 
-#.      On the *KPI Information* tab, click to select **Class**. then, **Taxonomy**.
+#.      Select the Class and Taxonomy for which KPI is designed.
 
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selclass.PNG
 |
 |
 
-#.      Click the *Completeness* tab. Then, click to select **attributes** and **Tags**.
+#.      Select the 'Completeness' tab on the top and add rule for completeness. Select the attributes and Tags that are to be said to be complete.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selcomp.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selcompb.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_compadrulb.PNG
-|
-|
-
-#.      Click **Apply**.  Click **SAVE** to save the changes.
-
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_compadrulc.PNG
-|
-|
-
-#.      Repeat the similars teps for *Conformity*, *Uniqueness* and  *Accuracy* tab. Click to select the attributes and tags.
+#.      Click on the 'Conformity' tab on the top and add a rule for conformity. Select the attributes/tags and select the operation and condition for conformity.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selconform.PNG
 |
 |
 
-#.      To assign the KPI to a role, click  *Partner Administration* tab and  select the Organization where the role is present ( in this  demo, we selected "Fashionista").
+#.     Follow similar steps for Accuracy and  Uniqueness. Click on the 'Save' button to save the KPI.
 
+.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selconform.PNG
+|
+|
+
+#.      To assign the KPI to a role: Select the Partner Admin tab and then select the Organization to which the role is present.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selpartad.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selfash.PNG
-|
-|
-
-#.       Click *Roles* tab and select a role ( in this demo, we selected " Garment Supplier"). Then, select a  KPI and click **APPLY**.
+#.       In the role assign the KPI which was created. ( If no KPI is selected the role will have permission to all the KPI present).
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_asskpi.PNG
 |
 |
 
+#.        Logout from the system then login with the user belonging to the role, to view the KPI for that role.
 
-#.        Logout from the system and  login with the user belonging to the role, to view the KPI for that role.
+.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_logout.PNG
+|
+|
+
+#.        Logout from the system then login with the user belonging to the role, to view the KPI for that role.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_logout.PNG
 |
