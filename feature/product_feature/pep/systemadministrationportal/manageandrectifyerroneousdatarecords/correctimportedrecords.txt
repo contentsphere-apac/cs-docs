@@ -5,6 +5,8 @@ Correct Imported Records is a feature that edits records with incorrect, non-con
 
 
 ===================     =======================================================================================================================================================================
+**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * *Red* violation is a major violation that requires rectifying of errors.
                         * *Orange* and *Yellow* violations are non-major violations but should also be rectified.
                         * *Note: Red violation for the product data means that the data cannot be transferred into the system.

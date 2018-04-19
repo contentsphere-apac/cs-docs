@@ -5,6 +5,8 @@ Manage System Profile is an admin feature that manages a *System (Organization P
 
 
 ===================     =======================================================================================================================================================================
+**Key Term:**            * **Administrator:** *(user type, customer role)* A technical specialist who configures a software system.
+
 **Description:**        * An administrator can create profiles for an organization that will contain the selected endpoints (both for on-board/off-board).
                         * A *System* is a profile created for an organization.
                         * These systems will be alloted to the organization that they have been set up for and can be customized for the organization's specific roles.

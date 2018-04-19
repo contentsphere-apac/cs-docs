@@ -7,6 +7,7 @@ The Manage Products in the Master Catalog is a feature that allows a Data Stewar
 ===================     =======================================================================================================================================================================
 
 **Key Term:             * **Data Steward:** *(user type, customer role)* A data steward is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
+
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of on-boarding.
                         * The feature also allows a Data Steward to manage all the content and data of a product before transferring it to PIM.
 
