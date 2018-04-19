@@ -5,7 +5,7 @@ The Export Attributes is a feature that allows exporting of attribute definition
 
 
 ===================     =======================================================================================================================================================================
-**Key Term**            * **Attribute**: A data field which describes a product, can also use *property*.
+**Key Term:**           * **Attribute**: A data field which describes a product, can also use *property*.
 **Description:**        * This feature allows a user to export all attributes in one click.
 
 **Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`

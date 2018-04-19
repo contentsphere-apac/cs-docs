@@ -6,7 +6,7 @@ This is an administration feature that restricts a user's access to *Class and T
 
 
 ===================     =======================================================================================================================================================================
-**Key Terms:**          * **Class:** A class defines the base configuration for products.
+**Key Term:**           * **Class:** A class defines the base configuration for products.
 
 **Description:**        * Restrict access to particular levels of class and taxonomy to a particular role.
                         * Role access can be configured within the organization as well as for partners.
