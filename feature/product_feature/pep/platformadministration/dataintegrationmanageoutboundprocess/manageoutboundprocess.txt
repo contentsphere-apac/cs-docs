@@ -6,7 +6,7 @@ Manage Outbound Process is an admin feature that manages *Outbound Processes* so
 
 ===================     =======================================================================================================================================================================
 
-**Key Term:**            **Administrator** *(user type, customer role)* A technical specialist who configures a software system.
+**Key Term:**           * **Administrator** (user type, customer role)* A technical specialist who configures a software system.
 
 **Description:**        * Outbound Process allows the transfer of system data into an Excel sheet.
                         * An outbound process can be used to export multiple articles in one go.

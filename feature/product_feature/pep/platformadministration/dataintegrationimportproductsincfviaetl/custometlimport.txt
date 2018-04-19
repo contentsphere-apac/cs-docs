@@ -6,15 +6,15 @@ Custom ETL (Extract-Transform-Load) Import is a feature that allows *Custom ETL-
 
 ===================     =======================================================================================================================================================================
 
-**Key Term:**             * **Data Steward:** *(user type, customer role)* A data steward is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
+**Key Term:**           * **Data Steward:** *(user type, customer role)* A data steward is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
 
 **Description:**        * This feature is used to update or to create products by a supplier.
                         * This import file feature is done through a **talend job**. Note that before the creation of an on-boarding type process, it is needed to configure the talend job.
                         * To update or create products, supplier sends the JSON file through *JMS (Java Message Services)* queue.  This queue is used by suppliers to view the order of on-boarding jobs.
                         * The JSON file is structured that it should contain: **Main Class ID, Product ID,** and all the **Property Collection-related class**.
 
-**Related topics:**     * *Custom ETL Export* :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
-                        * *Talend jobs* :doc:`ustom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
+**Related topics:**     * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
+                        * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
 
 **Application:**        * The feature allows a supplier to send any update about the product to the retailer through JMS.
                         * *Example:*
