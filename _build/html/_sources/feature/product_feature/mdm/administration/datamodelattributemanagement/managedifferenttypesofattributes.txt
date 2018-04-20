@@ -46,11 +46,11 @@ To do this admin feature, follow the steps below:
 |
 |
 
-#. **For a particular attribute type, refer to its respective section below:**
+#. For a particular attribute type, refer to its respective section below:
 
 |
 
-**Type: Text**
+**Type: **Text**
 
   #. Enter the attribute name and select the type as *Text*.
 
