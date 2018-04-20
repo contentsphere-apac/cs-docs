@@ -11,7 +11,7 @@ The Multi-taxonomy Assignment feature provides general users the capability to a
                         * The feature allows multiple taxonomies to be assigned to a single product.
                         * The feature enhances the classification of products/articles in a more structured way.
 
-**Related topics:**     * :doc:`Product CLassification via Taxonomies </feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies>`
+**Related topics:**     * :doc:`Product Classification via Taxonomies </feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies>`
                         * :doc:`Search within Taxonomy </feature/product_feature/mdm/general/searchandexplore/searchwithintaxonomy>`
 
 **Application:**        * This feature is used to classify a product into 2 or more structures or hierarchies. Taxonomies allow a user to have hierarchies in the system.
