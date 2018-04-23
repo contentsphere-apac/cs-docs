@@ -6,17 +6,17 @@ The digital assets that may be exported in DAM are the following: *Images, Docum
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **DAM:** Digital Asset Management offers a solution to enterprises to store, organize, find, and retrieve digital files.
-                            Digital files in the DAM are linked to PIM through relationships.
+**Key Term:**              * **DAM:** Digital Asset Management offers a solution to enterprises to store, organize, find, and retrieve digital files.
+                             Digital files in the DAM are linked to PIM through relationships.
 
-**Description:**          * This feature allows a user to download assets (*images, documents, videos*) in bulk.
+**Description:**           * This feature allows a user to download assets (*images, documents, videos*) in bulk.
 
-**Related Topic:**        * :doc:`Bulk Import of Assets </feature/product_feature/dam/bulkimportassets>`
-                          * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
-                          * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
-                          * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+**Related topics:**        * :doc:`Bulk Import of Assets </feature/product_feature/dam/bulkimportassets>`
+                           * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                           * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+                           * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
 
-**Application:**          * *Example:*
+**Application:**           * *Example:*
 
                                Supplier A has about 6 images, 20 videos, and 30 documents to be downloaded. He can download everything at the same time by using the bulk export feature.
 
