@@ -22,7 +22,6 @@ The Multilingual Data Model is a feature that provides translations for the vari
 How to do: How to Create Seasonal/Mood Motive
 =============================================
 To do this, follow these steps:
-|
 
 #. Log in. Click the **Administration** icon.
 
@@ -55,20 +54,20 @@ C#. lick on *Asset* tab to create Motive. Click **'+'** to create a new asset.
 |
 
 
-#. In the Create window, fill enter details *( Name, enable Nature type)*, and click  **Type**, then select *'Motive'*, then click **cREATE**  to save the changes.
+#. In the Create window, fill enter details *( Name, enable Nature type)*, and click  **Type**, then select *'Motive'*, then click **Create**  to save the changes.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_entermotivedetails.PNG
 |
 |
 
 
-#. Click  **Default** for Default Options.
+#. Click  **Default** for Default Options and click **Save**.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_inthecreatewindow.PNG
 |
 |
 
-C#. lick to Select **Linked Variant** from the drop down.
+#. Click **Linked Variant** and select **Linked Variant** ( the created variant in the previous steps) from the drop down.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_iselectcreatedvariant.PNG
 |
@@ -97,8 +96,7 @@ C#. lick to Select **Linked Variant** from the drop down.
 |
 
 
-
-#. In *'Overview'* tab, scroll down to Classes. Select the motive from the drop-down menu.
+#. In *'Overview'* tab, scroll down to Classes. Select *'Motive'* from the drop-down menu.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_intheoverviewmotive.PNG
 |
@@ -114,7 +112,7 @@ C#. lick to Select **Linked Variant** from the drop down.
 |
 |
 
-#. Click on **Next** to select an appropriate image related to the motive. *Note: the selected image can be dragged to the right section of the wiondow.*
+#. Click on **Next** to select the desired image related to the motive. *Note: the selected image can be dragged to the right section of the wiondow.*
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_selectdesiredimage.PNG
 |
