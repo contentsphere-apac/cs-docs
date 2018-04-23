@@ -45,23 +45,40 @@ To import assets in bulk, follow these steps:
 |
 
 
-#. Step
+#. Click on the **Bulk Upload** button.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_clickonthebulkupload.PNG
 |
 |
 
 
-#. Step
+#. Once clicked, an *Upload Assets* window will pop up.  Provide the details like: *Class and Collections (optional)*.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets.PNG
 |
 |
 
 
-*Note:*
+#. Select *Image* for the *Class* field.  Once selected, click the **Next** button.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets2.PNG
+|
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets3.PNG
+|
+|
+
+
+#. Once the button is clicked, it will prompt a new window where you can select the assets to be uploaded. Select the files and click **Open**.
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_oncethebuttonisclicked.PNG
+|
+|
+
+
+
+*Note: View that the assets are added successfully. You may select as many images, documents, or videos to be uploaded to the system.*
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_viewtheassets.PNG
 |
 |
 
