@@ -1,4 +1,70 @@
 =======================
 Bulk Import of Assets
 =======================
-The Bulk Import of Assets
+The Bulk Import of Assets feature is a DAM feature that allows importing of digital assets in bulk into the system.
+The digital assets that may be imported in DAM are the following: *Images, Documents, and Videos*.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **DAM:** Digital Asset Management offers a solution to enterprises to store, organize, find, and retrieve digital files.
+                             Digital files in the DAM are linked to PIM through relationships.
+
+**Description:**           * This feature allows a user to upload assets (*images, documents, videos*) in bulk.
+
+**Related topics:**        * :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkexportofassets>`
+                           * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                           * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+                           * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+
+**Application:**           * A user can upload images in bulk and at the same time, upload multiple videos and documents from the system.
+                           * *Example:*
+
+                               Supplier A has about 6 images, 20 videos, and 30 documents to be uploaded into the system.
+                               He can upload everything at the same time by using the bulk import feature.
+
+====================      ===============================================================================================================================================================
+
+
+How to do: Bulk Import of Assets
+==================================
+To import assets in bulk, follow these steps:
+
+|
+
+#. Log in and click on the **Explore** icon.
+
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_login.PNG
+|
+|
+
+
+#. Click on **DAM** from the selection on the left.
+
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonDAM.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/damimages/image.PNG
+|
+|
+
+
+#. Step
+
+.. image:: /feature/_images/damimages/image.PNG
+|
+|
+
+
+*Note:*
+
+.. image:: /feature/_images/damimages/image.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
