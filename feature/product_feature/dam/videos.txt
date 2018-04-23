@@ -1,6 +1,6 @@
-=================================
-Videos: .wmv, .mpeg, .avi, .mov,
-=================================
+================================
+Videos: .wmv, .mpeg, .avi, .mov
+================================
 The Videos feature allows the user to upload videos of various formats to the DAM.
 
 
@@ -8,8 +8,8 @@ The Videos feature allows the user to upload videos of various formats to the DA
 **Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
                           Digital files in the DAM are linked to the PIM through relationships.
 
-**Description:**        * This feature enables uploading videos of a variety of formats including .wmv, .avi, .mov, .flv, onto the system.
-                        * A detailed list of supported video file formats is as follows: wmv, avi, mov, flv, mpeg, mpg, mp4
+**Description:**        * This feature enables uploading videos of various formats such as .wmv and .mov onto the system.
+                        * The supported video file formats are as follows: wmv, avi, mov, flv, mpeg, mpg, mp4
 
 **Related topics:**     * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
                         * :doc:`Documents: .docx, pptx, .pdf, .indd </feature/product_feature/dam/documents>`
@@ -17,12 +17,12 @@ The Videos feature allows the user to upload videos of various formats to the DA
 **Application:**        * This feature is useful when adding videos to the products.
                         * *Example:*
 
-            							 Supplier 'A' wants to upload videos related to his products. With the Videos feature, Supplier 'A' can upload .wmv, .mpeg, .avi and .mov videos.
+            							 Supplier 'A' wants to upload videos related to his products. With the Videos feature, Supplier 'A' can upload *.wmv, .mpeg, .avi* and *.mov* files.
 ====================    =============================================================================================================================================================
 
 
-How to do: Upload/Import Videos of a Variety of Formats
-========================================================
+How to do: Upload/Import Videos of Various Formats
+===================================================
 To upload videos of various formats, follow these steps:
 
 |
