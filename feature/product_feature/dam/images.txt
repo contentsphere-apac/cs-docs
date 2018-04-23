@@ -17,8 +17,7 @@ The Images feature allows the user to upload images of various formats to the DA
 **Application:**        * This feature is useful when adding images to the products.
                         * *Example:*
 
-            							Supplier 'A' wants to upload images related to his products.
-                          With the Images feature, Supplier 'A' can upload .psd, .eps, .jpg, .png, and .ai images.
+            							 Supplier 'A' wants to upload images related to his products. With the Images feature, Supplier 'A' can upload .psd, .eps, .jpg, .png, and .ai images.
 ====================    =============================================================================================================================================================
 
 
