@@ -1,0 +1,61 @@
+=====================================
+Documents: .docx, .pptx, .pdf, .indd
+=====================================
+The Documents feature allows the user to upload documents of various formats to the DAM.
+
+
+====================    ==============================================================================================================================================================================
+**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+                          Digital files in the DAM are linked to the PIM through relationships.
+
+**Description:**        * This feature enables uploading of documents of various formats such as .docx, and .pdf onto the system.
+                        * A list of supported document file formats is as follows: pdf, ppt, pptx, indd, doc, docx
+
+**Related topics:**     * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                        * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+
+**Application:**        * This feature is useful when adding documents to the products.
+                        * *Example:*
+
+            							 Supplier 'A' wants to upload documents related to his products. With the Documents feature, Supplier 'A' can upload *.pdf, .ppt, .pptx, .indd, .doc* and *.docx* files.
+====================    ==============================================================================================================================================================================
+
+
+How to do: Upload/Import Documents of Various Formats
+======================================================
+To upload/import documents of various formats, follow these steps:
+
+|
+
+#. Log in to the application. Go to *DAM*.
+
+.. image:: /feature/_images/damimages/cs_documents_login.PNG
+|
+|
+
+#. Click on the **Bulk Upload** icon.
+
+.. image:: /feature/_images/damimages/cs_documents_bulkupload.PNG
+|
+|
+
+#. On the pop-up window, select the **Document** class to upload documents. Selecting the Collections is optional.
+
+.. image:: /feature/_images/damimages/cs_documents_selectdocumentclass.PNG
+|
+|
+
+#. Click on the **Next** button.
+
+.. image:: /feature/_images/damimages/cs_documents_clicknext.PNG
+|
+|
+
+#. On the dialog box, select the documents from the computer.
+
+.. image:: /feature/_images/damimages/cs_documents_selectdocuments.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
