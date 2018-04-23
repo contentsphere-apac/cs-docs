@@ -40,7 +40,7 @@ To upload images of various formats, follow these steps:
 |
 |
 
-#. On the pop-up window, select the **Image** class to upload images. You can also select the Collections (optional).
+#. On the pop-up window, select the **Image** class to upload images. Selecting the Collections is optional.
 
 .. image:: /feature/_images/damimages/cs_images_selectimageclass.PNG
 |
