@@ -2,7 +2,7 @@
 Product Lines and Products
 ===========================
 
-Read the following materials to quickly get you up and running on the Contentsphere products:
+Read the following materials to quickly get you up and running on the Contentserv products:
 
 .. toctree::
    :maxdepth: 1
