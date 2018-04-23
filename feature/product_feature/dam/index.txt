@@ -1,14 +1,9 @@
-==================
-DAM Feature Guides
-==================
+==============================
+Digital Asset Management (DAM)
+==============================
 
 .. toctree::
    :maxdepth: 1
 
-    images
-    seasonalmoodmotives
-    bulkimportassets
-    videos
-    perspectiveresolutionvariants
-    bulkexportofassets
-    documents
+   seasonalmoodmotives
+   
