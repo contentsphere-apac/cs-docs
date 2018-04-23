@@ -1,6 +1,6 @@
-==================
-DAM Feature Guides
-==================
+===============================
+Digital Asset Management (DAM)
+===============================
 
 .. toctree::
    :maxdepth: 1
