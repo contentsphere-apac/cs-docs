@@ -1,0 +1,61 @@
+=================================
+Videos: .wmv, .mpeg, .avi, .mov,
+=================================
+The Videos feature allows the user to upload videos of various formats to the DAM.
+
+
+====================    =============================================================================================================================================================
+**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+                          Digital files in the DAM are linked to the PIM through relationships.
+
+**Description:**        * This feature enables uploading videos of a variety of formats including .wmv, .avi, .mov, .flv, onto the system.
+                        * A detailed list of supported video file formats is as follows: wmv, avi, mov, flv, mpeg, mpg, mp4
+
+**Related topics:**     * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                        * :doc:`Documents: .docx, pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+
+**Application:**        * This feature is useful when adding videos to the products.
+                        * *Example:*
+
+            							 Supplier 'A' wants to upload videos related to his products. With the Videos feature, Supplier 'A' can upload .wmv, .mpeg, .avi and .mov videos.
+====================    =============================================================================================================================================================
+
+
+How to do: Upload/Import Videos of a Variety of Formats
+========================================================
+To upload videos of various formats, follow these steps:
+
+|
+
+#. Log in to the application. Go to *DAM*.
+
+.. image:: /feature/_images/damimages/cs_videos_login.PNG
+|
+|
+
+#. Click on the **Bulk Upload** icon.
+
+.. image:: /feature/_images/damimages/cs_videos_bulkupload.PNG
+|
+|
+
+#. On the pop-up window, select the **Video** class to upload videos. Selecting the Collections is optional.
+
+.. image:: /feature/_images/damimages/cs_videos_selectvideoclass.PNG
+|
+|
+
+#. Click on the **Next** button.
+
+.. image:: /feature/_images/damimages/cs_videos_clicknext.PNG
+|
+|
+
+#. On the dialog box, select the videos from the computer.
+
+.. image:: /feature/_images/damimages/cs_videos_selectvideos.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
