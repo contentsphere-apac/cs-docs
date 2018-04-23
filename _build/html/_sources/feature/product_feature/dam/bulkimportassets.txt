@@ -16,10 +16,10 @@ The digital assets that may be imported in DAM are the following: *Images, Docum
                            * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
                            * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
 
-**Application:**           * A user can upload images in bulk and at the same time, upload multiple videos and documents from the system.
+**Application:**           * A user can upload images in bulk and at the same time, upload multiple videos and documents to the system.
                            * *Example:*
 
-                               Supplier A has about 6 images, 20 videos, and 30 documents to be uploaded into the system.
+                               Supplier A has about 5 images, 20 videos, and 30 documents to be uploaded to the system.
                                He can upload everything at the same time by using the bulk import feature.
 
 ====================      ===============================================================================================================================================================
@@ -68,7 +68,7 @@ To import assets in bulk, follow these steps:
 |
 
 
-#. Once the button is clicked, it will prompt a new window where you can select the assets to be uploaded. Select the files and click **Open**.
+#. Once the button is clicked, a new window will open. In this window, select the assets to be uploaded. Select the files and click **Open**.
 
 .. image:: /feature/_images/damimages/cs_bulkimportofassets_oncethebuttonisclicked.PNG
 |
@@ -76,7 +76,7 @@ To import assets in bulk, follow these steps:
 
 
 
-*Note: View that the assets are added successfully. You may select as many images, documents, or videos to be uploaded to the system.*
+*Note: Check that the assets are added successfully. You may select as many images, documents, or videos to be uploaded to the system.*
 
 .. image:: /feature/_images/damimages/cs_bulkimportofassets_viewtheassets.PNG
 |
