@@ -1,26 +1,26 @@
 =======================
 Bulk Export of Assets
 =======================
-The Bulk Export of Assets feature is a DAM feature that allows exporting of digital assets in bulk. The digital assets that may be exported in DAM are the following:
+The Bulk Export of Assets feature is a DAM feature that allows exporting of digital assets in bulk.
+The digital assets that may be exported in DAM are the following: *Images, Documents, and Videos*.
 
 
 ====================      ===============================================================================================================================================================
 **Key Term:**             * **DAM:** Digital Asset Management offers a solution to enterprises to store, organize, find, and retrieve digital files.
-                            Digital files in the DAM are linked to the PIM through relationships.
+                            Digital files in the DAM are linked to PIM through relationships.
 
-**Description:**          * This feature allows a user to download assets (*image, document, video*) in bulk.
+**Description:**          * This feature allows a user to download assets (*images, documents, videos*) in bulk.
 
 **Related Topic:**        * :doc:`Bulk Import of Assets </feature/product_feature/dam/bulkimportassets>`
-                          * :doc:`Images </feature/product_feature/dam/images>`
-                          * :doc:`Documents </feature/product_feature/dam/documents>`
-                          * :doc:`Videos </feature/product_feature/dam/videos>`
+                          * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                          * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+                          * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
 
 **Application:**          * *Example:*
 
-                               Supplier A has about 50 images, 20 videos, and 30 documents to be downloaded. He can download everything at the same time by using the bulk download feature.
+                               Supplier A has about 6 images, 20 videos, and 30 documents to be downloaded. He can download everything at the same time by using the bulk export feature.
 
 ====================      ===============================================================================================================================================================
-
 
 
 How to do: Bulk Export of Assets
@@ -31,37 +31,38 @@ To export assets in bulk, follow these steps:
 
 #. Log in and click on the **Explore** icon.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_login.PNG
 |
 |
 
 
 #. Click on **DAM** from the selection on the left.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonDAM.PNG
 |
 |
 
 
 #. Select the assets to be downloaded. Note that the selected assets are highlighted.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_selecttheassets.PNG
 |
 |
 
 
 #. Click on the **Bulk Download** button.
 
-.. image:: /feature/_images/damimages/image.PNG
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonthebulkdownload.PNG
 |
 |
 
 
 *Note: Wait for the download to be completed; then, view the assets.*
 
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_notewaitforthedownload.PNG
 |
 |
 
 
-.. image:: /feature/_images/damimages/line-png-32.PNG
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
