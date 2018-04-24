@@ -27,7 +27,7 @@ To do this, follow these steps:
 |
 |
 
-#. Click **Contexts** and then **'+'** to create a link variant.
+#. Click **Contexts** and then **'+'** icon to create a link variant.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_clickcontextandcreatevariant.PNG
 |
@@ -94,7 +94,7 @@ In Context Details window, enter the following details: name, code, etc. Select 
 |
 
 
-#. In *'Overview'* tab, scroll down to Classes. Select *'Motive'* from the drop-down menu.
+#. In *'Overview'* tab, scroll down to Classes, select *'Motive'* from the drop-down menu.
 
 .. image:: /feature/_images/damimages/cs_seasonalmoodmotives_intheoverviewmotive.PNG
 |
