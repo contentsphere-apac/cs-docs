@@ -1,3 +1,115 @@
-=====================
+===================
 Perspective Variant
-=====================
+===================
+The perspective variant feature allows user link several related images to a single article to give the different angle view of the product and information (if any).
+
+===================     =======================================================================================================================================================================
+**Key Term**		        * **DAM:** Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files. Digital files in the DAM are linked to the PIM through relationships.
+
+**Description:**        * This feature perspective variant will let user link several related images to a single article so as to give right impression of the product's height, width, depth and information if any.
+
+**Related topics:**
+                        * :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+
+**Application:**        * This feature perspective variant will let user link several related images to a single article to provide more information on the product.
+                        * *Example:*
+
+                            A retailer selling dog food would add several images (front side, back side and side display) to the main product image so as to give the customer a better and thorough impression of the product. The back-side 			image often contains important ingredients information, which will assist customer make a purchase.
+
+===================     =======================================================================================================================================================================
+
+How to do: How to create Perspective Variant
+============================================
+To do this, follow these steps:
+
+#. Log in. Click on **DAM** and then click **Bulk Upload** icon to import images of a product in various image perspectives.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_clickdambulk.PNG
+|
+|
+
+#. Click on **Administration** icon, and then scroll down in *Data Model* tab to click on **Relationships**.
+
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_clickadministration.PNG
+|
+|
+
+#. Click on **'+'** icon to create a new relationship.
+
+
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_clickdatamodel.PNG
+|
+|
+
+
+
+#. Enter Name( in this demo, we named the relationship *'article-asset relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_enterrelationshipdetails.PNG
+|
+|
+
+
+#. Next, click on **Context** to create a new one. Enter the Name(in this demo we named this context *'perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectrelationshipvariant.PNG
+|
+|
+
+
+#. Go to the *Relationship* tab again, and select Context you have just created ( *'perspective'*).
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_gotorelationshipsagain.PNG
+|
+|
+
+
+#. Click on **Explore** and then **PIM**.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_clickexplore.PNG
+|
+|
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_thenpim.PNG
+|
+|
+
+#. Select on an existing product to add various image perspective.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectproduct.PNG
+|
+|
+
+#. Click on *Relationship* Tab and then scroll down to *Asset* tab. Click on **'+'** sign to add image of various perspective.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_clickrelationship.PNG
+|
+|
+
+#. Select the appropriate tag from the list displayed and click on **Next**.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectappropriatetag.PNG
+|
+|
+
+#. Select the image and drag the selected image on the right section of the window.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectimageb.PNG
+|
+|
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectimagec.PNG
+|
+|
+
+
+#. View The images displayed alongside the Main image.
+
+.. image:: /feature/_images/damimages/cs_perspectivevariant_imagesdisplay.PNG
+|
+|
+
+.. image:: /feature/_images/damimages/line-png-32.PNG
+   :alt: Contentsphere line

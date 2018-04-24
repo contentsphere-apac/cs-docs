@@ -1,9 +1,9 @@
-====================================
-Perspective and Resolution Variants
-====================================
+=================================
+Perspective & Resolution Variants
+=================================
 
 .. toctree::
    :maxdepth: 1
 
-    perspectivevariant
-    resolutionvariant
+  perspectivevariant
+  resolutionvariant
