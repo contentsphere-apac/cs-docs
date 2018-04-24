@@ -45,14 +45,14 @@ To do this, follow these steps:
 
 
 
-#. Enter Name( in this demo, we named the relationship *'article-asset relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
+#. Enter Name ( in this demo, we named the relationship *'article-asset relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_enterrelationshipdetails.PNG
 |
 |
 
 
-#. Next, click on **Context** to create a new one. Enter the Name(in this demo we named this context *'perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
+#. Next, click on **Context** to create a new one. Enter the Name ( in this demo we named this context *'perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectrelationshipvariant.PNG
 |
@@ -90,7 +90,7 @@ To do this, follow these steps:
 
 #. Select the appropriate tag from the list displayed and click on **Next**.
 
-.. image:: /feature/_images/damimages/cs_perspectivevariant_selectappropriatetag.PNG
+.. image:: /feature/_images/damimages/cs_perspectivevariant_selectappropriatetagb.PNG
 |
 |
 
