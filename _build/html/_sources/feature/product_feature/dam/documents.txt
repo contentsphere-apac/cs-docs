@@ -9,7 +9,7 @@ The Documents feature allows the user to upload documents of various formats to 
                           Digital files in the DAM are linked to the PIM through relationships.
 
 **Description:**        * This feature enables uploading of documents of various formats such as .docx, and .pdf onto the system.
-                        * A list of supported document file formats is as follows: pdf, ppt, pptx, indd, doc, docx
+                        * The supported document file formats are as follows: pdf, ppt, pptx, indd, doc, docx
 
 **Related topics:**     * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
                         * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
