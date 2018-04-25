@@ -1,8 +1,11 @@
-=================================
+================================
 Data Model - Attribute Management
 =================================
 
 .. toctree::
    :maxdepth: 1
 
-   resolutionvariant
+   managedifferenttypesofattributes
+   managedifferenttypesofmeasurementattributes
+   managecalculatedattributes
+   manageconcatenatedattributes

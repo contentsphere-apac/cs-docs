@@ -5,10 +5,4 @@ Data Asset Management (DAM)
 .. toctree::
    :maxdepth: 1
 
-    images
-    seasonalmoodmotives
-    bulkimportassets
-    videos
-    perspectiveresolutionvariants
-    bulkexportofassets
-    documents
+   perspectiveresolutionvariants/index

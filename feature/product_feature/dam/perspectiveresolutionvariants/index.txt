@@ -1,11 +1,9 @@
-===================================
-Perspective and Resolution Variants
-===================================
+==================================
+Perspective and Resolution Variant
+==================================
 
 .. toctree::
    :maxdepth: 1
 
-   managedifferenttypesofattributes
-   managedifferenttypesofmeasurementattributes
-   managecalculatedattributes
-   manageconcatenatedattributes
+   resolutionvariant
+   perspectivevariant
