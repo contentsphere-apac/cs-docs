@@ -105,7 +105,7 @@ To do this, follow these steps:
 |
 
 
-#. View The images displayed alongside the Main image.
+#. View the images displayed together with the main image.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_imagesdisplay.PNG
 |
