@@ -2,7 +2,7 @@
 Tutorials
 =========
 
-New to Contentsphere
+New to Contentserv
 ====================
 
 Learn the basics to get up and running quickly

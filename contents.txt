@@ -1,5 +1,5 @@
 ===============================================
-Contentsphere Product Line Handbook and Guides!
+Contentserv Product Line Handbook and Guides!
 ===============================================
 
 .. toctree::

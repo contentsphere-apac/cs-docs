@@ -84,7 +84,7 @@ Setup and Configuration
 
     cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 
-    ./plugin install file:<Path of CS-Refactored>CS-Refactored/ServerPlugins/elasticsearch/build/distributions/contentsphere-plugin-1.0.0-SNAPSHOT.zip
+    ./plugin install file:<Path of CS-Refactored>CS-Refactored/ServerPlugins/elasticsearch/build/distributions/contentserv-plugin-1.0.0-SNAPSHOT.zip
 
 |
 
@@ -116,7 +116,7 @@ Setup and Configuration
 
      cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 
-     ./plugin remove contentsphere-plugin
+     ./plugin remove contentserv-plugin
 
 |
 
@@ -124,7 +124,7 @@ Setup and Configuration
 
      cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 
-     ./plugin install file:<Path of plugin file>/contentsphere-plugin-1.0.0-SNAPSHOT.zip
+     ./plugin install file:<Path of plugin file>/contentserv-plugin-1.0.0-SNAPSHOT.zip
 
 |
 
