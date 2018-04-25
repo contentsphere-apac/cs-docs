@@ -1,3 +1,23 @@
 ====================
 Resolution Variant
 ====================
+The Resolution Variant feature helps user to automatically produce images with various resolutions.
+
+===================  =================================================================================================================================================================
+
+**Description:**          * This feature will help user *'auto-create'* images of various resolutions.
+
+**Related topics:**       * :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
+                          * :doc:`Perspective Variant  </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
+
+**Application:**          * The Rollback feature is used to switch back to a desired version of a product.
+                          * This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
+                            product relationship/context and return it back to the previous version.
+                          * *Example:*
+
+                              Supplier can add commercial text in the 'description' for Toblerone Chocolates during Holiday season.
+                              Once the season is over, he can rollback to the  original description version.
+
+===================  =================================================================================================================================================================
+
+How to do: Rollback
