@@ -156,8 +156,7 @@ Golden Record
     With the golden record, you always have exact and consistent, product data available.
     Golden Record uses matching and merging rules to consolidate the product details.
 
-No glossary entries found.
-
+|
 
 .. _H:
 
