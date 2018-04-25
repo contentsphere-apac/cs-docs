@@ -13,7 +13,7 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 **Application:**            * Resolution Variant can be used to link a product to an asset in creating several image resolution.
                             * *Example*
 
-                                     A Retailer may need images of various resolutions so as to be able to use them at multiple outlets viz. social media page, brochure, sales pamphlet and so on.
+                                     A Retailer may need images of various resolutions they can use for multiple outlets: *Social media pages, brochure, sales pamphlet* and so on.
 
 ====================      ===============================================================================================================================================================
 
