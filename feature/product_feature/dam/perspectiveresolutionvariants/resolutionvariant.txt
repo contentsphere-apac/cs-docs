@@ -44,7 +44,6 @@ How to do: How to create Resolution Variant
 |
 |
 
-
 #. In the Edit window, enable *'Auto Create'*, and select the *Resolution Tags*  and select the *Tag Combinations*.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_intheeditwindowautocrestagtagcombi.PNG
