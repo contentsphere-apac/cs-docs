@@ -114,7 +114,7 @@ data model
 
 data steward
     *(user type, customer role)* A data steward is a role within an organization responsible for utilizing an organization's data governance processes
-    to ensure suitablity of both content and metadata.
+    to ensure suitability of both content and metadata.
 
 |
 
@@ -138,7 +138,7 @@ F
 -
 
 fixed bundle
-    *(product type)* A group of products where the quanitity of each product is fixed.
+    *(product type)* A group of products where the quantity of each product is fixed.
 
     * *Example:*
 
@@ -197,7 +197,7 @@ linked variant
         Regular, Sugarfree and Zero are some of the linked variants of energy drink "Red Bull".
 
 loose bundle
-    *(property type)* A group of products where the quanitity of each product can be defined by the retailer.
+    *(property type)* A group of products where the quantity of each product can be defined by the retailer.
 
     * *Example:*
 
