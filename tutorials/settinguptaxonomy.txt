@@ -3,6 +3,8 @@ Set Up a Taxonomy
 =======================
 Taxonomy is a product classification used to organize the content.
 
+
+
 How to do: Set Up a Taxonomy
 ==================================
 To do this, follow these steps:
@@ -66,6 +68,7 @@ Icons can also be added to the Taxonomy.
     .. image:: /feature/_images/mdmimages/settinguptaxonomy_iconadded.PNG
     |
     |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

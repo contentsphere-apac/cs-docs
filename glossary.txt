@@ -379,7 +379,7 @@ U
 -
 
 user
-    *(user type, customer role)* Someone who logs into the Contentsphere system.
+    *(user type, customer role)* Someone who logs into the Contentserv system.
 
 
 
@@ -397,7 +397,7 @@ W
 
 workflows
     *(property group)* A sequence of processes that a piece of work progresses through until completion.
-    In Contentsphere, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.
+    In Contentserv, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.
 
     * *Example:*
 
