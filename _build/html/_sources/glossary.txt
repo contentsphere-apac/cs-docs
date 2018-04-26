@@ -264,7 +264,7 @@ P
 -
 
 Partner Engagement Platform (PEP)
-    *(domain type)* A portal which allows a Contentspere customer's partners to engage with their system.
+    *(domain type)* A portal which allows a Contentserv customer's partners to engage with their system.
     Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding
 
     * *Example:*
