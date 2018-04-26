@@ -6,3 +6,5 @@ Collaboration
    :maxdepth: 1
 
    tasksandannotations/index
+   workflowadministration/index
+   workflowworkbench/index
