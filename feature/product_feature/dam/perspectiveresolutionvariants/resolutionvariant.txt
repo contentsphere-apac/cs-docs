@@ -88,7 +88,7 @@ How to do: How to create Resolution Variant
 |
 
 
-#. Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'*). Click **Save**.
+#. Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'* ). Click **Save**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_selectdesiredconfig.PNG
 |
