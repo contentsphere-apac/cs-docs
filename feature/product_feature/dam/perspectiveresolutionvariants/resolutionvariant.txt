@@ -94,7 +94,7 @@ How to do: How to create Resolution Variant
 |
 |
 
-#.Click *Contexts* tab to view the  various *Resolutions Variants* of the image.
+#. Click *Contexts* tab to view the  various *Resolutions Variants* of the image.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
 |
