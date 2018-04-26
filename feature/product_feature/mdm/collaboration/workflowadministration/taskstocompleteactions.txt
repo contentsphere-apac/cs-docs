@@ -1,0 +1,138 @@
+==========================
+Tasks to Complete Actions
+==========================
+The Tasks to Complete Actions feature automates the assigning of tasks to users involved in a process or workflow.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **Workflow Tasks:** are tasks assigned to users depending on the business logic arranged through the Workflow Modeler.
+                             These tasks will allow the Modeler to model complex custom actions through Tasks.
+                             Custom actions for different users will be managed through the Workflow Tasks.
+
+**Description:**           * Workflow Tasks automate the process of assigning the tasks to the users.
+
+**Related topics:**        * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
+                           * :doc:`View Tasks and Products Responsible </feature/product_feature/mdm/collaboration/workflowworkbench/viewtasksandproductsresponsible>`
+
+**Application:**           * *Example:*
+
+                                An *Electronic Retailer* wants to create a to-do list of all the tasks in order to manage these tasks.
+                                He can go to the *Workflow Workbench* from dashboard where he can see all his tasks.
+
+====================      ===============================================================================================================================================================
+
+
+How to do: Tasks to Complete Actions
+=====================================
+To do this feature, follow these steps:
+
+|
+
+#. Log in and go to *Administration*.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_login.PNG
+|
+|
+
+
+#. Click on the **Data Integration** tab and then go to *Workflow*.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickonthedataintegration.PNG
+|
+|
+
+
+#. Click on the "+" icon to create a new workflow.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickontheicontocreateanewworkflow.PNG
+|
+|
+
+
+#. Provide the details on the window that will pop up like *Name* and *Event Type*. Click the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_providethedetailsonthewindow.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_providethedetailsonthewindow2.PNG
+|
+|
+
+
+#. Once the button is clicked, a new window will appear where the workflow can be defined. Drag and drop notations from the *Workflow Modeler* to create the process.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_oncethebuttonisclicked.PNG
+|
+|
+
+
+#. A workflow starts with a *Start Event*. Click on the **Start Event** notation then drag and drop it on the workflow board.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_aworkflowstartswith.PNG
+|
+|
+
+
+#. Click on the **Start Event** notation to view the options that can be added after it.  These options will appear on the right of the notation.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickonthestartevent.PNG
+|
+|
+
+
+#. Click on the **Append Task** icon. Custom actions for different users can be managed through the *Workflow Task*.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickontheappendtaskicon.PNG
+|
+|
+
+
+#. Once you click on the icon, it will be added in the workflow.  You may akso select the *Task Notation* from the menu on the left.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_onceyouclicktheicon.PNG
+|
+|
+
+
+#. Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is, whether it is an *import article, import asset, import relationship*, etc.
+   Do this by clicking on the icon that looks like a wrench.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_addingatasknotation.PNG
+|
+|
+
+
+#. As soon as the wrench icon is clicked, it will show a selection containing the different types of task.  If you are defining a user task, select the **Custom User Task** option from the selection.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assoonasthewrench.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assoonasthewrench2.PNG
+|
+|
+
+
+#. Once selected, provide the details of the user task on a window found on the right side of the screen.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_onceselectedprovidethedetails.PNG
+|
+|
+
+
+#. Assign the appropriate users with different roles: **Responsible, Accountable, Consulted, Informed, Verified, or Signoff** by selecting the user and clicking the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assigntheusers.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assigntheusers2.PNG
+|
+|
+
+
+#. Once done, click the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_oncedoneclicksave.PNG
+|
+|
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
