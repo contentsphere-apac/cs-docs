@@ -30,7 +30,7 @@ How to do: How to create Resolution Variant
 #. Click on **'+'** to create a new Asset.
 
 
-#. In the Edit window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
+#. In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
 
 #. Click **CREATE**.
 
@@ -94,7 +94,7 @@ How to do: How to create Resolution Variant
 |
 |
 
-#. As you click *Contexts* tab to view the  various *Resolutions Variants* of the image.
+#.Click *Contexts* tab to view the  various *Resolutions Variants* of the image.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
 |
