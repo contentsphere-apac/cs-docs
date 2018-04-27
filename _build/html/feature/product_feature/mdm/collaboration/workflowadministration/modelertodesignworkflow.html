@@ -148,7 +148,7 @@
 <td><ul class="first last simple">
 <li><strong>Workflow</strong>: A workflow is a graphical representation of the internal onboarding process. It shows the sequence of workflow and the messages that flow in between the related set of activities.
 It provides the capability of understanding the internal onboarding procedures in a graphical notation and will give an organization the ability to communicate this procedure in a standard manner.</li>
-<li><strong>Workflow Modeler</strong>: A Modeler allows users to configure workflows using BPMN 2.0 modelling notation.
+<li><strong>Workflow Modeler</strong>: A modeler allows users to configure workflows using BPMN 2.0 modelling notation.
 This will enable users to model complex processes using universally known and standardized BPMN 2.0 notation.</li>
 </ul>
 </td>
@@ -173,7 +173,7 @@ This will enable users to model complex processes using universally known and st
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p>A fashion retailer wants to create the workflow for onboarding process. He can do this by using the workflow modeler.</p>
+<div><p>A fashion retailer wants to create a workflow for the onboarding process. He can do this by using the workflow modeler.</p>
 </div></blockquote>
 </li>
 </ul>
@@ -237,7 +237,7 @@ This will allow users to model complex onboarding process using universally know
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Drag and drop the notations in <em>Workflow Modeler</em> to define the onboarding process. The workflow starts with the <strong>Start Event</strong>.</li>
+<li>Drag and drop the notations in <em>Workflow Modeler</em> to define the onboarding process. A workflow starts with the <strong>Start Event</strong>. The <strong>Start Event</strong> acts as a process trigger so it is the first element in a workflow.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_draganddrop.PNG" src="../../../../../_images/cs_modelertodesignworkflow_draganddrop.PNG" />
 <div class="line-block">
@@ -254,14 +254,14 @@ This will allow users to model complex onboarding process using universally know
 </div>
 <ol class="arabic simple">
 <li>Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add <em>Article</em> in a flow, then click on the <strong>Task</strong> notation.
-Custom actions for different users will be managed through workflow <strong>Task</strong>.</li>
+Custom actions for different users will be managed through the workflow <strong>Task</strong>.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_addnotations.PNG" src="../../../../../_images/cs_modelertodesignworkflow_addnotations.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Once you click on the Task notation, it gets added in the flow.</li>
+<li>Once you click on the <strong>Task</strong> notation, it gets added in the workflow.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_clicktasknotation.PNG" src="../../../../../_images/cs_modelertodesignworkflow_clicktasknotation.PNG" />
 <div class="line-block">
@@ -269,8 +269,7 @@ Custom actions for different users will be managed through workflow <strong>Task
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Adding the <strong>Task</strong> notation simply defines the task. Click on the <strong>Wrench</strong> icon to define what kind of a task it is, whether it is <em>import article</em>, <em>import asset</em>, <em>import relationship</em>, etc.
-You can do this by clicking on the icon that looks like plier.</li>
+<li>Adding the <strong>Task</strong> notation simply defines the task. Click on the <strong>Wrench</strong> icon to define what kind of a task it is, whether it is <em>import article</em>, <em>import asset</em>, <em>import relationship</em>, etc.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_addtask.PNG" src="../../../../../_images/cs_modelertodesignworkflow_addtask.PNG" />
 <div class="line-block">
@@ -285,7 +284,7 @@ You can do this by clicking on the icon that looks like plier.</li>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>If you are defining an article, then select the <strong>Article Import</strong> option from the list.</li>
+<li>If you are defining an article, select the <strong>Article Import</strong> option from the list.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_selectarticleimport.PNG" src="../../../../../_images/cs_modelertodesignworkflow_selectarticleimport.PNG" />
 <div class="line-block">
@@ -306,21 +305,22 @@ You can do this by clicking on the icon that looks like plier.</li>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Once you added all the components in a flow, append the <strong>End Event</strong> notation at the end. It represents the end of flow. Select the last component and click on the <strong>End Event</strong> notation.</li>
+<li>Once you added all the components in a workflow, append the <strong>End Event</strong> notation at the end. It represents the end of the workflow. Select the last component and click on the <strong>End Event</strong> notation.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_appendendevent.PNG" src="../../../../../_images/cs_modelertodesignworkflow_appendendevent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>View the End Event icon appended at the end of flow.</li>
+<li>View the <strong>End Event</strong> notation appended at the end of the workflow.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_viewendevent.PNG" src="../../../../../_images/cs_modelertodesignworkflow_viewendevent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click on each component and in the third vertical section, fill in the details of each component such as <em>Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/ Class Column Name, Taxonomies</em>, then click on the <strong>Save</strong> button.</li>
+<li>Click on a component and in the third vertical section, fill in the details of the component such as <em>Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/ Class Column Name</em> and <em>Taxonomies</em>.
+Perform this step for each component then click on the <strong>Save</strong> button.</li>
 </ol>
 <img alt="../../../../../_images/cs_modelertodesignworkflow_clickeachcomponent.PNG" src="../../../../../_images/cs_modelertodesignworkflow_clickeachcomponent.PNG" />
 <div class="line-block">
