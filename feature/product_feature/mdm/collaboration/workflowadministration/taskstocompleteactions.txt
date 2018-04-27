@@ -17,8 +17,8 @@ The Tasks to Complete Actions feature automates the assigning of tasks to users 
 
 **Application:**           * *Example:*
 
-                                An *Electronic Retailer* wants to create a to-do list of all the tasks in order to manage these tasks.
-                                He can go to the *Workflow Workbench* from dashboard where he can see all his tasks.
+                                An *Electronic Retailer* wants to create a to-do list for all the tasks in order to manage these tasks.
+                                He can go to the *Workflow Workbench* from the dashboard where he can see all his tasks.
 
 ====================      ===============================================================================================================================================================
 
@@ -87,14 +87,14 @@ To do this feature, follow these steps:
 |
 
 
-#. Once you click on the icon, it will be added in the workflow.  You may akso select the *Task Notation* from the menu on the left.
+#. Once you click on the icon, it will be added in the workflow.  You may also select the *Task Notation* from the menu on the left.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_onceyouclicktheicon.PNG
 |
 |
 
 
-#. Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is, whether it is an *import article, import asset, import relationship*, etc.
+#. Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc.
    Do this by clicking on the icon that looks like a wrench.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_addingatasknotation.PNG
@@ -102,7 +102,7 @@ To do this feature, follow these steps:
 |
 
 
-#. As soon as the wrench icon is clicked, it will show a selection containing the different types of task.  If you are defining a user task, select the **Custom User Task** option from the selection.
+#. As soon as the wrench icon is clicked, it will show a selection containing the various types of task.  If you are defining a user task, choose the **Custom User Task** option from the selection.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assoonasthewrench.PNG
 |
