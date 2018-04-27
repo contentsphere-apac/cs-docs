@@ -13,6 +13,7 @@ The Tasks to Complete Actions feature automates the assigning of tasks to users 
 
 **Related topics:**        * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
                            * :doc:`View Tasks and Products Responsible </feature/product_feature/mdm/collaboration/workflowworkbench/viewtasksandproductsresponsible>`
+                           * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/index>`
 
 **Application:**           * *Example:*
 
