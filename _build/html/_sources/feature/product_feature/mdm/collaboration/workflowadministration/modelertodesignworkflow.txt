@@ -6,7 +6,7 @@ The Modeler to Design Workflow feature allows the user to configure a workflow u
 ====================    ================================================================================================================================================================================================================
 **Key Term:**           * **Workflow**: A workflow is a graphical representation of the internal onboarding process. It shows the sequence of workflow and the messages that flow in between the related set of activities.
                           It provides the capability of understanding the internal onboarding procedures in a graphical notation and will give an organization the ability to communicate this procedure in a standard manner.
-                        * **Workflow Modeler**: A modeler allows users to configure workflows using BPMN 2.0 modelling notation.
+                        * **Workflow Modeler**: A workflow modeler allows users to configure workflows using BPMN 2.0 modelling notation.
                           This will enable users to model complex processes using universally known and standardized BPMN 2.0 notation.
 
 **Description:**        * A workflow represents the end-to-end flow of a business process in a graphical manner.
@@ -15,7 +15,7 @@ The Modeler to Design Workflow feature allows the user to configure a workflow u
 **Related topics:**     * :doc:`Tasks to Complete Actions </feature/product_feature/mdm/collaboration/workflowadministration/taskstocompleteactions>`
                         * :doc:`View Tasks and Products Responsible </feature/product_feature/mdm/collaboration/workflowworkbench/viewtasksandproductsresponsible>`
 
-**Application:**        * Use the modeler to create a graphical representation of a business process.
+**Application:**        * Use the workflow modeler to create a graphical representation of a business process.
                         * *Example:*
 
             							A fashion retailer wants to create a workflow for the onboarding process. He can do this by using the workflow modeler.
@@ -42,7 +42,7 @@ To configure a workflow, follow these steps:
 |
 |
 
-#. Click on the "+" button to create the workflow.
+#. Click on the "+" icon to create the workflow.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_clickplusicon.PNG
 |
@@ -79,10 +79,11 @@ To configure a workflow, follow these steps:
 |
 |
 
-#. Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add *Article* in a flow, then click on the **Task** notation.
+#. Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add *Article* in the workflow, then click on the **Task** notation.
    Custom actions for different users will be managed through the workflow **Task**.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_addnotations.PNG
+|
 |
 
 #. Once you click on the **Task** notation, it gets added in the workflow.
@@ -95,6 +96,7 @@ To configure a workflow, follow these steps:
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_addtask.PNG
 |
+|
 
 #. As soon as you click on the **Wrench** icon, a window appears containing the types of task.
 
@@ -106,34 +108,37 @@ To configure a workflow, follow these steps:
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_selectarticleimport.PNG
 |
+|
 
 #. Double-click on the created task icon and enter a name for that icon.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_doubleclick.PNG
+|
 |
 
 #. Define the components of the system such as *Assets, Relationships, and Nature Classes*. Create a task, click on the **Wrench** icon to select the type, and enter a name for that task.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_definecomponents.PNG
 |
+|
 
 #. Once you added all the components in a workflow, append the **End Event** notation at the end. It represents the end of the workflow. Select the last component and click on the **End Event** notation.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_appendendevent.PNG
 |
+|
 
 #. View the **End Event** notation appended at the end of the workflow.
 
-
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_viewendevent.PNG
 |
+|
 
-#. Click on a component and in the third vertical section, fill in the details of the component such as *Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/ Class Column Name* and *Taxonomies*.
+#. Click on a component and in the third vertical section, fill in the details of the component such as *Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/Class Column Name* and *Taxonomies*.
    Perform this step for each component then click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_modelertodesignworkflow_clickeachcomponent.PNG
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
