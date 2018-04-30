@@ -7,9 +7,9 @@ The Tasks to Complete Actions feature automates the assigning of tasks to users 
 ====================      ===============================================================================================================================================================
 **Key Term:**              * **Workflow Tasks:** are tasks assigned to users depending on the business logic arranged through the Workflow Modeler.
                              These tasks will allow the Modeler to model complex custom actions through Tasks.
-                             Custom actions for different users will be managed through the Workflow Tasks.
+                             Custom actions for different users that are required in the process will be managed through the Workflow Tasks.
 
-**Description:**           * Workflow Tasks automate the process of assigning the tasks to the users.
+**Description:**           * Workflow Tasks automate the process of assigning the tasks to the users that will allow easy management for these tasks.
 
 **Related topics:**        * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
                            * :doc:`View Tasks and Products Responsible </feature/product_feature/mdm/collaboration/workflowworkbench/viewtasksandproductsresponsible>`
@@ -50,7 +50,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the details on the window that will pop up like *Name* and *Event Type*. Click the **Create** button.
+#. Provide the details on the window that will pop up like the *Name* and *Event Type*. Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_providethedetailsonthewindow.PNG
 |
@@ -59,7 +59,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Once the button is clicked, a new window will appear where the workflow can be defined. Drag and drop notations from the *Workflow Modeler* to create the process.
+#. Once the button is clicked, a new window will appear where the workflow can be created. Drag and drop notations from the *Workflow Modeler* to create the process.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_oncethebuttonisclicked.PNG
 |
@@ -95,7 +95,7 @@ To do this feature, follow these steps:
 
 
 #. Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc.
-   Do this by clicking on the icon that looks like a wrench.
+   Do this by clicking on the **Change Type** icon (icon that looks like a wrench).
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_addingatasknotation.PNG
 |
