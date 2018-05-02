@@ -5,5 +5,10 @@ Perspective and Resolution Variants
 .. toctree::
    :maxdepth: 1
 
+<<<<<<< HEAD
    perspectivevariant
    resolutionvariant
+=======
+    perspectivevariant
+    resolutionvariant
+>>>>>>> Brian_DAMVideos_04232018

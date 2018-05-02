@@ -9,6 +9,10 @@ Digital Asset Management (DAM)
    seasonalmoodmotives
    bulkimportassets
    videos
+<<<<<<< HEAD
    perspectiveresolutionvariants/index
+=======
+   perspectiveresolutionvariants
+>>>>>>> Brian_DAMVideos_04232018
    bulkexportofassets
    documents
