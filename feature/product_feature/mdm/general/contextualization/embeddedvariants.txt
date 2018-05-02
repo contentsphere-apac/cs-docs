@@ -4,21 +4,22 @@ Embedded Variants within Contexts
 Embedded Variants within Context is a feature that allows users to create a variant embedded within a product. The variant is only applicable within the context of that product.
 
 
-===================  =============================================================================================================================================================
+===================    =============================================================================================================================================================
 
-**Key Term:**            * **linked variant** *(product type)* A variant which belongs to a Product.
+**Key Term:**          * **Linked variant:** *(product type)* A variant which belongs to a Product.
 
-**Description:**     * Embedded Variants enable the user to create variants for a product in terms of a context.
-                     * A product can have several variants, and these variants can be distinguished based on a context.
+**Description:**       * Embedded Variants enable the user to create variants for a product in terms of a context.
+                       * A product can have several variants, and these variants can be distinguished based on a context.
 
-**Related topics:**  * :doc:`Target and Channel Contextualization </feature/product_feature/mdm/general/contextualization/targetandchannel>`
+**Related topics:**    * :doc:`Target and Channel Contextualization </feature/product_feature/mdm/general/contextualization/targetandchannel>`
 
-**Application:**     * A product can have a number of variants with the master product representing the group of products.
-                     * *Example:*
+**Application:**       * A product can have a number of variants with the master product representing the group of products.
+                       * *Example:*
 
-                          A fruit juice can be available in various packaging variants such as single, pack of 4 or pack of 6.
-                          In this example, the packaging is a context of the type tag based on which the product is having its variants.
-===================  =============================================================================================================================================================
+                            A fruit juice can be available in various packaging variants such as single, pack of 4 or pack of 6.
+                            In this example, the packaging is a context of the type tag based on which the product is having its variants.
+
+===================    =============================================================================================================================================================
 
 
 How to do: Embedded Variants within Contexts
@@ -36,11 +37,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Fill in the appropriate data and add images for the product and its variants.
 
 .. image:: /feature/_images/mdmimages/embeddedvariants_filldata.PNG
 |
 |
+
 
 #. Click on the context icon found next to the home icon.
 
@@ -48,11 +51,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on the **Create Variant** button.
 
 .. image:: /feature/_images/mdmimages/embeddedvariants_clickplusiconcreatevariant.PNG
 |
 |
+
 
 #. Select the appropriate tags, select the name of the variant, and click **Save**.
 
@@ -60,11 +65,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Fill in the data for the variant.
 
 .. image:: /feature/_images/mdmimages/embeddedvariants_filldataforvariant.PNG
 |
 |
+
 
 #. Click on the Camera icon to add the image.
 
@@ -72,15 +79,18 @@ To do this, follow these steps:
 |
 |
 
+
 #. Select the image from the asset selection of the parent products and click **OK**.
 
 .. image:: /feature/_images/mdmimages/embeddedvariants_selectimage.PNG
 |
 |
 
+
 #. Click **Save**.
 
 |
+
 
 #. Click on the **Back** button at the top left corner.
 
@@ -88,9 +98,11 @@ To do this, follow these steps:
 |
 |
 
+
 #. The variant looks similar to the image below. Take note that users can create several embedded variants.
 
 .. image:: /feature/_images/mdmimages/embeddedvariants_checkoutput.PNG
+|
 |
 
 

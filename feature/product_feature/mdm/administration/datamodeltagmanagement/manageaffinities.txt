@@ -5,7 +5,8 @@ Manage Affinities lets you show the right products to the right persona.
 
 
 ====================    =============================================================================================================================================================
-**Key Term**            * **Tags**: Properties that describe the products.
+**Key Term:**            * **Tags**: Properties that describe the products.
+
 **Description:**        * Criteria of relevancy must be established when presenting products since different personas can have different preferences or affinities.
                         * Even products carry affinities like some products are suitable during winter while some are intended for summer.
                         * Affinity-based tags allow you to show the products that correspond to a persona.

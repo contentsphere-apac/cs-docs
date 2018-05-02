@@ -1,7 +1,6 @@
 ============================
 Check for Erroneous Products
 ============================
-
 The Check for Erroneous Products is a feature that can be used by users to view all the products, flagged with errors and warnings so that corrective actions can be taken.
 
 
@@ -30,19 +29,20 @@ How To: How to add rules in supplier products by user
 ==============================================================
 To do this, follow these steps:
 
+
 #. Login to ContentSphere and click **Dashboard** to explore the products.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboardb.PNG
-
 |
 |
 
-#. Click **Catalog**
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalogb.PNG
+#. Click **Catalog**.
 
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalogB.PNG
 |
 |
+
 
 #.  Select a product (in this demo, we selected "Chino Shorts" product). The user displays supplier products in the catalog.
 
@@ -50,12 +50,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. The user also verifies the content and properties of the product and takes corrective actions.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatastewardb.PNG
+|
+|
 
-|
-|
 
 .. image:: /feature/_images/pepimages/line-png-32.PNG
    :alt: Contentsphere line

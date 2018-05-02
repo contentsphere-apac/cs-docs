@@ -5,7 +5,7 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 
 
 ====================    =============================================================================================================================================================
-**Key Term**            * **Property**: *(class within data model)* A property is a field used to describe a product.
+**Key Term:**            * **Property**: *(class within data model)* A property is a field used to describe a product.
                           It comes in several different types: *Name of Product, Price, Description*.
 
 **Description:**        * This feature  is used to create a property with many possible values.

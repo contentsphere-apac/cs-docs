@@ -113,9 +113,12 @@ Every mobile phone product in your system can be given this Attribution Class.  
 
 Below are examples of Attribution Classes and potential properties that they may hold.  Each class is fully customizable through the *Settings* backend.
 
+|
 
 Attribution Class examples with Properties
 *******************************************
+
+|
 
 #. Electronics
     * Voltage

@@ -8,7 +8,7 @@ The Define Relationships feature provides the functionality to set up relationsh
 **Key Term:**             * **Classes**: Classes define base configurations for products. Each class that is given to a product allows that product to have a more precise definition.
                             There are multiple levels of classes that can be used in conjunction
 
-                            * *Example*
+                            * *Example:*
 
                                     Product, Single Article
 
@@ -36,11 +36,13 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Go to the *Relationship Configuration* tab.
 
 .. image:: /feature/_images/mdmimages/definerelationships_gototherelationshipsconfiguration.PNG
 |
 |
+
 
 #. Create a new relationship by clicking the "+" icon.
 
@@ -51,6 +53,7 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Provide a name for the relationship and then, select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
    In the example shown, a relationship is created for *Article* and the *Region* articles.
 
@@ -58,11 +61,13 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Provide the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
 .. image:: /feature/_images/mdmimages/definerelationships_providethelabelandcardinality.PNG
 |
 |
+
 
 #. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
@@ -70,16 +75,20 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Once done, click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/definerelationships_clickonthesavebutton.PNG
 |
 |
 
+
 #. Once saved, view that the relationship is applied and ready.
 
 .. image:: /feature/_images/mdmimages/definerelationships_oncesavedviewtherelationship.PNG
 |
+|
+
 
 *Note: The Class and Cardinality will not be editable once the relationship is saved.*
 

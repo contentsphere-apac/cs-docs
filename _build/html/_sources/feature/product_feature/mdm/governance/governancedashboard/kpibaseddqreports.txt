@@ -7,6 +7,7 @@ which enables the designated users to take proper corrective actions.
 
 ===================     =======================================================================================================================================================================
 **Key Term:**           * **Administrator:** *(user type, customer role)* A technical specialist who configures a software system.
+
 **Description:**        * Data Quality Reports or Dashboards can be generated for each user/role in the system that shows a brief overview of all the products.
                         * These reports help a user understand the products in the system and show errors in the system (if there are any).
                         * The Data Quality Report gives a role a summary of all the products in the system that enables a user to take proper corrective actions
@@ -24,9 +25,12 @@ which enables the designated users to take proper corrective actions.
 
 ===================     =======================================================================================================================================================================
 
+
 How to do: KPI Based DQ Reports
 =============================
 To do this, follow these steps:
+
+|
 
 #. Click **Administration** icon.
 

@@ -5,19 +5,12 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 
 ===================     =======================================================================================================================================================================
-<<<<<<< HEAD
-**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies that help in categorizing products.
-                        * The primary function of Manage Masters is reusing the tags in various sub-taxonomies.
-
-**Related topics:**     * :doc:`Managing Tag Hierarchies </feature/product_feature/mdm/administration/hierarchiesmastertagbasedhierarchy/managingtaghierarchies>`
-=======
 **Key Term:**           * **Tags**: Properties that describe the products.
 
 **Description:**        * Master Tags allow users to make master tags and subtags in taxonomies which help in categorizing products.
                         * The primary function of Manage Masters is that the tags can be reused in various sub-level taxonomies.
 
 **Related topics:**     * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
->>>>>>> nadia_related_topics_link_03062018
 
 **Application:**        * Once a Master Tag is created, it can be repeatedly used in multiple hierarchical levels, making it convenient for users.
                         * *Example:*
@@ -27,15 +20,19 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 ===================     =======================================================================================================================================================================
 
+
 How to do: Manage Masters
 =============================
 To do this, follow these steps:
 
-#. Click   **Administration** icon.
+|
+
+#. Click  **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_gotoadmin.PNG
 |
 |
+
 
 #. Click *Data Model* tab.
 
@@ -43,11 +40,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click **Properties** to view the dropdown menu.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickprop.PNG
 |
 |
+
 
 #. Click **Master** on the dropdown menu.
 
@@ -66,10 +65,12 @@ To do this, follow these steps:
 |
 |
 
+
 #.      Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
 |
 |
+
 
 #.      Click **Create tag value** to create subtag value.
 
@@ -77,17 +78,20 @@ To do this, follow these steps:
 |
 |
 
+
 #.      Enter a  name for the subtag and click **CREATE**.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatesub.PNG
 |
 |
 
+
 #.      View the created tags.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_viewtags.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

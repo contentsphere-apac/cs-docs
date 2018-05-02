@@ -1,30 +1,18 @@
-=========================================
+==========================================
 Manage Product Definitions across Systems
 ==========================================
 The Manage Product Definitions across Systems feature is a feature that allows a user to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
 
 
 ===================     =======================================================================================================================================================================
-<<<<<<< HEAD
-**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
-                        * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
-
-**Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
-
-                        *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
-
-=======
-
 **Key Term:**           * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
                         * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
+                        * :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
-                        *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
-
->>>>>>> nadia_related_topics_link_03062018
 **Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 
@@ -36,8 +24,8 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 
 
 How to do:  Define Products Across the Systems
-===========================================================
-To do this,  follow these steps:
+===============================================
+To do this, follow these steps:
 
 
 #. Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
@@ -46,11 +34,13 @@ To do this,  follow these steps:
 |
 |
 
+
 #. Click **Catalog**.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickcatalog.PNG
 |
 |
+
 
 #. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
 
@@ -58,5 +48,11 @@ To do this,  follow these steps:
 |
 |
 
-Then, Data Steward can operate the system and manage the supplier's onboarding catalog products.
-Once the Products are  quality checked, data steward can transfers the products to the PIM.
+
+*Note: Then, Data Steward can operate the system and manage the supplier's onboarding catalog products. Once the Products are  quality checked, data steward can transfers the products to the PIM.*
+
+|
+|
+
+.. image:: /feature/_images/pepimages/line-png-32.PNG
+   :alt: Contentsphere line

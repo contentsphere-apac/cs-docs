@@ -4,16 +4,16 @@ Drill Down for KPI Reports
 Drill Down for KPI Reports is a data governance feature that sets up drill down criteria for DQ (Data Quality) reports so that responsible users can explore the quality issues.
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * Different levels can be maintained for the dashboard to dive in the report and get more enhanced review of the report.
                         * A user or supplier can have a detailed view of all the products drilled down in the report that allows a user to explore the quality issues.
 
-**Related topics:**
-                        * :doc:`Monitor Data Quality</feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
+**Related topics:**     * :doc:`Monitor Data Quality</feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
                         * :doc:`KPI-based DQ Reports </feature/product_feature/mdm/governance/governancedashboard/drilldownforkpireports>`
 
+
 **Application:**        * This feature helps the user or supplier to have an in-depth DQ report for all the products available.
-.
                         * A user or supplier can narrow down on the products with quality issues. This can be based on a *Taxonomy* or a *Tag*.
                         * *Example:*
 
@@ -22,15 +22,19 @@ Drill Down for KPI Reports is a data governance feature that sets up drill down 
 
 ===================     =======================================================================================================================================================================
 
+
 How to do: Drill Down for KPI Reports
 ======================================
 To do this, follow these steps:
 
-#. Click   **Administration** icon.
+|
+
+#. Click  **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_gotoadmin.PNG
 |
 |
+
 
 #. Click  *Data Governance* tab from the top.
 
@@ -38,11 +42,13 @@ To do this, follow these steps:
 |
 |
 
-#.  Click   **KPIs**.
+
+#. Click  **KPIs**.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickkpi.PNG
 |
 |
+
 
 #. Click the '**+**' icon at the top right to create a new KPI.
 
@@ -50,44 +56,51 @@ To do this, follow these steps:
 |
 |
 
-#.   Enter a name and code(optional). Then, click  **CREATE** to continue.
+
+#. Enter a name and code(optional). Then, click  **CREATE** to continue.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_entername.PNG
 |
 |
 
-#.      Once the KPI is created, it appears in the list of KPI. Click the **Edit** icon.
+
+#. Once the KPI is created, it appears in the list of KPI. Click the **Edit** icon.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_edit.PNG
 |
 |
 
-#.      On the *KPI Information* tab, click to select **Class** and **Taxonomy**.
+
+#. On the *KPI Information* tab, click to select **Class** and **Taxonomy**.
 
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_selclassandtax.PNG
 |
 |
 
-#.     Add the tags or taxonomies in the selected KPI drilled down levels.
+
+#. Add the tags or taxonomies in the selected KPI drilled down levels.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_addtaxtag.PNG
 |
 |
 
-#.     Click **SAVE** to save the changes.
+
+#. Click **SAVE** to save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clicksave.PNG
 |
 |
 
-#.     Click **Explore** to go back to the dashboard.
+
+#. Click **Explore** to go back to the dashboard.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clickdash.PNG
 |
 |
-#.     View the  created dashboard. It drills down in the KPI, click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
 
+
+#. View the  created dashboard. It drills down in the KPI, click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_cviewkpi.PNG
 |

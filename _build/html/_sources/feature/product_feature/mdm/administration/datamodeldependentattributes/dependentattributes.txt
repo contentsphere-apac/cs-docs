@@ -33,7 +33,7 @@ To configure a dependent attribute, follow the steps provided:
 
 |
 
-#. Log in to *Contentsphere* and click on the **Administration** button to go to the configuration panel.
+#. Log in and click on the **Administration** button to go to the configuration panel.
 
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_logintocontentsphere.PNG
 |

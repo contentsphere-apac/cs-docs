@@ -1,12 +1,11 @@
-===============
+================
 Multilingual UI
-===============
-
+================
 Multilingual UI is a feature that provides translation capability for UI menu items so that it can be used in multiple languages.
 
-===================  ============================================================================================================================================================================
 
-**Key Term:**			* **User Interface (UI):** The digital interface used to interact with the Contentserv software.
+===================     ============================================================================================================================================================================
+**Key Term:**			      * **User Interface (UI):** The digital interface used to interact with the Contentserv software.
 
 **Description:**        * The UI can be in various languages such as *French, German and Spanish*.
                         * The administrator can set up the data model (attributes, tags, classes) in various languages so that it can be understood by users in multiple countries or regions.
@@ -19,18 +18,21 @@ Multilingual UI is a feature that provides translation capability for UI menu it
 
                             The administrator wants the UI to be in French for a French user. The adminstrator configures translations to the UI labels in the administration section. When the user selects their desired language, the UI of the system will be translated.
 
-===================  ============================================================================================================================================================================
+===================     ============================================================================================================================================================================
+
 
 How to do: Manage Multilingual UI
 =================================
 To do this, follow these steps:
 
 |
+
 #. Go to **Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_gotosettings.PNG
 |
 |
+
 
 #. Click *Translations* tab.
 
@@ -38,17 +40,20 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click  **Application Labels**.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_selapplabel.PNG
 |
 |
 
+
 #. Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_entertrans.PNG
 |
 |
+
 
 #.  Logout  and login again.
 
@@ -60,11 +65,13 @@ To do this, follow these steps:
 |
 |
 
+
 #.   On the login page, select your desired language from the flyout  on the lower right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_login.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

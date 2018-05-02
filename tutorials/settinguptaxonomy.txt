@@ -69,13 +69,12 @@ Icons can also be added to the Taxonomy.
     |
     |
 
-<<<<<<< HEAD
+|
+
 | :doc:`Previous: Create a New Product </tutorials/createnewproduct>`
 | :doc:`Next: What is a Data Model? </tutorials/whatisadatamodel>`
 
 |
-=======
->>>>>>> nadia_related_topics_link_03062018
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

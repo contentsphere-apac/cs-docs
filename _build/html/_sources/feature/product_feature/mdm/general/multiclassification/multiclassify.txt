@@ -1,39 +1,20 @@
 =======================
 Multi-classify Objects
 =======================
-
 The Multi-classify Objects feature provides users the ability to add multiple classes to a product.
 This enables better categorization of products as well as inheritance of relevant properties and attributes.
 
-
-<<<<<<< HEAD
-===================     =============================================================================================================================================================
-**Key Terms:**          * **Nature Class:** A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include *Single Article, Product, Bundle,* or other custom-made product types.
-                        * **Attribution Class:** A class that adds specific attributes to the product it is assigned to. For example, a *Mobile Phone* class may add attributes for *Screen Size, Memory Size, Operating System,* etc.
-
-=======
 
 ====================    =================================================================================================================================================================================================================================================================
 **Key Term:**           * **Nature Class:** A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include *Single Article, Product, Bundle,* or other custom-made product types.
                         * **Attribution Class:** A class that adds specific attributes to the product it is assigned to. For example, a *Mobile Phone* class may add attributes for *Screen Size, Memory Size, Operating System,* etc.
 
->>>>>>> nadia_related_topics_link_03062018
 **Description:**        * To multi-classify the product, we add multiple attribution classes to the product in addition to the single Nature Class. Attribution classes contain detailed descriptive properties for the product.
                         * The user is able to define the product further by adding properties based on different attribution classes.
                         * Classifying a product with classes aids in finding that feature as well as giving the product access to class-specific sets of attributes and properties.
 
-<<<<<<< HEAD
-**Related topics:**     * :doc:`Property Collections </feature/product_feature/mdm/administration/datamodelpropertycollections/propertycollections>`
-                        * :doc:`How Classes Work </tutorials/howclasseswork>` and *Attribution Classes with attributes and tags*
-                        * :doc:`Inheritance and Data Transfer </feature/product_feature/mdm/administration/inheritanceanddatatransfer/index>`
-
-=======
-
 **Related topics:**     * :doc:`Improve Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                         * :doc:`Product Classification via Taxonomies </feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies>`
-
-
->>>>>>> nadia_related_topics_link_03062018
 
 **Application:**        * Attribution classes, which are also known as *Non-nature* classes, contain more detailed information about the products. The *Nature* class would only have general properties.
                         * The attribution class would define the product more in detail.
@@ -43,13 +24,7 @@ This enables better categorization of products as well as inheritance of relevan
 															whereas an attribution class, *Beverages* would give details regarding beverages such as *volume and can size*.
 															As for another class, *Energy Drinks*, it would give properties such as *nutrition contents and caffeine contents*.
 
-<<<<<<< HEAD
-===================     =============================================================================================================================================================
-=======
 ====================    =================================================================================================================================================================================================================================================================
-
-
->>>>>>> nadia_related_topics_link_03062018
 
 
 How to do: Multi-classify Objects
@@ -66,11 +41,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click **Single Article**.
 
 .. image:: /feature/_images/mdmimages/multiclassify_singlearticle.PNG
 |
 |
+
 
 #. Enter the name of the single article.
 
@@ -78,11 +55,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. To add a Non-Nature class or Attribution class, click **Add Class**.
 
 .. image:: /feature/_images/mdmimages/multiclassify_addclass.PNG
 |
 |
+
 
 #. Select a class from the drop-down list.
 
@@ -92,6 +71,7 @@ To do this, follow these steps:
 |
 |
 
+
 #. To add another attribution class, click **Add Class** and select from the list.
 
 .. image:: /feature/_images/mdmimages/multiclassify_addclassagain.PNG
@@ -99,6 +79,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/multiclassify_addclassagain2.PNG
 |
 |
+
 
 #. To switch templates from nature class to non-nature class, click on the drop-down list and select an option, for example *Beverages*.
 

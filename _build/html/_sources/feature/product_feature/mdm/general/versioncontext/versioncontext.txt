@@ -41,7 +41,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button
+#. Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype.PNG
 |
@@ -119,8 +119,6 @@ To do this feature, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton2.PNG
 |
 |
-
-
 
 
 
