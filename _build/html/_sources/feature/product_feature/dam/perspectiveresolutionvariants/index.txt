@@ -6,9 +6,14 @@ Perspective and Resolution Variants
    :maxdepth: 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
    perspectivevariant
    resolutionvariant
 =======
     perspectivevariant
     resolutionvariant
 >>>>>>> Brian_DAMVideos_04232018
+=======
+    perspectivevariant
+    resolutionvariant
+>>>>>>> origin/Brian_DAMDocuments_04232018

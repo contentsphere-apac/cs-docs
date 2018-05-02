@@ -10,9 +10,13 @@ Digital Asset Management (DAM)
    bulkimportassets
    videos
 <<<<<<< HEAD
+<<<<<<< HEAD
    perspectiveresolutionvariants/index
 =======
    perspectiveresolutionvariants
 >>>>>>> Brian_DAMVideos_04232018
+=======
+   perspectiveresolutionvariants
+>>>>>>> origin/Brian_DAMDocuments_04232018
    bulkexportofassets
    documents
