@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ===============================
 Digital Asset Management (DAM)
 ===============================
+=======
+=============================
+Data Asset Management (DAM)
+=============================
+>>>>>>> Mon_BulkImportofAssets_04232018
 
 .. toctree::
    :maxdepth: 1
@@ -11,6 +17,7 @@ Digital Asset Management (DAM)
    videos
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
    perspectiveresolutionvariants/index
 =======
    perspectiveresolutionvariants
@@ -18,5 +25,8 @@ Digital Asset Management (DAM)
 =======
    perspectiveresolutionvariants
 >>>>>>> origin/Brian_DAMDocuments_04232018
+=======
+   perspectiveresolutionvariants
+>>>>>>> Mon_BulkImportofAssets_04232018
    bulkexportofassets
    documents

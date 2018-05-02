@@ -1,4 +1,87 @@
 =======================
 Bulk Import of Assets
 =======================
-The Bulk Import of Assets
+The Bulk Import of Assets feature is a DAM feature that allows importing of digital assets in bulk into the system.
+The digital assets that may be imported in DAM are the following: *Images, Documents, and Videos*.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **DAM:** Digital Asset Management offers a solution to enterprises to store, organize, find, and retrieve digital files.
+                             Digital files in the DAM are linked to PIM through relationships.
+
+**Description:**           * This feature allows a user to upload assets (*images, documents, videos*) in bulk.
+
+**Related topics:**        * :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkexportofassets>`
+                           * :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+                           * :doc:`Documents: .docx, .pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+                           * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+
+**Application:**           * A user can upload images in bulk and at the same time, upload multiple videos and documents to the system.
+                           * *Example:*
+
+                               Supplier A has about 5 images, 20 videos, and 30 documents to be uploaded to the system.
+                               He can upload everything at the same time by using the bulk import feature.
+
+====================      ===============================================================================================================================================================
+
+
+How to do: Bulk Import of Assets
+==================================
+To import assets in bulk, follow these steps:
+
+|
+
+#. Log in and click on the **Explore** icon.
+
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_login.PNG
+|
+|
+
+
+#. Click on **DAM** from the selection on the left.
+
+.. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonDAM.PNG
+|
+|
+
+
+#. Click on the **Bulk Upload** button.
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_clickonthebulkupload.PNG
+|
+|
+
+
+#. Once clicked, an *Upload Assets* window will pop up.  Provide the details like: *Class and Collections (optional)*.
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets.PNG
+|
+|
+
+
+#. Select *Image* for the *Class* field.  Once selected, click the **Next** button.
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets2.PNG
+|
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_onceclickedanuploadassets3.PNG
+|
+|
+
+
+#. Once the button is clicked, a new window will open. In this window, select the assets to be uploaded. Select the files and click **Open**.
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_oncethebuttonisclicked.PNG
+|
+|
+
+
+
+*Note: Check that the assets are added successfully. You may select as many images, documents, or videos to be uploaded to the system.*
+
+.. image:: /feature/_images/damimages/cs_bulkimportofassets_viewtheassets.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
