@@ -1,10 +1,11 @@
-==========================================
+=========================================
 Manage Product Definitions across Systems
 ==========================================
 The Manage Product Definitions across Systems feature is a feature that allows a user to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
 
 
 ===================     =======================================================================================================================================================================
+<<<<<<< HEAD
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
                         * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
 
@@ -12,6 +13,18 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 
                         *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
+=======
+
+**Key Term:**           * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
+**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
+                        * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
+
+**Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
+
+                        *  :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+
+>>>>>>> nadia_related_topics_link_03062018
 **Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 

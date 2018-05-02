@@ -5,6 +5,8 @@ The Data Quality Rule feature provides the functionality to create and set rules
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**           * **Administrator:** *(user type, customer role)* A technical specialist who configures a software system.
 **Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
                         * This feature allows data quality rules to be customized.
                         * This feature has two main types of rule: *Rule Violation and Normalization*.
@@ -12,7 +14,7 @@ The Data Quality Rule feature provides the functionality to create and set rules
                            **Rule Violation:** alerts a user about a violated rule with an error message.
                            **Normalization:** reduces data redundancy and improves the data integrity.
 
-**Related topics:**     * *Must/Should Attributes*
+**Related topics:**     * :doc:`Must/Should Attributes </feature/product_feature/mdm/governance/mustshouldattributes>`
 
 **Application:**        * Data Quality Rule restricts the entry of unacceptable data in the system.
                         * Data Quality Rule reduces the effort in identifying data quality issues in many common information domains.

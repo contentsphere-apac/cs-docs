@@ -6,11 +6,12 @@ The linking between article-to-article or product-to-product is bi-directional.
 
 
 ====================      ===============================================================================================================================================================
+**Key Term:**             * **Tabs**: *(property group)* Tabs are used to categorize the properties shown on a product’s page.
 **Description:**          * This feature allows the linking of a product to other different products (e.g. *Related Products, others,* etc).
                             The related products will be visible in the product relationship side. The product is visible in the relationship tab of the related products, too.
 
-**Related topics:**       * *Manage Media Links*
-                          * *Define Relationships*
+**Related topics:**       * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+                          * :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
 
 **Application:**          * Define Article Links will allow a product to be linked to similar products in the system.
                             By setting relationships between products, an administrator can set *Related Products* for a product.

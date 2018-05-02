@@ -5,15 +5,26 @@ The Import/Export Data via Endpoints is a feature that provides a *Data Integrat
 
 
 ===================     =======================================================================================================================================================================
+<<<<<<< HEAD
 **Key Term**            * **Endpoint**: an endpoint is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+=======
+
+**Key Term:**            * **Endpoint:** *(concept)* Gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+>>>>>>> nadia_related_topics_link_03062018
 
 **Description:**        * The dashboard provides an at-a-glance view of the key indicators in the process or system.
                         * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
                           It will show key indicators for the products that are transferred through the process.
 
+<<<<<<< HEAD
 **Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
                         * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+=======
+**Related topics:**     * ** :doc:`Manage Endpoints for a System </eature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+                        * *Manage System Profile*
+                        * *Monitor Data Quality*
+>>>>>>> nadia_related_topics_link_03062018
 
 **Application:**        * Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
                           The supplier/user can then take appropriate corrective measures and decisions.

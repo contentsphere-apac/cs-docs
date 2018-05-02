@@ -18,7 +18,7 @@ Users, Access, Folder Structure
 
 
 Test Client
-===========
+============
 
 +----------------------------------+--------------------------------------------------+
 | Component                        | Value                                            |
@@ -27,7 +27,7 @@ Test Client
 +----------------------------------+--------------------------------------------------+
 | RAM                              | 8 GB Min                                         |
 +----------------------------------+--------------------------------------------------+
-| Document Storage Folder With RWX | ~Desktop\ContentSphere                           |
+| Document Storage Folder With RWX | ~Desktop\Contentserv                             |
 +----------------------------------+--------------------------------------------------+
 | Applications With Admin Access   | * Java 8 : jdk-8u121-windows-x64.exe             |
 |                                  | * Putty : to access all VMs                      |

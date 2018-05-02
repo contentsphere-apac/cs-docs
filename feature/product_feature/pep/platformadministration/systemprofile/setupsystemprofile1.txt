@@ -5,11 +5,15 @@ The System Profile is an admin feature that manages the *System* on the platform
 
 
 ===================     =======================================================================================================================================================================
+
+**Key Term:**            * **Endpoint:** *(concept)* Gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+
+
 **Description:**         * An admin can create profiles for an organization that will contain its selected on-board and off-board endpoints.
                          * The profile created for the organization is called a *System*.
                          * These systems will be allotted to a particular organization and can be customized for the organization's specific roles.
 
-**Related topics:**      * *Manage System Profile*
+**Related topics:**      * :doc:`System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
 
 **Application:**         * An organization can have multiple end-to-end systems like *CRM, ERP,* etc. These systems will have their own inbound and outbound endpoints.
                          * All these systems (along with the endpoints) can be allotted to the organization and can be further customized for the roles of that particular organization.

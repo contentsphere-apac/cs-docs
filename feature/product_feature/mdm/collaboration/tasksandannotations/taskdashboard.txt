@@ -5,12 +5,16 @@ The Task Dashboard is where the created tasks can be viewed by the users. The ta
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Tabs:** *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+
 **Description:**        * This feature provides the capability to view and edit tasks per category.
                         * This feature can restrict access to tasks depending on the permission level given to a user.
 
-**Related topics:**     * *Tasks and Annotations*
-                        * *Public/Private Tasks*
-                        * *RACI-VS Tasks*
+**Related topics:**     * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/tasksandannotations>`
+                        * :doc:`Public/Private Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/publicprivatetasks>`
+                        * :doc:`Public/Private Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
+
 
 **Application:**        * The Task Dashboard shows the various tasks (may be in categories) from different users which help in tracking the tasks.
                         * *Example:*

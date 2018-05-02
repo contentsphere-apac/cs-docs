@@ -7,6 +7,9 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
 
 
 ===================     =============================================================================================================================================================
+
+**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
 **Description:**        * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
                           (Example: *a single can of Red Bull)*
                         * **Sales unit** is any item that is sellable to the customer. (Example: *a single can of Red Bull, a pack of 24 Red Bull cans, and minced meat*)
@@ -15,7 +18,7 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
                           (Example: *a box or 30 beer bottles, a large box of vegetables)*
                         * Some products can be classified as sales unit and order unit.
 
-**Related topics:**     * *Manage Individual Articles*
+**Related topics:**     * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
 
 **Application:**        * Use these tags to distinguish whether an article is a sales unit or an order unit.
                         * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.

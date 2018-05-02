@@ -5,9 +5,12 @@ Manage Hierarchy via Relationship lets you set up relationships as links so that
 
 
 ====================    =============================================================================================================================================================
+**Key Term:**           * **Relationships**: *(property group)* A taxonomy is a way of classifying an organization’s products. A taxonomy is used to add a Product into the broader
+                          classification system of a store.
+                        * **Taxonomy**: A way of linking entities together from different domains (e.g. *PIM*, *MDM*, *DAM*) as well as within the same domain.
 **Description:**        * Based on the relationship between two entities, hierarchies can be set up for classifying related products.
 
-**Related topics:**     * *Product Classification via Taxonomies*
+**Related topics:**     * :doc:`Product Classification via Taxonomies </feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies>`
 
 **Application:**        * Easily classify based on the related articles.
                         * Search as to which articles are related.

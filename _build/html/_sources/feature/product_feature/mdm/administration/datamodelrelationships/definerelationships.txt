@@ -5,11 +5,18 @@ The Define Relationships feature provides the functionality to set up relationsh
 
 
 ====================      ===============================================================================================================================================================
+**Key Term:**             * **Classes**: Classes define base configurations for products. Each class that is given to a product allows that product to have a more precise definition.
+                            There are multiple levels of classes that can be used in conjunction
+
+                            * *Example*
+
+                                    Product, Single Article
+
 **Description:**          * This feature links two objects or entities in the system. An example of this linking is the relationship set for an *Article* to its target *Market*
                             or a *Market* to an active *Promotion*.
 
-**Related topics:**       * *Manage Media Links*
-                          * *Define Article Links*
+**Related topics:**       * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+                          * :doc:`Define Article Links </feature/product_feature/mdm/administration/datamodelrelationships/definearticlelinks>`
 
 **Application:**          * The Define Relationships will allow an administrator to link an article or a product to its target market, which can be a location or a group of
                             consumers that article/product is intended for.

@@ -6,7 +6,7 @@ Installation Guides
 Quick install guide
 ====================
 
-Before you can use Contentsphere, you'll need to get it installed. We have a
+Before you can use Contentserv, you'll need to get it installed. We have a
 :doc:`Deployment Planning </reference/deploymentplanning>` reference that covers all the
 possibilities required in planning the carrying out a complete installation,
 including the deployment of the application to a cloud service or on premise.
@@ -20,9 +20,9 @@ including the deployment of the application to a cloud service or on premise.
 Install prerequisites
 ======================
 
-Contentsphere requires a number of prerequisites to be in place including an installed
+Contentserv requires a number of prerequisites to be in place including an installed
 operating system and hypervisor. Refer to :doc:`Deployment Planning </reference/deploymentplanning>` for the details.
-Contentsphere has database dependencies and requires a database to be set up.
+Contentserv has database dependencies and requires a database to be set up.
 
 |
 
@@ -35,40 +35,40 @@ like *PostgreSQL, MySQL, or Oracle*. To install such a database, consult this do
 
 |
 
-Remove any old versions of Contentsphere
+Remove any old versions of Contentserv
 =========================================
 
-If you are upgrading your installation of Contentsphere from a previous version,
-you will need to :ref:`uninstall the old Contentsphere version before installing the new
-version <removing-old-versions-of-Contentsphere>`.
+If you are upgrading your installation of Contentserv from a previous version,
+you will need to :ref:`uninstall the old Contentserv version before installing the new
+version <removing-old-versions-of-Contentserv>`.
 
 |
 
-Install Contentsphere
+Install Contentserv
 ======================
 
-You have three easy options to install Contentsphere:
+You have three easy options to install Contentserv:
 
 * :ref:`Install an official release <installing-official-release>`.
   This is the best approach for most users.
 
-* Install a version of Contentsphere :ref:`provided by your operating system
+* Install a version of Contentserv :ref:`provided by your operating system
   distribution <installing-distribution-package>`.
 
 * :ref:`Install the latest development version
   <installing-development-version>`. This option is for enthusiasts who want
   the *latest and greatest* features and are not afraid of running a brand new code.
   You might encounter new bugs in the development version but reporting them
-  will help the development team of Contentsphere. Also, releases of third-party packages
+  will help the development team of Contentserv. Also, releases of third-party packages
   are less likely to be compatible with the development version than with the
   latest stable release.
 
 .. admonition:: Always refer to the documentation that corresponds to the
-    version of Contentsphere you're using!
+    version of Contentserv you're using!
 
     If you do either of the first two steps, keep an eye out for parts of the
     documentation marked **new in development version**. That phrase flags
-    features that are only available in development versions of Contentsphere, and
+    features that are only available in development versions of Contentserv, and
     they likely won't work with an official release.
 
 |

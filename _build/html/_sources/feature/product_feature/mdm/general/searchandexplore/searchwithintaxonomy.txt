@@ -5,14 +5,15 @@ The Search within Taxonomy feature allows a user to search (for an article or a 
 
 
 ===================     ===============================================================================================================================================================
+**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 **Description:**        * This feature allows a user to search for an item or to navigate the system.
                         * This feature provides a classification of products that gives a user the ease to search.
                         * This feature provides a user a hierarchy of objects in the Taxonomy that can be used
                           for navigation.
 
-**Related topics:**     * *Parametric Search*
-                        * *Multi-faceted Search*
-                        * *Group By*
+**Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
+                        * :doc:`Multi-faceted Search </feature/product_feature/mdm/general/searchandexplore/facetedsearch>`
+                        * :doc:`Group By </feature/product_feature/mdm/general/searchandexplore/groupby>`
 
 **Application:**        * This feature is used to search for a product using the taxonomy.
                         * *Example:*

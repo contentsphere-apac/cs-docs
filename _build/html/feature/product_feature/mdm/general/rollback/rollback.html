@@ -140,18 +140,25 @@
 <p>The Rollback feature allows a user to switch (or to revert) to a previous version of a product in the system.</p>
 <table class="docutils">
 <colgroup>
-<col width="11%" />
-<col width="89%" />
+<col width="5%" />
+<col width="95%" />
 </colgroup>
 <tbody valign="top">
-<tr class="row-odd"><td><strong>Description:</strong></td>
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
 <td><ul class="first last simple">
-<li>The rollback allows a user to go back to any version if the user/supplier wishes to revert back to previous changes.</li>
-<li>This feature can be accessed from within a product’s page under the ‘Timeline’ tab.</li>
+<li><strong>Rollback</strong>: A feature that enables the user to switch back to a desired version of a product.</li>
 </ul>
 </td>
 </tr>
-<tr class="row-even"><td><strong>Related topics:</strong></td>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>This is an enhancement to the basic <em>Rollback</em> feature, where when the user adds or remove any relationship/context to a product, it can be rolled back to the previous version.</li>
+<li>This feature allows the user <em>(retailer/supplier)</em> to compare various versions of the product, before deciding which version to rollback to.</li>
+<li>This feature allows the user <em>(retailer/supplier)</em> to preview the changes in the product versions.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
 <td><ul class="first last simple">
 <li><a class="reference internal" href="../../products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs.html"><span class="doc">Manage Virtual Catalogs</span></a></li>
 <li><a class="reference internal" href="../../governance/classificationandcategorization/improveproductclassifications.html"><span class="doc">Product Classifications</span></a></li>
@@ -159,17 +166,19 @@
 </ul>
 </td>
 </tr>
-<tr class="row-odd"><td><strong>Application:</strong></td>
+<tr class="row-even"><td><strong>Application:</strong></td>
 <td><ul class="first last">
-<li><p class="first">The Rollback feature is used to switch back to a desired version of a product.</p>
+<li><p class="first">The Rollback feature is used to switch back to the desired version of a product.</p>
 </li>
-<li><p class="first">This is an enhancement to the basic ‘Rollback’ feature, it allows the user add or remove any
-product relationship/context and return it back to the previous version.</p>
+<li><p class="first">This is an enhancement to the basic <em>Rollback</em> feature. It allows the user add or remove any product relationship/context and return it back to the previous version.</p>
+</li>
+<li><p class="first">This feature allows the user <em>(retailer/supplier)</em> to compare various versions of the product, before deciding which version to rollback to.</p>
+</li>
+<li><p class="first">This feature allows the user <em>(retailer/supplier)</em> to preview the changes in the product versions.</p>
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
-<div><p>Supplier can add commercial text in the ‘description’ for Toblerone Chocolates during Holiday season.
-Once the season is over, he can rollback to the  original description version.</p>
+<div><p>Retailer ‘A’ has made several changes in the product namely: deleted an image, changed the language preference, removed an attribute, etc. The Zoom in/out and compare  feature will help him examine those details across the product versions and compare these versions, before he decides to roll back to the desired one.</p>
 </div></blockquote>
 </li>
 </ul>
@@ -183,15 +192,15 @@ Once the season is over, he can rollback to the  original description version.</
 <ol class="arabic simple">
 <li>Go to <strong>PIM</strong>.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_clickpim.PNG" src="../../../../../_images/cs_rollbackb_clickpim.PNG" />
+<img alt="feature/_images/mdmimages/cs_rollback_gotopim2.PNG" src="feature/_images/mdmimages/cs_rollback_gotopim2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click to select the desired product for which you want to perform rollback operation (in this demo, we select ‘Orange bone toy’).</li>
+<li>Click to select the desired product for which you want to perform rollback operation.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_selectproduct.PNG" src="../../../../../_images/cs_rollbackb_selectproduct.PNG" />
+<img alt="../../../../../_images/cs_rollback_selectproduct.PNG" src="../../../../../_images/cs_rollback_selectproduct.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -199,77 +208,98 @@ Once the season is over, he can rollback to the  original description version.</
 <ol class="arabic simple">
 <li>Click on the <em>Relationships</em> tab.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_clickrelationship.PNG" src="../../../../../_images/cs_rollbackb_clickrelationship.PNG" />
+<img alt="../../../../../_images/cs_rollback_clickrelationship.PNG" src="../../../../../_images/cs_rollback_clickrelationship.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>In this demo, we will replace the image and roollback to the previous image.</li>
+<li>In this demo, we will remove the image and change an attribute.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_replaceimage.PNG" src="../../../../../_images/cs_rollbackb_replaceimage.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-<img alt="../../../../../_images/cs_rollbackb_replaceimage2.PNG" src="../../../../../_images/cs_rollbackb_replaceimage2.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-<img alt="../../../../../_images/cs_rollbackb_replaceimage3.PNG" src="../../../../../_images/cs_rollbackb_replaceimage3.PNG" />
+<img alt="feature/_images/mdmimages/cs_rollback_removeimage.PNG" src="feature/_images/mdmimages/cs_rollback_removeimage.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click on <strong>SAVE</strong> TO save to save the changes on the product.</li>
+<li>Click <strong>OK</strong> to save the changes.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_clicksave.PNG" src="../../../../../_images/cs_rollbackb_clicksave.PNG" />
+<img alt="feature/_images/mdmimages/cs_rollback_clickoksave.PNG" src="feature/_images/mdmimages/cs_rollback_clickoksave.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Go to <em>Relationship</em> tab.</li>
+<li>In the <em>Properties</em> Tab, change the price of the product (or any other attribute).</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_clickrelationship.PNG" src="../../../../../_images/cs_rollbackb_clickrelationship.PNG" />
+<img alt="feature/_images/mdmimages/cs_rollback_clickproperties.PNG" src="feature/_images/mdmimages/cs_rollback_clickproperties.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="feature/_images/mdmimages/cs_rollback_changepricing.PNG" src="feature/_images/mdmimages/cs_rollback_changepricing.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Go to the <em>Timeline</em> tab. The current version of the product would be with the latest version number on the top.</li>
+<li>Click on <strong>Save</strong> to save to save the changes on the product.</li>
 </ol>
-<blockquote>
-<div><img alt="../../../../../_images/cs_rollbackb_clicktimeline.PNG" src="../../../../../_images/cs_rollbackb_clicktimeline.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-<img alt="../../../../../_images/cs_rollbackb_timeline.PNG" src="../../../../../_images/cs_rollbackb_timeline.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-</div></blockquote>
-<ol class="arabic simple">
-<li>Click on the version before we replaced the image (in this demo, we selected ‘version 0 27th March, 2018’).</li>
-</ol>
-<img alt="../../../../../_images/cs_rollbackb_selectversion.PNG" src="../../../../../_images/cs_rollbackb_selectversion.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-<img alt="../../../../../_images/cs_rollbackb_clickrollback.PNG" src="../../../../../_images/cs_rollbackb_clickrollback.PNG" />
+<img alt="../../../../../_images/cs_rollback_clicksave.PNG" src="../../../../../_images/cs_rollback_clicksave.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Once the rollback has been confirmed, Relationship Tab opens, and the relationship is restored.View the image (now rereverted to the old version).</li>
+<li>Click <strong>Timeline</strong>. The current version of the product would be with the latest version number on the top.</li>
 </ol>
-<img alt="../../../../../_images/cs_rollbackb_viewimage.PNG" src="../../../../../_images/cs_rollbackb_viewimage.PNG" />
+<img alt="../../../../../_images/cs_rollback_clicktimeline.PNG" src="../../../../../_images/cs_rollback_clicktimeline.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on <strong>Zoom in</strong> icon to preview the changes in the product versions.</li>
+</ol>
+<img alt="feature/_images/mdmimages/cs_rollback_clickzoomin.PNG" src="feature/_images/mdmimages/cs_rollback_clickzoomin.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p>Select the versions (one or more) that you would like to compare the current version to (in this demo, we selected <em>‘Version 6’</em>).</p>
+<img alt="../../../../../_images/cs_rollback_selectversion.PNG" src="../../../../../_images/cs_rollback_selectversion.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on <strong>Compare</strong> icon.Then, and click <strong>OK</strong> to close the window.</li>
+</ol>
+<img alt="feature/_images/mdmimages/cs_rollback_clickcompare.PNG" src="feature/_images/mdmimages/cs_rollback_clickcompare.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="feature/_images/mdmimages/cs_rollback_clickcompareb.PNG" src="feature/_images/mdmimages/cs_rollback_clickcompareb.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p># Click <strong>Rollback</strong> icon of the selected version.</p>
+<img alt="../../../../../_images/cs_rollback_clickrollback.PNG" src="../../../../../_images/cs_rollback_clickrollback.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="feature/_images/mdmimages/cs_rollback_clickrollbackconfirm.PNG" src="feature/_images/mdmimages/cs_rollback_clickrollbackconfirm.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Once the rollback has been confirmed, go to  the <em>Properties</em> Tab, and the changes  is restored. View the image (now rereverted to the old version).</li>
+</ol>
+<img alt="../../../../../_images/cs_rollback_viewimage.PNG" src="../../../../../_images/cs_rollback_viewimage.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -340,7 +370,11 @@ Once the season is over, he can rollback to the  original description version.</
         </div>
       </div>
                 <h3>Last update:</h3>
+<<<<<<< HEAD
                 <p class="topless">May 02, 2018</p>
+=======
+                <p class="topless">Apr 26, 2018</p>
+>>>>>>> nadia_related_topics_link_03062018
             </div>
           </div>
         
@@ -351,7 +385,11 @@ Once the season is over, he can rollback to the  original description version.</
     <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
 
     <div id="ft">
+<<<<<<< HEAD
         <p class="topless">Last updated: May 02, 2018</p>
+=======
+        <p class="topless">Last updated: Apr 26, 2018</p>
+>>>>>>> nadia_related_topics_link_03062018
       <div class="nav">
     &laquo; <a href="index.html" title="Rollback">previous</a>
      |

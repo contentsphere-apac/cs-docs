@@ -5,15 +5,17 @@ The Public/Private Tasks feature allows a user to set a task to either *Public (
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Product Information Management (PIM)** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 **Description:**        * Tasks are action events created within an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
                           This feature allows a user to set a task to either *Public or Private*:
 
                               A **Public** task is shared among users.
                               A **Private** task is only for the user who created that task (and other users granted with permission to access the task).
 
-**Related topics:**     * *Tasks and Annotations*
-                        * *Task Dashboard*
-                        * *RACI-VS Tasks*
+**Related topics:**     * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/tasksandannotations>`
+                        * :doc:`Tasks Dashboards </feature/product_feature/mdm/collaboration/tasksandannotations/taskdashboard>`
+                        * :doc:`RACI-VS Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
 
 **Application:**        * An administrator can set a task to remind another user of an action that needs to be done on a particular day.
                         * *Example:*

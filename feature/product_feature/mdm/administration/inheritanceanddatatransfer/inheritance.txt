@@ -5,10 +5,12 @@ Inheritance via Taxonomy is a feature that allows an article or product to recei
 
 
 ====================    =============================================================================================================================================================
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * Inheritance defines a taxonomy, arranging the concepts from generalized to specialized.
                         * User can set the editable attributes and those that are inherited from the taxonomy.
 
-**Related topics:**     * *Linking Objects*
+**Related topics:**     * :doc:`Linking Objects </feature/product_feature/mdm/administration/inheritanceanddatatransfer/linkingobjects>`
 
 **Application:**        * *Example:*
 

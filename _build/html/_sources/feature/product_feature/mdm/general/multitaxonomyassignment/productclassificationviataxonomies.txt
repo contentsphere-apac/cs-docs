@@ -5,12 +5,15 @@ The Product Classification via Taxonomies feature provides the functionality to 
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * The feature associates a product to a taxonomy and then to another taxonomy that will classify the product to multiple taxonomies so that
                           there is a refined product classification.
                         * Taxonomies are structured hierarchies which can be used to classify the products in the system.
                         * Products can have multiple taxonomies set by a user to have a more refined classification and easier search.
 
-**Related topics:**     * *Multi-Taxonomy Assignment*
+**Related topics:**     * :doc:`Multi-Taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
 
 **Application:**        * This feature is used to easily classify, as well as, to search for a product with the help of taxonomy.
                         * *Example:*

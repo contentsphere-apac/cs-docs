@@ -5,14 +5,17 @@ Bulk Edit
 The Bulk Edit feature allows a user to change the values of multiple attributes/tags for multiple products in a single operation.
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
+
 **Description:**        * Bulk Edit can change the values of multiple attributes/tags for multiple products in a single operation.
                         * Bulk Edit can be used on similar or dissimilar types of products.
                         * Bulk Edit allows multiple attributes/tags to be edited in a single operation.
                         * Bulk Edit allows multiple attributes/tags to be changed and applied to products.
                         * Bulk Edit is accessed from the PIM main catalog view page.
 
-**Related topics:**     * *Search within Taxonomy*
-                        * *Group By*
+**Related topics:**     * :doc:`Search within Taxonomy </feature/product_feature/mdm/general/searchandexplore/searchwithintaxonomy>`
+                        * :doc:`Group By </feature/product_feature/mdm/general/searchandexplore/groupby>`
 
 **Application:**        * Bulk Edit is used to support a variety of actions, such as: *Editing, Labeling, Changing States, Moving, or Deleting*.
                         * Bulk Edit saves the user from manual work by editing products in a batch instead of one product at a time.

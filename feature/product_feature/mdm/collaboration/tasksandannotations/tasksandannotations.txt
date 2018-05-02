@@ -5,13 +5,16 @@ The Tasks and Annotations feature allows users to add tasks in the system.  It a
 
 
 ===================     ===============================================================================================================================================================
+
+**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
 **Description:**        * Tasks are action events created for an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
                         * The Tasks feature has a comment section where users can put comments or questions regarding the task.
                         * The Tasks feature also helps a user schedule different actions in the system.
 
-**Related topics:**     * *Task Dashboard*
-                        * *Public/Private Tasks*
-                        * *RACI-VS Tasks*
+**Related topics:**     * :doc:`Tasks Dashboards </feature/product_feature/mdm/collaboration/tasksandannotations/taskdashboard>`
+                        * :doc:`Tasks Dashboards </feature/product_feature/mdm/collaboration/tasksandannotations/publicprivatetasks>`
+                        * :doc:`RACI-VS Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
 
 **Application:**        * Tasks are created for action events related to articles or assets in the system.  These tasks can be for any event dedicated to any user.
                         * Tasks allow comments or notes from other users that will give more information on the action needed.

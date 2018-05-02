@@ -7,11 +7,13 @@ Manage PIDs lets you define articles that are a combination of other individual 
 
 
 ===================     =============================================================================================================================================================
+
+**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 **Description:**        * PID is a virtual product that groups a product line related to a brand.
                         * By managing PIDs, the related products of a seller or a brand can be grouped in one place.
 
-**Related topics:**     * *Embedded Variants within Context*
-                        * *Manage Data Transfer*
+**Related topics:**     * :doc:`Embedded Variants within Context </feature/product_feature/mdm/general/contextualization/embeddedvariants>`
+                        * :doc:`Manage Data Transfer </feature/product_feature/mdm/products/producttypespid/managedatatransfer>`
 
 **Application:**        * Form a group of related products.
                         * Use PIDs for a set of similar products that differ in one or two properties.

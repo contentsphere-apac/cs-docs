@@ -5,7 +5,7 @@ Getting help
    :alt: Contentserv log in screen
 
 Using this resource
-===================
+====================
 
 The Help Center holds everything you need to know about the **Contentserv** application suite in the form of
 training materials and guides.
@@ -17,7 +17,11 @@ the basis for the context sensitive help and tooltips within the application.
 
 * :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
   Start here if you’re new to **Contentserv** or training on the product as a user.
+<<<<<<< HEAD
   Also look at the **note** `new-to-contentsphere`_ below
+=======
+  Also look at the **note** `New-to-Contentserv`_ below
+>>>>>>> nadia_related_topics_link_03062018
 
 * :doc:`Feature guides </feature/index>` discuss key features and concepts at a fairly high level and provide
   useful background information and explanation, including key user stories.
@@ -33,10 +37,18 @@ the basis for the context sensitive help and tooltips within the application.
 .. image:: _images/line-png-32.png
    :alt: Contentserv log in screen
 
+<<<<<<< HEAD
 New to Contentserv
 ====================
 
 Are you new to Contentserv? This is the place to start!:
+=======
+
+New to Contentserv
+====================
+
+Are you new to Contentserv? This is the place to start:
+>>>>>>> nadia_related_topics_link_03062018
 
 #. **Newbie**
    :doc:`About the product <product/productlines>` |
@@ -54,6 +66,10 @@ Are you new to Contentserv? This is the place to start!:
 .. image:: _images/line-png-32.png
   :alt: Contentserv log in screen
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> nadia_related_topics_link_03062018
 Contentserv Product Lines
 ===========================
 Learn about some other core functionalities of the :doc:`Contentserv Product Lines <product/index>`:

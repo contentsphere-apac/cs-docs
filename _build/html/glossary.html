@@ -131,6 +131,24 @@
 <dt>administrator</dt>
 <dd><em>(user type, customer role)</em> A technical specialist who configures a software system.</dd>
 </dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<dl class="docutils">
+<dt>attribute</dt>
+<dd><em>(concept)</em> A data field which describes a product, can also use ‘property’.</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<dl class="docutils">
+<dt>attribution class</dt>
+<dd><em>(class type)</em> A class that adds specific attributes to the product it is assigned to.
+For example, a ‘Mobile Phone’ class may add attributes for Screen Size, Memory Size, Operating System etc.</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 </div>
 <div class="section" id="s-b">
 <span id="s-id2"></span><span id="b"></span><span id="id2"></span><h2>B<a class="headerlink" href="#b" title="Permalink to this headline">¶</a></h2>
@@ -233,7 +251,7 @@ You can use the data model to create a new product class in this case.</p>
 </dd>
 <dt>data steward</dt>
 <dd><em>(user type, customer role)</em> A data steward is a role within an organization responsible for utilizing an organization’s data governance processes
-to ensure suitablity of both content and metadata.</dd>
+to ensure suitability of both content and metadata.</dd>
 </dl>
 <div class="line-block">
 <div class="line"><br /></div>
@@ -258,7 +276,7 @@ Digital files in the DAM are linked to the PIM through relationships.</dd>
 <span id="s-id6"></span><span id="f"></span><span id="id6"></span><h2>F<a class="headerlink" href="#f" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
 <dt>fixed bundle</dt>
-<dd><p class="first"><em>(product type)</em> A group of products where the quanitity of each product is fixed.</p>
+<dd><p class="first"><em>(product type)</em> A group of products where the quantity of each product is fixed.</p>
 <ul class="last">
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
@@ -272,7 +290,16 @@ As these are in the same packaging, the customer cannot add more blades for that
 </div>
 <div class="section" id="s-g">
 <span id="s-id7"></span><span id="g"></span><span id="id7"></span><h2>G<a class="headerlink" href="#g" title="Permalink to this headline">¶</a></h2>
-<p>No glossary entries found.</p>
+<dl class="docutils">
+<dt>Golden Record</dt>
+<dd><em>(concept)</em> A Golden Record is a single, well-defined version of the data entity in an organization. There may be multiple sources/suppliers for a single product.
+Golden record feature allows you to combine and consolidate all matching products (duplicate products) in one single record.
+With the golden record, you always have exact and consistent, product data available.
+Golden Record uses matching and merging rules to consolidate the product details.</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 </div>
 <div class="section" id="s-h">
 <span id="s-id8"></span><span id="h"></span><span id="id8"></span><h2>H<a class="headerlink" href="#h" title="Permalink to this headline">¶</a></h2>
@@ -304,7 +331,7 @@ As these are in the same packaging, the customer cannot add more blades for that
 </ul>
 </dd>
 <dt>loose bundle</dt>
-<dd><p class="first"><em>(property type)</em> A group of products where the quanitity of each product can be defined by the retailer.</p>
+<dd><p class="first"><em>(property type)</em> A group of products where the quantity of each product can be defined by the retailer.</p>
 <ul class="last">
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
@@ -335,6 +362,14 @@ As these are in the same packaging, the customer cannot add more blades for that
 </li>
 </ul>
 </dd>
+<dt>match</dt>
+<dd><em>(process type)</em> Matching is a process of identifying duplicate records for all products.
+It compares the products based on defined attributes, tags, taxonomies, and classes and identifies duplicate records of a product.</dd>
+</dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<dl class="docutils">
 <dt>measurement property</dt>
 <dd><p class="first"><em>(property type)</em> A measurement property uses a predefined measurement standard.</p>
 <ul class="last">
@@ -345,11 +380,22 @@ As these are in the same packaging, the customer cannot add more blades for that
 </li>
 </ul>
 </dd>
+<dt>merge</dt>
+<dd><em>(process type)</em> Once the duplicate records are identified, they need to be merged to create the Golden Record.
+This record will be the best possible data representing current, complete and accurate view of customer information.
+Merging process determines what data elements and their values from duplicated data needs to be considered to create the Golden Record.</dd>
 </dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 </div>
 <div class="section" id="s-id14">
 <span id="id14"></span><h2>N<a class="headerlink" href="#id14" title="Permalink to this headline">¶</a></h2>
-<p>No glossary entries found.</p>
+<dl class="docutils">
+<dt>nature class</dt>
+<dd><em>(class type)</em> A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software.
+Nature Classes could include Single Article, Product, Bundle or other custom-made product types.</dd>
+</dl>
 </div>
 <div class="section" id="s-o">
 <span id="s-id15"></span><span id="o"></span><span id="id15"></span><h2>O<a class="headerlink" href="#o" title="Permalink to this headline">¶</a></h2>
@@ -359,7 +405,7 @@ As these are in the same packaging, the customer cannot add more blades for that
 <span id="s-id16"></span><span id="p"></span><span id="id16"></span><h2>P<a class="headerlink" href="#p" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
 <dt>Partner Engagement Platform (PEP)</dt>
-<dd><p class="first"><em>(domain type)</em> A portal which allows a Contentspere customer’s partners to engage with their system.
+<dd><p class="first"><em>(domain type)</em> A portal which allows a Contentserv customer’s partners to engage with their system.
 Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding</p>
 <ul class="last">
 <li><p class="first"><em>Example:</em></p>
@@ -436,7 +482,12 @@ or any related information.</dd>
 </li>
 </ul>
 </dd>
+<dt>rollback</dt>
+<dd><em>(feature)</em> Rollback is a feature that enables the user to switch back to a desired version of a product.</dd>
 </dl>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
 </div>
 <div class="section" id="s-s">
 <span id="s-id19"></span><span id="s"></span><span id="id19"></span><h2>S<a class="headerlink" href="#s" title="Permalink to this headline">¶</a></h2>
@@ -490,7 +541,7 @@ A clothing store may set up a taxonomy which categorizes for gender &gt; season 
 <span id="s-id21"></span><span id="u"></span><span id="id21"></span><h2>U<a class="headerlink" href="#u" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
 <dt>user</dt>
-<dd><em>(user type, customer role)</em> Someone who logs into the Contentsphere system.</dd>
+<dd><em>(user type, customer role)</em> Someone who logs into the Contentserv system.</dd>
 </dl>
 </div>
 <div class="section" id="s-v">
@@ -502,7 +553,7 @@ A clothing store may set up a taxonomy which categorizes for gender &gt; season 
 <dl class="docutils">
 <dt>workflows</dt>
 <dd><p class="first"><em>(property group)</em> A sequence of processes that a piece of work progresses through until completion.
-In Contentsphere, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.</p>
+In Contentserv, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.</p>
 <ul class="last">
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
@@ -607,7 +658,11 @@ Before the product is published in the PIM it undergoes a sequence of processes 
         </div>
       </div>
                 <h3>Last update:</h3>
+<<<<<<< HEAD
                 <p class="topless">May 02, 2018</p>
+=======
+                <p class="topless">Apr 26, 2018</p>
+>>>>>>> nadia_related_topics_link_03062018
             </div>
           </div>
         
@@ -618,7 +673,11 @@ Before the product is published in the PIM it undergoes a sequence of processes 
     <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
 
     <div id="ft">
+<<<<<<< HEAD
         <p class="topless">Last updated: May 02, 2018</p>
+=======
+        <p class="topless">Last updated: Apr 26, 2018</p>
+>>>>>>> nadia_related_topics_link_03062018
       <div class="nav">
     &laquo; <a href="faq/troubleshooting.html" title="Troubleshooting">previous</a>
      |

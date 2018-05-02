@@ -5,10 +5,12 @@ Manage Permissions lets you define what the user can or cannot do.
 
 
 ====================    =============================================================================================================================================================
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * Simply assign the user to the role with the appropriate functions and say goodbye to unnecessary system changes.
                         * Have full control as to who gets to view, edit, and delete the products in the system.
 
-**Related topics:**     * *Manage View Templates*
+**Related topics:**     * :doc:`Manage View Templates </feature/product_feature/mdm/administration/usersandpermissionsviewtemplates/manageviewtemplate>`
 
 **Application:**        * User can access only the permitted functions.
                         * *Example:*

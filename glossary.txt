@@ -18,6 +18,18 @@ A
 administrator
     *(user type, customer role)* A technical specialist who configures a software system.
 
+|
+
+attribute
+    *(concept)* A data field which describes a product, can also use 'property'.
+
+|
+
+attribution class
+    *(class type)* A class that adds specific attributes to the product it is assigned to.
+    For example, a 'Mobile Phone' class may add attributes for Screen Size, Memory Size, Operating System etc.
+
+|
 
 .. _B:
 
@@ -102,7 +114,7 @@ data model
 
 data steward
     *(user type, customer role)* A data steward is a role within an organization responsible for utilizing an organization's data governance processes
-    to ensure suitablity of both content and metadata.
+    to ensure suitability of both content and metadata.
 
 |
 
@@ -126,7 +138,7 @@ F
 -
 
 fixed bundle
-    *(product type)* A group of products where the quanitity of each product is fixed.
+    *(product type)* A group of products where the quantity of each product is fixed.
 
     * *Example:*
 
@@ -138,8 +150,13 @@ fixed bundle
 G
 -
 
-No glossary entries found.
+Golden Record
+    *(concept)* A Golden Record is a single, well-defined version of the data entity in an organization. There may be multiple sources/suppliers for a single product.
+    Golden record feature allows you to combine and consolidate all matching products (duplicate products) in one single record.
+    With the golden record, you always have exact and consistent, product data available.
+    Golden Record uses matching and merging rules to consolidate the product details.
 
+|
 
 .. _H:
 
@@ -180,7 +197,7 @@ linked variant
         Regular, Sugarfree and Zero are some of the linked variants of energy drink "Red Bull".
 
 loose bundle
-    *(property type)* A group of products where the quanitity of each product can be defined by the retailer.
+    *(property type)* A group of products where the quantity of each product can be defined by the retailer.
 
     * *Example:*
 
@@ -204,6 +221,13 @@ Master Data Management (MDM)
 
         The functionality of an MDM supports aspects such as workflow rules, data quality, catalogue management, user security and data distribution.
 
+
+match
+    *(process type)* Matching is a process of identifying duplicate records for all products.
+    It compares the products based on defined attributes, tags, taxonomies, and classes and identifies duplicate records of a product.
+
+|
+
 measurement property
     *(property type)* A measurement property uses a predefined measurement standard.
 
@@ -211,10 +235,20 @@ measurement property
 
         Length: 10 metres
 
+merge
+    *(process type)* Once the duplicate records are identified, they need to be merged to create the Golden Record.
+    This record will be the best possible data representing current, complete and accurate view of customer information.
+    Merging process determines what data elements and their values from duplicated data needs to be considered to create the Golden Record.
+
+|
+
 .. _N:
 N
 -
-No glossary entries found.
+
+nature class
+    *(class type)* A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software.
+    Nature Classes could include Single Article, Product, Bundle or other custom-made product types.
 
 
 .. _O:
@@ -230,7 +264,7 @@ P
 -
 
 Partner Engagement Platform (PEP)
-    *(domain type)* A portal which allows a Contentspere customer's partners to engage with their system.
+    *(domain type)* A portal which allows a Contentserv customer's partners to engage with their system.
     Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding
 
     * *Example:*
@@ -296,6 +330,11 @@ relationships
 
         Products + supplier + image + target
 
+rollback
+    *(feature)* Rollback is a feature that enables the user to switch back to a desired version of a product.
+
+|
+
 .. _S:
 
 S
@@ -340,7 +379,7 @@ U
 -
 
 user
-    *(user type, customer role)* Someone who logs into the Contentsphere system.
+    *(user type, customer role)* Someone who logs into the Contentserv system.
 
 
 
@@ -358,7 +397,7 @@ W
 
 workflows
     *(property group)* A sequence of processes that a piece of work progresses through until completion.
-    In Contentsphere, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.
+    In Contentserv, the piece of work is normally a product. The status of the product is also managed through the workflow such as Active, Published, and Inactive.
 
     * *Example:*
 
