@@ -1,9 +1,12 @@
-====================================
+===================================
 Perspective and Resolution Variants
-====================================
+===================================
 
 .. toctree::
    :maxdepth: 1
 
    perspectivevariant
+<<<<<<< HEAD
    resolutionvariant
+=======
+>>>>>>> origin/nadia_PerspectiveVariant_04242018

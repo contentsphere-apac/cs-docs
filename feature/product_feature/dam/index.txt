@@ -11,6 +11,7 @@ Data Asset Management (DAM)
 .. toctree::
    :maxdepth: 1
 
+<<<<<<< HEAD
    images
    seasonalmoodmotives
    bulkimportassets
@@ -30,3 +31,6 @@ Data Asset Management (DAM)
 >>>>>>> Mon_BulkImportofAssets_04232018
    bulkexportofassets
    documents
+=======
+   perspectiveresolutionvariants/index
+>>>>>>> origin/nadia_PerspectiveVariant_04242018

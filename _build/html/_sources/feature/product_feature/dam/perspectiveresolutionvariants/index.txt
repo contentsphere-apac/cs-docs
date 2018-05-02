@@ -1,10 +1,11 @@
-====================================
+===================================
 Perspective and Resolution Variants
-====================================
+===================================
 
 .. toctree::
    :maxdepth: 1
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
    perspectivevariant
@@ -17,3 +18,6 @@ Perspective and Resolution Variants
     perspectivevariant
     resolutionvariant
 >>>>>>> origin/Brian_DAMDocuments_04232018
+=======
+   perspectivevariant
+>>>>>>> origin/nadia_PerspectiveVariant_04242018
