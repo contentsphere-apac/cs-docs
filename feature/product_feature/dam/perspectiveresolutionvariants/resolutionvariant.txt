@@ -1,7 +1,7 @@
 ===================
 Resolution Variant
 ===================
-The Manage Media Links feature provides the functionality to set up a relationship (or linking) between a product and an asset.
+The Resolution Variant feature allows the user to auto-create images of various resolutions.
 
 
 ====================      ===============================================================================================================================================================
@@ -9,9 +9,9 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 **Description:**           * This feature will help user *'auto-create'* images of various resolutions.
 
-**Related Topics:**        * :doc:`Perspective Variant  </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
+**Related Topics:**        * :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
 
-**Application:**            * Resolution Variant can be used to link a product to an asset in creating several image resolution.
+**Application:**            * This feature is useful for creating several image resolutions based on the given requirements.
                             * *Example*
 
                                      A Retailer may need images of various resolutions they can use for multiple outlets: *Social media pages, brochure, sales pamphlet* and so on.
@@ -107,7 +107,7 @@ How to do: How to create Resolution Variant
 |
 
 
-#. Click *Contexts* tab to view the  various *Resolutions Variants* of the image.
+#. Click the **Contexts** tab to view the  various *Resolutions Variants* of the image.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
 |
