@@ -1,0 +1,63 @@
+====================================
+Images: .psd, .eps, .jpg, .png, .ai
+====================================
+The Images feature allows the user to upload images of various formats to the DAM.
+
+
+====================    =============================================================================================================================================================
+**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+                          Digital files in the DAM are linked to the PIM through relationships.
+
+**Description:**        * This feature enables uploading images of various formats such as .psd and .jpg onto the system.
+                        * The supported image file formats are as follows: jpg, jpeg, png, ico, eps, ai, psd, tif, tiff
+
+**Related topics:**     * :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
+                        * :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
+                        * :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+                        * :doc:`Documents: .docx, pptx, .pdf, .indd </feature/product_feature/dam/documents>`
+
+**Application:**        * This feature is useful when adding images to the products.
+                        * *Example:*
+
+            							 Supplier 'A' wants to upload images related to his products. With the Images feature, Supplier 'A' can upload *.psd, .eps, .jpg, .png* and *.ai* files.
+====================    =============================================================================================================================================================
+
+
+How to do: Upload Images of Various Formats
+============================================
+To upload images of various formats, follow these steps:
+
+|
+
+#. Log in to the application. Go to *DAM*.
+
+.. image:: /feature/_images/damimages/cs_images_login.PNG
+|
+|
+
+#. Click on the **Bulk Upload** icon.
+
+.. image:: /feature/_images/damimages/cs_images_bulkupload.PNG
+|
+|
+
+#. On the pop-up window, select the **Image** class to upload images. Selecting the Collections is optional.
+
+.. image:: /feature/_images/damimages/cs_images_selectimageclass.PNG
+|
+|
+
+#. Click on the **Next** button.
+
+.. image:: /feature/_images/damimages/cs_images_clicknext.PNG
+|
+|
+
+#. On the dialog box, select the images from the computer.
+
+.. image:: /feature/_images/damimages/cs_images_selectimages.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
