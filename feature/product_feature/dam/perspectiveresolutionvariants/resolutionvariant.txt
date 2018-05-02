@@ -1,12 +1,8 @@
-<<<<<<< HEAD
-====================
-Resolution Variant
-====================
-=======
 ===================
 Resolution Variant
 ===================
 The Manage Media Links feature provides the functionality to set up a relationship (or linking) between a product and an asset.
+
 
 ====================      ===============================================================================================================================================================
 **Key Term:**              * **Tabs:** *(property group)* Tabs are used to categorize the properties shown on a product’s page.
@@ -22,20 +18,27 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 ====================      ===============================================================================================================================================================
 
+
 How to do: How to create Resolution Variant
 ===========================================
+
+|
 
 #. Log in. Click **Administration** icon.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickadministration.PNG
 |
 |
+
+
 #. On the *Data Model* tab, scroll down to click on **Asset**.
+
 
 #. Click on **'+'** to create a new Asset.
 
 
 #. In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
+
 
 #. Click **CREATE**.
 
@@ -43,11 +46,13 @@ How to do: How to create Resolution Variant
 |
 |
 
+
 #. Click on the **Context** on the right hand side window.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickcontext.PNG
 |
 |
+
 
 #. In the Edit window, enable *'Auto Create'*, and select the *Resolution Tags*  and select the *Tag Combinations*.
 
@@ -61,6 +66,7 @@ How to do: How to create Resolution Variant
 .. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimage.PNG
 |
 |
+
 
 #. Select   *'Resolution Variant'* ( we have created in the previous step). Click **Apply** and **Save**.
 
@@ -78,6 +84,7 @@ How to do: How to create Resolution Variant
 .. image:: /feature/_images/damimages/cs_resolutionvariant_thendam.PNG
 |
 |
+
 
 #. Select an image, and click on *Contexts* tab.
 
@@ -99,9 +106,13 @@ How to do: How to create Resolution Variant
 |
 |
 
+
 #. Click *Contexts* tab to view the  various *Resolutions Variants* of the image.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
 |
 |
->>>>>>> origin/nadia_resolutionvariant_04252018
+
+
+.. image:: /feature/_images/damimages/line-png-32.PNG
+   :alt: Contentsphere line

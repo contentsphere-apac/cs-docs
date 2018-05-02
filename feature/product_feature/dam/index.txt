@@ -1,40 +1,15 @@
-<<<<<<< HEAD
 ===============================
 Digital Asset Management (DAM)
 ===============================
-=======
-=============================
-Data Asset Management (DAM)
-=============================
->>>>>>> Mon_BulkImportofAssets_04232018
 
 .. toctree::
    :maxdepth: 1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
    images
    seasonalmoodmotives
    bulkimportassets
    videos
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
    perspectiveresolutionvariants/index
-=======
-   perspectiveresolutionvariants
->>>>>>> Brian_DAMVideos_04232018
-=======
-   perspectiveresolutionvariants
->>>>>>> origin/Brian_DAMDocuments_04232018
-=======
-   perspectiveresolutionvariants
->>>>>>> Mon_BulkImportofAssets_04232018
    bulkexportofassets
    documents
-=======
-   perspectiveresolutionvariants/index
->>>>>>> origin/nadia_PerspectiveVariant_04242018
-=======
-   perspectiveresolutionvariants/index
->>>>>>> origin/nadia_resolutionvariant_04252018

@@ -1,23 +1,11 @@
-<<<<<<< HEAD
 ===================================
 Perspective and Resolution Variants
 ===================================
-=======
-==================================
-Perspective and Resolution Variant
-==================================
->>>>>>> origin/nadia_resolutionvariant_04252018
+
 
 .. toctree::
    :maxdepth: 1
 
-<<<<<<< HEAD
+
    perspectivevariant
-<<<<<<< HEAD
    resolutionvariant
-=======
->>>>>>> origin/nadia_PerspectiveVariant_04242018
-=======
-   resolutionvariant
-   perspectivevariant
->>>>>>> origin/nadia_resolutionvariant_04252018
