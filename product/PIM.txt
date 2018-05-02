@@ -9,6 +9,7 @@ And it easily conquers the increasing challenges of data quality management and 
 .. image:: _images/pim.PNG
 |
 
+
 Key Elements
 =============
 

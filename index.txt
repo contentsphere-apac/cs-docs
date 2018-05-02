@@ -4,6 +4,7 @@ Getting help
 .. image:: _images/homescreenshot-compressed.png
    :alt: Contentserv log in screen
 
+
 Using this resource
 ====================
 
@@ -12,7 +13,7 @@ training materials and guides.
 
 To search through the documentation see the :ref:`search` or use the search field in the navigation bar.
 
-The site is organised into four key areas which are referenced throughout the handbook. The Handbook is also
+The site is organized into four key areas which are referenced throughout the handbook. The Handbook is also
 the basis for the context sensitive help and tooltips within the application.
 
 * :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
@@ -36,17 +37,17 @@ the basis for the context sensitive help and tooltips within the application.
 
 
 New to Contentserv
-====================
+===================
 
 Are you new to Contentserv? This is the place to start:
 
 
-#. **Newbie**
+#. **Newbie:**
    :doc:`About the product <product/productlines>` |
    :doc:`Explore the User Interface <tutorials/exploretheui>` |
    :doc:`Technical Deployment <reference/install>`
 
-#. **Tutorial**
+#. **Tutorial:**
    :doc:`Part 1: About the product <product/productlines>` |
    :doc:`Part 2: Explore the User Interface <tutorials/exploretheui>` |
    :doc:`Part 3: Add a New User <tutorials/addnewuser>` |
