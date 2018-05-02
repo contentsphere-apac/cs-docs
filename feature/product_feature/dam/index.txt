@@ -12,6 +12,7 @@ Data Asset Management (DAM)
    :maxdepth: 1
 
 <<<<<<< HEAD
+<<<<<<< HEAD
    images
    seasonalmoodmotives
    bulkimportassets
@@ -34,3 +35,6 @@ Data Asset Management (DAM)
 =======
    perspectiveresolutionvariants/index
 >>>>>>> origin/nadia_PerspectiveVariant_04242018
+=======
+   perspectiveresolutionvariants/index
+>>>>>>> origin/nadia_resolutionvariant_04252018
