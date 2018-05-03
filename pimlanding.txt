@@ -1,0 +1,12 @@
+============
+PIM Landing
+============
+
+Helpful topics in PIM
+
+* :doc:`Check the quality of your data </feature/product_feature/mdm/governance/dataqualityrule>`
+* :doc:`Create Golden Records </feature/product_feature/mdm/governance/goldenrecord>`
+* :doc:`Upload images </feature/product_feature/dam/images>`
+* :doc:`Upload Videos </feature/product_feature/dam/videos>`
+* :doc:`Upload Documents </feature/product_feature/dam/documents>`
+* :doc:`Perform a full-text search </feature/product_feature/mdm/general/searchandexplore/fulltextsearch>`

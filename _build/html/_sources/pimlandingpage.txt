@@ -1,0 +1,8 @@
+=================
+PIM Landing page
+=================
+
+Helpful topics in PIM
+
+* useful topic 1
+* useful topic 2
