@@ -1,0 +1,95 @@
+===================================
+View Tasks and Products Responsible
+===================================
+The Manage Media Links feature provides the functionality to get a consolidated view of all workflow tasks from this dasbboard tab.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**             * **Workflow Workbench:** User can get a consolidated view of all workflow tasks through this feature.
+
+**Description:**          * User can view all tasks that have been assigned to him/her in any of the category viz Responsible, Accountable, Informed, Consulted, Verified, or Sign-off in *Workflow Workbench* dashboard tab.
+                          * User can also view all tasks according to a product view , where in he/she can drill down to each individual product and view all tasks that have been created for a product.
+
+**Related Topic:**        * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
+                          * :doc:`Tasks to Complete Actions </feature/product_feature/mdm/collaboration/workflowadministration/taskstocompleteactions>`
+
+**Application:**          * this feature can be used to view and manage all workflow tasks. It can be used to set up a link  between a product and an asset.
+                          * User can also view all tasks accoring to a product view, where in user can drill down to each individual product and view all tasks that have been created for a product.
+                          * *Example*
+
+                                An electronic retailer, wants to create a to-do list of all tasks in order to manage tasks.He can do this by navigating to *Workflow Workbench* from dashboard, where he can see all his tasks.
+
+====================      ===============================================================================================================================================================
+
+ow to do:  View Tasks and Products Responsible
+===============================================
+To do this, follow these steps:
+
+#. Log into the application and click on *Workflow Workbench* tab from the Dashboard menu.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickdasboard.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_thenworkflowworkbench.PNG
+|
+|
+
+#. Click on **TASKS** drop-down to view all tasks that has been assigned to a user in any of the category.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask2.PNG
+|
+|
+
+#. Click on **Notifications** to see all the notifications.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicknotifications.PNG
+|
+|
+
+#. Click on **ALL** to see consolidated assigned tasks of user for all the categories.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall2.PNG
+|
+|
+
+
+
+#. Click on any task to view its details.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall2.PNG
+|
+|
+
+
+
+
+#. Click on each category to see the tasks assigned to the user for the category.
+
+
+
+#. Click on PRODUCTS drill-down to view all tasks according to a product view.
+
+
+
+#. As you click on PRODUCTS drill-down, all the categories will appear on screen.
+
+
+
+#. Click on ALL option to see all products.
+
+
+
+#. As you click on ALL option, all products will appear on screen.
+
+
+
+#. Click on a product to see all tasks created for a product.
+
+
+
+12. Similarly, you can see all products category wise and all tasks created for each product.
