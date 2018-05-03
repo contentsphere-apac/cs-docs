@@ -5,9 +5,9 @@ The Perspective Variant feature allows the user to link several related images t
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**		        * **DAM:** Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files. Digital files in the DAM are linked to the PIM through relationships.
+**Key Term:**		        * **DAM:** (Digital Asset Management) offers a solution for enterprises to store, organize, find and retrieve digital files. Digital files in the DAM are linked to the PIM through relationships.
 
-**Description:**        * This feature will let the user link several related images to a single article so as to give the right impression of the product's height, width, depth and information if any.
+**Description:**        * This feature will let the user link several related images to a single article so as to give the right impression of the product's height, width, depth and information, if any.
 
 **Related topics:**     * :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
 
@@ -17,6 +17,7 @@ The Perspective Variant feature allows the user to link several related images t
                             A retailer selling dog food would add several images (front side, back side and side display) to the main product image so as to give the customer a better and thorough impression of the product. The back-side image often contains important information, such as ingredients, thus helping the customer purchase the appropriate product.
 
 ===================     =======================================================================================================================================================================
+
 
 How to do: How to create Perspective Variant
 ============================================
@@ -45,21 +46,21 @@ To do this, follow these steps:
 |
 
 
-#. Enter Name ( in this demo, we named the relationship *'article-asset relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
+#. Enter Name (in this demo, we named the relationship *'Article-Asset Relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'Article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_enterrelationshipdetails.PNG
 |
 |
 
 
-#. Next, click on **Context** to create a new one. Enter the Name ( in this demo we named this context *'perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
+#. Next, click on **Context** to create a new one. Enter the Name (in this demo, we named this context *'Perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectrelationshipvariant.PNG
 |
 |
 
 
-#. Go to the *Relationship* tab again, and select Context you have just created ( *'perspective'*).
+#. Go to the *Relationship* tab again, and select the Context you have just created (*'Perspective'*).
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_gotorelationshipsagain.PNG
 |

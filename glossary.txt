@@ -1,9 +1,8 @@
 .. _Back to Top:
 
-========
+=========
 Glossary
-========
-
+=========
 
 
 
@@ -27,7 +26,7 @@ attribute
 
 attribution class
     *(class type)* A class that adds specific attributes to the product it is assigned to.
-    For example, a 'Mobile Phone' class may add attributes for Screen Size, Memory Size, Operating System etc.
+    For example, a 'Mobile Phone' class may add attributes for Screen Size, Memory Size, Operating System, etc.
 
 |
 
@@ -44,6 +43,7 @@ bookmark
           A retailer creates a bookmark named "fully automated" to group only the fully
           automated washing machines. Whenever a fully automated washing machine is added to the system, it is automatically added to the
           bookmark.
+
 
 Boolean property
     *(property type)* A Boolean property allows selecting between two options.
@@ -88,7 +88,7 @@ concatenated property
 
     * *Example:*
 
-        A Dimension Concatenated Property would combine the properties for Length, Width and Height into '10cm x 20cm x 2cm'
+        A Dimension Concatenated Property would combine the properties for Length, Width and Height into '10cm x 20cm x 2cm'.
 
 .. _D:
 
@@ -302,7 +302,6 @@ property
         Name of Product, Price, Description
 
 
-
 property collection
     *(property group)* A reusable group of properties which is common to particular types of products. A property collection belongs to a tab and a class.
 
@@ -373,6 +372,7 @@ taxonomy
         A taxonomy can be thought of categorization of an organization's products.
         A clothing store may set up a taxonomy which categorizes for gender > season > bodypart in a tree format.
 
+
 .. _U:
 
 U
@@ -390,6 +390,7 @@ V
 No glossary entries found.
 
 
+
 .. _W:
 
 W
@@ -404,6 +405,7 @@ workflows
         A Data Steward adds a new product through the Onboarding Portal.
         Before the product is published in the PIM it undergoes a sequence of processes including data validation and enrichment.
 
+
 .. _X:
 
 X
@@ -411,11 +413,13 @@ X
 No glossary entries found.
 
 
+
 .. _Y:
 
 Y
 -
 No glossary entries found.
+
 
 
 .. _Z:

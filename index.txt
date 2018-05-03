@@ -19,7 +19,7 @@ the basis for the context sensitive help and tooltips within the application.
 * :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
   Start here if you’re new to **Contentserv** or training on the product as a user.
 
-  Also look at the **note** `new-to-contentsphere`_ below
+  Also look at the **note** `new-to-contentserv`_ below
 
 * :doc:`Feature guides </feature/index>` discuss key features and concepts at a fairly high level and provide
   useful background information and explanation, including key user stories.
@@ -50,7 +50,7 @@ Are you new to Contentserv? This is the place to start:
 #. **Tutorial:**
    :doc:`Part 1: About the product <product/productlines>` |
    :doc:`Part 2: Explore the User Interface <tutorials/exploretheui>` |
-   :doc:`Part 3: Add a New User <tutorials/addnewuser>` |
+   :doc:`Part 3: Add New Users <tutorials/addnewuser>` |
    :doc:`Part 4: Add an Image to the DAM <tutorials/addimagetoDAM>` |
    :doc:`Part 5: Create a New Product <tutorials/createnewproduct>` |
    :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`
@@ -66,9 +66,9 @@ Contentserv Product Lines
 ===========================
 Learn about some other core functionalities of the :doc:`Contentserv Product Lines <product/index>`:
 
-#. :doc:`Master Data Management <product/MDM>` with functionality supporting workflow rules, data quality, catalogue management, user security, data distribution
+#. :doc:`Master Data Management <product/MDM>` with functionality supporting workflow rules, data quality, catalogue management, user security, data distribution.
 #. :doc:`Product Information Management <product/PIM>` for product enrichment, digital assets, taxonomy management.
-#. :doc:`Marketing Content Management <product/MCM>` supports promotions, campaigns, target markets, target channels, customers
+#. :doc:`Marketing Content Management <product/MCM>` supports promotions, campaigns, target markets, target channels, customers.
 #. :doc:`Partner Engagement Platform <product/PEP>` deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding.
 
 |

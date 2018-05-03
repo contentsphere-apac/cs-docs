@@ -40,6 +40,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/addingnewusers_enterdetails.PNG
 |
 |
+
 #.  Then, click **Create**.
 
 .. image:: /feature/_images/mdmimages/addingnewusers_enterdetailsandcreate.PNG
@@ -52,6 +53,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/addingnewusers_addeduser.PNG
 |
 |
+
 
 Icon for the user can also be added. To do this, follow the steps below:
 

@@ -5,16 +5,16 @@ The Resolution Variant feature allows the user to auto-create images of various 
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**              * **Tabs:** *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+**Key Term:**              * **Tabs:** are used to categorize the properties shown on a product’s page.
 
 **Description:**           * This feature will help user *'auto-create'* images of various resolutions.
 
-**Related Topics:**        * :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
+**Related topics:**        * :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
 
-**Application:**            * This feature is useful for creating several image resolutions based on the given requirements.
-                            * *Example*
+**Application:**           * This feature is useful for creating several image resolutions based on the given requirements.
+                           * *Example:*
 
-                                     A Retailer may need images of various resolutions they can use for multiple outlets: *Social media pages, brochure, sales pamphlet* and so on.
+                                A Retailer may need images of various resolutions they can use for multiple outlets: *Social media pages, brochure, sales pamphlet* and so on.
 
 ====================      ===============================================================================================================================================================
 
