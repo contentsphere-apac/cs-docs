@@ -11,11 +11,11 @@ The View Tasks and Products Responsible feature allows viewing of the tasks and 
                           * User can also view all tasks according to a product view, allowing the user to drill down to each individual product and view all the tasks that have been created for a product.
 
 
-**Related Topic:**        * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
+**Related topics:**       * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
                           * :doc:`Tasks to Complete Actions </feature/product_feature/mdm/collaboration/workflowadministration/taskstocompleteactions>`
 
-**Application:**          * This feature is useful when identifying the tasks and products assigned to a particular user. 
-                          * *Example*
+**Application:**          * This feature is useful when identifying the tasks and products assigned to a particular user.
+                          * *Example:*
 
                                 An electronics retailer wants to create a to-do list of all tasks so as to easily manage the tasks. He can do this by navigating to *Workflow Workbench* from dashboard, where he can see all his tasks.
 
