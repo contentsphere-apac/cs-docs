@@ -6,7 +6,7 @@ The Tasks and Annotations feature allows users to add tasks in the system.  It a
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):**  facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * Tasks are action events created for an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
                         * The Tasks feature has a comment section where users can put comments or questions regarding the task.
@@ -38,17 +38,20 @@ To create tasks or add comments to the tasks, follow these steps:
 |
 |
 
+
 #. Click on the **Tasks** tab to create a new task.
 
 .. image:: /feature/_images/mdmimages/tasksandannotations_clickonthetasktab.PNG
 |
 |
 
+
 #. Select the *Content Level* task.
 
 .. image:: /feature/_images/mdmimages/tasksandannotations_clickonthecontentleveltask.PNG
 |
 |
+
 
 #. Click on **Add New Task** button to create a new task.
 
@@ -58,11 +61,13 @@ To create tasks or add comments to the tasks, follow these steps:
 |
 |
 
+
 #. Enter the name of the new task then click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/tasksandannotations_enterthenameofthenewtask.PNG
 |
 |
+
 
 #. Add the *Description*, *Comments*, and other details to the task created then click on the **Save** button.
 

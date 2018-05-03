@@ -5,8 +5,7 @@ The Export Product Data to Excel feature provides the functionality to select an
 
 
 ===================     ===============================================================================================================================================================
-
-**Key Term:**            * **Product Information Management (PIM)** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM)** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
                         * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.

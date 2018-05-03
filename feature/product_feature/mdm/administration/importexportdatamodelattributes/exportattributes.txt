@@ -27,7 +27,7 @@ To export attributes, follow the steps provided below:
 
 |
 
-#. Log in to Contentsphere and click on the **Administration** button.
+#. Log in and click on the **Administration** button.
 
 .. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_logintocontentsphere.PNG
 |

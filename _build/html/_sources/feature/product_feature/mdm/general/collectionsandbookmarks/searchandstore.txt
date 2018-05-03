@@ -5,8 +5,7 @@ Search and Store Bookmarks lets you search for products using various criteria t
 
 
 ====================    =============================================================================================================================================================
-
-**Key Term:**           * **Bookmark:** *(feature)* A self-updating bookmark that saves the results of a search.
+**Key Term:**           * **Bookmark:** A self-updating bookmark that saves the results of a search.
 
 **Description:**        * Searches can be saved and viewed later to see the newly added products that satisfy the search criteria.
                         * Bookmarks allow saving of favorite products as part of a watchlist, enabling users to view and compare products.

@@ -6,7 +6,8 @@ The linking between article-to-article or product-to-product is bi-directional.
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Tabs**: *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+**Key Term:**             * **Tabs**: Tabs are used to categorize the properties shown on a product’s page.
+
 **Description:**          * This feature allows the linking of a product to other different products (e.g. *Related Products, others,* etc).
                             The related products will be visible in the product relationship side. The product is visible in the relationship tab of the related products, too.
 
@@ -34,11 +35,13 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Go to the *Relationship Configuration* tab.
 
 .. image:: /feature/_images/mdmimages/definearticlelinks_gototherelationshipsconfiguration.PNG
 |
 |
+
 
 #. Create a new relationship by clicking the "+" icon.
 
@@ -49,6 +52,7 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Provide the name for the relationship and then, select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
    In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
 
@@ -56,11 +60,13 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Provide the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
 .. image:: /feature/_images/mdmimages/definearticlelinks_providethelabelandcardinality.PNG
 |
 |
+
 
 #. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
@@ -68,17 +74,20 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Once done, click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/definearticlelinks_clickonthesavebutton.PNG
 |
 |
 
+
 #. Once saved, view that the relationship is applied and ready.
 
 .. image:: /feature/_images/mdmimages/definearticlelinks_oncesavedviewtherelationship.PNG
 |
 |
+
 
 #. Add the articles for both classes in the *Relationships* tab.
 
@@ -87,7 +96,7 @@ To do this feature, follow these steps:
 |
 .. image:: /feature/_images/mdmimages/definearticlelinks_addthearticlesintherelationshipstab2.PNG
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

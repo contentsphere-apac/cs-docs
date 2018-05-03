@@ -7,6 +7,7 @@ The Manage Different Types of Attributes is a feature that allows an administrat
 
 ===================     ===============================================================================================================================================================
 **Key Term:**           * **Property**: A property is a field used to describe a product. It comes in several different types.
+
 **Description:**        * This feature can create and manage different types of attributes (properties) for various data. This will restrict
                           the attribute to the selected type only.
 

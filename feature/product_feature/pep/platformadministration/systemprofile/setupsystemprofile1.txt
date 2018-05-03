@@ -6,7 +6,7 @@ The System Profile is an admin feature that manages the *System* on the platform
 
 ===================     =======================================================================================================================================================================
 
-**Key Term:**            * **Endpoint:** ia a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+**Key Term:**            * **Endpoint:** is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
 
 
 **Description:**         * An admin can create profiles for an organization that will contain its selected on-board and off-board endpoints.
@@ -20,7 +20,7 @@ The System Profile is an admin feature that manages the *System* on the platform
                            By this, the admin can maintain exclusivity of endpoints for specific roles within the organization.
                          * *Example:*
 
-                             The CRM-concerned roles within the organization can only access the CRM inbound and outbound endpoints.
-                             Whereas, the ERP-concerned roles can only access the ERP endpoints.
+                              The CRM-concerned roles within the organization can only access the CRM inbound and outbound endpoints.
+                              Whereas, the ERP-concerned roles can only access the ERP endpoints.
 
 ===================     =======================================================================================================================================================================

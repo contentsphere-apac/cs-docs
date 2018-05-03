@@ -5,17 +5,16 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 
 
 ====================    =============================================================================================================================================================
-**Key Term:**            * **Property**: *(class within data model)* A property is a field used to describe a product.
-                          It comes in several different types: *Name of Product, Price, Description*.
+**Key Term:**            * **Property:** A property is a field used to describe a product. It comes in several different types: *Name of Product, Price, Description*.
 
-**Description:**        * This feature  is used to create a property with many possible values.
-                        * Tags can be used to categorize your products, Contrary to categories.
+**Description:**         * This feature  is used to create a property with many possible values.
+                         * Tags can be used to categorize your products, Contrary to categories.
 
-**Related topics:**     *  :doc:`Manage Affinities </feature/product_feature/mdm/administration/datamodeltagmanagement/manageaffinities>`
+**Related topics:**      * :doc:`Manage Affinities </feature/product_feature/mdm/administration/datamodeltagmanagement/manageaffinities>`
 
-**Application:**        * Some property may have multiple values, wherein  it may/may not be appropriate to a value.
-                        * Multi-select the values that are applicable to the product.
-                        * Apply a boolean tag when the value is either true or false.
+**Application:**         * Some property may have multiple values, wherein  it may/may not be appropriate to a value.
+                         * Multi-select the values that are applicable to the product.
+                         * Apply a boolean tag when the value is either true or false.
 
 ====================    =============================================================================================================================================================
 

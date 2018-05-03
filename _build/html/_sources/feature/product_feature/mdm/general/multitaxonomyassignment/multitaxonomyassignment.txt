@@ -6,7 +6,8 @@ The Multi-taxonomy Assignment feature provides general users the capability to a
 
 ===================     ==========================================================================================================================================================================================
 
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * The feature assigns a single object to multiple different taxonomies or to multiple nodes within the same taxonomy.
                         * The feature allows multiple taxonomies to be assigned to a single product.
                         * The feature enhances the classification of products/articles in a more structured way.

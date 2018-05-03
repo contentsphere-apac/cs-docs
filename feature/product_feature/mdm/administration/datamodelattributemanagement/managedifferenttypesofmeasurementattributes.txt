@@ -4,7 +4,7 @@ Manage Different Types of Measurement Attributes
 The table below shows the different types of measurement attributes that can be managed in the system:
 
 
-Attributes: Measurement Typess
+Attributes: Measurement Types
 ==============================
 
 .. list-table::
@@ -238,11 +238,9 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 ===================     ===============================================================================================================================================================
 
-
 **Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * This feature allows the setting of an attribute type as *Volume*.
-
                         * This feature makes an attribute type as *Volume* and applies the appropriate default unit for volume (e.g. *Gallon, Cubic meter, Liter*).
 
 **Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
@@ -336,7 +334,6 @@ Measurement Type: Weight (Mass)
 This feature example allows an administrator to set an attribute as *Weight (Mass)*.
 
 ===================     ===============================================================================================================================================================
-
 
 **Key Term:**            * **Property:** A data field which describes a product, can also use *'attribute'*.
 

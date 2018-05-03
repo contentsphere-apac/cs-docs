@@ -1,12 +1,11 @@
 ==================
 Product Comparison
 ==================
-
 Product Comparison lets the user select and compare products within the PIM.
 
 
 ===================    =============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM)** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * This feature provides a side-by-side comparison view of two or more products.
                         * The comparison table uses columns for the products or services, and rows for the attributes.
@@ -25,8 +24,7 @@ Product Comparison lets the user select and compare products within the PIM.
 
 How to: Product Comparison
 =============================
-
-This How To guide provides instructions on how to compare products.
+This guide provides instructions on how to compare products.
 To do this, follow these steps:
 
 |
@@ -37,15 +35,18 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click the **Comparison View** button found at the top of the products.
 
 .. image:: /feature/_images/mdmimages/productcomparison_selecticon.PNG
 |
 |
 
+
 #. Comparison View enables the user to compare the data of two products.
 
 .. image:: /feature/_images/mdmimages/productcomparison_comparisonview.PNG
+|
 |
 
 *Note:  The indicators for comparing are shown at the right side. The red icon indicates "less than", the green icon with "=" indicates "equal to", and the green icon with up arrow indicates "greater than".*

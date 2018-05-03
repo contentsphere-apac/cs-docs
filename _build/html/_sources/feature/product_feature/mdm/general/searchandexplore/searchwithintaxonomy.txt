@@ -6,10 +6,10 @@ The Search within Taxonomy feature allows a user to search (for an article or a 
 
 ===================     ===============================================================================================================================================================
 **Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+
 **Description:**        * This feature allows a user to search for an item or to navigate the system.
                         * This feature provides a classification of products that gives a user the ease to search.
-                        * This feature provides a user a hierarchy of objects in the Taxonomy that can be used
-                          for navigation.
+                        * This feature provides a user a hierarchy of objects in the Taxonomy that can be used for navigation.
 
 **Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
                         * :doc:`Multi-faceted Search </feature/product_feature/mdm/general/searchandexplore/facetedsearch>`
@@ -35,11 +35,13 @@ To do a search within taxonomy, follow these steps:
 |
 |
 
+
 #. From the pop-up menu, select the appropriate taxonomy (e.g. *Products*). Children nodes are also displayed.
 
 .. image:: /feature/_images/mdmimages/ts02.PNG
 |
 |
+
 
 #. Tick on the checkbox, then click the **Apply** button to display the products that belong to a specific node.
 
@@ -49,11 +51,13 @@ To do a search within taxonomy, follow these steps:
 |
 |
 
+
 #. Click on a node to display its children nodes (along with the respective product count). The selected node is highlighted in bold text.
 
 .. image:: /feature/_images/mdmimages/ts04.PNG
 |
 |
+
 
 #. Tick on the checkbox of the title heading to select all children nodes at once.
 
@@ -61,11 +65,11 @@ To do a search within taxonomy, follow these steps:
 |
 |
 
+
 #. To view the entire taxonomy tree structure including the blank nodes, click the **Show All** button.
 
 .. image:: /feature/_images/mdmimages/ts05b.PNG
 |
-
 .. image:: /feature/_images/mdmimages/ts06.PNG
 |
 |
@@ -74,7 +78,7 @@ To do a search within taxonomy, follow these steps:
 
 .. image:: /feature/_images/mdmimages/ts07.PNG
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

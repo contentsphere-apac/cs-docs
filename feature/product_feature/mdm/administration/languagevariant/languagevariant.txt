@@ -6,9 +6,9 @@ Language Variant is a feature that allows a user to assign language specific val
 
 ====================    =============================================================================================================================================================
 **Key Term:**           * **Attribute:** A data field which describes a product, it can also use *property*.
+
 **Description:**        *  The *Contentsphere’s MDM* system will have multiple users belonging to various countries.
                         * *Language Variant*  will help the user create products and write information in several languages.
-
 
 **Related topics:**     * :doc:`Embedded Variants within Contexts </feature/product_feature/mdm/general/contextualization/embeddedvariants>`
                         * :doc:`Improve Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
@@ -17,11 +17,13 @@ Language Variant is a feature that allows a user to assign language specific val
                         * Taxonomy branches serve as a classification of the parts.
 ====================    =============================================================================================================================================================
 
+
 How to do: Create a Language Variant
 ====================================
 To do this, follow these steps:
 
-#. Log in, and click  **Administration**.
+
+#. Log in and click  **Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickadministration.PNG
 |

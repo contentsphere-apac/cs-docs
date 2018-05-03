@@ -5,13 +5,13 @@ Creating a Partial Clone is a feature that allows users to create partial clones
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**            * **Taxonomy:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Taxonomy:** A data field which describes a product, can also use *'property'*.
+
 **Description:**        * A partial clone of a product contains a subset of the features of the original product as defined by a filter.
                         * Creating a partial clone allows to selectively clone the values that need to be cloned.
                         * New data can be added, and additional changes can be pushed to the cloned product.
+
 **Related topics:**     * :doc:`Creating a Complete Clone </feature/product_feature/mdm/general/cloning/completeclone>`
-
-
 
 **Application:**        * A partial clone only allows to clone product values that are selected beforehand.
                         * Relationships to be copied should also be selected beforehand.

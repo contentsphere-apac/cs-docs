@@ -5,7 +5,7 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Relationships**: *(configuration)* A way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
+**Key Term:**             * **Relationships**: A way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
                           * *Example:*
 
                                     Products + supplier + image + target

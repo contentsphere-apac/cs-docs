@@ -5,7 +5,7 @@ Manage Prepacks is a feature that allows a user to group together different prod
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Collection:** (feature) A fixed collection of objects relevant to the user.
+**Key Term:**           * **Collection:** A fixed collection of objects relevant to the user.
 
 **Description:**        * It is a collection of single articles (*similar or dissimilar*), tied or wrapped up together as one.
                         * This feature creates *Threshold Bundle*, which is also known as *Loose bundle*.
@@ -21,16 +21,19 @@ Manage Prepacks is a feature that allows a user to group together different prod
 
 ===================     =======================================================================================================================================================================
 
+
 How to do: Manage Prepacks
 ==========================
 To do this, follow these steps:
 
-#. Click  **Administration** icon.
+|
+
+#. Click **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_gotoadmin.PNG
+|
+|
 
-|
-|
 
 #.  Click Data *Model* tab.Then, click **Article**
 
@@ -45,6 +48,7 @@ To do this, follow these steps:
 |
 |
 
+
 #.  Fill in the required details and enable the tab for nature class type.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_enterdetails.PNG
@@ -58,6 +62,7 @@ To do this, follow these steps:
 |
 |
 
+
 #.  In the content window of the class, enable Default. Remember to mention Maximum Number of products you would like to add. Save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickdefaultopt.PNG
@@ -70,6 +75,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_similarfields.PNG
 |
 |
+
 
 #.  Add property collection in the Section tab by clicking on **‘+’** icon and click  **Apply**.
 
@@ -91,11 +97,13 @@ To do this, follow these steps:
 |
 |
 
+
 #.   Next, click on the Explore tab. Hover to the **‘+’** icon to see **‘Loose Bundle’** type of class that was created earlier.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickexplore.PNG
 |
 |
+
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickexplore2.PNG
 |
 |
@@ -104,11 +112,13 @@ To do this, follow these steps:
 |
 |
 
+
 #.   Next, Click on the class **Loose Bundle**.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickloose.PNG
 |
 |
+
 
 #.   Click on *Overview* tab to find a sub-tab Bundle Section.
 
@@ -116,17 +126,20 @@ To do this, follow these steps:
 |
 |
 
+
 #.   Click **+**  icon, which opens up to another window, where list of products you made are visible.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickoverviewaddprod.PNG
 |
 |
 
+
 #.   Select the product by clicking on checkbox, and drag it to the right hand side of the space provided.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_fixedselectprod.PNG
 |
 |
+
 
 #.   After selecting products, click on the **Add Product**  icon.
 
@@ -138,11 +151,13 @@ To do this, follow these steps:
 |
 |
 
+
 #.   Click **Back** to add more products. Images can also be added in the **Relationship** tab.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_clickrelationship.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

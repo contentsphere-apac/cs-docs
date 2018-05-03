@@ -5,14 +5,12 @@ The Multilingual Data Model is a feature that provides translations for the vari
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Data model:** *(configuration)* Defines the base data structure for products in your system. This structure enables you to connect predefined classes or taxonomies with your products to classify them. The data model defines products from the highest level of classification, down to individual attributes and properties.
+**Key Term:**           * **Data model:** Defines the base data structure for products in your system. This structure enables you to connect predefined classes or taxonomies with your products to classify them. The data model defines products from the highest level of classification, down to individual attributes and properties.
 
 **Description:**        * The admin can set up the data model like *Attributes, Tags, Classes,* etc. in various languages so that it can be understood by users in multiple countries or regions.
                         * It is important for a retailer to have different language data models and products/articles.
 
-**Related topics:**
-
-                        * :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+**Related topics:**     * :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
 
 **Application:**        * A user can have multiple language data models to show the products/articles in various languages.
                         * *Example:*
@@ -23,8 +21,9 @@ The Multilingual Data Model is a feature that provides translations for the vari
 ===================     =======================================================================================================================================================================
 
 How to do: Multilingual Data Model
-=============================
+===================================
 To do this, follow these steps:
+
 |
 
 #.  Go to the **Settings**.
@@ -33,11 +32,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click  *Translations* tab on the top.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_clicktransb.PNG
 |
 |
+
 
 #. Click  the **Tags** icon to view all the tags in the system.
 
@@ -45,20 +46,23 @@ To do this, follow these steps:
 |
 |
 
+
 #. Select the desired tag and enter the translation value for the language on the left.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_seltag2b.PNG
 |
 |
 
+
 #.  Repeat the same steps for class, attributes and property collection and other configurations.
 
 
-#.    Login again with the desired language; you can see the translated data model items.
+#.  Login again with the desired language; you can see the translated data model items.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_loginb.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

@@ -28,7 +28,6 @@ How to do: How to create correct imported records
 =================================================
 To do this, follow these steps:
 
-
 |
 
 #. Log in and go to the **Dashboard**.

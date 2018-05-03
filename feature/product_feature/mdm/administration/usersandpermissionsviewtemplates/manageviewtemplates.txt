@@ -36,11 +36,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. Click the **Template Configuration** button.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_templateconfig.PNG
 |
 |
+
 
 #. Click the "+" icon to create a new template. The left pane shows the default templates.
 
@@ -48,11 +50,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. Enter the name for the template.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_entername.PNG
 |
 |
+
 
 #. Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
 
@@ -60,11 +64,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. Click the "+" icon to display a list of all property collections.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_viewpropcoll.PNG
 |
 |
+
 
 #. Select the appropriate property collections and click **Save**.
 
@@ -72,11 +78,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. Click the **Permissions Configuration** button and select a role to which the template is to be assigned.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_permission.PNG
 |
 |
+
 
 #. Select the appropriate class from the list of classes then click the "+" icon to add a template. A green check mark indicates default template.
 
@@ -84,11 +92,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. Add the template in the class and click **Apply**. On the top right, click **Templates**.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_clickapply.PNG
 |
 |
+
 
 #. Select the template.
 
@@ -96,11 +106,13 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. To toggle the visibility of the property, click the **Eye** icon. To edit the rights for the property, click the **Pencil** icon.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_edit.PNG
 |
 |
+
 
 #. Select the properties to be non-editable (for example, *PID*) and hidden (for example, *Taxonomy*).
 
@@ -112,11 +124,12 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
+
 #. The image below shows the template where the Taxonomy is hidden and the Pricing section is not editable.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_final.PNG
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

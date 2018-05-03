@@ -6,7 +6,7 @@ The Product Classification via Taxonomies feature provides the functionality to 
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * The feature associates a product to a taxonomy and then to another taxonomy that will classify the product to multiple taxonomies so that
                           there is a refined product classification.
@@ -36,6 +36,7 @@ To classify a product to multiple taxonomies, follow these steps:
 |
 |
 
+
 #. Select a parent taxonomy from the drop-down menu (e.g. *Products*).
 
 .. image:: /feature/_images/mdmimages/prodclassification_selectaparenttaxonomy.PNG
@@ -44,11 +45,13 @@ To classify a product to multiple taxonomies, follow these steps:
 |
 |
 
+
 #. To further classify the product, click on **Classify Further** button.
 
 .. image:: /feature/_images/mdmimages/prodclassification_furtherclassify.PNG
 |
 |
+
 
 #. Select a node from the list. Classify further until the desired taxonomy is achieved (e.g. *Food > Beverages > Sports and Energy Drinks*).
 
@@ -60,11 +63,13 @@ To classify a product to multiple taxonomies, follow these steps:
 |
 |
 
+
 #. Go to *PIM* and click on the **Choose Taxonomies** button.
 
 .. image:: /feature/_images/mdmimages/prodclassification_gotopimandclickchoosetaxonomies.PNG
 |
 |
+
 
 #. Choose the *Products* taxonomy, followed by the *Food* node and then the *Beverages* node. Click the **Apply** button.
 
@@ -72,11 +77,12 @@ To classify a product to multiple taxonomies, follow these steps:
 |
 |
 
+
 #. View the results that contain the products belonging to the selected taxonomies.
 
 .. image:: /feature/_images/mdmimages/prodclassification_viewtheresults.PNG
 |
-
+|
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

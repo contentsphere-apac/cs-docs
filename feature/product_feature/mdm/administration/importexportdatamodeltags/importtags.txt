@@ -5,7 +5,8 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 
 
 ===================     =======================================================================================================================================================================
-**Key Term**            * **Property:** A data field which describes a product, can also use *'attribute'*.
+**Key Term:**           * **Property:** A data field which describes a product, can also use *'attribute'*.
+
 **Description:**        * Tags are used to give various possible values to a product, making it possible to categorize it better.
                         * This feature allows and helps user to upload a huge amount of data (tags) in one go.
                         * This feature imports the tag definitions using an Excel file.
@@ -22,15 +23,13 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 ===================     =======================================================================================================================================================================
 
 
-
-
 How to do: Import Tags
 ======================
 To import tags, follow these steps:
 
 |
 
-#. Log in to Contentsphere and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clickadministration.PNG
 |

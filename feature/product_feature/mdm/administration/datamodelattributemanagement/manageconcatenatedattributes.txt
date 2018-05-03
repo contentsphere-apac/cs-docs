@@ -5,20 +5,20 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 
 
 ===================     ===============================================================================================================================================================
-**Key Term**            * **Attribute**: A data field which describes a product.
+**Key Term:**            * **Attribute**: A data field which describes a product.
 
-**Description:**        * This feature is used to concatenate two or more attributes to form one new attribute.
-                        * *Example:*
+**Description:**         * This feature is used to concatenate two or more attributes to form one new attribute.
+                         * *Example:*
 
-                            **Long Description = Name + Attribute1 + Attribute2 + Price**
+                              **Long Description = Name + Attribute1 + Attribute2 + Price**
 
-**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+**Related topics:**      * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
-**Application:**        * The feature will allow an administrator to set up a concatenated attribute that will use other attributes in the system.
-                        * *Example:*
+**Application:**         * The feature will allow an administrator to set up a concatenated attribute that will use other attributes in the system.
+                         * *Example:*
 
-                            An administrator sets up a new concatenated attribute, named *New Description* that will be a result of
-                            combining the long and short descriptions of a product.
+                             An administrator sets up a new concatenated attribute, named *New Description* that will be a result of
+                             combining the long and short descriptions of a product.
 
 ===================     ===============================================================================================================================================================
 

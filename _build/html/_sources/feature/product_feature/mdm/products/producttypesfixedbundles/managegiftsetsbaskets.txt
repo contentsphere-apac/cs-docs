@@ -1,19 +1,17 @@
 ==========================
 Manage Gift Sets/Baskets
 ==========================
-
 The Manage Gift Sets or Basket feature allows a user to group articles together in a specified quantity and sells them as a package to the customer.
 
 
 ===================     ===============================================================================================================================================================
 
-
-**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * This feature allows the retailer to manage a Bundle of Single Articles.
                           The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
 
-**Related topics:**     *  :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
+**Related topics:**     * :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
 
 **Application:**        * To create a bundle of products to form one product.
                         * The bundle is sold as an individual product to the customer.
@@ -25,9 +23,9 @@ The Manage Gift Sets or Basket feature allows a user to group articles together 
 ===================     ===============================================================================================================================================================
 
 
-How to do: Manage Gift Sets / Baskets
+How to do: Manage Gift Sets/Baskets
 =====================================
-To do manage gift sets/ basket, follow these steps:
+To do manage gift sets/baskets, follow these steps:
 
 |
 
@@ -37,11 +35,13 @@ To do manage gift sets/ basket, follow these steps:
 |
 |
 
+
 #. Hover on "+" icon.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_hoverplus.PNG
 |
 |
+
 
 #. Click on **Fixed Bundle**.
 
@@ -49,11 +49,13 @@ To do manage gift sets/ basket, follow these steps:
 |
 |
 
+
 #. Enter the required information.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_enterinfo.PNG
 |
 |
+
 
 #. Click **Add products** to add the required products.
 
@@ -61,11 +63,13 @@ To do manage gift sets/ basket, follow these steps:
 |
 |
 
+
 #. Click the Green box to select the desired product (Green box turns to Blue when selected), and click **Add All**.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_clickaddall.PNG
 |
 |
+
 
 #. Product added successfully. To add more products, click **Return**.
 
@@ -73,17 +77,20 @@ To do manage gift sets/ basket, follow these steps:
 |
 |
 
+
 #. To add an image, click **Relationships** tab.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_clickrelationships.PNG
 |
 |
 
+
 #. To add an image, click "+".
 
 .. image:: /feature/_images/mdmimages/managegiftsets_clickplusimage.PNG
 |
 |
+
 
 #. Click on  the Black box of the desired image (Black turns to Blue when selected), and click **Add All**.
    The desired image can also be dragged to the right section.
@@ -92,17 +99,20 @@ To do manage gift sets/ basket, follow these steps:
 |
 |
 
+
 #. To view the added image, click **Relationships** tab to view the added image.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_imageaddedrel.PNG
 |
 |
 
+
 #. To view the added product, click the **General** tab.
 
 .. image:: /feature/_images/mdmimages/managegiftsets_prodaddedgen.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

@@ -5,7 +5,7 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
                         * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.

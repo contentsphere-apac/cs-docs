@@ -6,7 +6,8 @@ This feature helps define the products better and takes corrective actions to ma
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Data Governance:** *(concept)* Data governance is an approach to managing a company’s data assets. It defines who is accountable for various aspects of an organization’s data as well as including procedures which define how the data is used, structured and stored. This includes data quality rules and KPIs through the Dashboard.
+**Key Term:**           * **Data Governance:** Data governance is an approach to managing a company’s data assets. It defines who is accountable for various aspects of an organization’s data as well as including procedures which define how the data is used, structured and stored. This includes data quality rules and KPIs through the Dashboard.
+
 **Description:**        * All set rules regarding *Accuracy, Completeness, Conformity, and Uniqueness* are monitored using this feature.
                         * The *Dashboard* and *Graphical View* display the results as per data in the system.
                         * The results show a combination of all the Data Quality measures: *Accuracy, Completeness, Conformity and Uniqueness*. These measures are displayed in percentage format.

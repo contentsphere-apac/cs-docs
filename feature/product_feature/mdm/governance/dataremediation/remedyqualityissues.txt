@@ -27,11 +27,12 @@ To create a rule violation, follow these steps:
 
 |
 
-#. Log in to Contentsphere and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_dataremediation_clickadministration.PNG
 |
 |
+
 
 #. Click on the **Data Governance** tab.
 
@@ -39,11 +40,13 @@ To create a rule violation, follow these steps:
 |
 |
 
+
 #. Click on **Rules** then click on the “+” icon to create a rule.
 
 .. image:: /feature/_images/mdmimages/cs_dataremediation_clickrules.PNG
 |
 |
+
 
 #. Enter the name and select **Violation** as rule type, then click on the **Create** button.
 
@@ -51,11 +54,13 @@ To create a rule violation, follow these steps:
 |
 |
 
+
 #. Select the *Partners,* *Endpoints,* and *Physical Catalogs* to which the rule is to be applied.
 
 .. image:: /feature/_images/mdmimages/cs_dataremediation_selectpartners.PNG
 |
 |
+
 
 #. In the *Cause* section, select the attributes, tags, and classes to which the rule will be applied. Take note that leaving the configuration details empty will apply the rule to every attribute, tag, and class.
 
@@ -66,6 +71,7 @@ To create a rule violation, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_dataremediation_selectclass.PNG
 |
 |
+
 
 #. After selecting the attribute, select the type of violation.
 
@@ -80,17 +86,20 @@ To create a rule violation, follow these steps:
 |
 |
 
+
 #. Select the color and enter the description to be shown whenever the violation occurs.
 
 .. image:: /feature/_images/mdmimages/cs_dataremediation_selectcolor.PNG
 |
 |
 
+
 #. Click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_dataremediation_clicksave.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

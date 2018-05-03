@@ -6,7 +6,7 @@ The Task Dashboard is where the created tasks can be viewed by the users. The ta
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**            * **Tabs:** *(property group)* Tabs are used to categorize the properties shown on a product’s page.
+**Key Term:**           * **Tabs:** are used to categorize the properties shown on a product’s page.
 
 **Description:**        * This feature provides the capability to view and edit tasks per category.
                         * This feature can restrict access to tasks depending on the permission level given to a user.
@@ -37,11 +37,13 @@ To view tasks in the dashboard, follow these steps:
 |
 |
 
+
 #. View the tasks in the dashboard. The dashboard contains tasks that are *Public (Shared)* and *Private* tasks.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_viewthetasksinthedashboard.PNG
 |
 |
+
 
 #. Click on the **Notifications** tab to view the notifications. Notifications are quick updates on the task activities.
 
@@ -49,11 +51,13 @@ To view tasks in the dashboard, follow these steps:
 |
 |
 
+
 #. Select a task.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_selectatask.PNG
 |
 |
+
 
 #. Edit the details of the task and then save the changes.
 
@@ -61,9 +65,11 @@ To view tasks in the dashboard, follow these steps:
 |
 |
 
+
 *Note:  Tasks can be edited and updated in the Task Dashboard*.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_notetaskscanbeedited.PNG
+|
 |
 
 

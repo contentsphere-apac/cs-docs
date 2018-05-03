@@ -5,7 +5,8 @@ The Export Tags is a feature that exports tag definitions so that they can be vi
 
 
 ===================     =======================================================================================================================================================================
-**Key Term**            * **Property:** A data field which describes a product, can also use *'attribute'*. 
+**Key Term:**           * **Property:** A data field which describes a product, can also use *'attribute'*.
+
 **Description:**        * Tags are used to give various possible values to a product, categorizing it better.
                         * This feature lets users have all the details of the tags in a single sheet. This sheet can also be used offline.
                         * This feature exports the tag definitions in an Excel file.
@@ -29,7 +30,7 @@ To export tags, follow these steps:
 
 |
 
-#. Log in to Contentsphere and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button to enter the configuration page.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clickadministration.PNG
 |

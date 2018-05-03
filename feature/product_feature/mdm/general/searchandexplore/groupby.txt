@@ -6,7 +6,7 @@ The Group By feature allows a user to view a group of objects in the system by s
 
 ===================     =============================================================================================================================================================
 
-**Key Term:**            * **Attribute:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
 
 **Description:**        * The feature provides a user the functionality to view a grouping of products with the desired sequence of attributes and tags (filterable).
                         * *Group By* allows the user to make groups according to *Tags* and *Attributes*.
@@ -35,11 +35,13 @@ To do a group by, follow these steps:
 |
 |
 
+
 #. Click the "+" icon to add the properties of a grouping. A list of all the filterable properties will be shown.
 
 .. image:: /feature/_images/mdmimages/group_by_02.PNG
 |
 |
+
 
 #. Select the property/properties to be used. A list of values will be displayed along with the number of products.
 
@@ -49,11 +51,13 @@ To do a group by, follow these steps:
 |
 |
 
+
 #. View the products that are displayed after selecting a value.
 
 .. image:: /feature/_images/mdmimages/group_by_04.PNG
 |
 |
+
 
 #. To add another level for the grouping, click the "+" icon.
 
@@ -61,9 +65,11 @@ To do a group by, follow these steps:
 |
 |
 
+
 #. Similarly, on the list that will appear, select the appropriate property. Select a subtag to have a more refined grouping.
 
 .. image:: /feature/_images/mdmimages/group_by_06.PNG
+|
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

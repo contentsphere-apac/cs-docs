@@ -5,7 +5,7 @@ The Check for Erroneous Products is a feature that can be used by users to view 
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Partner Engagement Platform (PEP):** *(domain type)* A portal which allows a Contentspere customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding
+**Key Term:**           * **Partner Engagement Platform (PEP):** A portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
 
 **Description:**        * In the *Onboarding Master Catalog*, a user can see Products transferred by a supplier.
                         * This feature allows an admin to create and apply rules like KPIs for data accuracy in the master catalog.
@@ -30,7 +30,7 @@ How To: How to add rules in supplier products by user
 To do this, follow these steps:
 
 
-#. Login to ContentSphere and click **Dashboard** to explore the products.
+#. Log in and click **Dashboard** to explore the products.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboardb.PNG
 |

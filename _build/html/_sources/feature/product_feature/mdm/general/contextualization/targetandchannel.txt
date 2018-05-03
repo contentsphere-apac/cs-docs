@@ -15,7 +15,7 @@ Target and Channel Contextualization is a feature that allows users to have attr
 **Related topics:**     * :doc:`Embedded Variants within Context </feature/product_feature/mdm/general/contextualization/embeddedvariants>`
 
 **Application:**        * Set up multi-value attributes based on a context or tag.
-                        * *Example*
+                        * *Example:*
 
                              A product has different prices depending on the regions it is being sold to. In this example, "Region" is the context that drives the price attribute.
 ===================     =============================================================================================================================================================

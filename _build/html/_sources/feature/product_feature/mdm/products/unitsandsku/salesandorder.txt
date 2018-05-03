@@ -2,13 +2,11 @@
 Manage Sales and Order Units
 ============================
 
-
 Manage Sales and Order Units lets you tag various quantity units as sales or order units.
 
 
 ===================     =============================================================================================================================================================
-
-**Key Term:**            * **Product Information Management (PIM):** *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
 **Description:**        * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
                           (Example: *a single can of Red Bull)*
@@ -29,7 +27,6 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
 ===================     =============================================================================================================================================================
 
 
-
 How to do: Manage Sales and Order Units
 =======================================
 
@@ -43,11 +40,13 @@ Keeping track of items as sales units and order units is easy, and here's how to
 |
 |
 
+
 #. Select a product and click **Unit**.
 
 .. image:: /feature/_images/mdmimages/salesandorder_selectproduct.PNG
 |
 |
+
 
 #. Click **Create**.
 
@@ -55,17 +54,20 @@ Keeping track of items as sales units and order units is easy, and here's how to
 |
 |
 
+
 #. For the base unit, use ST as measurement unit. ST is the smallest measurement unit that cannot be divided further. ST can be a base unit or a sales unit.
 
 .. image:: /feature/_images/mdmimages/salesandorder_usest.PNG
 |
 |
 
+
 #. Enter the details of the EAN. Use *IE* for Internal Supplier.
 
 .. image:: /feature/_images/mdmimages/salesandorder_eandetails.PNG
 |
 |
+
 
 Sales and Order Unit
 --------------------
@@ -78,11 +80,13 @@ Sales and Order Unit
 |
 |
 
+
 #. The amount of KOA unit is 9, which can be used as the sales and order unit.
 
 .. image:: /feature/_images/mdmimages/salesandorder_koa.PNG
 |
 |
+
 
 #. Enter the details of the EAN.
 
@@ -90,12 +94,15 @@ Sales and Order Unit
 |
 .. image:: /feature/_images/mdmimages/salesandorder_eandetails1a.PNG
 |
+|
+
 
 #. Use *HE* to refer to External Supplier.
 
 .. image:: /feature/_images/mdmimages/salesandorder_externalsupplier.PNG
 |
 |
+
 
 Order Unit (Bulk Order)
 --------------------
@@ -108,16 +115,20 @@ Order Unit (Bulk Order)
 |
 |
 
+
 #. The amount of KOB unit is 40, which can be used as the order unit.
 
 .. image:: /feature/_images/mdmimages/salesandorder_kob.PNG
 |
 |
 
+
 #. Enter the details of the EAN.
 
 .. image:: /feature/_images/mdmimages/salesandorder_eandetails2.PNG
 |
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line

@@ -6,7 +6,7 @@ The Faceted Search feature allows a user to have a multi-faceted search support 
 
 ===================     =============================================================================================================================================================
 
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * In addition to multi-criteria search, the solution features a multi-faceted search support functionality to refine the results.
                         * A user can refine the results through filters or taxonomy.

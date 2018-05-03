@@ -5,7 +5,7 @@ Manage System Profile is an admin feature that manages a *System (Organization P
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**            * **Administrator:** a technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
 
 **Description:**        * An administrator can create profiles for an organization that will contain the selected endpoints (both for on-board/off-board).
                         * A *System* is a profile created for an organization.
@@ -38,11 +38,13 @@ To set up system profile, follow these steps:
 |
 |
 
+
 #. Click on the **Partner Administration** tab.
 
 .. image:: /feature/_images/pepimages/cs_managesystemprofile_clickpartneradmin.PNG
 |
 |
+
 
 #. Click on **Partners**.
 
@@ -50,11 +52,13 @@ To set up system profile, follow these steps:
 |
 |
 
+
 #. Click on the "+" button to create an organization (or select an existing one).
 
 .. image:: /feature/_images/pepimages/cs_managesystemprofile_clickplusbutton.PNG
 |
 |
+
 
 #. Enter the name and click on the **Create** button.
 
@@ -62,11 +66,13 @@ To set up system profile, follow these steps:
 |
 |
 
+
 #. In the *Systems* section, click on the "+" icon to add systems to the organization.
 
 .. image:: /feature/_images/pepimages/cs_managesystemprofile_clicksystemplus.PNG
 |
 |
+
 
 #. Select the system to be added and click on the **Apply** button.
 
@@ -74,9 +80,11 @@ To set up system profile, follow these steps:
 |
 |
 
+
 #. Select the endpoints to be used in the system.
 
 .. image:: /feature/_images/pepimages/cs_managesystemprofile_selectendpoints.PNG
+|
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

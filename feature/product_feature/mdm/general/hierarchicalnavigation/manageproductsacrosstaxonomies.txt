@@ -31,7 +31,7 @@ To manage products across taxonomies, follow these steps:
 
 |
 
-#. Log in to the application. Go to *PIM*.
+#. Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_gotopim.PNG
 |
@@ -82,6 +82,7 @@ To manage products across taxonomies, follow these steps:
 #. View the product added to the selected taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_viewaddedproduct.PNG
+|
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

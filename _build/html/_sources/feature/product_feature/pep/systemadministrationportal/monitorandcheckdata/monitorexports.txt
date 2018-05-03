@@ -5,7 +5,7 @@ The Monitor Exports feature provides an export summary for every export of produ
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Administrator** *(user type, customer role)* A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
 
 **Description:**        * The user will get and view a summary of the reports for each completed export process.
                         * The brief summary would have key indicators of the products being exported and the user can check the products for violations and correct them.

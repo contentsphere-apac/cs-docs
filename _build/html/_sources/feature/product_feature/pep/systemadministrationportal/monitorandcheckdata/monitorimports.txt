@@ -5,6 +5,8 @@ The Monitor Imports feature provides an import summary for every import of produ
 
 
 ===================     =======================================================================================================================================================================
+**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+
 **Description:**        * The user will get and view a summary of the reports for each completed import process.
                         * The brief summary would have key indicators of the products being imported and the user can check the products for violations and correct them.
 

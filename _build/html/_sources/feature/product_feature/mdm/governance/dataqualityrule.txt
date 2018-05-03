@@ -6,7 +6,8 @@ The Data Quality Rule feature provides the functionality to create and set rules
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**           * **Administrator:** *(user type, customer role)* A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+
 **Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
                         * This feature allows data quality rules to be customized.
                         * This feature has two main types of rule: *Rule Violation and Normalization*.
@@ -40,11 +41,13 @@ To do this data governance feature, follow these steps:
 |
 |
 
+
 #. Go to the *Rule Configuration* section.
 
 .. image:: /feature/_images/mdmimages/dataqualityrules_gototheruleconfiguration.PNG
 |
 |
+
 
 #. Click on the **Create** button to create a new rule.
 
@@ -52,11 +55,13 @@ To do this data governance feature, follow these steps:
 |
 |
 
+
 #. Provide a name for the rule and click on the *Attributes, Tags, and Roles* where the data quality rule will be applied.
 
 .. image:: /feature/_images/mdmimages/dataqualityrules_providethenamefortherule.PNG
 |
 |
+
 
 #. Refer to the steps below for a data quality rule example applied to an attribute:
 
@@ -103,6 +108,7 @@ To do this data governance feature, follow these steps:
 
   *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for rule violation. When you click on the warning message, the applied rule notification will appear.*
 
+|
 |
 
 
