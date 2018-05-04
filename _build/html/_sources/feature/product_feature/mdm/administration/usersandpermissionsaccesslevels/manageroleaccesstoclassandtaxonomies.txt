@@ -148,4 +148,4 @@ To restrict a role's access to class and taxonomy, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

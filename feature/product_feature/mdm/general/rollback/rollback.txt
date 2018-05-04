@@ -33,7 +33,7 @@ To do this, follow these steps:
 
 #. Go to **PIM**.
 
-.. image:: /feature/_images/mdmimages/cs_rollback_gotoPIMb.PNG
+.. image:: /feature/_images/mdmimages/cs_rollback_gotopim2.PNG
 |
 |
 
@@ -71,7 +71,6 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_rollback_clickproperties.PNG
 |
 |
-
 .. image:: /feature/_images/mdmimages/cs_rollback_changepricing.PNG
 |
 |
@@ -106,12 +105,11 @@ To do this, follow these steps:
 |
 
 
-#.  Click on **Compare** icon. Then, and click **OK** to close the window.
+#.  Click on **Compare** icon.Then, and click **OK** to close the window.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickcompare.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickcompareb.PNG
 |
@@ -127,7 +125,8 @@ To do this, follow these steps:
 |
 |
 
-#.    Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes is restored. View the image (now rereverted to the old version).
+
+#.    Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
 
 .. image:: /feature/_images/mdmimages/cs_rollback_viewimage.PNG
 |

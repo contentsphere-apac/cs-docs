@@ -2,13 +2,13 @@
 Manage Taxonomy
 ================
 The feature, *'Manage Taxonomy’* is an interface that provides users the ability to create, update, edit, or delete taxonomies.
-It is the primary way that we update taxonomies in the Contentsphere system.
+It is the primary way that we update taxonomies in the Contentserv system.
 
 
 ====================    =============================================================================================================================================================
 **Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization's products.
 
-**Description:**        * Taxonomy management is facilitated in the configuration section of Contentsphere.
+**Description:**        * Taxonomy management is facilitated in the configuration section of Contentserv.
                         * The interface gives you the flexibility to add levels to the taxonomy vertically and horizontally.
                         * When the taxonomy is given a level vertically, it becomes more specific under that category.
                           For example, a taxonomy may have a *Fashion* category which may be made more specific with a *Pants* subcategory.
@@ -104,4 +104,4 @@ Here's how to do a simple taxonomy tree.
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
