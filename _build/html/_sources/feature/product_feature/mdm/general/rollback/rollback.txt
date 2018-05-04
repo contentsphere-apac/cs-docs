@@ -86,7 +86,6 @@ To do this, follow these steps:
 #. Click **Timeline**. The current version of the product would be with the latest version number on the top.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clicktimeline.PNG
-
 |
 |
 
@@ -115,7 +114,8 @@ To do this, follow these steps:
 |
 |
 
-# Click **Rollback** icon of the selected version.
+
+#. Click **Rollback** icon of the selected version.
 
 .. image:: /feature/_images/mdmimages/cs_rollback_clickrollback.PNG
 |
@@ -126,7 +126,7 @@ To do this, follow these steps:
 |
 
 
-#.    Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
+#. Once the rollback has been confirmed, go to  the *Properties* Tab, and the changes  is restored. View the image (now rereverted to the old version).
 
 .. image:: /feature/_images/mdmimages/cs_rollback_viewimage.PNG
 |
