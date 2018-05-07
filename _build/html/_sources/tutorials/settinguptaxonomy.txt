@@ -1,10 +1,10 @@
-=======================
+=================
 Set Up a Taxonomy
-=======================
+=================
 Taxonomy is a product classification used to organize the content.
 
 How to do: Set Up a Taxonomy
-==================================
+=============================
 To do this, follow these steps:
 
 #. Click **Settings**.
