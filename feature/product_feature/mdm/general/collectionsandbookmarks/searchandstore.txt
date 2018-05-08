@@ -36,13 +36,19 @@ Storing a Bookmark
 
 |
 
-#. Go to PIM and click **Advanced Filters**.
+#. Log in to the application and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/searchnstore_gotopim.PNG
 |
 |
 
-#. Select the desired filters and click **Apply**.
+#. Click on the **Sort & Filter** button then click on the **Advanced Filters** button.
+
+.. image:: /feature/_images/mdmimages/searchnstore_selectfilter.PNG
+|
+|
+
+#. Select the desired filters and click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/searchnstore_selectfilter.PNG
 |
