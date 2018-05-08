@@ -2,13 +2,13 @@
 Parametric Search
 =================
 The Parametric Search feature provides general users the ability to search for products or assets using various data fields
-so that the users can narrow down items using the specified criteria.
+that have been used to describe a product or article. The users can narrow down items using the specified criteria.
 
 
 ===================     =============================================================================================================================================================
 **Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
 
-**Description:**        * This feature allows searching for products or assets using various/detailed criteria that can narrow down items using the fine criteria.
+**Description:**        * This feature allows searching for products or assets using various/detailed criteria that can narrow down items using fine criteria.
                         * The search is expressed in terms of values of the *Tags*, *Attributes*, and *Roles* in the products/articles.
                         * A user can put the conditions for the filter values.
 
@@ -62,14 +62,14 @@ To do a parametric search, follow these steps:
 |
 
 
-#. After selecting the attribute, the attribute options will appear on the right.  Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
+#. After selecting an attribute, the attribute options will appear on the right.  Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectingtheattribute.PNG
 |
 |
 
 
-#. After selecting an operator (e.g. *Greater Than*) based on the attribute, select the value and units. Click the **Apply** button.
+#. After selecting an operator (e.g. *Greater Than*), select the value and unit. Click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectinganoperator.PNG
 |
