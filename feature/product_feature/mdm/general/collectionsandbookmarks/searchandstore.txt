@@ -60,13 +60,13 @@ Storing a Bookmark
 |
 |
 
-#. Enter the name of the bookmark and click **Create**.
+#. Enter the name of the bookmark and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/searchnstore_entername.PNG
 |
 |
 
-#. Bookmark has been added successfully.
+#. View the added bookmark.
 
 .. image:: /feature/_images/mdmimages/searchnstore_addedsuccessfully.PNG
 |
@@ -78,13 +78,13 @@ Searching for a Bookmark
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/searchnstore_gotopim2.PNG
 |
 |
 
-#. On the search bar, click the **Bookmark** icon.
+#. Click on the **Bookmark** icon.
 
 .. image:: /feature/_images/mdmimages/searchnstore_searchbar.PNG
 |
@@ -102,7 +102,7 @@ Searching for a Bookmark
 |
 |
 
-#. The bookmark is displayed.
+#. View the bookmark.
 
 .. image:: /feature/_images/mdmimages/searchnstore_bookmarkopened.PNG
 |

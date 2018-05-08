@@ -24,8 +24,7 @@ Collection Hierarchy lets you organize and view your collections within a struct
 How to do: Collection Hierarchy
 ===============================
 
-This How To guide provides instructions on how to organize and view the collections within a structured hierarchy of collections.
-To do this, follow these steps:
+To organize and view the collections within a structured hierarchy of collections, follow these steps:
 
 |
 
@@ -36,7 +35,7 @@ To do this, follow these steps:
 |
 
 
-#. On the collections page, click **Add New Collection** and enter the name of the new collection.
+#. Click on the **Add New Collection** button and enter the name of the new collection.
 
 .. image:: /feature/_images/mdmimages/colhier_addnewcollection.PNG
 |

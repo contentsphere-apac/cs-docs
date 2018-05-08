@@ -30,8 +30,7 @@ Public or Private Bookmarks and Collections feature lets you define whether book
 How to do: Public or Private Bookmarks and Collections
 ======================================================
 
-This How To guide provides instructions on how to define a bookmark (or collection) to either *Public or Private*.
-To do this, follow these steps:
+To define a bookmark (or collection) to either *Public or Private*, follow these steps:
 
 
 Bookmarks: Setting a Public Bookmark
@@ -45,7 +44,7 @@ Bookmarks: Setting a Public Bookmark
 |
 |
 
-#. Click the Bookmark icon and go to the desired bookmark.
+#. Click on the **Bookmark** icon and go to the desired bookmark.
 
 |
 
@@ -78,7 +77,7 @@ Bookmarks: Setting a Private Bookmark
 .. image:: /feature/_images/mdmimages/bookmarksncollections_admin.PNG
 |
 
-#. Click the Bookmark icon and go to the desired bookmark.
+#. Click on the **Bookmark icon** and go to the desired bookmark.
 
 |
 
@@ -113,13 +112,13 @@ Collections: Setting a Public Collection
 |
 |
 
-#. Click on the pin icon on the right side of the search bar to create the collection.
+#. Click on the **Collection** icon.
 
 .. image:: /feature/_images/mdmimages/bookmarksncollections_createcollection.PNG
 |
 |
 
-#. Enter the name of the collection and click **Create**.
+#. Enter the name of the collection and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/bookmarksncollections_entername.PNG
 |
@@ -150,11 +149,11 @@ Collections: Setting a Private Collection
 
 |
 
-#. To set a collection to private, search for the collection.
+#. Search for the collection.
 
 |
 
-#. Once searched, click on the lock icon to change the setting to *Private*.
+#. Once searched, click on the **Lock** icon to change the setting to *Private*.
 
 .. image:: /feature/_images/mdmimages/bookmarksncollections_privatecollection.PNG
 |

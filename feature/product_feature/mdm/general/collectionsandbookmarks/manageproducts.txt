@@ -23,13 +23,12 @@ Manage Products across Collections lets you copy or move products between collec
 How to do: Manage Products across Collections
 =============================================
 
-This How To guide provides instructions on how to copy or move products across collections.
-To do this, follow these steps:
+To copy or move products across collections, follow these steps:
 
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/manageprod_gotopim.PNG
 |
@@ -41,13 +40,13 @@ To do this, follow these steps:
 |
 |
 
-#. Click **Organize**.
+#. Click on the **Organize** button.
 
 .. image:: /feature/_images/mdmimages/manageprod_clickorganize.PNG
 |
 |
 
-#. Click **Add New Collection**.
+#. Click on the **Add New Collection** button.
 
 .. image:: /feature/_images/mdmimages/manageprod_addnewcollection.PNG
 |
@@ -59,19 +58,19 @@ To do this, follow these steps:
 |
 |
 
-#. Select the product and click the **Copy** icon.
+#. Select the product and click on the **Copy** icon.
 
 .. image:: /feature/_images/mdmimages/manageprod_copy.PNG
 |
 |
 
-#. Go to the desired path and click the **Paste** icon.
+#. Go to the desired path and click on the **Paste** icon.
 
 .. image:: /feature/_images/mdmimages/manageprod_paste.PNG
 |
 |
 
-#. View that the product is added successfully.
+#. View the added product.
 
 .. image:: /feature/_images/mdmimages/manageprod_addedsuccessfully.PNG
 |

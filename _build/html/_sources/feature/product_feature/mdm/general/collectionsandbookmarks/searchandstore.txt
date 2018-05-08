@@ -36,13 +36,19 @@ Storing a Bookmark
 
 |
 
-#. Go to PIM and click **Advanced Filters**.
+#. Log in to the application and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/searchnstore_gotopim.PNG
 |
 |
 
-#. Select the desired filters and click **Apply**.
+#. Click on the **Sort & Filter** button then click on the **Advanced Filters** button.
+
+.. image:: /feature/_images/mdmimages/searchnstore_selectfilter.PNG
+|
+|
+
+#. Select the desired filters and click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/searchnstore_selectfilter.PNG
 |
@@ -54,13 +60,13 @@ Storing a Bookmark
 |
 |
 
-#. Enter the name of the bookmark and click **Create**.
+#. Enter the name of the bookmark and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/searchnstore_entername.PNG
 |
 |
 
-#. Bookmark has been added successfully.
+#. View the added bookmark.
 
 .. image:: /feature/_images/mdmimages/searchnstore_addedsuccessfully.PNG
 |
@@ -72,13 +78,13 @@ Searching for a Bookmark
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/searchnstore_gotopim2.PNG
 |
 |
 
-#. On the search bar, click the **Bookmark** icon.
+#. Click on the **Bookmark** icon.
 
 .. image:: /feature/_images/mdmimages/searchnstore_searchbar.PNG
 |
@@ -96,7 +102,7 @@ Searching for a Bookmark
 |
 |
 
-#. The bookmark is displayed.
+#. View the bookmark.
 
 .. image:: /feature/_images/mdmimages/searchnstore_bookmarkopened.PNG
 |
