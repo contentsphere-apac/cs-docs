@@ -1,0 +1,204 @@
+=========================
+Contextual Data Transfer
+=========================
+The Contextual Data Transfer is a feature that replicates and transfers the data from a parent product to its child products.
+This feature provides the facility to transfer the details of contextual products to the different variants of the product.
+
+
+===================     =======================================================================================================================================================================
+**Key Term:**           * **Contextual Data Transfer**: contextual data transfer refers to the replication and transmission of data from the parent product to its child product.
+
+**Description:**        * Contextual Data Transfer is concerned with the transmission of data from a parent product to its child products.
+                        * This feature is useful whenever you create any type of variant in the system and you want to replicate the details of the parent product into all of its variants.
+
+**Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+                        * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
+                        * :doc:`Inheritance via Taxonomy </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
+
+**Application:**        * This feature helps to reduce the time and effort needed for providing details in the variants of the product.
+                        * *Example:*
+
+                            A fashion retailer wants to create the different size and color variants of the shirt product.
+                            Using Contextual Data Transfer, only the details for only parent shirt product are required.
+                            Once the retailer provides the details in the parent product, he will be able to transfer all the details in all variant products.
+                            Thus, he will not have to manually provide all the details in all variants.
+===================     =======================================================================================================================================================================
+
+
+How to do: Contextual Data Transfer
+====================================
+To do a contextual data transfer, follow these steps:
+
+|
+
+#. Log in and click on the **Administration** icon.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_login.PNG
+|
+|
+
+#. Click on the **Data Model** tab and select **Classes**.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_datamodel.PNG
+|
+|
+
+#. Click on a class type and select the created class of that class type. You will see all the details of that class.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickclasstype.PNG
+|
+|
+
+#. Locate the *Unit Class* section and select a created unit class from the **Add Class** field.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_locateunitclass.PNG
+|
+|
+
+#. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Unit Class* section.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_unitclass.PNG
+|
+|
+
+
+#. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickattributeicon.PNG
+|
+|
+
+#. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute.PNG
+|
+|
+
+#. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicktagicon.PNG
+|
+|
+
+#. Select the unit tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag.PNG
+|
+|
+
+#. Locate the *Standard Identifier* section and select a created standard identifier class from the **Add Class** field.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_locatestandardidentifier.PNG
+|
+|
+
+#. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Standard Identifier* section.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_standardidentifier.PNG
+|
+|
+
+#. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickattributeicon2.PNG
+|
+|
+
+#. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute2.PNG
+|
+|
+
+
+#. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicktagicon2.PNG
+|
+|
+
+#. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag2.PNG
+|
+|
+
+#. Locate the *Embedded Class* section and select a created embedded class from **Add Class** field.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_locateembeddedclass.PNG
+|
+|
+
+#. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Embedded Class* section.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_embeddedclass.PNG
+|
+|
+
+#. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickattributeicon3.PNG
+|
+|
+
+#. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute3.PNG
+|
+|
+
+#. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicktagicon3.PNG
+|
+|
+
+#. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag3.PNG
+|
+|
+
+#. Locate the *Language Class* section and select a created language class from **Add Class** field.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_locatelanguageclass.PNG
+|
+|
+
+#. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Language Class* section.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_languageclass.PNG
+|
+|
+
+#. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickattributeicon4.PNG
+|
+|
+
+#. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute4.PNG
+|
+|
+
+#. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicktagicon4.PNG
+|
+|
+
+#. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag4.PNG
+|
+|
+
+#. Click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicksave.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
