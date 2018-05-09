@@ -93,14 +93,11 @@ To do this, follow these steps:
 |
 |
 
-
-
 #. You can view all the products category wise as well as all the tasks created for each product.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct2.PNG
 |
 |
 
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserve line
