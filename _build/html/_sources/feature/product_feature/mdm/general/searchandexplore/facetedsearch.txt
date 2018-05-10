@@ -26,9 +26,11 @@ To do this search, follow these steps:
 
 |
 
-#. Log in to the system.
+#. Log in and go to *PIM*.
 
 |
+|
+
 
 #.  Click on the **Choose Taxonomies** box next to the Search Bar.
 

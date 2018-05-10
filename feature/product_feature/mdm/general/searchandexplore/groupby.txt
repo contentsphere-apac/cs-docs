@@ -29,6 +29,11 @@ To do a group by, follow these steps:
 
 |
 
+#. Log in and go to *PIM*.
+
+|
+|
+
 #. Click the **Group By** button found on the upper right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/group_by_01.PNG

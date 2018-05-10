@@ -29,6 +29,11 @@ To do a full-text search, follow these steps:
 
 |
 
+#. Log in and go to *PIM*.
+
+|
+|
+
 #. Click on the **Search bar**.
 |
 |

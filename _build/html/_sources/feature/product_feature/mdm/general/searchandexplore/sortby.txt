@@ -27,9 +27,12 @@ To do a sort by, follow these steps:
 
 |
 
-#. Log in to the system.
+#. Log in and go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
+|
+
 
 #. Click the **Sort and Filter** button. The menu selection will expand.
 
