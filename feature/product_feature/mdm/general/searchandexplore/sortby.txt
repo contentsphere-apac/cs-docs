@@ -1,6 +1,6 @@
-=======
+========
 Sort By
-=======
+========
 
 The Sort By feature allows a user to view products and assets according to a specific attribute sort order.
 

@@ -1,6 +1,6 @@
-=======
+========
 Sort By
-=======
+========
 
 The Sort By feature allows a user to view products and assets according to a specific attribute sort order.
 
@@ -74,4 +74,4 @@ To do a sort by, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-  :alt: Contentsphere line
+  :alt: Contentserv line
