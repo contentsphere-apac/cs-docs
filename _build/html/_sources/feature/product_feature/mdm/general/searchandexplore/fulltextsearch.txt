@@ -3,6 +3,7 @@ Full-text Search
 =================
 The Full-text Search feature gives the user the ability to search for a product or asset. The search finds any matching text within the product or asset.
 
+
 ===================     ===================================================================================================================================================================================
 **Key Term:**           * **Administrator:** A technical specialist who configures a software system.
 
