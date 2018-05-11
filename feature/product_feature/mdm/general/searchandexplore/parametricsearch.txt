@@ -53,7 +53,7 @@ To do a parametric search, follow these steps:
 |
 
 
-#. Click on **Attributes** on the pop-up window and select an attribute (e.g. *List Price*).
+#. Click the **Attributes** on the pop-up window and select an attribute (e.g. *List Price*).
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_clickonattributeandselect.PNG
 |
