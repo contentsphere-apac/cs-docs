@@ -30,40 +30,41 @@ This enables better categorization of products as well as inheritance of relevan
 How to do: Multi-classify Objects
 =================================
 
-This How To guide provides instructions on how to multi-classify objects.
-To do this, follow these steps:
+To multi-classify objects, follow these steps:
 
 |
 
-#. Go to PIM and hover on the **'+'** icon.
+#. Go to PIM and hover over the "+" icon.
 
-.. image:: /feature/_images/mdmimages/multiclassify_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_gotopim.PNG
 |
 |
 
 
 #. Click **Single Article**.
 
-.. image:: /feature/_images/mdmimages/multiclassify_singlearticle.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_clicksinglearticle.PNG
 |
 |
 
 
-#. Enter the name of the single article.
+#. Once clicked, a new window will appear. Enter the name of the single article.
 
-.. image:: /feature/_images/mdmimages/multiclassify_name.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_enterthenameofarticle.PNG
 |
 |
 
 
-#. To add a Non-Nature class or Attribution class, click **Add Class**.
+#. To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
 
-.. image:: /feature/_images/mdmimages/multiclassify_addclass.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass2.PNG
 |
 |
 
 
-#. Select a class from the drop-down list.
+#. Select a relevant class from the drop-down list.
 
 .. image:: /feature/_images/mdmimages/multiclassify_dropdownlist.PNG
 |
