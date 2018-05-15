@@ -39,7 +39,7 @@ To do this, follow these steps:
 
 #. Select a product.
 
-.. image:: /feature/_images/mdmimages/cs_partialclone_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_selectproductb.PNG
 |
 |
 
