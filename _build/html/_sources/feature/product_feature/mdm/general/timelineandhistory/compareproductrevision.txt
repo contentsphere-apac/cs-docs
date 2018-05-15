@@ -27,38 +27,49 @@ It also allows merging of specific values from previous versions into the latest
 
 
 How to do: Compare Product Revision
-====================================
+======================================
 To do this feature, follow these steps:
 
 |
 
+#. Go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_gotopim.PNG
+|
+|
+
 #. Select a product and click on the **Timeline Tab**.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectaproductandclicktimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproductandclicktimeline.PNG
 |
 |
 
 #. View the revision timeline.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeviewtherevisiontimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_viewtimeline.PNG
 |
 |
 
-#. Select the latest version and any of the former version. Then, click on the **Compare** button.
+#.  On the selected version, click **Compare with current version** icon.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectthelatestversionandformerversion.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
 |
 |
 
-#. Select the data of the older version in the **Compare** view and then click the **Save** button.
+#. View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectthedataoftheolderversioninthecompare.PNG
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
 |
 |
 
-#. View the timeline. The latest version in the timeline will be updated accordingly with the merged data.
+#. Click **OK**.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeviewthetimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_clickok.PNG
+|
 |
 
 
