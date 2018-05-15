@@ -24,31 +24,44 @@ Collection Hierarchy lets you organize and view your collections within a struct
 How to do: Collection Hierarchy
 ===============================
 
-To organize and view the collections within a structured hierarchy of collections, follow these steps:
+To organize and view the collections within a structured hierarchy, follow these steps:
 
 |
 
-#. Select a collection and click **Organize**.
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/colhier_clickorganize.PNG
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_login.PNG
+|
+|
+
+#. Click on the **Collections** icon and select the desired collection.
+
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_clickcollectionsicon.PNG
+|
+|
+
+#. Click on the **Organize** button.
+
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_organize.PNG
 |
 |
 
 
-#. Click on the **Add New Collection** button and enter the name of the new collection.
+#. Click on the **Add New Collection** button, enter the name for the collection, and copy products into the collection.
 
-.. image:: /feature/_images/mdmimages/colhier_addnewcollection.PNG
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_addnewcollection.PNG
 |
-.. image:: /feature/_images/mdmimages/colhier_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_entername.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_copyproducts.PNG
 |
 |
 
+#. Repeat the previous step to create a hierarchy of the collection.
 
-#. Repeat the previous step to create a hierarchy of the product, accordingly.
-
-.. image:: /feature/_images/mdmimages/colhier_added1.PNG
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_entername2.PNG
 |
-.. image:: /feature/_images/mdmimages/colhier_added2.PNG
+.. image:: /feature/_images/mdmimages/cs_collectionhierarchy_copyproducts2.PNG
 |
 
 

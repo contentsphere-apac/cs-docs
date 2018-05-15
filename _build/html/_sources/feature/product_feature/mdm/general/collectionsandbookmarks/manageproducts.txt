@@ -28,53 +28,53 @@ To copy or move products across collections, follow these steps:
 
 |
 
-#. Go to *PIM*.
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/manageprod_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_login.PNG
 |
 |
 
-#. Search for and click the collection.
+#. Click the **Collections** icon and select the desired collection.
 
-.. image:: /feature/_images/mdmimages/manageprod_clickcollection.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_collectionsicon.PNG
 |
 |
 
 #. Click on the **Organize** button.
 
-.. image:: /feature/_images/mdmimages/manageprod_clickorganize.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_organize.PNG
 |
 |
 
 #. Click on the **Add New Collection** button.
 
-.. image:: /feature/_images/mdmimages/manageprod_addnewcollection.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_addnewcollection.PNG
 |
 |
 
 #. Enter the name for the collection.
 
-.. image:: /feature/_images/mdmimages/manageprod_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_entername.PNG
 |
 |
 
-#. Select the product and click on the **Copy** icon.
+#. Select the product from the source collection and click on the **Copy** icon.
 
-.. image:: /feature/_images/mdmimages/manageprod_copy.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_copy.PNG
 |
 |
 
-#. Go to the desired path and click on the **Paste** icon.
+#. Go to the destination collection and click on the **Paste** icon.
 
-.. image:: /feature/_images/mdmimages/manageprod_paste.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_paste.PNG
 |
 |
 
 #. View the added product.
 
-.. image:: /feature/_images/mdmimages/manageprod_addedsuccessfully.PNG
+.. image:: /feature/_images/mdmimages/cs_manageproducts_viewaddedproduct.PNG
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
