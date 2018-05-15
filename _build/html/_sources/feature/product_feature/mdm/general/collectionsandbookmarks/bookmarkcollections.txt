@@ -197,7 +197,7 @@ Collections: Setting a Private Collection
 
 #. Once done, only certain users can view the collection.
 
-.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatecollection.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatecollection1.PNG
 |
 
 *As seen on the images above, the collection cannot be viewed by the seller as it is restricted to the admin.*
