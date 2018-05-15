@@ -5,7 +5,7 @@ Creating a Partial Clone is a feature that allows users to create partial clones
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Property:**  A data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * A partial clone of a product contains a subset of the features of the original product as defined by a filter.
                         * Creating a partial clone allows to selectively clone the values that need to be cloned.
