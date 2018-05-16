@@ -7,7 +7,7 @@ It also allows merging of specific values from previous versions into the latest
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Property:** A data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * This feature allows a user to compare versions of a product/article.
                         * This feature gives an overview of the similarities and differences of comparable versions and merge values from any previous version to the newer version.
@@ -72,6 +72,5 @@ To do this feature, follow these steps:
 |
 |
 
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
