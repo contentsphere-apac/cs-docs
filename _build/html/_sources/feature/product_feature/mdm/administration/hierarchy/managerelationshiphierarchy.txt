@@ -25,51 +25,41 @@ Manage Hierarchy via Relationship lets you set up relationships as links so that
 
 How to do: Manage Hierarchy via Relationship
 ============================================
-
-Classification of related products is easy when you manage hierarchies. Here's how to do it.
-
-|
-
-#. Go to PIM.
-
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_gotopim.PNG
-
-|
-|
-
-#. Click **Choose Taxonomies** then click the **Create Relationship Hierarchy** button.
-
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_choosetaxonomies.PNG
+To manage hierarchy via relationship, follow these steps.
 
 |
 
+#. Log in and go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_login.PNG
+|
 |
 
-#. Enter the relationship information.
+#. Click on the **Choose Taxonomies** button, then click on the **Create Relationship Hierarchy** button.
 
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_enterinfo.PNG
-
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_choosetaxonomies.PNG
+|
 |
 
+
+#. Enter the name for the relationship hierarchy.
+
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_entername.PNG
+|
 |
 
-#. Click **Add Class** and select the class.
+#. Click on the **Add Class** button and select the class.
 
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_addclass.PNG
-
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass2.PNG
+|
 |
 
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_addclass2.PNG
+#. Once done adding the classes, click on the **Apply** button.
 
-|
-
-|
-
-#. Once done adding the classes, click **Apply**.
-
-.. image:: /feature/_images/mdmimages/relationshiphierarchy_clickapply.PNG
-
+.. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickapply.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
