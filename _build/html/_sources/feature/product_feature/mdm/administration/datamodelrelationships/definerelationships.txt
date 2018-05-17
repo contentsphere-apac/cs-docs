@@ -26,74 +26,61 @@ The Define Relationships feature provides the functionality to set up relationsh
 
 How to do: Define Relationships
 ================================
-To do this feature, follow these steps:
+To define relationships, follow these steps:
 
 |
 
-#. Click on the **Settings** button.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/definerelationships_clickonsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_login.PNG
 |
 |
-
 
 #. Go to the *Relationship Configuration* tab.
 
-.. image:: /feature/_images/mdmimages/definerelationships_gototherelationshipsconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_relationshipconfiguration.PNG
 |
 |
 
+#. Click on the "+" icon to create a new relationship.
 
-#. Create a new relationship by clicking the "+" icon.
-
-.. image:: /feature/_images/mdmimages/definerelationships_createanewrelationship.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/definerelationships_createanewrelationship2.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_clickplusicon.PNG
 |
 |
 
-
-#. Provide a name for the relationship and then, select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
+#. Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
    In the example shown, a relationship is created for *Article* and the *Region* articles.
 
-.. image:: /feature/_images/mdmimages/definerelationships_providethenameoftherelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_entername.PNG
 |
 |
 
+#. Enter the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
-#. Provide the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
-
-.. image:: /feature/_images/mdmimages/definerelationships_providethelabelandcardinality.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_enterinfo.PNG
 |
 |
-
 
 #. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
-.. image:: /feature/_images/mdmimages/definerelationships_tickonthecheckboxes.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_tickcheckboxes.PNG
 |
 |
-
 
 #. Once done, click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/definerelationships_clickonthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_clicksave.PNG
 |
 |
 
+#. View the applied relationship.
 
-#. Once saved, view that the relationship is applied and ready.
-
-.. image:: /feature/_images/mdmimages/definerelationships_oncesavedviewtherelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_definerelationships_viewrelationship.PNG
 |
-|
-
 
 *Note: The Class and Cardinality will not be editable once the relationship is saved.*
 
 |
 
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
