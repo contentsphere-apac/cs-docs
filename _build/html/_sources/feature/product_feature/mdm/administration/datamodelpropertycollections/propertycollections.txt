@@ -29,81 +29,75 @@ This feature allows a user to group the attributes and tags under one area to ea
 
 How to do: Property Collections
 ================================
-
-This How To guide provides instructions on how to group attributes and tags into one collection.
-To do this, follow these steps:
+To create and add property collection, follow these steps:
 
 |
 
-#. Go to *Settings*.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/propertycollection_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_login.PNG
 |
 |
 
+#. Click on the **Property Groups** drop-down list and select **Property Collections**.
 
-#. Click on **Property Collection Configuration**.
-
-.. image:: /feature/_images/mdmimages/propertycollection_config.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_clickpropertygroups.PNG
 |
 |
-
 
 #. Click on the "+" icon to create a property collection.
 
-.. image:: /feature/_images/mdmimages/propertycollection_create.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_clickplusicon.PNG
 |
 |
 
+#. Enter the name of the property collection and click on the **Create** button.
 
-#. Enter the name of the property collection.
-
-.. image:: /feature/_images/mdmimages/propertycollection_name.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_entername.PNG
 |
 |
-
 
 #. Increase or decrease the number of rows and columns to accommodate the attributes and tags into the property collection.
 
-.. image:: /feature/_images/mdmimages/propertycollection_rows.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_rowscolumns.PNG
 |
 |
-
 
 #. Add the attributes, tags and roles to the property collection.
 
-.. image:: /feature/_images/mdmimages/propertycollection_canbeadded.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_canbeadded.PNG
 |
 |
-
 
 #. Drag and drop the attributes and tags into the empty rows and columns.
 
-.. image:: /feature/_images/mdmimages/propertycollection_dragdrop.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_dragdrop.PNG
 |
 |
 
+#. Click on the **Classes** drop-down list and select the class to which the property collection will be applied.
 
-#. Click on **Class Configuration**.
-
-.. image:: /feature/_images/mdmimages/propertycollection_addtoclass.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_classesdropdownlist.PNG
 |
 |
-
 
 #. Click the "+" icon in the class to add the property collection.
 
-.. image:: /feature/_images/mdmimages/propertycollection_addtoclass2.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_addpropertycollection.PNG
 |
 |
 
+#. Select the property collection to be added and click on the **Apply** button.
 
-#. The property collection is now ready.
-
-.. image:: /feature/_images/mdmimages/propertycollection_propcoll.PNG
+.. image:: /feature/_images/mdmimages/cs_propertycollections_selectpropertycollection.PNG
 |
 |
 
+#. View the added property collection.
+
+.. image:: /feature/_images/mdmimages/cs_propertycollections_viewpropertycollection.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
