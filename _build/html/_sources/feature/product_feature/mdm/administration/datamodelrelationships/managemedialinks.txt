@@ -35,7 +35,7 @@ To manage media links follow these steps:
 |
 |
 
-#. Go to the *Relationship Configuration* tab.
+#. Click on **Relationships**.
 
 .. image:: /feature/_images/mdmimages/cs_managemedialinks_relationshipconfiguration.PNG
 |

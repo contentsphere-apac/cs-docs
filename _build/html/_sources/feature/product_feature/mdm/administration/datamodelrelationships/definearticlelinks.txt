@@ -35,7 +35,7 @@ To define article links, follow these steps:
 |
 |
 
-#. Go to the *Relationship Configuration* tab.
+#. Click on **Relationships**.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_relationshipconfiguration.PNG
 |
