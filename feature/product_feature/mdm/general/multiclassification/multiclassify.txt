@@ -6,12 +6,12 @@ This enables better categorization of products as well as inheritance of relevan
 
 
 ====================    =================================================================================================================================================================================================================================================================
-**Key Term:**           * **Nature Class:** A class that defines the base type of product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include *Single Article, Product, Bundle,* or other custom-made product types.
+**Key Term:**           * **Nature Class:** A class that defines the base type of a product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include *Single Article, Product, Bundle,* or other custom-made product types.
                         * **Attribution Class:** A class that adds specific attributes to the product it is assigned to. For example, a *Mobile Phone* class may add attributes for *Screen Size, Memory Size, Operating System,* etc.
 
 **Description:**        * To multi-classify the product, we add multiple attribution classes to the product in addition to the single Nature Class. Attribution classes contain detailed descriptive properties for the product.
                         * The user is able to define the product further by adding properties based on different attribution classes.
-                        * Classifying a product with classes aids in finding that feature as well as giving the product access to class-specific sets of attributes and properties.
+                        * Classifying a product with classes aids in finding that product, as well as giving it access to class-specific sets of attributes and properties.
 
 **Related topics:**     * :doc:`Improve Product Classifications </feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications>`
                         * :doc:`Product Classification via Taxonomies </feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies>`
@@ -73,7 +73,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-#. To add another attribution class, click **Add Class** and select from the list.
+#. To add another attribution class, click **Add Class** and select a class from the list.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri.PNG
 |
@@ -82,7 +82,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-#. To switch templates from nature class to non-nature class, click on the drop-down list and select an option, for example *Beverages*.
+#. To switch templates from Nature class to Non-nature class, click on the drop-down list and select an option, for example, *Beverages*.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates.PNG
 |
