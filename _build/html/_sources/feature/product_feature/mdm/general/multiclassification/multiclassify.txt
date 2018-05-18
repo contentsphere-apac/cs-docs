@@ -30,51 +30,52 @@ This enables better categorization of products as well as inheritance of relevan
 How to do: Multi-classify Objects
 =================================
 
-This How To guide provides instructions on how to multi-classify objects.
-To do this, follow these steps:
+To multi-classify objects, follow these steps:
 
 |
 
-#. Go to PIM and hover on the **'+'** icon.
+#. Go to PIM and hover over the "+" icon.
 
-.. image:: /feature/_images/mdmimages/multiclassify_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_gotopim.PNG
 |
 |
 
 
 #. Click **Single Article**.
 
-.. image:: /feature/_images/mdmimages/multiclassify_singlearticle.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_clicksinglearticle.PNG
 |
 |
 
 
-#. Enter the name of the single article.
+#. Once clicked, a new window will appear. Enter the name of the single article.
 
-.. image:: /feature/_images/mdmimages/multiclassify_name.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_enterthenameofarticle.PNG
 |
 |
 
 
-#. To add a Non-Nature class or Attribution class, click **Add Class**.
+#. To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
 
-.. image:: /feature/_images/mdmimages/multiclassify_addclass.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass2.PNG
 |
 |
 
 
-#. Select a class from the drop-down list.
+#. Select a relevant class from the drop-down list.
 
-.. image:: /feature/_images/mdmimages/multiclassify_dropdownlist.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_selectarelevantclass.PNG
 |
-.. image:: /feature/_images/mdmimages/multiclassify_selected.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_selectarelevantclass2.PNG
 |
 |
 
 
 #. To add another attribution class, click **Add Class** and select from the list.
 
-.. image:: /feature/_images/mdmimages/multiclassify_addclassagain.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri.PNG
 |
 .. image:: /feature/_images/mdmimages/multiclassify_addclassagain2.PNG
 |
@@ -83,14 +84,14 @@ To do this, follow these steps:
 
 #. To switch templates from nature class to non-nature class, click on the drop-down list and select an option, for example *Beverages*.
 
-.. image:: /feature/_images/mdmimages/multiclassify_switchtemplate.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates.PNG
 |
-.. image:: /feature/_images/mdmimages/multiclassify_switchtemplate2.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates2.PNG
 |
-.. image:: /feature/_images/mdmimages/multiclassify_switchtemplate3.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates3.PNG
 |
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
