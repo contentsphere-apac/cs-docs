@@ -20,67 +20,81 @@ The Bulk Edit feature allows a user to change the values of multiple attributes/
                         * Bulk Edit provides the functionality to change and set a variety of product attributes like *Price, Compare at Price, Weight, Tags,* and more.
                         * *Example:*
 
-                            A food company changed the tagline or description of their products. The company can select their products in the system and change the
-                            description using bulk edit. The feature will also apply the description change to all of their products.
+                            Supplier A changed a property or description of their products. The supplier can select the products in the system and change a
+                            property using bulk edit. The feature will apply the description change to all of the selected products.
 
 ===================     ===============================================================================================================================================================
 
 
 How to: Bulk Edit
-=====================
-To do mass editing, follow these steps:
+==================
+To do editing in bulk, follow these steps:
 
 |
 
 #. Select the items to be edited by clicking on the thumbnail checkbox.
 
-.. image:: /feature/_images/mdmimages/bulkedit_selectitems.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selecttheitems.PNG
 |
 |
+
 
 #. Click on the **Bulk Edit** button.
 
-.. image:: /feature/_images/mdmimages/bulkedit_clickonthebulkeditbutton.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickthebulkeditbutton.PNG
 |
 |
+
 
 #. View the pop-up menu that will appear with a list of attributes and tags.
 
-.. image:: /feature/_images/mdmimages/bulkedit_viewthepopupmenu.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewthepopupmenu.PNG
 |
 |
+
 
 #. Either (1) select the tags/attributes from the list or (2) search for the tags/attributes in the search bar and enter the values. Refer to the images below.
 
 
   #. Selecting tags/attributes from the list:
 
-  .. image:: /feature/_images/mdmimages/bulkedit_selectingtags.PNG
+  .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selectthetags.PNG
   |
   |
+
 
   #. Searching for tags/attributes in the search bar:
 
-  .. image:: /feature/_images/mdmimages/bulkedit_searchingtags.PNG
+  .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_searchthetags.PNG
+  |
   |
 
 |
 
+
 #. Click on the **Apply** button to do the bulk edit of the products.
 
-.. image:: /feature/_images/mdmimages/bulkedit_clickontheapplybutton.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply.PNG
 |
-.. image:: /feature/_images/mdmimages/bulkedit_clickontheapplybutton2.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply3.PNG
 |
 |
+
 
 #. View the applied changes of the bulk edit.
 
-.. image:: /feature/_images/mdmimages/bulkedit_viewappliedchange.PNG
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange.PNG
 |
-.. image:: /feature/_images/mdmimages/bulkedit_viewappliedchange2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange2.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange3.PNG
+|
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
