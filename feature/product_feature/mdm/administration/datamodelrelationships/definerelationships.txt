@@ -55,7 +55,7 @@ To define relationships, follow these steps:
 |
 |
 
-#. Enter the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
+#. Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
 .. image:: /feature/_images/mdmimages/cs_definerelationships_enterinfo.PNG
 |

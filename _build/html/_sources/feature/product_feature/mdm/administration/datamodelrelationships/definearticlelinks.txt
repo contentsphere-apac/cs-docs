@@ -2,7 +2,7 @@
 Define Article Links
 =====================
 The Define Article Links feature provides the functionality to set up relationships between articles.
-The linking between article-to-article or product-to-product is bi-directional.
+The linking between article-to-article or product-to-product is bidirectional.
 
 
 ====================      ===============================================================================================================================================================
@@ -18,14 +18,14 @@ The linking between article-to-article or product-to-product is bi-directional.
                             By setting relationships between products, an administrator can set *Related Products* for a product.
                           * *Example:*
 
-                             An electronic product can be linked to its accessories that have also been added in the system by using this feature.
+                             An electronic product can be linked to its accessories that have also been added in the system.
 
 ====================      ===============================================================================================================================================================
 
 
 How to do: Define Article Links
 ================================
-To do this feature, follow these steps:
+To define article links, follow these steps:
 
 |
 

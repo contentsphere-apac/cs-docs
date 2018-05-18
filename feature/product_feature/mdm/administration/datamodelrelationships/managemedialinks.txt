@@ -25,7 +25,6 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 How to do: Manage Media Links
 ==============================
-
 To manage media links follow these steps:
 
 |
