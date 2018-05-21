@@ -20,8 +20,8 @@ The Bulk Edit feature allows a user to change the values of multiple attributes/
                         * Bulk Edit provides the functionality to change and set a variety of product attributes like *Price, Compare at Price, Weight, Tags,* and more.
                         * *Example:*
 
-                            Supplier A changed a property or description of their products. The supplier can select the products in the system and change a
-                            property using bulk edit. The feature will apply the description change to all of the selected products.
+                             Supplier A changed a property or description of their products. The supplier can select the products in the system and change a
+                             property (or properties) using bulk edit. The feature will apply the change to all of the selected products.
 
 ===================     ===============================================================================================================================================================
 
@@ -72,7 +72,7 @@ To do editing in bulk, follow these steps:
 |
 
 
-#. Click on the **Apply** button to do the bulk edit of the products.
+#. Edit the tag/attribute then click on the **Apply** button to do the bulk edit for the selected products.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply.PNG
 |
