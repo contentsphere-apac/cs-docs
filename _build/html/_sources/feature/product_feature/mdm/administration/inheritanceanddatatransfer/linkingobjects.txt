@@ -10,7 +10,7 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
 **Description:**        * The feature allows the classification of objects to various sub-taxonomies for smooth navigation and easy searching of other linked objects.
                         * It can apply multiple taxonomies to a product to show the categories the product falls under.
 
-**Related topics:**     * :doc:`Linking Objects </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
+**Related topics:**     * :doc:`nheritance via Taxonomy </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
 
                         * :doc:`Multi-taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
 
@@ -28,29 +28,34 @@ Classify with ease by linking objects, and here's how to do it.
 
 #. Go to PIM and hover on the '+' icon.
 
-.. image:: /feature/_images/mdmimages/linkingobjects_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim2hover.PNG
 |
 |
 
 #. Select your product.
 
-.. image:: /feature/_images/mdmimages/linkingobjects_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_selectproduct.PNG
 |
 |
 
-#. Click **Add Taxonomy**.
+#. On the *Overview* tab, click **Add Taxonomy**.
 
-.. image:: /feature/_images/mdmimages/linkingobjects_addtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy.PNG
 |
-.. image:: /feature/_images/mdmimages/linkingobjects_addtaxonomy2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy2.PNG
 |
 |
 
 #. Property collection is added via Taxonomy. You can link more products if necessary.
 
-.. image:: /feature/_images/mdmimages/linkingobjects_propertycollection.PNG
+.. image:: /feature/_images/mdmimages/cs_linkingobjects_propertycollectionadded.PNG
+|
 |
 
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
