@@ -77,7 +77,7 @@ To multi-classify objects, follow these steps:
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri.PNG
 |
-.. image:: /feature/_images/mdmimages/multiclassify_addclassagain2.PNG
+.. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri2.PNG
 |
 |
 
