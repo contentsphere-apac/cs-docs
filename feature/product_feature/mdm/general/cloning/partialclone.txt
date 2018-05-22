@@ -5,7 +5,7 @@ Creating a Partial Clone is a feature that allows users to create partial clones
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Property:**  A data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * A partial clone of a product contains a subset of the features of the original product as defined by a filter.
                         * Creating a partial clone allows to selectively clone the values that need to be cloned.
@@ -31,35 +31,47 @@ To do this, follow these steps:
 
 |
 
-#. Click on the product. On the top right section, the Create Clone option is shown.
+#. Go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/partialclone_clickproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_gotopim.PNG
 |
 |
 
-#. Click **Create Clone**. A list of all categories related to *Attributes*, *Tags* and *Relationships* will appear.
+#. Select a product.
 
-.. image:: /feature/_images/mdmimages/partialclone_clickcreateclone.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_selectproductb.PNG
+|
+|
+
+#. On the top right section, click **More Options**.
+
+.. image:: /feature/_images/mdmimages/cs_partialclone_clickmoreoptions.PNG
+|
+|
+
+#. Then, click **Clone**. A list of all categories related to *Attributes*, *Tags* and *Relationships* will appear.
+
+.. image:: /feature/_images/mdmimages/cs_partialclone_clickclone.PNG
 |
 |
 
 #. Click on any category and click on the features that are to be copied to the new product.
 
-.. image:: /feature/_images/mdmimages/partialclone_clickcategory.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_clickanycategory.PNG
 |
 |
 
 #. Click **Clone**.
 
-.. image:: /feature/_images/mdmimages/partialclone_clickclone.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_clickcloneb.PNG
 |
 |
 
 #. Your clone product is ready.
 
-.. image:: /feature/_images/mdmimages/partialclone_cloneready.PNG
+.. image:: /feature/_images/mdmimages/cs_partialclone_clickproductready.PNG
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contenbtserv line
