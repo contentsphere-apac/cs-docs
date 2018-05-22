@@ -1,3 +1,112 @@
+<<<<<<< HEAD
 ====================================
 View Tasks and Products Responsible
 ====================================
+=======
+===================================
+View Tasks and Products Responsible
+===================================
+The View Tasks and Products Responsible feature allows viewing of the tasks and products assigned to a user.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**             * **Workflow Workbench:** A feature that presents a consolidated view of all workflow tasks.
+
+**Description:**          * User can view all tasks that have been assigned to him/her in any of the category namely, *Responsible, Accountable, Informed, Consulted, Verified, or Sign-off* in the *Workflow Workbench* dashboard tab.
+                          * User can also view all tasks according to a product view, allowing the user to drill down to each individual product and view all the tasks that have been created for a product.
+
+
+**Related topics:**       * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
+                          * :doc:`Tasks to Complete Actions </feature/product_feature/mdm/collaboration/workflowadministration/taskstocompleteactions>`
+
+**Application:**          * This feature is useful when identifying the tasks and products assigned to a particular user.
+                          * *Example:*
+
+                                An electronics retailer wants to create a to-do list of all tasks so as to easily manage the tasks. He can do this by navigating to *Workflow Workbench* from dashboard, where he can see all his tasks.
+
+====================      ===============================================================================================================================================================
+
+How to do:  View Tasks and Products Responsible
+===============================================
+To do this, follow these steps:
+
+|
+
+#. Log into the application and click on **Workflow Workbench** tab from the Dashboard menu.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickdasboard.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_thenworkflowworkbench.PNG
+|
+|
+
+#. Click on **TASKS** to view all tasks that have been assigned to a user, in any of the categories.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask2.PNG
+|
+|
+
+#. Click on **Notifications** to see all the notifications.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicknotifications.PNG
+|
+|
+
+#. Click on **ALL** to see the consolidated assigned tasks of the user for all the categories.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall.PNG
+|
+|
+
+#. Click on any task to view its details.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall2.PNG
+|
+|
+
+#. Click on a category to see the tasks assigned to the user for that category.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickanytask.PNG
+|
+|
+
+#. Click on **PRODUCTS** to view all tasks according to a product view.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickproducts.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickproducts2.PNG
+|
+|
+
+#. Click on **ALL** to see all products.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickallproducts.PNG
+|
+|
+
+#. Click on a product to see all the tasks created for that product.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct.PNG
+|
+|
+
+
+
+#. You can view all the products category wise as well as all the tasks created for each product.
+
+.. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct2.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
+>>>>>>> nadia_workflowworkbenchviewtasks_04262018

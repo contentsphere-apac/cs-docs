@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ===================
 Workflow Workbench
 ===================
+=======
+======================
+Workflow Workbench
+======================
+>>>>>>> nadia_workflowworkbenchviewtasks_04262018
 
 .. toctree::
    :maxdepth: 1
