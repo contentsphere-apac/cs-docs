@@ -26,7 +26,7 @@ Classify with ease by linking objects, and here's how to do it.
 
 |
 
-#. Go to **PIM** and hover on the "'"+"" icon.
+#. Go to **PIM** and hover on the "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim.PNG
 |
