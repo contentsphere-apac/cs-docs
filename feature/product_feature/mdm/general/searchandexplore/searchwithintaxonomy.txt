@@ -5,11 +5,11 @@ The Search within Taxonomy feature allows a user to search (for an article or a 
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 
-**Description:**        * This feature allows a user to search for an item or to navigate the system.
+**Description:**        * This feature allows a user to search for an article or product or to navigate the system.
                         * This feature provides a classification of products that gives a user the ease to search.
-                        * This feature provides a user a hierarchy of objects in the Taxonomy that can be used for navigation.
+                        * This feature provides a user a hierarchy of categories in the Taxonomy that can be used for navigation.
 
 **Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
                         * :doc:`Multi-faceted Search </feature/product_feature/mdm/general/searchandexplore/facetedsearch>`
@@ -18,7 +18,8 @@ The Search within Taxonomy feature allows a user to search (for an article or a 
 **Application:**        * This feature is used to search for a product using the taxonomy.
                         * *Example:*
 
-                            If a user wants to search for an object or navigate the system, the user can use the Taxonomy Hierarchy.
+                             If a user wants to search for a product or navigate the system, the user can use the Taxonomy Hierarchy
+                             that has been used to describe the product.
 
 ===================     ===============================================================================================================================================================
 
@@ -29,56 +30,66 @@ To do a search within taxonomy, follow these steps:
 
 |
 
-#. Click the **Choose Taxonomies** button found on the left side of the Search bar.
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/ts01.PNG
 |
 |
 
 
-#. From the pop-up menu, select the appropriate taxonomy (e.g. *Products*). Children nodes are also displayed.
+#.  Click on the **Choose Taxonomies** box next to the Search Bar.
 
-.. image:: /feature/_images/mdmimages/ts02.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clickonchoosetaxonomies.PNG
 |
 |
 
 
-#. Tick on the checkbox, then click the **Apply** button to display the products that belong to a specific node.
+#.  Select a Taxonomy (e.g. *Category*). Once selected, the children nodes will appear.
 
-.. image:: /feature/_images/mdmimages/ts03.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_selectataxonomy.PNG
 |
-.. image:: /feature/_images/mdmimages/ts03b.PNG
+|
+
+
+#. Tick on the checkbox of the selected category, then click the **Apply** button to display the products that belong to that specific node.
+
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_tickonthecheckbox.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_tickonthecheckbox2.PNG
 |
 |
 
 
 #. Click on a node to display its children nodes (along with the respective product count). The selected node is highlighted in bold text.
 
-.. image:: /feature/_images/mdmimages/ts04.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clickonanode.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clickonanode2.PNG
 |
 |
 
 
 #. Tick on the checkbox of the title heading to select all children nodes at once.
 
-.. image:: /feature/_images/mdmimages/ts05.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_tickonthetitleheading.PNG
 |
 |
 
 
 #. To view the entire taxonomy tree structure including the blank nodes, click the **Show All** button.
 
-.. image:: /feature/_images/mdmimages/ts05b.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_toviewtheentire.PNG
 |
-.. image:: /feature/_images/mdmimages/ts06.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_toviewtheentire2.PNG
 |
 |
+
 
 #. Click the **Clear Selection** button to reset all selected taxonomy nodes.
 
-.. image:: /feature/_images/mdmimages/ts07.PNG
+.. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clicktheclearselection.PNG
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

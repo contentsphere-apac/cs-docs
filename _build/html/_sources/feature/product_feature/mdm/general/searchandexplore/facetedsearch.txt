@@ -1,16 +1,15 @@
 ====================
 Multi-faceted Search
 ====================
-The Faceted Search feature allows a user to have a multi-faceted search support functionality in addition to the multi-criteria search for refined search results.
+The Multi-faceted Search feature allows a user to have a multi-faceted search support functionality in addition to the multi-criteria search for refined search results.
 
 
 ===================     =============================================================================================================================================================
-
 **Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * In addition to multi-criteria search, the solution features a multi-faceted search support functionality to refine the results.
                         * A user can refine the results through filters or taxonomy.
-                        * A user can use sort filters that are used to arrange the products in ascending or descending order.
+                        * A user can use sort filters that will arrange the products in ascending or descending order.
 
 **Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
                         * :doc:`Search within Taxonomy </feature/product_feature/mdm/general/searchandexplore/searchwithintaxonomy>`
@@ -27,30 +26,55 @@ To do this search, follow these steps:
 
 |
 
-#. On the search bar, select a taxonomy (e.g. *Products*).
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/fs01.PNG
-|
-|
-
-#. Apply filter(s) such as *Gender*.
-
-.. image:: /feature/_images/mdmimages/fs02.PNG
 |
 |
 
-#. Sort the selling price. An example of sorting in descending order is shown below.
 
-.. image:: /feature/_images/mdmimages/fs03.PNG
+#.  Click on the **Choose Taxonomies** box next to the Search Bar.
+
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_clickonchoosetaxonomies.PNG
 |
 |
+
+
+#.  Select a Taxonomy (e.g. *Category > Fashion*).  Click **Apply**.
+
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_selectataxonomy.PNG
+|
+|
+
+
+#. Apply filter(s) by clicking on **Sort & Filter** to expand the selection. Then, select from the applicable filters such as *Brand*.
+
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_applyfilters.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_applyfilters2.PNG
+|
+|
+
+
+#. Choose one from the selection and click the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_chooseone.PNG
+|
+|
+
+
+#. Sort the *Name* of the products. An example of sorting in descending order is shown below.
+
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_sortthename.PNG
+|
+|
+
 
 #. Perform a final search on the results based on the above criteria.
 
-.. image:: /feature/_images/mdmimages/mfsearch_results.PNG
+.. image:: /feature/_images/mdmimages/cs_facetedsearch_performafinalsearch.PNG
 |
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

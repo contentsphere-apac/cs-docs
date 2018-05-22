@@ -2,13 +2,13 @@
 Parametric Search
 =================
 The Parametric Search feature provides general users the ability to search for products or assets using various data fields
-so that the users can narrow down items using the specified criteria.
+that have been used to describe a product or article. The users can narrow down items using the specified criteria.
 
 
 ===================     =============================================================================================================================================================
 **Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
 
-**Description:**        * This feature allows searching for products or assets using various/detailed criteria that can narrow down items using the fine criteria.
+**Description:**        * This feature allows searching for products or assets using various/detailed criteria that can narrow down items using fine criteria.
                         * The search is expressed in terms of values of the *Tags*, *Attributes*, and *Roles* in the products/articles.
                         * A user can put the conditions for the filter values.
 
@@ -32,49 +32,75 @@ To do a parametric search, follow these steps:
 
 |
 
-#. Click the **Advanced Filter** button found on the upper right corner.
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/advanced_filter_click.PNG
-|
-|
-
-#. Select an attribute (e.g. *List Price*).
-
-.. image:: /feature/_images/mdmimages/list_price_attribute.PNG.PNG
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
-#. Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
 
-.. image:: /feature/_images/mdmimages/contains_button_select.PNG
+#. Click the **Sort & Filter** button found on the upper right corner. Once clicked, it will expand the selection.
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_sortandfilter.PNG
 |
 |
 
-#. After selecting an operator (e.g. *Greater Than*) based on the attribute, select the value and units. Click the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/greatherthanoperator.PNG
+#. Click the **Advanced Filters**.
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_clicktheadvancedfilters.PNG
 |
-.. image:: /feature/_images/mdmimages/greatherthanoperator2.PNG
+|
+
+
+#. Click the **Attributes** on the pop-up window and select an attribute (e.g. *List Price*).
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_clickonattributeandselect.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_clickonattributeandselect2.PNG
 |
 |
+
+
+#. After selecting an attribute, the attribute options will appear on the right.  Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectingtheattribute.PNG
+|
+|
+
+
+#. After selecting an operator (e.g. *Greater Than*), select the value and unit. Click the **Apply** button.
+
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectinganoperator.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectinganoperator2.PNG
+|
+|
+
 
 #. Wait for the results to be displayed based on the search criteria. The search criteria can be found in the **Applied Filter** section as shown.
 
-.. image:: /feature/_images/mdmimages/pssearch_results.PNG
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_waitfortheresults.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_waitfortheresults2.PNG
 |
 |
+
 
 #. For an improved and more refined search, use multiple properties (attributes/tags).
 
-.. image:: /feature/_images/mdmimages/forimprovedandnarroweddownsearch.PNG
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_foranimprovedsearch.PNG
 |
 |
+
 
 *Note: Multiple criteria can be applied for a single property as well as using an "OR" operation.*
 
-.. image:: /feature/_images/mdmimages/notemultiplecriteria.PNG
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_notemultiplecriteria.PNG
+|
 |
 
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

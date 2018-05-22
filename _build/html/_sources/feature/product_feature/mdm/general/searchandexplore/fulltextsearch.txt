@@ -1,7 +1,8 @@
 =================
 Full-text Search
 =================
-The Full-text Search feature gives the user the ability to search for a product or asset. The search finds any matching text within the product or asset.
+The Full-text Search feature gives the user the ability to search for a product or asset by using the text to search and match the text within the product or asset.
+
 
 ===================     ===================================================================================================================================================================================
 **Key Term:**           * **Administrator:** A technical specialist who configures a software system.
@@ -29,24 +30,39 @@ To do a full-text search, follow these steps:
 
 |
 
+#. Log in and go to *PIM*.
+
+|
+|
+
+
 #. Click on the **Search bar**.
 
+.. image:: /feature/_images/mdmimages/cs_fulltextsearch_clickonthesearchbar.PNG
+|
 |
 
-#. Enter the search keyword(s) (e.g. *Red Bull*). Then, click **Enter**.
 
+#. Enter the search keyword(s) (e.g. *Red Bull*). Then, hit **Enter** on your keyboard.
+
+.. image:: /feature/_images/mdmimages/cs_fulltextsearch_enterthesearchwords.PNG
+|
 |
 
-#. View the search results that are displayed based on the attributes.  These attributes should have been defined as searchable.
 
-.. image:: /feature/_images/mdmimages/fulltext_search_03.PNG
+#. View the search results that are displayed based on the attributes.  The attributes, associated with the search words should have been defined as searchable.
+
+.. image:: /feature/_images/mdmimages/cs_fulltextsearch_viewthesearchresults.PNG
+|
 |
 
-*Note: The products that contain the keywords (in this example, "Red" and "Bull") were searched for and displayed. The search results will display: the bag tagged as 'Red' and the energy drink named 'Red Bull'.*
 
-.. image:: /feature/_images/mdmimages/fulltext_search_04.PNG
+*Note: The products that contain the keywords (in this example, "Red" and "Bull") were searched for and displayed. The search results will display: the shirt tagged as 'Red' and the energy drink named 'Red Bull'.*
+
+.. image:: /feature/_images/mdmimages/cs_fulltextsearch_notetheproducts.PNG
+|
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -30,8 +30,7 @@ Public or Private Bookmarks and Collections feature lets you define whether book
 How to do: Public or Private Bookmarks and Collections
 ======================================================
 
-This How To guide provides instructions on how to define a bookmark (or collection) to either *Public or Private*.
-To do this, follow these steps:
+To define a bookmark (or collection) to either *Public or Private*, follow these steps:
 
 
 Bookmarks: Setting a Public Bookmark
@@ -41,30 +40,38 @@ Bookmarks: Setting a Public Bookmark
 
 #. Log in as admin.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_admin.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
 |
 |
 
-#. Click the Bookmark icon and go to the desired bookmark.
+#. Go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
+|
+|
+
+#. Click on the **Bookmarks** icon and go to the desired bookmark.
+
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickbookmarksicon.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotobookmark.PNG
+|
 |
 
 #. The default setting of a bookmark is *Public*. Keep this setting to make a public bookmark.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_publicbookmark.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_publicbookmark.PNG
 |
 |
 
 #. Once done, the bookmark can be viewed by all users.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_publicuser.PNG
-
-*As seen on the image above, the bookmark can be viewed by the Seller.*
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewpublicbookmark.PNG
 
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
 |
 
@@ -75,29 +82,40 @@ Bookmarks: Setting a Private Bookmark
 
 #. Log in as admin.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_admin.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
+|
 |
 
-#. Click the Bookmark icon and go to the desired bookmark.
+#. Go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
+|
 |
 
-#. Set the bookmark to *Private*.
+#. Click on the **Bookmarks** icon and go to the desired bookmark.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_privatebookmark.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickbookmarksicon.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotobookmark.PNG
+|
+|
+
+#. Click on the **Lock** icon to set the bookmark aS *Private*.
+
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_privatebookmark.PNG
 |
 |
 
 #. Once done, only certain users can view the bookmark.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_privateuser.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatebookmark.PNG
 
 *As seen on the image above, the bookmark cannot be viewed by the seller as it is restricted to the admin.*
 
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
 |
 
@@ -107,41 +125,49 @@ Collections: Setting a Public Collection
 
 |
 
-#. To start creating a collection, select the products or assets that will be included in the collection.
+#. Log in as admin.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_selectproducts.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
 |
 |
 
-#. Click on the pin icon on the right side of the search bar to create the collection.
+#. Go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_createcollection.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
 |
 |
 
-#. Enter the name of the collection and click **Create**.
+#. Select the products or assets that will be included in the collection.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_selectproducts.PNG
 |
 |
 
-#. Once created, search for the collection as you would a bookmark.
+#. Click on the **Collections** icon.
 
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickcollectionsicon.PNG
+|
 |
 
-#. Once found, check that the default setting is *Public*. Keep this setting for a public collection.
+#. Enter the name of the collection and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_publiccollection.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_enternameofcollection.PNG
+|
+|
+
+#. The default setting of a collection is *Public*. Keep this setting for a public collection.
+
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_publiccollection.PNG
 |
 |
 
 #. Once done, the collection can be viewed by all users.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_publiccollectionview.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewpubliccollection.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
 |
 
@@ -150,19 +176,28 @@ Collections: Setting a Private Collection
 
 |
 
-#. To set a collection to private, search for the collection.
+#. Go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
+|
 |
 
-#. Once searched, click on the lock icon to change the setting to *Private*.
+#. Click on the **Collections** icon and go to the desired collection.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_privatecollection.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickcollectionsicon2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotocollection.PNG
+|
+
+#. Click on the **Lock** icon to set the collection as *Private*.
+
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_privatecollection.PNG
 |
 |
 
 #. Once done, only certain users can view the collection.
 
-.. image:: /feature/_images/mdmimages/bookmarksncollections_privatecollectionview.PNG
+.. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatecollection1.PNG
 |
 
 *As seen on the images above, the collection cannot be viewed by the seller as it is restricted to the admin.*
@@ -170,4 +205,4 @@ Collections: Setting a Private Collection
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
