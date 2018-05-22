@@ -2,7 +2,7 @@
 Define Article Links
 =====================
 The Define Article Links feature provides the functionality to set up relationships between articles.
-The linking between article-to-article or product-to-product is bi-directional.
+The linking between article-to-article or product-to-product is bidirectional.
 
 
 ====================      ===============================================================================================================================================================
@@ -18,84 +18,74 @@ The linking between article-to-article or product-to-product is bi-directional.
                             By setting relationships between products, an administrator can set *Related Products* for a product.
                           * *Example:*
 
-                             An electronic product can be linked to its accessories that have also been added in the system by using this feature.
+                             An electronic product can be linked to its accessories that have also been added in the system.
 
 ====================      ===============================================================================================================================================================
 
 
 How to do: Define Article Links
 ================================
-To do this feature, follow these steps:
+To define article links, follow these steps:
 
 |
 
-#. Click on the **Settings** button.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_clickonsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_login.PNG
 |
 |
 
+#. Click on **Relationships**.
 
-#. Go to the *Relationship Configuration* tab.
-
-.. image:: /feature/_images/mdmimages/definearticlelinks_gototherelationshipsconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_relationshipconfiguration.PNG
 |
 |
 
+#. Click on the "+" icon to create a new relationship.
 
-#. Create a new relationship by clicking the "+" icon.
-
-.. image:: /feature/_images/mdmimages/definearticlelinks_createanewrelationship.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/definearticlelinks_createanewrelationship2.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_clickplusicon.PNG
 |
 |
 
-
-#. Provide the name for the relationship and then, select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
+#. Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
    In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_providethenamefortherelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_entername.PNG
 |
 |
 
 
-#. Provide the information for the *Label* and then, select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
+#. Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_providethelabelandcardinality.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_enterinfo.PNG
 |
 |
 
 
 #. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_tickonthecheckboxes.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_tickcheckboxes.PNG
 |
 |
 
 
 #. Once done, click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_clickonthesavebutton.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_clicksave.PNG
 |
 |
 
 
-#. Once saved, view that the relationship is applied and ready.
+#. View the applied relationship.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_oncesavedviewtherelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_viewrelationship.PNG
 |
 |
 
 
-#. Add the articles for both classes in the *Relationships* tab.
+#. Add the articles in the *Relationships* tab.
 
-.. image:: /feature/_images/mdmimages/definearticlelinks_addthearticlesintherelationshipstab.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/definearticlelinks_addthearticlesintherelationshipstab2.PNG
-|
+.. image:: /feature/_images/mdmimages/cs_definearticlelinks_addarticles.PNG
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
