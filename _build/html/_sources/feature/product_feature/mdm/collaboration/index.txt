@@ -7,7 +7,4 @@ Collaboration
 
    tasksandannotations/index
    workflowadministration/index
-<<<<<<< HEAD
    workflowworkbench/index
-=======
->>>>>>> origin/Mon_WorkflowAdminTaskstoComplete_04262018
