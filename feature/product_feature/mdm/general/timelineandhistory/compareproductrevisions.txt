@@ -30,47 +30,66 @@ To do this feature, follow these steps:
 
 |
 
+#. Go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_gotopim.PNG
+|
+|
+
 #. Click on any product and go to the **Timeline Tab**.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_clickonanyproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_clickproduct.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_clickproduct2.PNG
 |
 |
 
 #. View the revision timeline.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_viewtherevisiontimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_viewtimeline.PNG
 |
 |
 
 #. Check the revision history by hovering over the version of interest and by clicking on the icon below the version number.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_checktherevisionhistory.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_checktherevisionhistory.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_checktherevisionhistory2.PNG
 |
 |
 
 #. Select the versions to be compared by clicking on the check marks on the right.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_selecttheversionstobecompared.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_selectversions2compare.PNG
 |
 |
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_selectversions2compareb.PNG
+|
+|
+
 
 #. Click the **Compare** button on the upper right corner of the screen. It will load a comparison table that has columns for the product versions and rows for the attributes.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_clickthecomparebutton.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_clickcompare.PNG
 |
 |
 
 #. View the comparison table that shows the attribute changes in the selected versions.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_viewthecomparisontable.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_viewcomparison.PNG
 |
 |
 
 *Note: A user may also compare the selected versions with the latest version.*
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_comparetheselectedversionswithlatest.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevisions_comparelatestversion.PNG
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

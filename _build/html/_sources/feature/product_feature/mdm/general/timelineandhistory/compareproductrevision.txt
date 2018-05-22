@@ -7,10 +7,10 @@ It also allows merging of specific values from previous versions into the latest
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Property:** A data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * This feature allows a user to compare versions of a product/article.
-                        * This feature gives an overview of the similarities and differences of comparable versions and merge values from any previous version to the newer version.
+                        * This feature gives an overview of the similarities and differences of comparable versions and merges values from any previous version to the newer version.
                         * This feature creates a comparison table that shows columns for the product versions and rows for the attributes.  This table allows quick and easy
                           comparison between each offering's features and characteristics.
 
@@ -27,40 +27,50 @@ It also allows merging of specific values from previous versions into the latest
 
 
 How to do: Compare Product Revision
-====================================
+======================================
 To do this feature, follow these steps:
 
 |
 
+#. Go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_gotopim.PNG
+|
+|
+
 #. Select a product and click on the **Timeline Tab**.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectaproductandclicktimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproductandclicktimeline.PNG
 |
 |
 
 #. View the revision timeline.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeviewtherevisiontimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_viewtimeline.PNG
 |
 |
 
-#. Select the latest version and any of the former version. Then, click on the **Compare** button.
+#.  On the selected version, click **Compare with current version** icon.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectthelatestversionandformerversion.PNG
+.. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
 |
 |
 
-#. Select the data of the older version in the **Compare** view and then click the **Save** button.
+#. View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeselectthedataoftheolderversioninthecompare.PNG
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
 |
 |
 
-#. View the timeline. The latest version in the timeline will be updated accordingly with the merged data.
+#. Click **OK**.
 
-.. image:: /feature/_images/mdmimages/timelineandhistory_mergeviewthetimeline.PNG
+.. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_clickok.PNG
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
