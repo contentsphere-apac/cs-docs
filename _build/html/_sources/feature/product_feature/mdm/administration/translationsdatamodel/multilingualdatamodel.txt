@@ -5,12 +5,20 @@ The Multilingual Data Model is a feature that provides translations for the vari
 
 
 ===================     =======================================================================================================================================================================
+<<<<<<< HEAD
 **Key Term:**           * **Data model:** Defines the base data structure for products in your system. This structure enables you to connect predefined classes or taxonomies with your products to classify them. The data model defines products from the highest level of classification, down to individual attributes and properties.
 
 **Description:**        * The admin can set up the data model like *Attributes, Tags, Classes,* etc. in various languages so that it can be understood by users in multiple countries or regions.
                         * It is important for a retailer to have different language data models and products/articles.
 
 **Related topics:**     * :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+=======
+**Description:**        * The admin can set up the data model like *Attributes, Tags, Classes,* etc. in various languages so that it can be understood by users in multiple countries or regions.
+                        * It is important for a retailer to have different language data models and products/articles.
+
+**Related topics:**
+                        * :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+>>>>>>> origin/Nadia_TranslationsDataModel_03132018-
 
 **Application:**        * A user can have multiple language data models to show the products/articles in various languages.
                         * *Example:*
@@ -21,13 +29,19 @@ The Multilingual Data Model is a feature that provides translations for the vari
 ===================     =======================================================================================================================================================================
 
 How to do: Multilingual Data Model
+<<<<<<< HEAD
 ===================================
 To do this, follow these steps:
 
+=======
+=============================
+To do this, follow these steps:
+>>>>>>> origin/Nadia_TranslationsDataModel_03132018-
 |
 
 #.  Go to the **Settings**.
 
+<<<<<<< HEAD
 .. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_gotosettingsb.PNG
 |
 |
@@ -64,5 +78,38 @@ To do this, follow these steps:
 |
 
 
+=======
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_gotosettings.PNG
+|
+|
+
+#. Click  *Translations* tab on the top.
+
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktrans.PNG
+|
+|
+
+#. Click  the **Tags** icon to view all the tags in the system.
+
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktags.PNG
+|
+|
+
+#. Select the desired tag and enter the translation value for the language on the left.
+
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_seltag2.PNG
+|
+|
+
+#.  Repeat the same steps for class, attributes and property collection and other configurations.
+
+
+#.    Login again with the desired language; you can see the translated data model items.
+
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_login.PNG
+|
+|
+
+>>>>>>> origin/Nadia_TranslationsDataModel_03132018-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
