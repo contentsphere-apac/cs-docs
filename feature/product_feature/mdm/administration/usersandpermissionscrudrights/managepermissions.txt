@@ -12,7 +12,7 @@ Manage Permissions lets you define what the user can or cannot do.
 
 **Related topics:**     * :doc:`Manage View Templates </feature/product_feature/mdm/administration/usersandpermissionsviewtemplates/manageviewtemplates>`
 
-**Application:**        * User can access only the permitted functions.
+**Application:**        * The user can access only the permitted functions.
                         * *Example:*
 
                             Let's say you did not allow a certain user to delete products, then that user will not have the delete function.
