@@ -6,8 +6,5 @@ Collaboration
    :maxdepth: 1
 
    tasksandannotations/index
-<<<<<<< HEAD
    workflowadministration/index
-=======
->>>>>>> nadia_workflowworkbenchviewtasks_04262018
    workflowworkbench/index
