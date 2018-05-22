@@ -33,19 +33,19 @@ Inheriting a subset of attributes from a taxonomy is easy, and here's how to do 
 |
 |
 
-#. Click the **Taxonomy Configuration** button.
+#. On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
 
 .. image:: /feature/_images/mdmimages/inheritance_taxonomyconfig.PNG
 |
 |
 
-#. Click on the "+" icon to create a new taxonomy.
+#. Click on the "+" icon to create a new taxonomy and click the **Create** button.
 
 .. image:: /feature/_images/mdmimages/inheritance_clickcreate.PNG
 |
 |
 
-#. Enter a name for the taxonomy then add property collection
+#. Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
 
 .. image:: /feature/_images/mdmimages/inheritance_nametaxonomy.PNG
 |
