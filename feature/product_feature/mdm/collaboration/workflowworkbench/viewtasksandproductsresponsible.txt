@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ===================================
 View Tasks and Products Responsible
 ===================================
@@ -105,3 +106,8 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
 >>>>>>> nadia_workflowworkbenchviewtasks_04262018
+=======
+====================================
+View Tasks and Products Responsible
+====================================
+>>>>>>> origin/Mon_WorkflowAdminTaskstoComplete_04262018

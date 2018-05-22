@@ -1,6 +1,7 @@
 ===========================
 Modeler to Design Workflow
 ===========================
+<<<<<<< HEAD
 The Modeler to Design Workflow feature allows the user to configure a workflow using the modeler.
 
 ====================    ================================================================================================================================================================================================================
@@ -142,3 +143,5 @@ To configure a workflow, follow these steps:
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentsphere line
+=======
+>>>>>>> origin/Mon_WorkflowAdminTaskstoComplete_04262018
