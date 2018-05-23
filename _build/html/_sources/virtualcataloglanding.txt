@@ -1,0 +1,7 @@
+================
+Virtual Catalog
+================
+
+Related URLs for the Virtual Catalog:
+
+#. :doc:`Manage Virtual Catalogs :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`

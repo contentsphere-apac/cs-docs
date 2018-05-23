@@ -2,11 +2,7 @@
 Administration
 ===============
 
-
-Feature Guides
-===============
-
-Learn how to use the Administration features.
+Related URLs for the Administration Feature Guides:
 
 #. :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 #. :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`
@@ -18,3 +14,4 @@ Learn how to use the Administration features.
 #. :doc:`Taxonomies - Simple Taxonomy Tree </feature/product_feature/mdm/administration/simpletaxonomytree/managetaxonomy>`
 #. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 #. :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+#. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`

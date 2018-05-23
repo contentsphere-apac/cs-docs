@@ -1,0 +1,7 @@
+=========
+Supplier
+=========
+
+Related URLs for the Supplier:
+
+#. :doc:`Manage Virtual Catalogs :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`

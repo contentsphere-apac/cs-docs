@@ -1,0 +1,15 @@
+===============================
+DAM (Digital Asset Management)
+===============================
+
+Related URLs for the DAM Feature Guides:
+
+#. :doc:`Add an Image to the DAM </tutorials/addimagetoDAM>`
+#. :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+#. :doc:`Seasonal/Mood Motives (Coming Soon) </feature/product_feature/dam/seasonalmoodmotives>`
+#. :doc:`Bulk Import of Assets </feature/product_feature/dam/bulkimportassets>`
+#. :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+#. :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
+#. :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
+#. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkimportassets>`
+#. :doc:`Documents </feature/product_feature/dam/documents>`
