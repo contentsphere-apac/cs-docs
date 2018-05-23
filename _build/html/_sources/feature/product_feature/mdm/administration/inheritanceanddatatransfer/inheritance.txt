@@ -27,63 +27,67 @@ Inheriting a subset of attributes from a taxonomy is easy, and here's how to do 
 
 |
 
-#. On the home page, click the Gear icon to go to **Settings**.
+#. On the home page, click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/inheritance_gotohomepage.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickadministration.PNG
 |
 |
 
-#. Click the **Taxonomy Configuration** button.
+#. On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
 
-.. image:: /feature/_images/mdmimages/inheritance_taxonomyconfig.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_ondatamodeltab.PNG
 |
 |
 
-#. Click on the "+" icon to create a new taxonomy.
+#. Click on the "+" icon to create a new taxonomy and click the **Create** button.
 
-.. image:: /feature/_images/mdmimages/inheritance_clickcreate.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickplus.PNG
 |
 |
 
-#. Enter a name for the taxonomy then add property collection
+#. Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
 
-.. image:: /feature/_images/mdmimages/inheritance_nametaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty.PNG
 |
-.. image:: /feature/_images/mdmimages/inheritance_nametaxonomy2.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty2.PNG
 |
 |
 
 #. Select the type of coupling, enter the default value, and click **Save**.
 
-.. image:: /feature/_images/mdmimages/inheritance_fillcoupling.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_selecttypecoupling.PNG
 |
 |
 
-#. Go to PIM, hover on the "+" icon, and select your product.
+#. Click **Explore** icon.
 
-.. image:: /feature/_images/mdmimages/inheritance_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickexplore.PNG
 |
 |
 
-#. Click **Add Taxonomy**.
+#. Go to **PIM** and select your product.
 
-.. image:: /feature/_images/mdmimages/inheritance_selectaddtaxonomy.PNG
-|
-.. image:: /feature/_images/mdmimages/inheritance_selectaddtaxonomy2.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_gotopimselectproduct.PNG
 |
 |
 
-#. Attributes under "Dynamic Coupling" are not editable as these values are inherited.
+#. Click **Add Taxonomy** to add your created taxonomy. Go to *Property Collection* tab.
 
-.. image:: /feature/_images/mdmimages/inheritance_dynamic.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy2.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy3.PNG
 |
 |
 
-#. Attributes under "Tight Coupling" can be updated.
+*Note: Attributes under "Dynamic Coupling" are not editable as these values are inherited. Attributes under "Tight Coupling" can be updated.*
 
-.. image:: /feature/_images/mdmimages/inheritance_tight.PNG
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy3.PNG
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
