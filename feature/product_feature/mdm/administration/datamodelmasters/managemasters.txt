@@ -55,7 +55,7 @@ To do this, follow these steps:
 |
 
 
-#.   Click the **“+”** icon on the right of the window. A small details window appears.
+#. Click the "+" icon on the right of the window. A small details window appears.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickplus.PNG
 |

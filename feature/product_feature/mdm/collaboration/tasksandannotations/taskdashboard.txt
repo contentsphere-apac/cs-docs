@@ -13,7 +13,7 @@ The Task Dashboard is where the created tasks can be viewed by the users. The ta
 
 **Related topics:**     * :doc:`Tasks and Annotations </feature/product_feature/mdm/collaboration/tasksandannotations/tasksandannotations>`
                         * :doc:`Public/Private Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/publicprivatetasks>`
-                        * :doc:`Public/Private Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
+                        * :doc:`RACI-VS Tasks </feature/product_feature/mdm/collaboration/tasksandannotations/racivstasks>`
 
 
 **Application:**        * The Task Dashboard shows the various tasks (may be in categories) from different users which help in tracking the tasks.

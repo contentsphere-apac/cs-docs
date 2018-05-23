@@ -1,14 +1,14 @@
 ======================================
 Manage Products in the Master Catalog
 ======================================
-The Manage Products in the Master Catalog is a feature that allows a Data Steward to add information to the products so that the products have complete definitions.
+The Manage Products in the Master Catalog is a feature that allows a user to add information to the products so that the products have complete definitions.
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Data Steward:** A data steward is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
+**Key Term:**           * **Data Steward:** is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
 
-**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of on-boarding.
-                        * The feature also allows a Data Steward to manage all the content and data of a product before transferring it to PIM.
+**Description:**        * Master Catalog allows a user to manage all products at the time of on-boarding.
+                        * The feature also allows a user to manage all the content and data of a product before transferring it to PIM.
 
 **Related topics:**     * :doc:`Check for Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
                         * :doc:`Consolidate Products across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
@@ -16,9 +16,9 @@ The Manage Products in the Master Catalog is a feature that allows a Data Stewar
 **Application:**        * The Master Catalog feature can permit users to manage all of the product content.
                         * *Example:*
 
-                            An organization has a Data Steward who manages all the products in the Master Catalog and there are *Suppliers A and B*, who sell furniture and fashion products.
-                            Data Steward gives permission for *Data Integration* to both suppliers.
+                            An organization has a user who manages all the products in the Master Catalog and there are *Suppliers A and B*, who sell furniture and fashion products.
+                            User gives permission for *Data Integration* to both suppliers.
                             They proceeded with on-boarding of their products and transferring to the Master Catalog,
-                            where all the Products are verified and corrected by the Data Steward, if necessary.
+                            where all the Products are verified and corrected by the user, if necessary.
 
 ===================     =======================================================================================================================================================================
