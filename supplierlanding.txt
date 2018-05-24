@@ -1,0 +1,9 @@
+===========================
+Supplier Quick Start Guide
+===========================
+
+
+Related Articles:
+=================
+
+#. :doc:`Manage Supplier Records </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`

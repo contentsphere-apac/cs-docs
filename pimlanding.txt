@@ -1,0 +1,34 @@
+======================
+PIM Quick Start Guide
+======================
+
+
+Related Articles:
+=================
+
+* :doc:`Product Lines and Products </product/index>`
+* :doc:`Product Information Management </product/PIM>`
+* :doc:`PIM Features (Coming Soon) </feature/product_feature/pim/index>`
+* :doc:`Partner Engagement Platform </product/PEP>`
+* :doc:`Explore UI </tutorials/exploretheui>`
+* :doc:`Add New User </tutorials/addnewuser>`
+* :doc:`Create a New Product </tutorials/createnewproduct>`
+* :doc:`Glossary </glossary>`
+
+
+Key Term:
+==========
+
+* PIM
+   Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
+
+UI Terms:
+=========
+
+* Data Model
+* Partner Administration
+* Data Integration
+* Data Governance
+* Collaboration
+* Translations

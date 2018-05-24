@@ -1,0 +1,9 @@
+==================================
+Virtual Catalog Quick Start Guide
+==================================
+
+
+Related Articles:
+=================
+
+#. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
