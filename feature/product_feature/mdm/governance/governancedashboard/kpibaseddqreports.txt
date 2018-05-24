@@ -111,12 +111,6 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_logout.PNG
 |
 |
-
-#.        Logout from the system then login with the user belonging to the role, to view the KPI for that role.
-
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_logout.PNG
-|
-|
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_viewkpi.PNG
 |
 |

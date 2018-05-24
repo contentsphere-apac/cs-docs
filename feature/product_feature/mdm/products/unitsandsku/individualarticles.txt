@@ -27,7 +27,7 @@ Easily manage the units for individual articles, and here's how to do it.
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/individualarticles_gotopim.PNG
 |
@@ -90,7 +90,7 @@ Easily manage the units for individual articles, and here's how to do it.
 |
 
 
-#. Click the Eye icon to edit the units.
+#. Click the **Eye** icon to edit the units.
 
 .. image:: /feature/_images/mdmimages/individualarticles_edit.PNG
 |

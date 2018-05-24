@@ -13,7 +13,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 **Related topics:**     * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
                         * :doc:`Sales and Order Units </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
-**Application:**        * To create data endpoints, admin decides on the process that would be offboard.
+**Application:**        * To create data endpoints, admin decides on the process that would be offboarded.
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet,
@@ -35,14 +35,14 @@ To do this, follow these steps:
 |
 
 
-#. Click *Data integration* tab, click on the **Endpoints** section to the left. To create a endpoint, click on create icon (plus) on right side of the window.
+#. Click *Data integration* tab and click on the **Endpoints** section on the left. To create a endpoint, click on the "+" icon on the right side of the window.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
 |
 |
 
 
-#. Fill-in the details *(Name ,code, type of Endpoint)* and select the outbound endpoint to and then click the create button to create an endpoint.
+#. Fill-in the details *(Name, code, type of Endpoint)* and select the outbound endpoint. Click on the **Create** button to create an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_enterdetails.PNG
 |
@@ -71,4 +71,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -34,7 +34,7 @@ Keeping track of items as sales units and order units is easy, and here's how to
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/salesandorder_gotopim.PNG
 |

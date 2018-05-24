@@ -4,7 +4,7 @@ Manage Displays
 The Manage Displays feature allows the user to sell multiple quantity products.
 
 
-===================   =================================================================================================================================================================
+====================  =================================================================================================================================================================
 **Key Term:**         * **Loose bundle:** A group of products where the quantity of each product can be defined by the retailer.
 
 **Description:**      * The Manage Displays feature allows you to create a Bundle of products grouped for the purpose of displays in store.
@@ -17,7 +17,7 @@ The Manage Displays feature allows the user to sell multiple quantity products.
 
                           A retail company held a stock clearance sale event. With this, a retailer adds a single item in multiple quantities and sells them at a given price.
 
-===================  =================================================================================================================================================================
+====================  =================================================================================================================================================================
 
 
 How to do: Manage Displays
@@ -27,7 +27,7 @@ To do this, follow these steps:
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/managedisplays_gotopim.PNG
 |
@@ -48,7 +48,7 @@ To do this, follow these steps:
 |
 
 
-#. Enter the  necessary information.
+#. Enter the necessary information.
 
 .. image:: /feature/_images/mdmimages/managedisplays_enterinformation.PNG
 |
@@ -119,4 +119,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
