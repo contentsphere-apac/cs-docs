@@ -5,7 +5,7 @@ Manage Affinities lets you show the right products to the right persona.
 
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **Tags**: Properties that describe the products.
+**Key Term:**           * **Tags**: properties that describe the products.
 
 **Description:**        * Criteria of relevancy must be established when presenting products since different personas can have different preferences or affinities.
                         * Even products carry affinities like some products are suitable during winter while some are intended for summer.
@@ -21,75 +21,101 @@ Manage Affinities lets you show the right products to the right persona.
 How to do: Manage Affinities
 ============================
 
-Showing the right products to the right persona is easy when you manage affinities. Here's how to do it.
+To manage affinities, follow these steps:
 
 |
 
-#. Click the Gear icon to go to *Settings*.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/affinities_settings.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_login.PNG
 |
 |
 
-#. Check if the *Tag configuration* tab is displayed.
+#. Click on **Properties** and select **LOV**.
 
-.. image:: /feature/_images/mdmimages/affinities_tagsconfig.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_clickproperties.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_selectlov.PNG
 |
 |
 
-#. Click on the "+" icon to create a new tag.
+#. Click on the "+" icon to create a new tag (LOV).
 
-.. image:: /feature/_images/mdmimages/affinities_create.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_clickplusicon.PNG
 |
 |
 
 #. Create a tag type "Yes Neutral". (Example: Gender > Male / Female)
 
-.. image:: /feature/_images/mdmimages/affinities_gender.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_gender.PNG
 |
 |
 
 #. Create a tag type "Yes Neutral No". (Example: Hobbies > Football / Baseball / Basketball)
 
-.. image:: /feature/_images/mdmimages/affinities_hobbies.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_hobbies.PNG
 |
 |
 
 #. Create a tag type "Range". (Example: Weather > Summer / Winter / Spring)
 
-.. image:: /feature/_images/mdmimages/affinities_income.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_weather.PNG
 |
 |
 
-#. Create a tag type "Ruler". (Example: Income > High / Medium / Low)
+#. Create a tag type "Ruler". (Example: Income > Low / Medium / High)
 
-.. image:: /feature/_images/mdmimages/affinities_weather.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_income.PNG
 |
 |
 
-#. Add the tags to the property collection.
+#. Go to *Property Groups* and create a property collection.
 
-.. image:: /feature/_images/mdmimages/affinities_addtagstopropcoll.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_createpropertycollection.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_createpropertycollection2.PNG
 |
 |
 
-#. Add the property collection to the class.
+#. Drag and drop the tags to the property collection.
 
-.. image:: /feature/_images/mdmimages/affinities_addpropcolltoclass.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_draganddrop1.PNG
 |
 |
 
-#. In Runtime, create an article of type "Single Article" and scroll to the property collection.
+#. Go to *Classes* and select a class, then click on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/affinities_singlearticle.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_gotoclasses.PNG
 |
 |
 
-#. Check if the affinities tag is displayed.
+#. Select the property collection and click on the **Apply** button.
 
-.. image:: /feature/_images/mdmimages/affinities_appearance.PNG
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_selectpropertycollection.PNG
+|
+|
+
+#. Click on the **Explore** button and go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_gotoclasses.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_gotopim.PNG
+|
+|
+
+#. Hover over the "+" icon and click on **Single Article**.
+
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_hover.PNG
+|
+|
+
+#. Go to the *Property Collection* tab and view the property collection.
+
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_propertycollectiontab.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageaffinities_view.PNG
 |
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
