@@ -1,7 +1,7 @@
 ==================
 Product Comparison
 ==================
-Product Comparison lets the user select and compare products within the PIM.
+Product Comparison allows a user to select and compare products within PIM.
 
 
 ===================    =============================================================================================================================================================
@@ -9,15 +9,16 @@ Product Comparison lets the user select and compare products within the PIM.
 
 **Description:**        * This feature provides a side-by-side comparison view of two or more products.
                         * The comparison table uses columns for the products or services, and rows for the attributes.
-                        * Products are compared not only based on their attributes but also on their relationships.
+                        * Products are compared using their attributes and can also be compared using their relationships.
                         * It is accessible from the main PIM catalog by selecting several products and clicking the compare button.
 
 **Related topics:**     * :doc:`Parametric Search </feature/product_feature/mdm/general/searchandexplore/parametricsearch>`
+                        * :doc:`Group By </feature/product_feature/mdm/general/searchandexplore/groupby>`
 
 **Application:**        * This feature is helpful when deciding which product to use for a promotion or comparing similar products for data quality.
                         * *Example:*
 
-                            A user wants to start a promotion based on a shoe. The user can use the Product Comparison feature to help decide which product to select from a shortlist.
+                            A user wants to start a phone promotion. The user can use the *Product Comparison* feature to help decide which product should be selected from the available options in the system.
 
 ===================    =============================================================================================================================================================
 
@@ -29,30 +30,37 @@ To do this, follow these steps:
 
 |
 
+#. Log in and go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_selectandcompare_login.PNG
+
+|
+|
+
 #. Select two or more products to be compared.
 
-.. image:: /feature/_images/mdmimages/productcomparison_selectproducts.PNG
+.. image:: /feature/_images/mdmimages/cs_selectandcompare_selecttwoormore.PNG
 |
 |
 
 
-#. Click the **Comparison View** button found at the top of the products.
+#. Click the **Comparison View** button as shown.
 
-.. image:: /feature/_images/mdmimages/productcomparison_selecticon.PNG
+.. image:: /feature/_images/mdmimages/cs_selectandcompare_clickthecomparisonview.PNG
 |
 |
 
 
-#. Comparison View enables the user to compare the data of two products.
+#. View the information table which enables the user to compare the data of the selected products.
 
-.. image:: /feature/_images/mdmimages/productcomparison_comparisonview.PNG
+.. image:: /feature/_images/mdmimages/cs_selectandcompare_comparisonview.PNG
 |
 |
 
-*Note:  The indicators for comparing are shown at the right side. The red icon indicates "less than", the green icon with "=" indicates "equal to", and the green icon with up arrow indicates "greater than".*
+*Note:  The indicators for comparison are shown on the right. The Red icon with down arrow indicates "Lesser", the Green icon with "=" indicates "Equal to", and the Green icon with up arrow indicates "Greater than" for the values being compared.*
 
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
