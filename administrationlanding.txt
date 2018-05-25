@@ -3,8 +3,8 @@ Administration Quick Start Guide
 =================================
 
 
-Related Articles:
-=================
+Relevant Articles:
+===================
 
 #. :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 #. :doc:`Data Model - Tag Management </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`

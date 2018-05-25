@@ -3,8 +3,8 @@ DAM Quick Start Guide
 ======================
 
 
-Related Articles:
-=================
+Relevant Articles:
+===================
 
 #. :doc:`Add an Image to the DAM </tutorials/addimagetoDAM>`
 #. :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`

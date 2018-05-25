@@ -3,8 +3,8 @@ Dashboard Quick Start Guide
 ============================
 
 
-Related Articles:
-=================
+Relevant Articles:
+===================
 
 * :doc:`Product Glossary </glossary>`
 * :doc:`Explore UI </tutorials/exploretheui>`
@@ -28,6 +28,6 @@ UI Terms:
 * Data Integration - Endpoints
 * Tasks
 * Buckets
-* Workflow Workbench - tasks, products
+* Workflow Workbench - Tasks and Products
 * Rule Violations
 * Latest Contents

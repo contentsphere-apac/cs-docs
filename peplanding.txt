@@ -3,8 +3,8 @@ PEP, Onboarding, Data Integration Quick Start Guide
 =====================================================
 
 
-Related Articles:
-=================
+Relevant Articles:
+===================
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Partner Engagement Platform </product/PEP>`

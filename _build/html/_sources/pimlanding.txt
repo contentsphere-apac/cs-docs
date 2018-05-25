@@ -3,8 +3,8 @@ PIM Quick Start Guide
 ======================
 
 
-Related Articles:
-=================
+Relevant Articles:
+===================
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Product Information Management </product/PIM>`
