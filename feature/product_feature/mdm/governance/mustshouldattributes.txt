@@ -31,85 +31,97 @@ To do this data governance feature, follow these steps:
 
 |
 
-#. On the home page, click on the **Settings** button.
+#. On the home page, click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_clickonsettings.PNG
-|
-|
-
-#. Go to the *Attribute Configuration* section.
-
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gototheattributeconfigurationsection.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickadministration.PNG
 |
 |
 
-#. Click on the "+" icon to create a new attribute. Create 3 new attributes.
+#. On the *Data Model* tab, go to the *Properties* section and click **Text** attribute.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_clicktheicontocreatenewattribute.PNG
-|
-.. image:: /feature/_images/mdmimages/mustshouldattributes_clicktheicontocreatenewattribute2.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_condatamodel.PNG
 |
 |
 
-#. Go to the *Property Collection Configuration* and create a property collection.
+#. Click on the "+" icon to create a new text attribute. Create 3 new attributes.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotothepropertyconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickplus.PNG
 |
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotothepropertyconfiguration2.PNG
-|
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotothepropertyconfiguration3.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickplus2.PNG
 |
 |
 
-#. Add the 3 new attributes to the newly created property collection (e.g. *Property_Collection_1*).
+#. Go to the *Property Collection* and create a property collection.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_addthe3newattributes.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotopropertycollection.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotopropertycollection2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotopropertycollection3.PNG
 |
 |
+
+#. Add the 3 new attributes to the newly created property collection. *Note: attributes can be dragged to the Property section.*
+
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addnewattributes.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addnewattributes2.PNG
+
 
 #. Go to *Class Configuration* and create a **Default** type class.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotoclassconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotoclasses.PNG
 |
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotoclassconfiguration2.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotoclasses2.PNG
 |
-.. image:: /feature/_images/mdmimages/mustshouldattributes_gotoclassconfiguration3.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotoclasses3.PNG
 |
 |
 
 #. Add the property collection to that class.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_addthepropertycollectionstothattypeclass.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addpropertycollection.PNG
 |
-.. image:: /feature/_images/mdmimages/mustshouldattributes_addthepropertycollectionstothattypeclass2.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addpropertycollection2.PNG
 |
 |
 
 #. Assign a mandatory condition to the attributes by ticking on the checkbox. Save the changes.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_assignamandatorycondition.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_assignmandatory.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_assignmandatory2.PNG
 |
 |
 
-#. Click on the **All** tab and go to PIM.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_clickonthealltab.PNG
+#. Click on the **Explore** tab and go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickexplore.PNG
 |
-.. image:: /feature/_images/mdmimages/mustshouldattributes_clickonthealltab2.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickexplore2.PNG
 |
 |
 
 #. Hover over the "+" icon and wait for the menu to appear. In the menu, go to the class created (e.g. *Class_1*).
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_hoverovertheicon.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_hoverplus.PNG
 |
 |
+
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_hoverplus2.PNG
+|
+|
+
 
 #. View the set conditions in runtime. If a field is set to be *Mandatory* and is left blank, a violation notification will appear.
 
-.. image:: /feature/_images/mdmimages/mustshouldattributes_viewinruntime.PNG
+.. image:: /feature/_images/mdmimages/cs_mustshouldattributes_viewconditions.PNG
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
