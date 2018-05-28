@@ -6,7 +6,7 @@ The Data Quality Rule feature provides the functionality to create and set rules
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
 
 **Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
                         * This feature allows data quality rules to be customized.
@@ -115,7 +115,7 @@ To do this data governance feature, follow these steps:
   |
 
 
-  *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for rule violation under. When you click on the warning message, the applied rule notification will appear.*
+  *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for its rule violation. When you click on the warning message, the applied rule notification will appear.*
 
   .. image:: /feature/_images/mdmimages/cs_dataqualityrule_note.PNG
   |
