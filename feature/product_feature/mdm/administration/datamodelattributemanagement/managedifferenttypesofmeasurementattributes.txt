@@ -257,7 +257,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 
 How to do: Measurement Type: Volume
-------------------------------------
+-------------------------------------
 To set an attribute as a volume, follow these steps:
 
 |
@@ -535,7 +535,7 @@ To set an attribute as a temperature, follow these steps:
 |
 
 
-#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
+#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
 
 .. image:: /feature/_images/mdmimages/cs_manageattributetemp_completetheattributes.PNG
 |
