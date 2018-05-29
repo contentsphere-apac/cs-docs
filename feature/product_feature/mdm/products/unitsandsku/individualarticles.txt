@@ -27,75 +27,53 @@ Easily manage the units for individual articles, and here's how to do it.
 
 |
 
-#. Go to *PIM*.
+#. Log in and click on the *Administration* button.
 
-.. image:: /feature/_images/mdmimages/individualarticles_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_login.PNG
 |
 |
 
 
-#. Select a product and click **Unit**.
+#. Click on **Properties** and select **Unit**.
 
-.. image:: /feature/_images/mdmimages/individualarticles_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_clickproperties.PNG
 |
 |
 
 
-#. Click **Create**.
+#. Click on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/individualarticles_create.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_clickplusicon.PNG
 |
 |
 
 
-#. Select the unit tag and enter a name for the unit.
+#. Enter the name (e.g. *Unit*) and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/individualarticles_selectunittag.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_entername.PNG
 |
 |
 
 
-#. Click **Save**.
+#. Click on the **Create Tag Value** button.
 
-.. image:: /feature/_images/mdmimages/individualarticles_save.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_createtagvalue.PNG
 |
 |
 
 
-#. To create another unit, click **Create** again.
+#. Enter the name for the tag value (e.g. *ST*) and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/individualarticles_createagain.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_nametagvalue.PNG
 |
 |
 
 
-#. Select the unit tag and enter a name for the unit.
+#. Repeat the above steps to create other tag values.
 
-.. image:: /feature/_images/mdmimages/individualarticles_selectunittag2.PNG
+.. image:: /feature/_images/mdmimages/cs_individualarticles_repeat.PNG
 |
 |
-
-
-#. Click **Save**.
-
-.. image:: /feature/_images/mdmimages/individualarticles_save2.PNG
-|
-|
-
-
-#. Multiple units are created.
-
-.. image:: /feature/_images/mdmimages/individualarticles_multipleunits.PNG
-|
-|
-
-
-#. Click the **Eye** icon to edit the units.
-
-.. image:: /feature/_images/mdmimages/individualarticles_edit.PNG
-|
-|
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
