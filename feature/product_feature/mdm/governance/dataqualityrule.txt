@@ -11,8 +11,8 @@ The Data Quality Rule feature provides the functionality to create and set rules
                         * This feature allows data quality rules to be customized.
                         * This feature has two main types of rule: *Rule Violation and Normalization*.
 
-                           **Rule Violation:** alerts a user about a violated rule with an error message.
-                           **Normalization:** reduces data redundancy and improves the data integrity.
+                            **Rule Violation:** alerts a user about a violated rule with an error message.
+                            **Normalization:** reduces data redundancy and improves the data integrity.
 
 **Related topics:**     * :doc:`Must/Should Attributes </feature/product_feature/mdm/governance/mustshouldattributes>`
 
