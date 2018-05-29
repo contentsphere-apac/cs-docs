@@ -1,20 +1,116 @@
 ================
 Monitor Imports
 ================
-The Monitor Imports feature provides an import summary for every import of product data that allows corrective action to be promptly done, if required.
+The Monitor Imports feature provides an import summary for every import of product data that allows corrective action to be promptly done, if necessary.
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Description:**        * The user will get a summary of the reports for each completed import process.
+                        * The summary includes a report on key indicators of the products being imported, so that the user can check the product violations and may appropriately correct them.
 
-**Description:**        * The user will get and view a summary of the reports for each completed import process.
-                        * The brief summary would have key indicators of the products being imported and the user can check the products for violations and correct them.
-
-**Related topics:**     * :doc:`Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
                         * :doc:`Monitor Data Quality </feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
+                        * :doc:`Monitor Exports </feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorexports>`
 
-**Application:**        * The user gets an overall summary of the *previous, recent, and/or total number* of uploaded files.
+**Application:**        * The user gets an overall summary of the *previous, recent, and/or the total number* of uploaded files.
                           It also provides information about the successful imports and violations.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Monitor Imports
+===========================
+
+| For this example, we will use a user with a general account.
+| To monitor imports as a general user, follow the instructions below:
+
+|
+
+#. Log in (as a *General User*).
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_login.PNG
+|
+|
+
+
+#. Go to the *Dashboard* and click on the **Data Integration** tab.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_gotodashboardthendata.PNG
+|
+|
+
+
+#. On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_onthedataintegrationpage.PNG
+|
+|
+
+
+#. On that *Onboard Endpoint* page, click on the **Import File** button.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_onthatonboardendpoint.PNG
+|
+|
+
+
+#. Select the file to be imported from your computer. Once selected, click **Open**.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_onceclicked.PNG
+|
+|
+
+
+*Note:  You may check the status or the progress of the onboarding process by going to the Workflow Status*.
+
+On that page, the *Start Time, End Time, and the Status* are provided for review.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_noteasauser.PNG
+|
+|
+
+
+#. Click on the **Dashboard** button to go back.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_clickonthedashboardtogoback.PNG
+|
+|
+
+
+#. View the data shown on the *Dashboard*.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_viewtheupdateddata.PNG
+|
+|
+
+
+*Note: In the Endpoint Dashboard Entry, there is a drop-down menu for the details of the import process. It is set with the default value, Summary.*
+Other options are available: *Last Upload and All Uploads*.
+*Also, the violations (Red, Orange, and Yellow) can be viewed that will notify the user if there are product data to be corrected so that Data Quality can be maintained.*
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_noteintheendpoint.PNG
+|
+|
+
+
+How to do: Maintain the Data Quality
+=====================================
+If there are violations in the *Endpoint Dashboard Entry*, the user may correct them by following these simple steps:
+
+#. Click on the **Endpoint**.
+
+|
+
+#. Go to *Catalog* that can be found on the side menu.
+
+|
+
+#. Click on each product with violation and provide (or correct) the necessary data.
+
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line

@@ -1,20 +1,88 @@
 ================
 Monitor Exports
 ================
-The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if required.
+The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if necessary.
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Description:**        * The user will get a summary of the reports for each completed export process.
+                        * The summary includes a report on key indicators of the products being exported, so that the user can check the product violations and may appropriately correct them.
 
-**Description:**        * The user will get and view a summary of the reports for each completed export process.
-                        * The brief summary would have key indicators of the products being exported and the user can check the products for violations and correct them.
-
-**Related topics:**     * :doc:`Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
                         * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
                         * :doc:`Monitor Data Quality </feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
+                        * :doc:`Monitor Imports </feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorimports>`
 
-**Application:**        * The user gets an overall summary of the *previous, recent, and/or total number* of exported files.
+**Application:**        * The user gets an overall summary of the *previous, recent, and/or the total number* of exported files.
                           It also provides information about the successful exports and violations.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Monitor Exports
+============================
+To monitor exports, follow these steps:
+
+|
+
+#. Log in.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_login.PNG
+|
+|
+
+
+#. | Go to *PIM* and select the products to be exported.
+   | *Note: To select all the products, click on the Select All button.*
+   |
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproducts.PNG
+|
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproducts2.PNG
+|
+|
+
+
+#. Once selected, click on the **Transfer** button. This will transfer and get the products ready for offboarding. Select the *Self* option.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_clickthetransferbutton.PNG
+|
+.. image:: /feature/_images/pepimages/cs_monitorexports_clickthetransferbutton2.PNG
+|
+|
+
+
+#. Once the notification says that the transfer is successful, click on the *PIM* menu on the upper left corner of the screen and go to *Offboarding*.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_oncethenotificationsays.PNG
+|
+|
+
+
+#. Check that the screen shows the selected products.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_checkthathescreen.PNG
+|
+|
+
+
+#. Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
+   Wait for the data to be exported. Once done, view the exported data.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport.PNG
+|
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport2.PNG
+|
+.. image:: /feature/_images/pepimages/cs_monitorexports_selecttheproductsandclickexport3.PNG
+|
+|
+
+
+*Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the offboarding report summary.*
+
+
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentsphere line
