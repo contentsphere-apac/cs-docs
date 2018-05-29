@@ -5,8 +5,7 @@ The Data Quality Rule feature provides the functionality to create and set rules
 
 
 ===================     ===============================================================================================================================================================
-
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
 
 **Description:**        * This feature allows an administrator to create rules to ensure that data quality is maintained in the system.
                         * This feature allows data quality rules to be customized.
@@ -35,30 +34,39 @@ To do this data governance feature, follow these steps:
 
 |
 
-#. Go to *Settings*.
+#. Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/dataqualityrules_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoadministration.PNG
 |
 |
 
 
 #. Go to the *Rule Configuration* section.
 
-.. image:: /feature/_images/mdmimages/dataqualityrules_gototheruleconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoruleconfiguration.PNG
 |
 |
 
 
-#. Click on the **Create** button to create a new rule.
+#. Click on the "+" icon to create a new rule.
 
-.. image:: /feature/_images/mdmimages/dataqualityrules_clickonthecreatebutton.PNG
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus2.PNG
 |
 |
 
 
-#. Provide a name for the rule and click on the *Attributes, Tags, and Roles* where the data quality rule will be applied.
+#. Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
 
-.. image:: /feature/_images/mdmimages/dataqualityrules_providethenamefortherule.PNG
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername2.PNG
 |
 |
 
@@ -67,50 +75,48 @@ To do this data governance feature, follow these steps:
 
   #. Select the attribute (in Cause) and then, add the warning (in Effect). Save all the changes.
 
-  .. image:: /feature/_images/mdmimages/dataqualityrules_providethenamefortherule2.PNG
-  |
-  .. image:: /feature/_images/mdmimages/dataqualityrules_providethenamefortherule3.PNG
-  |
-  .. image:: /feature/_images/mdmimages/dataqualityrules_providethenamefortherule4.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute.PNG
   |
   |
 
-  #. Go to *Class Configuration*.
-
-  .. image:: /feature/_images/mdmimages/dataqualityrules_gotoclassconfiguration.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute2cause.PNG
   |
   |
 
-  #. In the rules section, the list of rules will appear. Select the rule that will be applied.
-
-  .. image:: /feature/_images/mdmimages/dataqualityrules_intherulessection.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute3cause.PNG
   |
   |
 
-  #. Go to the *Home screen*.
+  #. In the *Classes* section, select the rule that will be applied.
 
-  .. image:: /feature/_images/mdmimages/dataqualityrules_gotohomescreen.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_inclasssection.PNG
   |
   |
 
-  #. Go to PIM.
+  #. Go to *PIM*.
 
-  .. image:: /feature/_images/mdmimages/dataqualityrules_gotoPIM.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotopim.PNG
   |
   |
 
   #. Hover over the "+" icon and select the class.
 
-  .. image:: /feature/_images/mdmimages/dataqualityrules_hoverovertheiconandselecttheclass.PNG
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus.PNG
   |
-  .. image:: /feature/_images/mdmimages/dataqualityrules_asindicatedintherule.PNG
   |
 
-  *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for rule violation. When you click on the warning message, the applied rule notification will appear.*
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus2.PNG
+  |
+  |
 
-|
-|
+
+
+  *Note: As indicated in the rule, the field cannot be empty. In runtime, if it's blank, it will be highlighted for its rule violation. When you click on the warning message, the applied rule notification will appear.*
+
+  .. image:: /feature/_images/mdmimages/cs_dataqualityrule_note.PNG
+  |
+  |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
