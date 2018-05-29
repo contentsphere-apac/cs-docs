@@ -22,65 +22,74 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 How to do: Manage LOVs
 ======================
 
-To do this, follow these steps:
+To manage LOVs, follow these steps:
 
 |
 
-#. Click the Gear icon to go to *Settings*.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/managelovs_settings.PNG
-|
-|
-
-#. Check if the *Tag Configuration* tab is displayed.
-
-.. image:: /feature/_images/mdmimages/managelovs_tagsconfig.PNG
+.. image:: /feature/_images/mdmimages/cs_managelovs_login.PNG
 |
 |
 
-#. Click on the **'+'** icon to create a new tag (LOVs).
 
-.. image:: /feature/_images/mdmimages/managelovs_create.PNG
+#. Click on **Properties** and select **LOV**.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickproperties.PNG
 |
-|
-
-#. Check if a new tag is created at the top of the list.
-
-.. image:: /feature/_images/mdmimages/managelovs_newtag.PNG
+.. image:: /feature/_images/mdmimages/cs_managelovs_selectlov.PNG
 |
 |
 
-#. Enter the name of the tag and select the type of tag from the drop-down list.
 
-.. image:: /feature/_images/mdmimages/managelovs_fillname.PNG
-|
-|
+#. Click on the "+" icon to create a new tag (LOV).
 
-#. Enter the other values such as *Description*, *Color*, and *Multiselect* then click **Save**.
-
-.. image:: /feature/_images/mdmimages/managelovs_save.PNG
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickplusicon.PNG
 |
 |
 
-#. Click the **Create Tag Value** button found at the far right column.
 
-.. image:: /feature/_images/mdmimages/managelovs_addtagvalue.PNG
+#. Enter the name of the tag and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_entername.PNG
 |
 |
 
-#. Enter the label and click on the search tab then click **Save**.
 
-.. image:: /feature/_images/mdmimages/managelovs_newsubtag1.PNG
+#. Select the type of tag from the drop-down list.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_selecttype.PNG
 |
-.. image:: /feature/_images/mdmimages/managelovs_newsubtag2.PNG
+|
+
+
+#. Enter the other values such as *Description* and *Color* then click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clicksave.PNG
 |
 |
+
+
+#. Click on the **Create Tag Value** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_clickcreatetagvalue.PNG
+|
+|
+
+
+#. Enter the name of the tag value and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_managelovs_entertagvalue.PNG
+|
+|
+
 
 #. Repeat the above steps for other tag values.
 
-.. image:: /feature/_images/mdmimages/managelovs_repeat.PNG
+.. image:: /feature/_images/mdmimages/cs_managelovs_repeat.PNG
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
