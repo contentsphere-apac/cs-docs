@@ -5,12 +5,13 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Attribute**: a data field which describes a product.
+**Key Term:**            * **Administrator:** a technical specialist who configures a software system.
+                         * **Attribute:** a data field which describes a product.
 
 **Description:**         * This feature is used to concatenate two or more attributes to form one new attribute.
                          * *Example:*
 
-                              **Long Description = Name + Attribute1 + Attribute2 + Price**
+                              Long Description = Name + Attribute1 + Attribute2 + Price
 
 **Related topics:**      * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 
@@ -43,7 +44,7 @@ To do this admin feature, follow the steps below:
 |
 
 
-#. Click on *Concatenated* under the *Properties* section.
+#. Go to *Concatenated* under the *Properties* section.
 
 .. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_clickonconcatenated.PNG
 |
@@ -64,7 +65,7 @@ To do this admin feature, follow the steps below:
 |
 
 
-#. View that the attribute has been created successfully.
+#. View that the attribute had been created successfully.
 
 .. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_viewthattheattribute.PNG
 |

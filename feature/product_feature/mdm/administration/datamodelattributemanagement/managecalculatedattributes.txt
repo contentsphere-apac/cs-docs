@@ -6,6 +6,7 @@ The Manage Calculated Attributes is a feature that allows attributes to be calcu
 
 ===================     ===============================================================================================================================================================
 **Key Term:**           * **Administrator:** a technical specialist who configures a software system.
+                        * **Attribute:** a data field which describes a product.
 
 **Description:**        * This feature allows attributes to be calculated. A calculated attribute is a read-only field whose value is based on a specified formula that takes values
                           from other defined attributes.
@@ -42,7 +43,7 @@ To do this admin feature, follow the steps below:
 |
 
 
-#. Click on *Calculated* under the *Properties* section.
+#. Go to *Calculated* under the *Properties* section.
 
 .. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_clickoncalculated.PNG
 |
