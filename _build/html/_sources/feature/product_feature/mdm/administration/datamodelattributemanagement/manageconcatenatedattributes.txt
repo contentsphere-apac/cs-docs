@@ -5,7 +5,7 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Attribute**: A data field which describes a product.
+**Key Term:**            * **Attribute**: a data field which describes a product.
 
 **Description:**         * This feature is used to concatenate two or more attributes to form one new attribute.
                          * *Example:*
@@ -17,8 +17,8 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 **Application:**         * The feature will allow an administrator to set up a concatenated attribute that will use other attributes in the system.
                          * *Example:*
 
-                             An administrator sets up a new concatenated attribute, named *New Description* that will be a result of
-                             combining the long and short descriptions of a product.
+                              An administrator sets up a new concatenated attribute, named *New Description* that will be a result of
+                              combining the long and short descriptions of a product.
 
 ===================     ===============================================================================================================================================================
 
@@ -31,58 +31,71 @@ To do this admin feature, follow the steps below:
 
 #. Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/managecalculatedattributes_gotoconfigsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_login.PNG
 |
 |
 
 
 #. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_gotodatamodel.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_gotodatamodel.PNG
 |
 |
 
 
-#. Click on *Calculated* under the *Properties* section.
+#. Click on *Concatenated* under the *Properties* section.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_clickoncalculated.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_clickonconcatenated.PNG
 |
 |
 
 
 #. Click the "+" icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_clickicontocreatenewattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_clicktheicon.PNG
 |
 |
 
 
-#. Enter the name of the calculated attribute and click on the **Create** button.
+#. Enter the name of the concatenated attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_enterthename.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_enterthename.PNG
 |
 |
 
 
-#. Scroll right and go to the *Concatenation Formula* section.
+#. View that the attribute has been created successfully.
 
-.. image:: /feature/_images/mdmimages/manageconcatenatedattributes_scrollrightandgotoconcatenationformulasection.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_viewthattheattribute.PNG
+|
+|
+
+
+#. Scroll right and go to the *Concatenation Formula* section. Click on the empty field and wait for the pop-up window to appear.
+
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_scrollrighttoconcatenation.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_scrollrighttoconcatenation2.PNG
 |
 |
 
 
 #. Select the attributes to be concatenated in the formula by (1) clicking on *Attribute* on the pop-up window and then (2) selecting the attributes that will be used.
 
-.. image:: /feature/_images/mdmimages/manageconcatenatedattributes_selecttheattributestobeconcatenated.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes.PNG
 |
-.. image:: /feature/_images/mdmimages/manageconcatenatedattributes_selecttheattributestobeconcatenated2.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes2.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_selecttheattributes3.PNG
 |
 |
 
 
 #. Provide the values for the attributes that have been used in the previous step (e.g. *long description and short description*). Check that the new concatenated attribute will be automatically populated.
 
-.. image:: /feature/_images/mdmimages/manageconcatenatedattributes_providethevalues.PNG
+.. image:: /feature/_images/mdmimages/cs_manageconcatenatedattributes_providethevalues.PNG
 |
 |
 

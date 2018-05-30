@@ -30,7 +30,7 @@ To do this admin feature, follow the steps below:
 
 #. Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/managecalculatedattributes_gotoconfigsettings.PNG
+.. image:: /feature/_images/mdmimages/cs_managecalculatedattributes_login.PNG
 |
 |
 
