@@ -7,7 +7,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
 ===================   =================================================================================================================================================================
 **Key Term:**         * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**      * A Single Article is the basic unit in Contentserv for a product without variants.
+**Description:**      * A Single Article is a basic unit in Contentserv for a product without variants.
                       * Contentserv allows you to create, edit and delete individual products.
 
 **Related topics:**   * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
@@ -16,7 +16,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
                       * *Example:*
 
                           Let's say a retailer wants to add a new flavor of Red Bull to their stock.
-                          To do that, they needs to create this product as a Single Article.
+                          To do that, they need to create this product as a Single Article.
 
 ===================   =================================================================================================================================================================
 
