@@ -47,3 +47,6 @@ To do this,  follow these steps:
 
 Then, user can operate the system and manage the supplier's onboarding catalog products.
 Once the Products are  quality checked, user can transfers the products to the PIM.
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
