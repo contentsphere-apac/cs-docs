@@ -1,11 +1,11 @@
 ==========================================
 Manage Product Definitions across Systems
 ==========================================
-The Manage Product Definitions across Systems feature is a feature that allows a Data Steward to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
+The Manage Product Definitions across Systems feature is a feature that allows a user to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
 
 
 ===================     =======================================================================================================================================================================
-**Description:**        * Master Catalog allows a Data Steward to manage all products at the time of onboarding.
+**Description:**        * Master Catalog allows a user to manage all products at the time of onboarding.
                         * The feature manages all the content of the product before transferring to PIM, and allows the user to make changes in the product content.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
@@ -15,9 +15,9 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 **Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 
-                            A retailer, with 5 suppliers, creates a user, *Data Steward* who monitors the data quality of products that are onboarded.
-                            The Data Steward allows the suppliers to import their products via *Data Integration* and once the data quality check is passed and completed,
-                            the Data Steward will push the products to PIM. These products will now be visible in the Master Catalog.
+                            A retailer, with 5 suppliers, creates a user, *user* who monitors the data quality of products that are onboarded.
+                            The user allows the suppliers to import their products via *Data Integration* and once the data quality check is passed and completed,
+                            the user will push the products to PIM. These products will now be visible in the Master Catalog.
 
 ===================     =======================================================================================================================================================================
 
@@ -45,5 +45,5 @@ To do this,  follow these steps:
 |
 |
 
-Then, Data Steward can operate the system and manage the supplier's onboarding catalog products.
-Once the Products are  quality checked, data steward can transfers the products to the PIM.
+Then, user can operate the system and manage the supplier's onboarding catalog products.
+Once the Products are  quality checked, user can transfers the products to the PIM.
