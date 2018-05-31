@@ -22,3 +22,43 @@ The Manage Products in the Master Catalog is a feature that allows a user to add
                             where all the Products are verified and corrected by the user, if necessary.
 
 ===================     =======================================================================================================================================================================
+
+
+How to do: Add Additional Information in the Product
+======================================================
+To add additional information to products, follow these steps:
+
+|
+
+#. Log in as Supplier and click on the **Data Integration** tab.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_login.PNG
+|
+|
+
+#. Under the applicable inbound endpoint, click on the **Import File** button.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_importfile.PNG
+|
+|
+
+#. Select the onboarding file.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile2.PNG
+|
+|
+
+#. Go to *Catalog* and manage the products by adding information to the products when deemed necessary.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog2.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog3.PNG
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
