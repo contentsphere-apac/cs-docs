@@ -1,7 +1,7 @@
 ==========================================
 Manage Product Definitions across Systems
 ==========================================
-The Manage Product Definitions across Systems feature is a feature that allows a user to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
+The Manage Product Definitions across Systems feature is a feature that allows a User to see all of the products in the Master Catalog and to have a consolidated view of product definitions across *Systems*.
 
 
 ===================     =======================================================================================================================================================================
@@ -15,9 +15,9 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 **Application:**        * Master catalog allows the user to manage all the product content.
                         * *Example:*
 
-                            A retailer, with 5 suppliers, creates a user, *user* who monitors the data quality of products that are onboarded.
-                            The user allows the suppliers to import their products via *Data Integration* and once the data quality check is passed and completed,
-                            the user will push the products to PIM. These products will now be visible in the Master Catalog.
+                            A retailer, with 5 suppliers, creates a user, *User* who monitors the data quality of products that are onboarded.
+                            The User allows the suppliers to import their products via *Data Integration* and once the data quality check is passed and completed,
+                            the User will push the products to PIM. These products will now be visible in the Master Catalog.
 
 ===================     =======================================================================================================================================================================
 
@@ -45,8 +45,8 @@ To do this,  follow these steps:
 |
 |
 
-Then, user can operate the system and manage the supplier's onboarding catalog products.
-Once the Products are  quality checked, user can transfers the products to the PIM.
+Then, User can operate the system and manage the supplier's onboarding catalog products.
+Once the Products are  quality checked, user can transfer the products to the PIM.
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
