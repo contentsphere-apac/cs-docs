@@ -48,44 +48,47 @@ To set a task to either public or private, follow these steps:
 
 #. Select the *Content Level* task.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_clickonthecontentleveltask.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_selectthecontentlevel.PNG
 |
 |
 
 
 #. Click on **Add New Task** button to create a new task.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_clickontheaddnewtaskbutton.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_clickonaddnewtask.PNG
 |
 |
 
 
 #. Enter the name of the new task then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_enterthenameofthenewtask.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_enterthenameofthetask.PNG
 |
 |
 
 
 #. Toggle between the **Public** or **Private Mode** using the lock icon.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_togglebetweenpublicorprivate.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_togglebetweenpubpriv.PNG
 |
 |
 
 
 #. Set the important dates for the task.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_setthedates.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_setthedates.PNG
 |
 |
 
 
 #. Go to *PIM* and go to the *Calendar View* to check the task.
 
-.. image:: /feature/_images/mdmimages/publicprivatetasks_gotoPIMandcalendarview.PNG
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_gotopimandcalendar.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_publicprivatetasks_gotopimandcalendar2.PNG
 |
 |
+
 
 *Note: If a task is set in Private Mode, other users will not have access to view that task (except for those who are given permission).*
 
@@ -93,4 +96,4 @@ To set a task to either public or private, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
