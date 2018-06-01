@@ -23,7 +23,7 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 ===================     =======================================================================================================================================================================
 
 
-How to do:  Define Products Across the Systems
+How to do: Define Products Across the Systems
 ===============================================
 To do this, follow these steps:
 

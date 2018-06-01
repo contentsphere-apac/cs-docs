@@ -5,7 +5,7 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 
 
 ====================    =============================================================================================================================================================
-**Key Term:**            * **Property:** A property is a field used to describe a product. It comes in several different types: *Name of Product, Price, Description*.
+**Key Term:**            * **Property:** a property is a field used to describe a product. It comes in several different types: *Name of Product, Price, Description*.
 
 **Description:**         * This feature  is used to create a property with many possible values.
                          * Tags can be used to categorize your products, Contrary to categories.

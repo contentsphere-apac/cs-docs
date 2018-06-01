@@ -5,7 +5,7 @@ Sort By
 The Sort By feature allows a user to view products and assets according to a specific attribute sort order.
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Attribute:** A data field which describes a product, can also use *'property'*.
+**Key Term:**           * **Attribute:** a data field which describes a product, can also use *'property'*.
 
 **Description:**        * The Sort By feature allows the use of filters to sort products in ascending or descending order.
                         * Click the Sort By buttons at the top of the catalog to use this feature.

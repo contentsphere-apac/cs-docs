@@ -5,18 +5,18 @@ The Export Product Data to Excel feature provides the functionality to select an
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM)** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**        * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
-                        * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
+**Description:**         * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
+                         * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
 
-**Related topics:**     * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
+**Related topics:**      * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
 
-**Application:**        * The simple Excel-based export makes a record of data that is saved as an Excel file.
-                        * *Example:*
+**Application:**         * The simple Excel-based export makes a record of data that is saved as an Excel file.
+                         * *Example:*
 
-                            A user has a department/workgroup that uses Microsoft Excel to work on data.
-                            The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
+                              A user has a department/workgroup that uses Microsoft Excel to work on data.
+                              The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
 
 ===================     ===============================================================================================================================================================
 

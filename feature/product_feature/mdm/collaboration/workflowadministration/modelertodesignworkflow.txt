@@ -4,9 +4,9 @@ Modeler to Design Workflow
 The Modeler to Design Workflow feature allows the user to configure a workflow using the modeler.
 
 ====================    ================================================================================================================================================================================================================
-**Key Term:**           * **Workflow**: A workflow is a graphical representation of the internal onboarding process. It shows the sequence of workflow and the messages that flow in between the related set of activities.
+**Key Term:**           * **Workflow:** a workflow is a graphical representation of the internal onboarding process. It shows the sequence of workflow and the messages that flow in between the related set of activities.
                           It provides the capability of understanding the internal onboarding procedures in a graphical notation and will give an organization the ability to communicate this procedure in a standard manner.
-                        * **Workflow Modeler**: A workflow modeler allows users to configure workflows using BPMN 2.0 modelling notation.
+                        * **Workflow Modeler:** a workflow modeler allows users to configure workflows using BPMN 2.0 modelling notation.
                           This will enable users to model complex processes using universally known and standardized BPMN 2.0 notation.
 
 **Description:**        * A workflow represents the end-to-end flow of a business process in a graphical manner.

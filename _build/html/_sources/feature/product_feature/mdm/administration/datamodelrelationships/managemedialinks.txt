@@ -5,7 +5,7 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Relationships**: A way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
+**Key Term:**             * **Relationships:** a way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
 
                             * *Example:*
 
@@ -21,7 +21,7 @@ The Manage Media Links feature provides the functionality to set up a relationsh
 **Application:**          * Manage Media Links can be used to link a product to its media assets. An example would be an article that is linked to its video files
                             that will provide additional information regarding the article.
                           * *Example:*
-                                      
+
 ====================      ===============================================================================================================================================================
 
 

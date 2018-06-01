@@ -5,8 +5,7 @@ Standardize Product Definitions is a data governance feature that standardizes t
 
 
 ===================     =======================================================================================================================================================================
-
-**Key Term:**           * **Data Governance:** An approach to managing a company’s data assets. It defines who is accountable for various aspects of an organization’s data as well as including procedures which define how the data is used, structured and stored. This includes data quality rules and KPIs through the Dashboard.
+**Key Term:**           * **Data Governance:** an approach to managing a company’s data assets. It defines who is accountable for various aspects of an organization’s data as well as including procedures which define how the data is used, structured and stored. This includes data quality rules and KPIs through the Dashboard.
 
 **Description:**        * Standardization and Normalization take into consideration various errors that may occur during data entry and introduce appropriate measures to correct it.
                           With this feature, the user is able to normalize different values entered for a particular value.

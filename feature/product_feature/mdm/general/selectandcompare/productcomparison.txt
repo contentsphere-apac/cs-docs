@@ -3,7 +3,6 @@ Product Comparison
 ==================
 Product Comparison allows a user to select and compare products within PIM.
 
-
 ===================    =============================================================================================================================================================
 **Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
@@ -23,8 +22,8 @@ Product Comparison allows a user to select and compare products within PIM.
 ===================    =============================================================================================================================================================
 
 
-How to: Product Comparison
-=============================
+How to do: Product Comparison
+==============================
 This guide provides instructions on how to compare products.
 To do this, follow these steps:
 

@@ -5,8 +5,7 @@ Simple Flat File Export is a feature that manages *File-based Endpoints* so that
 
 
 ===================     =======================================================================================================================================================================
-
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
 
 **Description:**        * An admin can organize the file endpoints in the system and can use them to export data in *.xls or .csv* format.
                         * The system, by using this feature, allows organizations to have a system with multiple outbound endpoints following their own processes.

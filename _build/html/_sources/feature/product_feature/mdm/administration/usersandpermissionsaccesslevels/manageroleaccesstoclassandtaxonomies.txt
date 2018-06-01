@@ -6,7 +6,7 @@ The feature ensures that the user works directly with the articles they are inte
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Class:** A class defines the base configuration for products.
+**Key Term:**           * **Class:** a class defines the base configuration for products.
 
 **Description:**        * Restrict access to particular levels of class and taxonomy to a particular role.
                         * Role access can be configured within the organization as well as for partners.
@@ -26,9 +26,8 @@ The feature ensures that the user works directly with the articles they are inte
 ===================     =======================================================================================================================================================================
 
 
-How to: Restrict a Role's Access to Class and Taxonomy
-=======================================================
-
+How to do: Restrict a Role's Access to Class and Taxonomy
+==========================================================
 To restrict a role's access to class and taxonomy, follow these steps:
 
 |

@@ -6,7 +6,7 @@ This feature provides the facility to transfer the details of contextual product
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Contextual Data Transfer**: contextual data transfer refers to the replication and transmission of data from the parent product to its child product.
+**Key Term:**           * **Contextual Data Transfer:** contextual data transfer refers to the replication and transmission of data from the parent product to its child product.
 
 **Description:**        * Contextual Data Transfer is concerned with the transmission of data from a parent product to its child products.
                         * This feature is useful whenever you create any type of variant in the system and you want to replicate the details of the parent product into all of its variants.

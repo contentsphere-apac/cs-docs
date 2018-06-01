@@ -5,9 +5,9 @@ The View Tasks and Products Responsible feature allows viewing of the tasks and 
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Workflow Workbench:** A feature that presents a consolidated view of all workflow tasks.
+**Key Term:**             * **Workflow Workbench:** a feature that presents a consolidated view of all workflow tasks.
 
-**Description:**          * The user can view all tasks that have been assigned to him/her in any of the categories namely, Responsible, Accountable, Informed, Consulted, Verified, or Sign-off in the Workflow Workbench dashboard tab.
+**Description:**          * The user can view all tasks that have been assigned to him/her in any of the categories namely, *Responsible, Accountable, Informed, Consulted, Verified, or Sign-off* in the Workflow Workbench dashboard tab.
                           * A user can also view all tasks according to a product view, allowing the user to drill down to each individual product and view all the tasks that have been created for a product.
 
 **Related topics:**       * :doc:`Modeler to Design Workflow </feature/product_feature/mdm/collaboration/workflowadministration/modelertodesignworkflow>`
@@ -19,6 +19,7 @@ The View Tasks and Products Responsible feature allows viewing of the tasks and 
                                 An electronics retailer wants to create a to-do list of all tasks so as to easily manage the tasks. He can do this by navigating to Workflow Workbench from the dashboard, where he can see all his tasks.
 
 ====================      ===============================================================================================================================================================
+
 
 How to do:  View Tasks and Products Responsible
 ===============================================

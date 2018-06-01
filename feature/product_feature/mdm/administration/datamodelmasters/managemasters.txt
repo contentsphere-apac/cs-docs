@@ -5,7 +5,7 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Tags**: Properties that describe the products.
+**Key Term:**           * **Tags:** properties that describe the products.
 
 **Description:**        * Master Tags allow users to make master tags and subtags in taxonomies which help in categorizing products.
                         * The primary function of Manage Masters is that the tags can be reused in various sub-level taxonomies.

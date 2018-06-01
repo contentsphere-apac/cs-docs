@@ -6,7 +6,7 @@ The linking between article-to-article or product-to-product is bidirectional.
 
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Tabs**: Tabs are used to categorize the properties shown on a product’s page.
+**Key Term:**             * **Tabs:** are used to categorize the properties shown on a product’s page.
 
 **Description:**          * This feature allows the linking of a product to other different products (e.g. *Related Products, others,* etc).
                             The related products will be visible in the product relationship side. The product is visible in the relationship tab of the related products, too.
@@ -87,6 +87,8 @@ To define article links, follow these steps:
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_addarticles.PNG
 |
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

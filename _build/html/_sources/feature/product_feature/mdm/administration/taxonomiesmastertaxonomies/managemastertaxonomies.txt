@@ -5,7 +5,7 @@ The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies 
 
 
 ====================    =======================================================================================================================================================================
-**Key Term:**           * **Taxonomy**: a taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * Taxonomy is concerned with classification of various products.
                           Taxonomies can also represent related concepts that can be used to connect a product to various level of branches of a taxonomy.

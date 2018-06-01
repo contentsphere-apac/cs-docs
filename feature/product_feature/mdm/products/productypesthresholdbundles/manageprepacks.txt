@@ -5,7 +5,7 @@ Manage Prepacks is a feature that allows a user to group together different prod
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Collection:** A fixed collection of objects relevant to the user.
+**Key Term:**           * **Collection:** a fixed collection of objects relevant to the user.
 
 **Description:**        * It is a collection of single articles (*similar or dissimilar*), tied or wrapped up together as one.
                         * This feature creates *Threshold Bundle*, which is also known as *Loose bundle*.

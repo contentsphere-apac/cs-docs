@@ -13,7 +13,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 **Related topics:**     * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
                         * :doc:`Sales and Order Units </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
-**Application:**        * To create data endpoints, admin decides on the process that would be offboarded.
+**Application:**        * To create data endpoints, administrator decides on the process that would be offboarded.
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet,

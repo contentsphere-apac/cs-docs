@@ -5,7 +5,7 @@ Rollback
 The Rollback feature allows a user to switch (or to revert) to a previous version of a product in the system.
 
 ===================       ================================================================================================================================================================
-**Key Term:**             * **Rollback**: A feature that enables the user to switch back to a desired version of a product.
+**Key Term:**             * **Rollback:** a feature that enables the user to switch back to a desired version of a product.
 
 **Description:**          * This is an enhancement to the basic *Rollback* feature, where when the user adds or remove any relationship/context to a product, it can be rolled back to the previous version.
                           * This feature allows the user *(retailer/supplier)* to compare various versions of the product, before deciding which version to rollback to.
@@ -26,7 +26,7 @@ The Rollback feature allows a user to switch (or to revert) to a previous versio
 
 
 How to do: Rollback
-=============================
+=====================
 To do this, follow these steps:
 
 #. Go to **PIM**.

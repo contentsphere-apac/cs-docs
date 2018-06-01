@@ -27,8 +27,8 @@ The Bulk Edit feature allows a user to change the values of multiple attributes/
 ===================     ===============================================================================================================================================================
 
 
-How to: Bulk Edit
-==================
+How to do: Bulk Edit
+=====================
 To do editing in bulk, follow these steps:
 
 |

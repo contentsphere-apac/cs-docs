@@ -6,7 +6,7 @@ This feature allows mixing and matching of tags to build simple hierarchies.
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Administrator:** A technical specialist who configures a software system.
+**Key Term:**           * **Administrator:** a technical specialist who configures a software system.
 
 **Description:**        * Hierarchy is concerned with the classification of different objects.
                         * The system allows multiple levels of hierarchies:

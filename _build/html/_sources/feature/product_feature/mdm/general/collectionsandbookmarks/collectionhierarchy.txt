@@ -4,7 +4,7 @@ Collection Hierarchy
 Collection Hierarchy lets you organize and view your collections within a structured hierarchy.
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **Bookmark:** A self-updating bookmark that saves the results of a search.
+**Key Term:**           * **Bookmark:** a self-updating bookmark that saves the results of a search.
 
 **Description:**        * Collection Hierarchy creates levels in the hierarchy for the products.
                         * Products can be copied or moved between these levels.

@@ -5,7 +5,7 @@ The Search within Taxonomy feature allows a user to search (for an article or a 
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * This feature allows a user to search for an article or product or to navigate the system.
                         * This feature provides a classification of products that gives a user the ease to search.

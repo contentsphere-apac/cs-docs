@@ -6,7 +6,7 @@ because of a logical relationship they have with each other.
 
 
 ====================    =======================================================================================================================================================================
-**Key Term:**           * **Dependent Attributes:** these are attributes (or properties) whose values are related to another attribute value.
+**Key Term:**           * **Dependent Attributes:** are attributes (or properties) whose values are related to another attribute value.
 
 **Description:**        * This feature sets up a Dependent Attribute that introduces other collections of attributes that add more definition to a product.
                         * Minor Taxonomies are used to build dependent attributes wherein various properties will be dependent on a particular property.

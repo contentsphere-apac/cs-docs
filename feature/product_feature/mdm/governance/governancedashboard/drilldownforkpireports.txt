@@ -5,14 +5,13 @@ Drill Down for KPI Reports is a data governance feature that sets up drill down 
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * Different levels can be maintained for the dashboard to dive in the report and get more enhanced review of the report.
                         * A user or supplier can have a detailed view of all the products drilled down in the report that allows a user to explore the quality issues.
 
 **Related topics:**     * :doc:`Monitor Data Quality</feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
                         * :doc:`KPI-based DQ Reports </feature/product_feature/mdm/governance/governancedashboard/drilldownforkpireports>`
-
 
 **Application:**        * This feature helps the user or supplier to have an in-depth DQ report for all the products available.
                         * A user or supplier can narrow down on the products with quality issues. This can be based on a *Taxonomy* or a *Tag*.

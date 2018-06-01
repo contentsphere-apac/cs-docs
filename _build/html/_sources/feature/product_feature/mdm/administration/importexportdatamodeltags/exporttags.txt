@@ -5,7 +5,7 @@ The Export Tags is a feature that exports tag definitions so that they can be vi
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Property:** A data field which describes a product, can also use *'attribute'*.
+**Key Term:**           * **Property:** a data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * Tags are used to give various possible values to a product, categorizing it better.
                         * This feature lets users have all the details of the tags in a single sheet. This sheet can also be used offline.

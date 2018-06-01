@@ -25,7 +25,6 @@ Improve Product Classifications is a data governance feature that manually class
 ===================     =======================================================================================================================================================================
 
 
-
 How to do: Improve Product Classifications
 ===========================================
 To improve product classifications, follow these steps:

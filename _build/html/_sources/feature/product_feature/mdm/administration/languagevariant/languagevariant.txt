@@ -5,7 +5,7 @@ Language Variant
 Language Variant is a feature that allows a user to assign language specific values for an attribute or product information can be maintained in multiple languages.
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **Attribute:** A data field which describes a product, it can also use *property*.
+**Key Term:**           * **Attribute:** a data field which describes a product, it can also use *property*.
 
 **Description:**        *  The *Contentsphere’s MDM* system will have multiple users belonging to various countries.
                         * *Language Variant*  will help the user create products and write information in several languages.
