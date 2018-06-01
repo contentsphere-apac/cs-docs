@@ -33,50 +33,47 @@ To create tasks or add comments to the tasks, follow these steps:
 
 #. Go to *PIM* and select a product.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_gotoPIM.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_gotopim.PNG
 |
 |
 
 
 #. Click on the **Tasks** tab to create a new task.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_clickonthetasktab.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_clickontasks.PNG
 |
 |
 
 
 #. Select the *Content Level* task.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_clickonthecontentleveltask.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_selectthecontentlevel.PNG
 |
 |
 
 
 #. Click on **Add New Task** button to create a new task.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_clickontheaddnewtaskbutton.PNG
-|
-.. image:: /feature/_images/mdmimages/tasksandannotations_clickontheaddnewtaskbutton2.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_clickonaddnewtask.PNG
 |
 |
 
 
 #. Enter the name of the new task then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_enterthenameofthenewtask.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_enterthenameofthetask.PNG
 |
 |
 
 
 #. Add the *Description*, *Comments*, and other details to the task created then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/tasksandannotations_editthedescriptionandaddcomments.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_addthedescription.PNG
 |
-.. image:: /feature/_images/mdmimages/tasksandannotations_editthedescriptionandaddcomments2.PNG
+.. image:: /feature/_images/mdmimages/cs_tasksandannotations_addthedescription2.PNG
 |
-.. image:: /feature/_images/mdmimages/tasksandannotations_editthedescriptionandaddcomments3.PNG
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
