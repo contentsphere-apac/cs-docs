@@ -5,14 +5,14 @@ The Check and Erroneous Products is a feature that can be used by User to view a
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **User:** someone who logs into the Contentserv system.
+**Key Term:**           * **Partner Engagement Platform (PEP):** A portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
 
 **Description:**        * In the *Onboarding Master Catalog*, a user can see Products transferred by a supplier.
                         * This feature allows an admin to create and apply rules like KPIs for data accuracy in the master catalog.
 
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
                         * :doc:`anage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
-                        *  * :doc:`Monitor Data Quality </feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
+                        * :doc:`Monitor Data Quality </feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
 
 **Application:**        * The feature can create an **Onboarding Pool**, where a *user* manages and corrects product data of a supplier.
                         * *Example:*
@@ -29,7 +29,7 @@ How To: How to add rules in supplier products by User
 ==============================================================
 To do this, follow these steps:
 
-#. Login to ContentSphere and click **Dashboard** to explore the products.
+#. Login to Contentserv and click **Dashboard** to explore the products.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_clickdashboard.PNG
 
@@ -51,4 +51,4 @@ To do this, follow these steps:
 |
 
 .. image:: /feature/_images/pepimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
