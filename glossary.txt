@@ -5,7 +5,6 @@ Glossary
 =========
 
 
-
 `A`_ | `B`_  | `C`_ | `D`_ | `E`_ | `F`_ | `G`_ | `H`_ | `I`_ | `J`_ | `K`_ | `L`_ | `M`_ | `N`_ | `O`_ | `P`_ | `Q`_ | `R`_ | `S`_ | `T`_ | `U`_ | `V`_ | `W`_ | `X`_ | `Y`_ | `Z`_
 
 
@@ -169,7 +168,11 @@ No glossary entries found.
 
 I
 -
-No glossary entries found.
+
+inbound endpoint
+    *(concept)* A gateway through which a file is imported into the system.
+
+|
 
 .. _J:
 
@@ -208,6 +211,11 @@ loose bundle
 
 M
 -
+
+mapping
+    *(process type)* connects different elements (attributes, tags, classes, and taxonomies) defined in an onboarding file to their respective elements (attributes, tags, classes, and taxonomies) defined in the system.
+
+|
 
 Marketing Content Management (MCM)
     *(domain type)* Platform that supports promotions, campaigns, target markets, target channels, and customers.
@@ -255,8 +263,21 @@ nature class
 
 O
 -
-No glossary entries found.
 
+offboarding
+    *(process type)* A process that allows the user to export product data from Contentserv. The data can be downloaded as a file that can be pushed out to channels such as ecommerce.
+
+|
+
+onboarding
+    *(process type)* A process of transferring product data from a partner’s system to the main PIM. The product details are put together in a file and then uploaded into the retailer’s PIM system. The PIM will fetch the details of the file and validate it with the MDM.
+
+|
+
+outbound endpoint
+    *(concept)* A gateway through which a file is exported from the system.
+
+|
 
 .. _P:
 
@@ -265,12 +286,17 @@ P
 
 Partner Engagement Platform (PEP)
     *(domain type)* A portal which allows a Contentserv customer's partners to engage with their system.
-    Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding
+    Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding and offboarding.
 
     * *Example:*
 
         A supplier who uploads new products or a digital marketing agency which uploads promotional images
 
+
+product
+    *(concept)* A placeholder for a group of common products.
+
+|
 
 Product Information Management (PIM)
     *(domain type, tabbed heading)* Product Information Management (PIM) facilitates the central management and maintenance of an enterprise's product data, content
@@ -328,6 +354,11 @@ relationships
     * *Example:*
 
         Products + supplier + image + target
+
+role
+    *(concept)* Defines the permissions of a user in the system. An organization can have several roles such as an Administrator or a General User. The roles vary between organizations but can be created to match the roles in your company.
+
+|
 
 rollback
     *(feature)* Rollback is a feature that enables the user to switch back to a desired version of a product.
