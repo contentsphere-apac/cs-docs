@@ -26,7 +26,7 @@ The Check and Erroneous Products is a feature that can be used by user to view a
 
 
 How to do: How to add rules in supplier products by user
-==============================================================
+========================================================
 To do this, follow these steps:
 
 #. Login to Contentserv and click **Dashboard** to explore the products.
