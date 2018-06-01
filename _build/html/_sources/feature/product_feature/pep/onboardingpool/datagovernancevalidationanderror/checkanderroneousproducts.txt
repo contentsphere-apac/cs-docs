@@ -5,7 +5,7 @@ The Check and Erroneous Products is a feature that can be used by User to view a
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Partner Engagement Platform (PEP):** A portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+**Key Term:**           * **Partner Engagement Platform (PEP):** a portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
 
 **Description:**        * In the *Onboarding Master Catalog*, a user can see Products transferred by a supplier.
                         * This feature allows an admin to create and apply rules like KPIs for data accuracy in the master catalog.
