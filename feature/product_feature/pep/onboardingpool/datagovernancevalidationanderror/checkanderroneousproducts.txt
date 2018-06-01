@@ -25,7 +25,7 @@ The Check and Erroneous Products is a feature that can be used by user to view a
 ===================     =======================================================================================================================================================================
 
 
-How To: How to add rules in supplier products by user
+How to do: How to add rules in supplier products by user
 ==============================================================
 To do this, follow these steps:
 
