@@ -39,7 +39,7 @@ To do this,  follow these steps:
 |
 |
 
-#. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
+#. Select a product and click **Transfer to Onboarding**. *Note: The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
 |
