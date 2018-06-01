@@ -5,13 +5,14 @@ The Manage Products in the Master Catalog is a feature that allows a user to add
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Data Steward:** is a role within an organization responsible for utilizing an organization’s data governance processes to ensure suitablity of both content and metadata.
+**Key Term:**           * **Product:** a placeholder for a group of common products.
 
-**Description:**        * Master Catalog allows a user to manage all products at the time of on-boarding.
+**Description:**        * Master Catalog allows a user to manage all products at the time of onboarding.
                         * The feature also allows a user to manage all the content and data of a product before transferring it to PIM.
 
 **Related topics:**     * :doc:`Check for Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
                         * :doc:`Consolidate Products across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+                        * :doc:`Design and Architecture </tutorials/onboardingdesignandarchitecture>`
 
 **Application:**        * The Master Catalog feature can permit users to manage all of the product content.
                         * *Example:*
