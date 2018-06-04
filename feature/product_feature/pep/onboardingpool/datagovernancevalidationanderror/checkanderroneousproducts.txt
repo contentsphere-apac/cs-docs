@@ -41,6 +41,7 @@ To do this, follow these steps:
 #.   The user views supplier products in the catalog. Then, select a product.
 
 .. image:: /feature/_images/pepimages/cs_checkanderroneousproductsB_selectcatalog2.PNG
+
 |
 |
 
