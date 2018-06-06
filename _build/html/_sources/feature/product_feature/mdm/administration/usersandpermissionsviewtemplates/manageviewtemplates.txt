@@ -31,98 +31,98 @@ Easily manage who gets to see what, and here's how to do it.
 
 #. Click **Administration**.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickadministration.PNG
 |
 |
 
 #. Click the **Templates** button.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clicktemplates.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicktemplates.PNG
 |
 |
 
 #. Click the "+" icon to create a new template. The left pane shows the default templates.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickplus.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplus.PNG
 |
 |
 
 #. Enter the name for the template and click **Create**.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_entername.PNG
 |
 |
 
 #. Click the "+" icon  and select the desired property collection.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickplusaddproperty.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickplusaddproperty2.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty2.PNG
 |
 |
 
 
 #. Go to the *Partner Administration* tab, and select a partner from the list. In this demo, we selected "Suppliers".
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_gotopartneradministration.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_gotopartneradministration.PNG
 |
 |
 
 #. Click the **Roles** tab and select a role from the list to which the template is to be assigned.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickrolestab.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickrolestab.PNG
 |
 |
 
 #. Click the **Show Permissions** button.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickshowpermissions.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickshowpermissions.PNG
 |
 |
 
 #.  Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clickeyeicon.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickeyeicon.PNG
 |
 |
 
 #. Select the appropriate class from the list of classes then click the "+" icon to add a template.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_selectappropriateclass.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_selectappropriateclass2.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass2.PNG
 |
 |
 
 #. Select the created template and click **Apply**.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_selectcreatedtemplateapply.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectcreatedtemplateapply.PNG
 |
 |
 
 #. To toggle the visibility of the property, click the **Eye** icon. To edit the rights for the property, click the **Pencil** icon.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_totoggle.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoggle.PNG
 |
 |
 
 #. Select the properties to be non-editable (for example, *PID*) and hidden (for example, *Taxonomy*).
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_totoselectpropertiesexamplepid.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexamplepid.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG
 |
 |
 
 #. Click **Save** to save the changes.
 
-.. image:: /feature/_images/mdmimages/manageviewtemplates_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicksave.PNG
 |
 |
 
