@@ -5,7 +5,7 @@ Manage PIDs lets you define articles that are a combination of other individual 
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** a Taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * PID is a virtual product that groups a product line related to a brand.
                         * By managing PIDs, the related products of a seller or a brand can be grouped in one place.
@@ -17,12 +17,12 @@ Manage PIDs lets you define articles that are a combination of other individual 
                         * Use PIDs for a set of similar products that differ in one or two properties.
                         * *Example:*
 
-                            Let's take for instance, Maggi. The different flavors of Maggi (Chicken, Cheese, Vegetable) can be brought under one virtual product.
+                            Let's take for instance, Maggi. The different flavors of Maggi (Chicken, Cheese, and Vegetable) can be brought under one virtual product.
                             As a result, a customer or a retailer can view a product line as virtual products.
 ===================     =============================================================================================================================================================
 
 
-How to do: Manage PIDs
+How-to: Manage PIDs
 ======================
 Easily group related products by defining PIDs, and here's how to do it.
 
@@ -36,7 +36,7 @@ Easily group related products by defining PIDs, and here's how to do it.
 
 #. Hover on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/managepids_hover.PNG
+.. image:: /feature/_images/mdmimages/managepids_hoverplus.PNG
 |
 |
 
@@ -46,13 +46,15 @@ Easily group related products by defining PIDs, and here's how to do it.
 |
 |
 
-#. Enter the properties for the product.
+#. Enter the properties and go to the **Relationships** tab of the product.
 
+.. image:: /feature/_images/mdmimages/managepids_gotorelationship.PNG
+|
 |
 
 #. Click the "+" icon to add the link variants.
 
-.. image:: /feature/_images/mdmimages/managepids_linkvariant.PNG
+.. image:: /feature/_images/mdmimages/managepids_clickplusaddvariants.PNG
 |
 |
 
@@ -62,25 +64,33 @@ Easily group related products by defining PIDs, and here's how to do it.
 |
 |
 
-#. Click the **Back** button found on the right side then click the **Relationships** button.
-
-.. image:: /feature/_images/mdmimages/managepids_back.PNG
+.. image:: /feature/_images/mdmimages/managepids_selectvariant2.PNG
 |
-.. image:: /feature/_images/mdmimages/managepids_relationships.PNG
+|
+
+
+#. Click the **Back** button found on the right side.
+
+.. image:: /feature/_images/mdmimages/managepids_clickback.PNG
 |
 |
 
 #. Click the "+" icon under Images.
 
-.. image:: /feature/_images/mdmimages/managepids_addimage.PNG
+.. image:: /feature/_images/mdmimages/managepids_clickplusimages.PNG
 |
 |
 
 #. Select the image and click **Add All** (or drag and drop the image to the right side).
 
-.. image:: /feature/_images/mdmimages/managepids_addimage2.PNG
+.. image:: /feature/_images/mdmimages/managepids_selectimage.PNG
 |
 |
+
+.. image:: /feature/_images/mdmimages/managepids_selectimage2.PNG
+|
+|
+
 
 #. Add Market to the Relationship. The steps are the same as with adding images except that you click the "+" icon under Market.
 
@@ -92,10 +102,9 @@ Easily group related products by defining PIDs, and here's how to do it.
 |
 |
 
-
 #. See the final product.
 
-.. image:: /feature/_images/mdmimages/managepids_finalproduct.PNG
+.. image:: /feature/_images/mdmimages/managepids_seefinal.PNG
 |
 |
 
