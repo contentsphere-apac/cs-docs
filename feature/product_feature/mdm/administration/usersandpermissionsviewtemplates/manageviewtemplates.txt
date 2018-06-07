@@ -49,13 +49,11 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
-
 #. Enter the name for the template.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_entername.PNG
 |
 |
-
 
 #. Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
 
@@ -63,20 +61,17 @@ Easily manage who gets to see what, and here's how to do it.
 |
 |
 
-
 #. Click the "+" icon to display a list of all property collections.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_viewpropcoll.PNG
 |
 |
 
-
 #. Select the appropriate property collections and click **Save**.
 
 .. image:: /feature/_images/mdmimages/viewtemplates_save.PNG
 |
 |
-
 
 #. Click the **Permissions Configuration** button and select a role to which the template is to be assigned.
 

@@ -5,7 +5,7 @@ Manage PIDs lets you define articles that are a combination of other individual 
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** a Taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * PID is a virtual product that groups a product line related to a brand.
                         * By managing PIDs, the related products of a seller or a brand can be grouped in one place.
@@ -30,84 +30,85 @@ Easily group related products by defining PIDs, and here's how to do it.
 
 #. Go to PIM.
 
-.. image:: /feature/_images/mdmimages/managepids_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_gotopim.PNG
 |
 |
 
 #. Hover on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/managepids_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_hoverplus.PNG
 |
 |
 
 #. Select **Product**.
 
-.. image:: /feature/_images/mdmimages/managepids_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_selectproduct.PNG
 |
 |
 
-#. Enter the properties and go to the **Relationships** tab of the product.
+#. Enter the properties and go to the *Relationships* tab of the product.
 
-.. image:: /feature/_images/mdmimages/managepids_gotorelationship.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_enterpropertiesgotorelationship.PNG
 |
 |
 
 #. Click the "+" icon to add the link variants.
 
-.. image:: /feature/_images/mdmimages/managepids_clickplusaddvariants.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickpluslinkvariant.PNG
 |
 |
 
 #. Select the variant and click the **Add all** button (or drag and drop the products to the right side).
 
-.. image:: /feature/_images/mdmimages/managepids_selectvariant.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_selectvariant.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/managepids_selectvariant2.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_selectvariant2.PNG
 |
 |
 
 
 #. Click the **Back** button found on the right side.
 
-.. image:: /feature/_images/mdmimages/managepids_clickback.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickback.PNG
 |
 |
 
 #. Click the "+" icon under Images.
 
-.. image:: /feature/_images/mdmimages/managepids_clickplusimages.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages.PNG
 |
 |
 
 #. Select the image and click **Add All** (or drag and drop the image to the right side).
 
-.. image:: /feature/_images/mdmimages/managepids_selectimage.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/managepids_selectimage2.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusimages3.PNG
 |
 |
-
 
 #. Add Market to the Relationship. The steps are the same as with adding images except that you click the "+" icon under Market.
 
-.. image:: /feature/_images/mdmimages/managepids_market.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket.PNG
 |
-.. image:: /feature/_images/mdmimages/managepids_market2.PNG
 |
-.. image:: /feature/_images/mdmimages/managepids_market3.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket3.PNG
 |
 |
 
 #. See the final product.
 
-.. image:: /feature/_images/mdmimages/managepids_seefinal.PNG
+.. image:: /feature/_images/mdmimages/cs_managepids_seefinal.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
