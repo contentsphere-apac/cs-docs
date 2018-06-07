@@ -18,16 +18,4 @@ Key Term:
 ==========
 
 * Dashboard
-   The dashboard allows users to monitor Rule Violations and latest content (i.e. recently updated and added contents) within the Contentserv system.
-
-
-UI Terms:
-=========
-
-* Information
-* Data Integration - Endpoints
-* Tasks
-* Buckets
-* Workflow Workbench - Tasks and Products
-* Rule Violations
-* Latest Contents
+    The dashboard allows users to monitor Rule Violations and latest content (i.e. recently updated and added contents) within the Contentserv system.

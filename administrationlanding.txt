@@ -17,3 +17,21 @@ Relevant Articles:
 #. :doc:`Manage Permissions </feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions>`
 #. :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
 #. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`
+
+
+Key Terms:
+==========
+
+* Administrator
+    A technical specialist who configures a software system.
+
+* Attribute
+    A data field which describes a product, can also use ‘property’.
+
+* Data Model
+    Data model defines the base data structure for products in your system.
+    This structure enables you to connect predefined classes or taxonomies with your products to classify them.
+    The data model defines products from the highest level of classification, down to individual attributes and properties.
+
+* Property Collection
+    A reusable group of properties which is common to particular types of products. A property collection belongs to a tab and a class.

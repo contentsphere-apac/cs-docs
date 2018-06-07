@@ -15,3 +15,14 @@ Relevant Articles:
 #. :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
 #. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkimportassets>`
 #. :doc:`Documents </feature/product_feature/dam/documents>`
+
+
+Key Terms:
+==========
+
+* DAM
+    Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+    Digital files in the DAM are linked to the PIM through relationships.
+
+* Relationship
+    A way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.

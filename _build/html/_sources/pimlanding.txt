@@ -16,19 +16,13 @@ Relevant Articles:
 * :doc:`Glossary </glossary>`
 
 
-Key Term:
-==========
+Key Terms:
+===========
 
 * PIM
    Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-
-UI Terms:
-=========
-
-* Data Model
-* Partner Administration
-* Data Integration
-* Data Governance
-* Collaboration
-* Translations
+* PEP
+   Partner Engagement Platform (PEP) is a portal which allows a Contentserv customer’s partners to engage with their system.
+   Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+   
