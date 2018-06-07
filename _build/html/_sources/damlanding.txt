@@ -13,7 +13,7 @@ Relevant Articles:
 #. :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
 #. :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
 #. :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
-#. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkimportassets>`
+#. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkexportofassets>`
 #. :doc:`Documents </feature/product_feature/dam/documents>`
 
 

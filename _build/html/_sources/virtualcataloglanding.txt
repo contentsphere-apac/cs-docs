@@ -8,7 +8,7 @@ Relevant Articles:
 
 #. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
 #. :doc:`Collections and Bookmarks </feature/product_feature/mdm/general/collectionsandbookmarks/index>`
-#. :doc:`Manage Product Keys </feature/product_feature//mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+#. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
 
 
 Key Terms:
