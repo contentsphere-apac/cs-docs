@@ -28,7 +28,7 @@ Easily group related products by defining PIDs, and here's how to do it.
 
 |
 
-#. Go to PIM.
+#. Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_managepids_gotopim.PNG
 |
@@ -91,11 +91,12 @@ Easily group related products by defining PIDs, and here's how to do it.
 |
 |
 
-#. Add Market to the Relationship. The steps are the same as with adding images except that you click the "+" icon under Market.
+#. Add Market to the Relationship. The steps are the same as with adding images except that you click the "+" icon under Market
 
 .. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket.PNG
 |
 |
+
 .. image:: /feature/_images/mdmimages/cs_managepids_clickplusmarket2.PNG
 |
 |
