@@ -1,0 +1,29 @@
+==================================
+Virtual Catalog Quick Start Guide
+==================================
+
+
+Relevant Articles:
+===================
+
+#. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
+#. :doc:`Collections and Bookmarks </feature/product_feature/mdm/general/collectionsandbookmarks/index>`
+#. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+
+
+Key Terms:
+===========
+
+* Attribute
+    A data field which describes a product, can also use ‘property’.
+
+* Bookmark
+    A self-updating bookmark that saves the results of a search.
+
+* Collection
+    A fixed collection of objects relevant to the user.
+
+* Data Model
+    Data model defines the base data structure for products in your system.
+    This structure enables you to connect predefined classes or taxonomies with your products to classify them.
+    The data model defines products from the highest level of classification, down to individual attributes and properties.

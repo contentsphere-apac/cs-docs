@@ -1,0 +1,28 @@
+===========================
+Supplier Quick Start Guide
+===========================
+
+
+Relevant Articles:
+===================
+
+#. :doc:`Manage Supplier Records </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`
+#. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+#. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+
+
+Key Terms:
+==========
+
+* Data Model
+    Data model defines the base data structure for products in your system.
+    This structure enables you to connect predefined classes or taxonomies with your products to classify them.
+    The data model defines products from the highest level of classification, down to individual attributes and properties.
+
+* Classes
+    Classes define base configurations for products.
+    Each class that is given to a product allows that product to have a more precise definition.
+    There are multiple levels of classes that can be used in conjunction.
+
+* Standard Identifier
+    Standard Identifier assigns a unique identifier to the Products/Supplier that can be one of the following: GTIN, SKU, Supplier ID, or Supplier Name.

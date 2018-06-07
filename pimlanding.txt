@@ -1,0 +1,28 @@
+======================
+PIM Quick Start Guide
+======================
+
+
+Relevant Articles:
+===================
+
+* :doc:`Product Lines and Products </product/index>`
+* :doc:`Product Information Management </product/PIM>`
+* :doc:`PIM Features (Coming Soon) </feature/product_feature/pim/index>`
+* :doc:`Partner Engagement Platform </product/PEP>`
+* :doc:`Explore UI </tutorials/exploretheui>`
+* :doc:`Add New User </tutorials/addnewuser>`
+* :doc:`Create a New Product </tutorials/createnewproduct>`
+* :doc:`Glossary </glossary>`
+
+
+Key Terms:
+===========
+
+* PIM
+   Product Information Management (PIM) facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+
+* PEP
+   Partner Engagement Platform (PEP) is a portal which allows a Contentserv customer’s partners to engage with their system.
+   Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+   

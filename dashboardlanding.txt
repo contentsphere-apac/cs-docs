@@ -1,0 +1,21 @@
+============================
+Dashboard Quick Start Guide
+============================
+
+
+Relevant Articles:
+===================
+
+* :doc:`Product Glossary </glossary>`
+* :doc:`Explore UI </tutorials/exploretheui>`
+* :doc:`Data Quality Rule </feature/product_feature/mdm/governance/dataqualityrule>`
+* :doc:`KPI-based Completeness Rules </feature/product_feature/mdm/governance/measureandmonitor/kpibasedcompletenessrules>`
+* :doc:`KPI-based DQ Reports </feature/product_feature/mdm/governance/governancedashboard/kpibaseddqreports>`
+* :doc:`Standard Product Definitions </feature/product_feature/mdm/governance/standardizationandnormalization/standardizeproductdefinitions>`
+
+
+Key Term:
+==========
+
+* Dashboard
+    The dashboard allows users to monitor Rule Violations and latest content (i.e. recently updated and added contents) within the Contentserv system.

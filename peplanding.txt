@@ -1,0 +1,39 @@
+=====================================================
+PEP, Onboarding, Data Integration Quick Start Guide
+=====================================================
+
+
+Relevant Articles:
+===================
+
+* :doc:`Product Lines and Products </product/index>`
+* :doc:`Partner Engagement Platform </product/PEP>`
+* :doc:`PEP Features </feature/product_feature/pep/index>`
+* :doc:`Data Integration </feature/product_feature/pep/platformadministration/index>`
+* :doc:`Real-Time Mapping </tutorials/onboardingcapabilities/realtimemapping>`
+* :doc:`Quick Start Guide: Configure Mapping </tutorials/onboardingpractical/configuremapping>`
+* :doc:`Configure Workflow </tutorials/onboardingpractical/configureworkflow>`
+* :doc:`Configure Endpoint </tutorials/onboardingpractical/configureendpoint>`
+* :doc:`Assign Endpoint to Partner and Role </tutorials/onboardingpractical/assignendpoint>`
+* :doc:`Glossary </glossary>`
+
+
+Key Terms:
+==========
+
+* PEP
+    Partner Engagement Platform (PEP) is a portal which allows a Contentserv customer’s partners to engage with their system.
+    Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+
+* Onboarding
+    Onboarding is the process of transferring product data from a partner’s system to the main PIM.
+    The product details are put together in a file and then uploaded into the retailer’s PIM system.
+    The PIM will fetch the details of the file and validate it with the MDM.
+
+* Endpoint
+    Endpoint is a gateway that describes the system, processes, and mapping to be used when onboarding or offboarding the products to and from the system.
+
+* Workflow
+    Workflow is a sequence of processes that a piece of work progresses through until completion.
+    In Contentserv, the piece of work is normally a product.
+    The status of the product is also managed through the workflow such as Active, Published, and Inactive.

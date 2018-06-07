@@ -1,0 +1,37 @@
+=================================
+Administration Quick Start Guide
+=================================
+
+
+Relevant Articles:
+===================
+
+#. :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+#. :doc:`Data Model - Tag Management </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`
+#. :doc:`Dependent Attributes </feature/product_feature/mdm/administration/datamodeldependentattributes/dependentattributes>`
+#. :doc:`Property Collections </feature/product_feature/mdm/administration/datamodelpropertycollections/propertycollections>`
+#. :doc:`How Classes Work </tutorials/howclasseswork>`
+#. :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
+#. :doc:`Manage Taxonomy </feature/product_feature/mdm/administration/simpletaxonomytree/managetaxonomy>`
+#. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+#. :doc:`Manage Permissions </feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions>`
+#. :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+#. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`
+
+
+Key Terms:
+==========
+
+* Administrator
+    A technical specialist who configures a software system.
+
+* Attribute
+    A data field which describes a product, can also use ‘property’.
+
+* Data Model
+    Data model defines the base data structure for products in your system.
+    This structure enables you to connect predefined classes or taxonomies with your products to classify them.
+    The data model defines products from the highest level of classification, down to individual attributes and properties.
+
+* Property Collection
+    A reusable group of properties which is common to particular types of products. A property collection belongs to a tab and a class.
