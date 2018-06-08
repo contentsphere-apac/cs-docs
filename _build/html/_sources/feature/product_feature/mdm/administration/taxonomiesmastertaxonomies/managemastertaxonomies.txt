@@ -29,15 +29,15 @@ The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies 
 ====================    =======================================================================================================================================================================
 
 
-How to do: Create a Master Taxonomy
-====================================
+How-to: Create a Master Taxonomy
+=================================
 To create a Master Taxonomy, follow these steps:
 
 |
 
-#. Log in to the application. Go to *Administration*.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_administration.PNG
+.. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_login.PNG
 |
 |
 
@@ -116,4 +116,4 @@ To create a Master Taxonomy, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
