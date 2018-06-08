@@ -20,7 +20,7 @@ The Manage Displays feature allows the user to sell multiple quantity products.
 ====================  =================================================================================================================================================================
 
 
-How to do: Manage Displays
+How-to: Manage Displays
 =============================
 To do this, follow these steps:
 
@@ -29,92 +29,92 @@ To do this, follow these steps:
 
 #. Go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/managedisplays_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_gotopim.PNG
 |
 |
 
 
 #. Hover over the "+" icon.
 
-.. image:: /feature/_images/mdmimages/managedisplays_hoveron.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplus.PNG
 |
 |
 
 
-#. Click on **Loose Bundle**.
+#. Click on **Loose Bundle** icon.
 
-.. image:: /feature/_images/mdmimages/managedisplays_clickloose.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_clickloose.PNG
 |
 |
-
 
 #. Enter the necessary information.
 
-.. image:: /feature/_images/mdmimages/managedisplays_enterinformation.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_enterinformation.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_enterinformationsave.PNG
+|
+|
+
+#. Click **Add product(s)** under *Overview* tab.
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_clickaddproducts.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_clickaddproducts2.PNG
+|
+|
+
+#. Select one or more products (button turns to blue when selected). Then, click the **Add All** icon.
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_selectproductaddall.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_selectproductaddall2.PNG
 |
 |
 
 
-#. Click **Add products**.
+#. Click the **Back** icon to view the added products.
 
-.. image:: /feature/_images/mdmimages/managedisplays_clickaddproducts.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_clickback.PNG
+|
+
+#.  To add an image, click  **Relationships** tab.
+
+.. image:: /feature/_images/mdmimages/cs_managedisplays_addimage.PNG
 |
 |
 
+#.  Hover over the "+" icon and click  **Add Entity**.
 
-#. Click the green button to add the required products (button turns to blue when selected), and click **Add All**.
-
-.. image:: /feature/_images/mdmimages/managedisplays_selectandaddall.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity.PNG
 |
 |
 
+#. Select the desired image and drag it to the right side pane.
 
-#. To add more products, click **Return**, and repeat the previous steps.
-
-.. image:: /feature/_images/mdmimages/managedisplays_addedsuccesfullyandreturn.PNG
-|
-.. image:: /feature/_images/mdmimages/managedisplays_imageadded.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity2.PNG
 |
 |
 
-
-#.   To add an image, click  **Relationships** tab.
-
-.. image:: /feature/_images/mdmimages/managedisplays_gotorel.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_hoverplusaddentity3.PNG
 |
 |
 
+#. View the created bundle in the Bundle Section of the *Overview* tab.
 
-#.   Hover over on the "+" icon and click  **Add Entity**.
-
-.. image:: /feature/_images/mdmimages/managedisplays_addentity.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_seebundle.PNG
 |
 |
 
-
-#.   Hover over on the "+" icon and click  **Image**.
-
-.. image:: /feature/_images/mdmimages/managedisplays_hoverimage.PNG
-|
-.. image:: /feature/_images/mdmimages/managedisplays_imagesuccess1.PNG
+.. image:: /feature/_images/mdmimages/cs_managedisplays_seebundle2.PNG
 |
 |
 
-
-#.   Click **Add Image** again.
-
-.. image:: /feature/_images/mdmimages/managedisplays_imageagain.PNG
-|
-.. image:: /feature/_images/mdmimages/managedisplays_imagesuccess2.PNG
-|
-|
-
-
-#.   View bundle on the top section of the page.
-
-.. image:: /feature/_images/mdmimages/managedisplays_imageready.PNG
-|
-|
 
 
 
