@@ -51,10 +51,23 @@ To view tasks in the dashboard, follow these steps:
 |
 
 
-#. Click on **All* tab and select a task.
+#. Click on **All** tab to view the *Public* tasks. From that list, select a task.
 
 .. image:: /feature/_images/mdmimages/cs_taskdashboard_clickonall.PNG
 |
+|
+
+|
+|
+
+*Note: Tasks can be edited and updated in the Task Dashboard*.
+
+|
+|
+
+
+#. From that list of *Public* tasks, select a task.
+
 .. image:: /feature/_images/mdmimages/cs_taskdashboard_clickonall2.PNG
 |
 |
@@ -63,12 +76,6 @@ To view tasks in the dashboard, follow these steps:
 #. Edit the details of the task and then save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_taskdashboard_editdetails.PNG
-|
-|
-
-
-*Note:  Tasks can be edited and updated in the Task Dashboard*.
-
 |
 |
 
