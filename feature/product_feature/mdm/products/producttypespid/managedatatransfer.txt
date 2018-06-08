@@ -5,7 +5,7 @@ Manage Data Transfer lets you define the inheritance of properties from PIDs to 
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**            * **Property:** a data field which describes a product, can also use *'attribute*'.
+**Key Term:**           * **Property:** a data field which describes a product can also use *'attribute*'.
 
 **Description:**        * There are properties that are common to a PID and its variants.
                           Data transfer uses a coupling to push these common properties to the variants directly.
@@ -18,95 +18,83 @@ Manage Data Transfer lets you define the inheritance of properties from PIDs to 
 
 
 
-How to do: Manage Data Transfer
+How-to: Manage Data Transfer
 ===============================
 Management of information between PIDs and their variants has never been this easy, and here's how to do it.
 
 |
 
-#. Click the Gear icon to go to **Settings**.
+#. Click the  **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/managedatatransfer_settings.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_gotoadministration.PNG
 |
 |
 
+#. Click  **Classes**. Then, **Article**.
 
-#. Click the **Class Configuration** button.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_classconfig.PNG
-|
 |
 
+#. Select a class under *Single Article*.
 
-#. Select the class.
 
-.. image:: /feature/_images/mdmimages/managedatatransfer_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectclassarticle.PNG
 |
 |
-
 
 #. Select the attributes and tags for data transfer.
 
-.. image:: /feature/_images/mdmimages/managedatatransfer_attribute.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectattributestags.PNG
 |
 |
 
+#. Go to *PIM*.
 
-#. Go to PIM.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_gotopim.PNG
 |
 |
-
 
 #. Hover on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/managedatatransfer_hover.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_hoverplus.PNG
 |
 |
 
+#. Select **Product**.
 
-#. Select "Product".
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectproduct.PNG
 |
 |
-
 
 #. Enter the properties for the product.
 
-.. image:: /feature/_images/mdmimages/managedatatransfer_properties.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_enterproperties.PNG
 |
 |
 
+#. Click the "+" icon to add a Link Variant. Select the tag and click **Next**.
 
-#. Click the "+" icon to add Link Variants. Select the tag and click **Next**.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_linkvariants.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_clickpluslinkvariant.PNG
 |
 |
 
+#. Select the variant and click **Add**.
 
-#. Select the SKU variant and click **Add**.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_clickadd.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_selectvariantclickadd.PNG
 |
 |
 
+#. Check if the product is added and click to transfer.
 
-#. Check if the product is added.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_productadded.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_checkkproduct.PNG
 |
 |
 
+#. Notice the transfer of data to the product.
 
-#. Notice the transfer of data to the variant.
-
-.. image:: /feature/_images/mdmimages/managedatatransfer_productadded.PNG
+.. image:: /feature/_images/mdmimages/cs_managedatatransfer_noticetransfer.PNG
 |
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
