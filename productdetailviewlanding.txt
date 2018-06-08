@@ -1,0 +1,24 @@
+======================================
+Product Detail View Quick Start Guide
+======================================
+
+
+Relevant Articles:
+===================
+
+#. :doc:`Products </feature/product_feature/mdm/products/index>`
+#. :doc:`Create a New Product </tutorials/createnewproduct>`
+#. :doc:`What is a Data Model? </tutorials/whatisadatamodel>`
+#. :doc:`How Classes Work </tutorials/howclasseswork>`
+
+
+Key Terms:
+===========
+
+* Product
+    A product is a placeholder for a group of common products.
+
+* Data Model
+    Data model defines the base data structure for products in your system.
+    This structure enables you to connect predefined classes or taxonomies with your products to classify them.
+    The data model defines products from the highest level of classification, down to individual attributes and properties.
