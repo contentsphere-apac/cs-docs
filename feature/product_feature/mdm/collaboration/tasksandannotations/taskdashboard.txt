@@ -30,47 +30,48 @@ To view tasks in the dashboard, follow these steps:
 
 |
 
-#. Click on the **Task Dashboard** icon.
+#. Log in and click on the **Tasks** tab.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_clickonthetaskdashboard.PNG
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_loginandclicktasks.PNG
 |
 |
 
 
 #. View the tasks in the dashboard. The dashboard contains tasks that are *Public (Shared)* and *Private* tasks.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_viewthetasksinthedashboard.PNG
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_viewthetasks.PNG
 |
 |
 
 
 #. Click on the **Notifications** tab to view the notifications. Notifications are quick updates on the task activities.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_viewthenotificationstab.PNG
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_clickonnotifications.PNG
 |
 |
 
 
-#. Select a task.
+#. Click on **All* tab and select a task.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_selectatask.PNG
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_clickonall.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_clickonall2.PNG
 |
 |
 
 
 #. Edit the details of the task and then save the changes.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_editthedetails.PNG
+.. image:: /feature/_images/mdmimages/cs_taskdashboard_editdetails.PNG
 |
 |
 
 
 *Note:  Tasks can be edited and updated in the Task Dashboard*.
 
-.. image:: /feature/_images/mdmimages/taskdashboard_notetaskscanbeedited.PNG
 |
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
