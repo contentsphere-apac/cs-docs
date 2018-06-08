@@ -16,7 +16,7 @@ Key Terms:
 ===========
 
 * Product
-    A placeholder for a group of common products.
+    A product is a placeholder for a group of common products.
 
 * Data Model
     Data model defines the base data structure for products in your system.
