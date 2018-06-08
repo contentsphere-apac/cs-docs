@@ -45,7 +45,7 @@ To manage products across taxonomies, follow these steps:
 
 #. Click on the **Organize** button at the bottom of the drop-down window.
 
-.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_organize.PNG
+.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_organize1.PNG
 |
 |
 
