@@ -30,7 +30,7 @@ Management of information between PIDs and their variants has never been this ea
 |
 |
 
-#. Click  **Classes**. Then, **Article**.
+#. Click  **Classes**. Then, click **Article**.
 
 |
 
