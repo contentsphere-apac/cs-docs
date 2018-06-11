@@ -89,7 +89,7 @@ To do this editing feature, follow these steps:
 |
 |
 
-*Note: The *Pricing* details are not included in the property collections of the Red Bull products. Thus, these attributes are not shown in the grid.*
+*Note: The Pricing details are not included in the property collections of the Red Bull products. Thus, these attributes are not shown in the grid.*
 
 |
 |
