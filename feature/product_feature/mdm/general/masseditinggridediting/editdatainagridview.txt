@@ -19,8 +19,8 @@ The feature allows a user to change the values of multiple attributes/tags for m
                         * It also provides the functionality to change and set a variety of product attributes like *Price, Compare at Price, Weight, Tags,* and more.
                         * *Example:*
 
-                            A retailer wants to update pricing for 5 of his products. The retailer can simply select all products on a dashboard
-                            and click on **Grid Editable** to update the pricing.
+                            A retailer wants to update the pricing of his products. The retailer can simply select all products on a dashboard
+                            and click on **Grid Editable** to update the pricing information.
 
 ===================     ===============================================================================================================================================================
 
@@ -45,15 +45,15 @@ To do this editing feature, follow these steps:
 |
 
 
-#. Click on *Properties* on the left panel and search for the attribute or tag whose value needs to be updated.
+#. Click on *Properties* on the left panel and search for the attribute or tag that will be set as *editable in a grid view*.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_clickonproperties.PNG
 |
 |
 
 
-#. Scroll to the right and find the *Grid Editable* column.  Enable this option for the particular attribute or tag.
-   Repeat this step for the other attributes and tags that need to be updated.
+#. Scroll to the right and find the *Grid Editable* column.  Enable this option for the attribute or tag.
+   Repeat this step for the other attributes and tags.  If not enabled, the attribute/tag will not be editable in a grid view.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_scrollrightandfind.PNG
 |
@@ -62,7 +62,7 @@ To do this editing feature, follow these steps:
 |
 
 
-#. Click on the **Explore** button to reach PIM.
+#. Click on the **Explore** button and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_clickontheexplore.PNG
 |
@@ -89,6 +89,10 @@ To do this editing feature, follow these steps:
 |
 |
 
+*Note: The *Pricing* details are not included in the property collections of the Red Bull products. Thus, these attributes are not shown in the grid.*
+
+|
+|
 
 #. Make the necessary changes and click the **OK** button to save these changes.
 
@@ -96,11 +100,6 @@ To do this editing feature, follow these steps:
 |
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_makethenecessaryadjustments2.PNG
 |
-|
-
-
-*Note: The Pricing details are not included in the property collections of the Red Bull products. Thus, these attributes are not editable.*
-
 |
 |
 
