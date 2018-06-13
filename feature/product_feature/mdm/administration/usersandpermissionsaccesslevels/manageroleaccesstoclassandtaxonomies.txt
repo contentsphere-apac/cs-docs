@@ -10,7 +10,7 @@ The feature ensures that the user works directly with the articles they are inte
 
 **Description:**        * Restrict access to particular levels of class and taxonomy to a particular role.
                         * Role access can be configured within the organization as well as for partners.
-                        * Use the adminstration section to configure access.
+                        * Use the administration section to configure access.
 
 **Related topics:**     * :doc:`Manage Permissions </feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions>`
                         * :doc:`Manage View Templates </feature/product_feature/mdm/administration/usersandpermissionsviewtemplates/manageviewtemplates>`
