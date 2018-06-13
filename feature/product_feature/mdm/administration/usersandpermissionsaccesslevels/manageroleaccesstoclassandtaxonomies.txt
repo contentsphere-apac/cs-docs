@@ -26,16 +26,16 @@ The feature ensures that the user works directly with the articles they are inte
 ===================     =======================================================================================================================================================================
 
 
-How to do: Restrict a Role's Access to Class and Taxonomy
-==========================================================
+How-to: Restrict a Role's Access to Class and Taxonomy
+=======================================================
 To restrict a role's access to class and taxonomy, follow these steps:
 
 |
 
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_login.PNG
 |
 |
 
@@ -67,10 +67,11 @@ To restrict a role's access to class and taxonomy, follow these steps:
 
       * Click on the **Create** button and a user is created.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_cliukreate.PNG
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate.PNG
+      |
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate2.PNG
       |
       |
-
 
 #. Create Partners (Organization).
 
@@ -79,11 +80,15 @@ To restrict a role's access to class and taxonomy, follow these steps:
 
       .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickpartners.PNG
       |
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickpartners2.PNG
+      |
       |
 
       * Enter the name and click on the **Create** button.
 
       .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_entername.PNG
+      |
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate3.PNG
       |
       |
 
@@ -104,9 +109,9 @@ To restrict a role's access to class and taxonomy, follow these steps:
       |
 
 
-      * Click on the "+" sign just below the *Roles* tab to assign roles.
+      * Click on the "+" icon just below the *Roles* tab to assign roles.
 
-      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickplussign.PNG
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickplusicon.PNG
       |
       |
 
@@ -114,6 +119,15 @@ To restrict a role's access to class and taxonomy, follow these steps:
       * Enter the name and select the role type then click on the **Create** button.
 
       .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selectroletype.PNG
+      |
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_clickcreate4.PNG
+      |
+      |
+
+
+      * Select the user to which the role will be assigned.
+
+      .. image:: /feature/_images/mdmimages/cs_manageroleaccesstoclassandtaxonomies_selectuser.PNG
       |
       |
 
