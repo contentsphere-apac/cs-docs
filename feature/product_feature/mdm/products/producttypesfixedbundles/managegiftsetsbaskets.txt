@@ -34,7 +34,6 @@ To do manage gift sets/baskets, follow these steps:
 |
 |
 
-
 #. Hover on "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_hoverplus.PNG
