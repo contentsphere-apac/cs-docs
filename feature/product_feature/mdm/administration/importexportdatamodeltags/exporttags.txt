@@ -32,7 +32,7 @@ To export tags, follow these steps:
 
 #. Log in and click on the **Administration** button to enter the configuration page.
 
-.. image:: /feature/_images/mdmimages/cs_exporttags_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_exporttags_login.PNG
 |
 |
 

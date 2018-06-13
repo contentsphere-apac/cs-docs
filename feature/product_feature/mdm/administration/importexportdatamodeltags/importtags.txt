@@ -23,15 +23,15 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 ===================     =======================================================================================================================================================================
 
 
-How to do: Import Tags
+How-to: Import Tags
 ======================
 To import tags, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_importtags_login.PNG
 |
 |
 
