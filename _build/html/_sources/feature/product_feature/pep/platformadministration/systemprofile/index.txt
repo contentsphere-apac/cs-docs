@@ -6,3 +6,4 @@ System Profile - Set up System Profile 1
    :maxdepth: 1
 
    setupsystemprofile1
+   createpartnerprofile

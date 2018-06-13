@@ -6,7 +6,7 @@ Governance
    :maxdepth: 1
 
    classificationandcategorization/index
-   mustshouldattributes
+   mustshouldattributes/index
    dataqualityrule
    measureandmonitor/index
    standardizationandnormalization/index

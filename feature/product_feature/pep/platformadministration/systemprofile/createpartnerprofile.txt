@@ -1,0 +1,69 @@
+=======================
+Create Partner Profile
+=======================
+A partner is any organization using Contentserv’s system. A partner may have multiple users like Suppliers, Data Stewards, and so on.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **Term:** definition
+
+**Description:**           * This feature allows
+
+**Related topics:**        * :doc:`Name </feature/product_feature/link>`
+
+**Application:**           * This feature allows
+
+====================      ===============================================================================================================================================================
+
+
+
+How-to:
+================================
+To , follow these steps:
+
+|
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

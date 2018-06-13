@@ -47,4 +47,5 @@ Learn how to use the Contentserv Onboarding system.
    onboardingdesignandarchitecture
    onboardingpractical/index
    onboardingfileformat/index
+   maintainingtheonboardingpool
    onboardingcapabilities/index

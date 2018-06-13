@@ -5,10 +5,8 @@ Products
 .. toctree::
    :maxdepth: 1
 
-   addingimage/index
-   createnewproduct/index
-
    unitsandsku/index
+   productversions/index
    producttypesindividualarticle/index
    producttypespid/index
    productypesthresholdbundles/index

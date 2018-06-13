@@ -6,3 +6,5 @@ Product Types - Fixed Bundles
    :maxdepth: 1
 
    managegiftsetsbaskets
+   bundlessetscollection
+   combiningproducts

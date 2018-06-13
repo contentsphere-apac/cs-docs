@@ -1,0 +1,70 @@
+========================
+Classification Taxonomy
+========================
+Taxonomy is concerned with classification of various products.
+Taxonomies can represent related concepts that can be used to connect a product to various level of branches of a taxonomy.
+
+
+====================      ===============================================================================================================================================================
+**Key Term:**              * **Term:** definition
+
+**Description:**           * This feature allows
+
+**Related topics:**        * :doc:`Name </feature/product_feature/link>`
+
+**Application:**           * This feature allows
+
+====================      ===============================================================================================================================================================
+
+
+
+How-to:
+================================
+To , follow these steps:
+
+|
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+#. Step.
+
+.. image:: /feature/_images/mdmimages/image.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

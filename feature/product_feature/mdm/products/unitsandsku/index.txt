@@ -7,3 +7,4 @@ Units and SKU
 
    individualarticles
    salesandorder
+   pidsandsku

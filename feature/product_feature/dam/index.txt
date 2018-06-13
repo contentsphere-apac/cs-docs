@@ -13,3 +13,4 @@ Digital Asset Management (DAM)
    perspectiveresolutionvariants/index
    bulkexportofassets
    documents
+   motives

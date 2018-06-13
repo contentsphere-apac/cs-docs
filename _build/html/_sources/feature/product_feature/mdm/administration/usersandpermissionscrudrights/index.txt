@@ -6,3 +6,4 @@ Users and Permissions - Class Level CRUD Rights
    :maxdepth: 1
 
    managepermissions
+   entityclasspermissions

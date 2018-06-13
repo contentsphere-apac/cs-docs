@@ -6,4 +6,4 @@ Translations - Data Model
    :maxdepth: 1
 
    multilingualdatamodel
-   
+   classificationtaxonomy

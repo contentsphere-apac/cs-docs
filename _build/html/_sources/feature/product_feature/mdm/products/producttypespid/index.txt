@@ -7,3 +7,5 @@ Product Types - PID
 
    managepids
    managedatatransfer
+   datatransfer
+   datatransferviarelationships

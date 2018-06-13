@@ -1,7 +1,6 @@
 ============================
 Manage Sales and Order Units
 ============================
-
 Manage Sales and Order Units lets you tag various quantity units as sales or order units.
 
 

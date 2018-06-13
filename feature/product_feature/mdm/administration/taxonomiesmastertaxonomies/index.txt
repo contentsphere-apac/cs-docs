@@ -6,3 +6,4 @@ Taxonomies - Master Taxonomies
    :maxdepth: 1
 
    managemastertaxonomies
+   taxonomypermissions
