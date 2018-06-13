@@ -1,14 +1,14 @@
 =====================
 Dependent Attributes
 =====================
-The Dependent Attributes feature is an admin feature that configures dependent attributes, which are used to introduce additional set of properties that should be filled out
+The Dependent Attributes feature is a feature that configures dependent attributes, which are used to introduce additional set of properties that should be filled out
 because of a logical relationship they have with each other.
 
 
 ====================    =======================================================================================================================================================================
 **Key Term:**           * **Dependent Attributes:** are attributes (or properties) whose values are related to another attribute value.
 
-**Description:**        * This feature sets up a Dependent Attribute that introduces other collections of attributes that add more definition to a product.
+**Description:**        * This feature sets up a *Dependent Attribute* that introduces other collections of attributes that add more definition to a product.
                         * Minor Taxonomies are used to build dependent attributes wherein various properties will be dependent on a particular property.
 
 **Related topics:**     * :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
@@ -18,11 +18,11 @@ because of a logical relationship they have with each other.
                         * :doc:`Property Collections </feature/product_feature/mdm/administration/datamodelpropertycollections/propertycollections>`
 
 **Application:**        * An article/product may have a set of properties linked to a different tag group.
-                        * An admin can create various attributes and by using the minor taxonomy, may have these attributes linked as dependent attributes.
+                        * An administrator can create various attributes and by using the minor taxonomy, may have these attributes linked as dependent attributes.
                         * *Example:*
 
-                            There are properties which are dependent on the type of material. Glass has different properties associated with it and steel has different properties, as well.
-                            The 'Material' will be set as a minor taxonomy and will be added in a property collection.
+                             There are properties which are dependent on the type of material. Glass has different properties associated with it and steel has different properties, as well.
+                             The 'Material' will be set as a minor taxonomy and will be added in a property collection.
 
 ====================    =======================================================================================================================================================================
 
@@ -33,46 +33,46 @@ To configure a dependent attribute, follow the steps provided:
 
 |
 
-#. Log in and click on the **Administration** button to go to the configuration panel.
+#. Log in and go to the *Administration* panel.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_logintocontentsphere.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_login.PNG
 |
 |
 
 
 #. Create the attributes, tags, and property collection for the various dependent attributes.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_createattributestagspropertycollections.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_createtheattribute.PNG
 |
 |
 
 
 #. Go to *Taxonomies* section and then, select *Master Taxonomies*.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_gototaxonomiessection.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_gototaxonomies.PNG
 |
 |
 
 
 #. Click on the "+" icon to create a new taxonomy.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_gototaxonomiessection2.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_clickonthecreatebutton.PNG
 |
 |
 
 
 #. Provide a name for the taxonomy. Also, disable the *Major Taxonomy* so that a *Minor Taxonomy* will be created. Click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_clickontheicon.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_provideaname.PNG
 |
 |
 
 
 #. Click on the "+" icon to add a property collection.
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_clickontheicontoaddpropertycollection.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_addapropertycollection.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_clickontheicontoaddpropertycollection2.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_addapropertycollection2.PNG
 |
 |
 
@@ -92,6 +92,8 @@ To configure a dependent attribute, follow the steps provided:
 |
 .. image:: /feature/_images/mdmimages/cs_dependentattributes_addmorelevels2.PNG
 |
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_addmorelevels3.PNG
+|
 |
 
 
@@ -107,12 +109,12 @@ To configure a dependent attribute, follow the steps provided:
 
 *Note: Once the minor taxonomy is added, view the dependent attributes in runtime.*
 
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_oncethetaxonomyiscreated3.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_viewtheattributesinruntime.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_dependentattributes_oncethetaxonomyiscreated4.PNG
+.. image:: /feature/_images/mdmimages/cs_dependentattributes_viewtheattributesinruntime2.PNG
 |
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
