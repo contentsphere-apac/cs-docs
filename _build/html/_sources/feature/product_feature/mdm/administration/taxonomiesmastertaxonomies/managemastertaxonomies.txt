@@ -7,8 +7,8 @@ The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies 
 ====================    =======================================================================================================================================================================
 **Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
 
-**Description:**        * Taxonomy is concerned with classification of various products.
-                          Taxonomies can also represent related concepts that can be used to connect a product to various level of branches of a taxonomy.
+**Description:**        * Taxonomy is concerned with the classification of various products.
+                          Taxonomies can also represent related concepts that can be used to connect a product to a various level of branches of a taxonomy.
                         * This feature is about how to map a product to different concepts and terms in order to maintain a consistent structure.
 
 **Related topics:**     * :doc:`Multi-Taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
