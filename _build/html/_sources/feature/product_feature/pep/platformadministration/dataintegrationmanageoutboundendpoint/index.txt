@@ -6,3 +6,4 @@ Data Integration - Manage Outbound Endpoint
    :maxdepth: 1
 
    manageoutboundendpoint
+   endpointsandmappings

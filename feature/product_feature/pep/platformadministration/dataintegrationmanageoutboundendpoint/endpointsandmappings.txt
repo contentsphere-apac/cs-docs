@@ -1,7 +1,7 @@
-====================
-Contextual Versions
-====================
-The Contextual Versions feature can create a product version that is limited to a seasonal campaign or promotion.
+========================
+Endpoints and Mappings
+========================
+Summary of the feature
 
 
 ====================      ===============================================================================================================================================================
@@ -14,6 +14,7 @@ The Contextual Versions feature can create a product version that is limited to 
 **Application:**           * This feature allows
 
 ====================      ===============================================================================================================================================================
+
 
 
 How-to:

@@ -6,4 +6,4 @@ Product Versions
    :maxdepth: 1
 
    productversions
-   contextualversion
+   contextualversions
