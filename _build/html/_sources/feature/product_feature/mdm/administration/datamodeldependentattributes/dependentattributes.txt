@@ -1,8 +1,8 @@
 =====================
 Dependent Attributes
 =====================
-The Dependent Attributes feature is a feature that configures dependent attributes, which are used to introduce additional set of properties that should be filled out
-because of a logical relationship they have with each other.
+The Dependent Attributes feature is a feature that configures dependent attributes, which are used to introduce an additional set of properties
+that should be filled out because of a logical relationship they have with each other.
 
 
 ====================    =======================================================================================================================================================================
