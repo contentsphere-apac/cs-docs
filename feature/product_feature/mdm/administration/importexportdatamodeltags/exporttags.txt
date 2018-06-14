@@ -25,7 +25,7 @@ The Export Tags is a feature that exports tag definitions so that they can be vi
 
 
 How-to: Export Tags
-=======================
+====================
 To export tags, follow these steps:
 
 |
@@ -42,7 +42,7 @@ To export tags, follow these steps:
 |
 |
 
-#. Click on **LOV** then click on the **Export all tags** button.
+#. Click on **LOV** then click on the **Export all Tags** button.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clicklov.PNG
 |
