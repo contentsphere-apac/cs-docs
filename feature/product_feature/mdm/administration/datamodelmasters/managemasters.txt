@@ -7,7 +7,7 @@ Manage Masters Feature sets up Master Tags in the system like: *Region, Color, M
 ===================     =======================================================================================================================================================================
 **Key Term:**           * **Tags:** properties that describe the products.
 
-**Description:**        * Master Tags allow users to make master tags and sub tags in taxonomies which help in categorizing products.
+**Description:**        * Master Tags allow users to make master tags and subtags in taxonomies which help in categorizing products.
                         * The primary function of Manage Masters is that the tags can be reused in various sub-level taxonomies.
 
 **Related topics:**     * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
