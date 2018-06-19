@@ -7,7 +7,7 @@ The Tasks and Annotations feature allows users to add tasks in the system.  It a
 ===================     ===============================================================================================================================================================
 **Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**        * Tasks are action events created for an article that are intended for a user. In the system, the tasks contain a description of what action should be done.
+**Description:**        * Tasks are action events created for an article. These tasks are intended for a user, and in the system, the tasks contain a description of what action should be done.
                         * The Tasks feature has a comment section where users can put comments or questions regarding the task.
                         * The Tasks feature also helps a user schedule different actions in the system.
 
