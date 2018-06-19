@@ -1,11 +1,10 @@
 =======================
 Getting Started: Users
 =======================
-*estimated reading time: 2 minutes*
 
 |
 
-:doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | `4. Digital Assets`_ | `5. Taxonomies`_ |
+:doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | :doc:`4. References </reference/index>` |
 
 Prerequisites
 ===============
