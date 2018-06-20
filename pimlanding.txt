@@ -11,7 +11,7 @@ Relevant Articles:
 * :doc:`PIM Features (Coming Soon) </feature/product_feature/pim/index>`
 * :doc:`Partner Engagement Platform </product/PEP>`
 * :doc:`Explore UI </tutorials/exploretheui>`
-* :doc:`Add New User </tutorials/addnewuser>`
+* :doc:`Add New User </tutorials/addnewusers>`
 * :doc:`Create a New Product </tutorials/createnewproduct>`
 * :doc:`Glossary </glossary>`
 
@@ -25,4 +25,3 @@ Key Terms:
 * PEP
    Partner Engagement Platform (PEP) is a portal which allows a Contentserv customer’s partners to engage with their system.
    Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
-   
