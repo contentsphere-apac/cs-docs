@@ -2,6 +2,7 @@
 Feature Guides Homepage
 ========================
 
+|
 
 PIM Quick Start Guide
 =======================
