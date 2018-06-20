@@ -1,11 +1,14 @@
 =======================
 Getting Started: Users
 =======================
-*estimated reading time: 2 minutes*
 
 |
 
-:doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | `4. Digital Assets`_ | `5. Taxonomies`_ |
+:doc:`Home </index>`
+
+|
+
+:doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | :doc:`4. References </reference/index>` |
 
 Prerequisites
 ===============
@@ -22,16 +25,6 @@ A user is someone who logs into the Contentserv system. Depending on the permiss
 * view and update
 * delete
 
-Add New Users
-===============
-
-| 1. Go to **Settings** > **Partner Admin** > **Users**.
-| 2. Enter data in the fields then click **Create**.
-| 3. Click **Add Icon** and select an image icon from your computer.
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_users.PNG
 |
 
 Log in to Contentserv
@@ -54,9 +47,25 @@ From PIM to DAM to Virtual Catalog, the Dashboard lets you navigate the system w
 .. image:: /feature/_images/mdmimages/cs_dashboard.PNG
 |
 
+Add New Users
+===============
+
+| 1. Go to **Settings** > **Partner Admin** > **Users**.
+| 2. Enter data in the fields then click **Create**.
+| 3. Click **Add Icon** and select an image icon from your computer.
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_users.PNG
+|
+
+
 | :doc:`On to Part 3 </feature/products>`
 |
 | keywords: :doc:`user </glossary>`, :doc:`data model </glossary>`
+|
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

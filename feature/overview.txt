@@ -4,6 +4,10 @@ Getting Started: Overview of Contentserv
 
 |
 
+:doc:`Feature Guides Homepage </feature/homepage>`
+
+|
+
 :doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | :doc:`4. References </reference/index>` |
 
 Welcome! We are excited that you want to learn about Contentserv. The Contentserv Quick Start Guide teaches you how to:
@@ -11,8 +15,7 @@ Welcome! We are excited that you want to learn about Contentserv. The Contentser
 | 1. Explore the User Interface
 | :doc:`2. Add new users to the system </feature/users>`
 | :doc:`3. Create new product and define their properties </feature/products>`
-| :doc:`4. Add an digital assets and link them to your product </feature/addimagetoDAM>`
-| :doc:`5. Set up a taxonomy and assign products to the taxonomy </features/settinguptaxonomy>`
+| :doc:`4. Deploying Contentserv </reference/index>`
 
 |
 
