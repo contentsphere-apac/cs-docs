@@ -33,13 +33,13 @@ To do this, follow these steps:
 |
 |
 
-#. Click *Translations* tab.
+#. Click **Translations** tab.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_clicktranslationtab.PNG
 |
 |
 
-#. Click  **Application Labels**.
+#. Click **Application Labels**.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabels.PNG
 |
@@ -51,13 +51,13 @@ To do this, follow these steps:
 |
 |
 
-#.  Logout  and login again.
+#. Logout and login again.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_logout.PNG
 |
 |
 
-#.   On the login page, select your desired language from the flyout  on the lower right corner of the screen.
+#.  On the login page, select your desired language from the flyout on the lower right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_onthelogin.PNG
 |
