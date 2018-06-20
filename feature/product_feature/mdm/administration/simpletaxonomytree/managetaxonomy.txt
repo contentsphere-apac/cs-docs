@@ -1,7 +1,7 @@
 ================
 Manage Taxonomy
 ================
-The feature, *'Manage Taxonomy’* is an interface that provides users the ability to create, update, edit, or delete taxonomies.
+The feature, *Manage Taxonomy* is an interface that provides users the ability to create, update, edit, or delete taxonomies.
 It is the primary way that we update taxonomies in the Contentserv system.
 
 
@@ -30,11 +30,9 @@ It is the primary way that we update taxonomies in the Contentserv system.
 
 ====================    =============================================================================================================================================================
 
-|
 
-How to do: Simple Taxonomy Tree
+How-to: Simple Taxonomy Tree
 ================================
-
 Here's how to do a simple taxonomy tree.
 
 |
@@ -45,11 +43,13 @@ Here's how to do a simple taxonomy tree.
 |
 |
 
+
 #. Click the **Taxonomy Configuration** button.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_taxonomyconfig.PNG
 |
 |
+
 
 #. Click on the "+" icon to create a new taxonomy.
 
@@ -57,17 +57,20 @@ Here's how to do a simple taxonomy tree.
 |
 |
 
+
 #. Enter the necessary data and click **Save**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_filldata.PNG
 |
 |
 
+
 #. To make a hierarchy, click on the taxonomy then click **Create**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_makehierarchy.PNG
 |
 |
+
 
 #. Click the "+" icon to add property collection and click **Apply**.
 
@@ -79,6 +82,7 @@ Here's how to do a simple taxonomy tree.
 |
 |
 
+
 #. Go to PIM. Hover on the "+" icon and select the product.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_selectproduct1.PNG
@@ -87,11 +91,13 @@ Here's how to do a simple taxonomy tree.
 |
 |
 
+
 #. Enter the necessary data and click **Add Taxonomy**.
 
 .. image:: /feature/_images/mdmimages/managetaxonomy_addtaxonomy.PNG
 |
 |
+
 
 #. For additional classification, click **Classify further**.
 
@@ -100,6 +106,7 @@ Here's how to do a simple taxonomy tree.
 .. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther2.PNG
 |
 .. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther3.PNG
+|
 |
 
 

@@ -190,4 +190,4 @@ Attribution Class examples with Properties
 
 
 .. image:: /tutorials/_images/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

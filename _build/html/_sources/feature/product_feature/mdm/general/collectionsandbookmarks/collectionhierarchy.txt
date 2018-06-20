@@ -3,6 +3,7 @@ Collection Hierarchy
 ====================
 Collection Hierarchy lets you organize and view your collections within a structured hierarchy.
 
+
 ====================    =============================================================================================================================================================
 **Key Term:**           * **Bookmark:** a self-updating bookmark that saves the results of a search.
 
@@ -21,7 +22,7 @@ Collection Hierarchy lets you organize and view your collections within a struct
 ====================    =============================================================================================================================================================
 
 
-How to do: Collection Hierarchy
+How-to: Collection Hierarchy
 ===============================
 
 To organize and view the collections within a structured hierarchy, follow these steps:
@@ -34,11 +35,13 @@ To organize and view the collections within a structured hierarchy, follow these
 |
 |
 
+
 #. Click on the **Collections** icon and select the desired collection.
 
 .. image:: /feature/_images/mdmimages/cs_collectionhierarchy_clickcollectionsicon.PNG
 |
 |
+
 
 #. Click on the **Organize** button.
 
@@ -57,11 +60,13 @@ To organize and view the collections within a structured hierarchy, follow these
 |
 |
 
+
 #. Repeat the previous step to create a hierarchy of the collection.
 
 .. image:: /feature/_images/mdmimages/cs_collectionhierarchy_entername2.PNG
 |
 .. image:: /feature/_images/mdmimages/cs_collectionhierarchy_copyproducts2.PNG
+|
 |
 
 

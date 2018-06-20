@@ -27,7 +27,7 @@ because of a logical relationship they have with each other.
 ====================    =======================================================================================================================================================================
 
 
-How to do: Dependent Attributes
+How-to: Dependent Attributes
 ================================
 To configure a dependent attribute, follow the steps provided:
 
@@ -115,4 +115,4 @@ To configure a dependent attribute, follow the steps provided:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

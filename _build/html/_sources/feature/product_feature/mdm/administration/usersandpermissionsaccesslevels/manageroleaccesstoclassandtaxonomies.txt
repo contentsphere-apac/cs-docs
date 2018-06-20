@@ -26,7 +26,7 @@ The feature ensures that the user works directly with the articles they are inte
 ===================     =======================================================================================================================================================================
 
 
-How to do: Restrict a Role's Access to Class and Taxonomy
+How-to: Restrict a Role's Access to Class and Taxonomy
 ==========================================================
 To restrict a role's access to class and taxonomy, follow these steps:
 

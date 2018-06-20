@@ -87,4 +87,4 @@ That's it - you can now :doc:`move onto the tutorial </intro/tutorial01>`.
 |
 
 .. image:: _images/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

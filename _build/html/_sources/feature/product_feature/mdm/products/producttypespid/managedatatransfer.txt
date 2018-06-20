@@ -7,18 +7,17 @@ Manage Data Transfer lets you define the inheritance of properties from PIDs to 
 ===================     =============================================================================================================================================================
 **Key Term:**            * **Property:** a data field which describes a product, can also use *'attribute*'.
 
-**Description:**        * There are properties that are common to a PID and its variants.
-                          Data transfer uses a coupling to push these common properties to the variants directly.
+**Description:**         * There are properties that are common to a PID and its variants.
+                           Data transfer uses a coupling to push these common properties to the variants directly.
 
-**Related topics:**     * :doc:`Manage PIDs </feature/product_feature/mdm/products/producttypespid/managepids>`
+**Related topics:**      * :doc:`Manage PIDs </feature/product_feature/mdm/products/producttypespid/managepids>`
 
-**Application:**        * Manage the information that is common between the PID and its variants, and have such information applied to all variants.
+**Application:**         * Manage the information that is common between the PID and its variants, and have such information applied to all variants.
 
 ===================     =============================================================================================================================================================
 
 
-
-How to do: Manage Data Transfer
+How-to: Manage Data Transfer
 ===============================
 Management of information between PIDs and their variants has never been this easy, and here's how to do it.
 
@@ -109,4 +108,4 @@ Management of information between PIDs and their variants has never been this ea
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

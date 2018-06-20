@@ -20,10 +20,10 @@ Target and Channel Contextualization is a feature that allows users to have attr
 ===================     =============================================================================================================================================================
 
 
-How to do: Target and Channel Contextualization
+How-to: Target and Channel Contextualization
 ===============================================
 
-This How To guide provides instructions on how to have attributes that can have multiple values which vary based on context.
+This *How-to* guide provides instructions on how to have attributes that can have multiple values which vary based on context.
 To do this, follow these steps:
 
 |
@@ -107,4 +107,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

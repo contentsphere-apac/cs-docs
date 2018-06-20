@@ -21,7 +21,7 @@ Remedy Quality Issues is a data governance feature that edits records with incor
 ===================     =======================================================================================================================================================================
 
 
-How to do: Create Rule Violation
+How-to: Create Rule Violation
 =================================
 To create a rule violation, follow these steps:
 
@@ -102,4 +102,4 @@ To create a rule violation, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -19,7 +19,7 @@ Manage Permissions lets you define what the user can or cannot do.
 ====================    =============================================================================================================================================================
 
 
-How to do: Manage Permissions
+How-to: Manage Permissions
 =============================
 
 To manage the permissions of a user, refer to the instructions below:

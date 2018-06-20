@@ -7,22 +7,22 @@ The Manage Gift Sets or Basket feature allows a user to group articles together 
 ===================     ===============================================================================================================================================================
 **Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**        * This feature allows the retailer to manage a Bundle of Single Articles.
-                          The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
+**Description:**         * This feature allows the retailer to manage a Bundle of Single Articles.
+                           The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
 
-**Related topics:**     * :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
+**Related topics:**      * :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
 
-**Application:**        * To create a bundle of products to form one product.
-                        * The bundle is sold as an individual product to the customer.
-                        * As a manufacturer/retailer the user can't increase the number of quantities in the bundle.
-                        * *Example:*
+**Application:**         * To create a bundle of products to form one product.
+                         * The bundle is sold as an individual product to the customer.
+                         * As a manufacturer/retailer the user can't increase the number of quantities in the bundle.
+                         * *Example:*
 
-                            A new dog owner may purchase a 'New Pet Dog Starter Kit' which includes a bag of food, a collar and a small bed.
+                              A new dog owner may purchase a 'New Pet Dog Starter Kit' which includes a bag of food, a collar and a small bed.
 
 ===================     ===============================================================================================================================================================
 
 
-How to do: Manage Gift Sets/Baskets
+How-to:  Manage Gift Sets/Baskets
 =====================================
 To do manage gift sets/baskets, follow these steps:
 
@@ -114,4 +114,4 @@ To do manage gift sets/baskets, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -6,28 +6,28 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**        * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
-                          (Example: *a single can of Red Bull)*
-                        * **Sales unit** is any item that is sellable to the customer. (Example: *a single can of Red Bull, a pack of 24 Red Bull cans, and minced meat*)
-                        * **Order unit** can be tagged to products that are in large quantity. These items are usually not intended to be sold to an end customer.
-                          These units are usually tagged to products a retailer orders from the wholesaler or manufacturer.
-                          (Example: *a box or 30 beer bottles, a large box of vegetables)*
-                        * Some products can be classified as sales unit and order unit.
+**Description:**         * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
+                           (Example: *a single can of Red Bull)*
+                         * **Sales unit** is any item that is sellable to the customer. (Example: *a single can of Red Bull, a pack of 24 Red Bull cans, and minced meat*)
+                         * **Order unit** can be tagged to products that are in large quantity. These items are usually not intended to be sold to an end customer.
+                           These units are usually tagged to products a retailer orders from the wholesaler or manufacturer.
+                           (Example: *a box or 30 beer bottles, a large box of vegetables)*
+                         * Some products can be classified as sales unit and order unit.
 
-**Related topics:**     * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
+**Related topics:**      * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
 
-**Application:**        * Use these tags to distinguish whether an article is a sales unit or an order unit.
-                        * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.
-                          (Example: *For a carton of Red Bull cans, the base unit is a single Red Bull can)*
-                        * *Example:*
+**Application:**         * Use these tags to distinguish whether an article is a sales unit or an order unit.
+                         * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.
+                           (Example: *For a carton of Red Bull cans, the base unit is a single Red Bull can)*
+                         * *Example:*
 
-                            Retailer orders in bulk and sells the pieces to the customer so it is important to keep track whether an item is a sales unit, base unit, or order unit.
+                              Retailer orders in bulk and sells the pieces to the customer so it is important to keep track whether an item is a sales unit, base unit, or order unit.
 ===================     =============================================================================================================================================================
 
 
-How to do: Manage Sales and Order Units
+How-to: Manage Sales and Order Units
 =======================================
 
 Keeping track of items as sales units and order units is easy, and here's how to do it.
@@ -105,7 +105,7 @@ Sales and Order Unit
 
 
 Order Unit (Bulk Order)
---------------------
+------------------------
 
 |
 
@@ -131,4 +131,4 @@ Order Unit (Bulk Order)
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -28,4 +28,4 @@ Destination            You need to mention the unique identification of an asset
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

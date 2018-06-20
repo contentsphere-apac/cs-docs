@@ -25,7 +25,7 @@ This feature provides the facility to transfer the details of contextual product
 ===================     =======================================================================================================================================================================
 
 
-How to do: Contextual Data Transfer
+How-to: Contextual Data Transfer
 ====================================
 To do a contextual data transfer, follow these steps:
 
@@ -37,11 +37,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Click on the **Data Model** tab and select **Classes**.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_datamodel.PNG
 |
 |
+
 
 #. Click on a class type and select the created class of that class type. You will see all the details of that class.
 
@@ -49,11 +51,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Locate the *Unit Class* section and select a created unit class from the **Add Class** field.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_locateunitclass.PNG
 |
 |
+
 
 #. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Unit Class* section.
 
@@ -68,11 +72,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute.PNG
 |
 |
+
 
 #. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
 
@@ -80,11 +86,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the unit tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag.PNG
 |
 |
+
 
 #. Locate the *Standard Identifier* section and select a created standard identifier class from the **Add Class** field.
 
@@ -92,17 +100,20 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Standard Identifier* section.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_standardidentifier.PNG
 |
 |
 
+
 #. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clickattributeicon2.PNG
 |
 |
+
 
 #. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
@@ -117,11 +128,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag2.PNG
 |
 |
+
 
 #. Locate the *Embedded Class* section and select a created embedded class from **Add Class** field.
 
@@ -129,11 +142,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Embedded Class* section.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_embeddedclass.PNG
 |
 |
+
 
 #. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
 
@@ -141,11 +156,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute3.PNG
 |
 |
+
 
 #. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
 
@@ -153,11 +170,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag3.PNG
 |
 |
+
 
 #. Locate the *Language Class* section and select a created language class from **Add Class** field.
 
@@ -165,11 +184,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Upon selecting the class, you will see the **Data Transfer Properties** field appear in the *Language Class* section.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_languageclass.PNG
 |
 |
+
 
 #. Click on the **Attributes** icon from the *Data Transfer Properties* field to view the list of attributes.
 
@@ -177,11 +198,13 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applyattribute4.PNG
 |
 |
+
 
 #. Click on the **Tags** icon from the *Data Transfer Properties* field to view the list of tags.
 
@@ -189,16 +212,20 @@ To do a contextual data transfer, follow these steps:
 |
 |
 
+
 #. Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_applytag4.PNG
 |
 |
 
+
 #. Click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_contextualdatatransfer_clicksave.PNG
 |
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -21,7 +21,7 @@ Manage Product Keys is a feature that sets up certain attributes as *Product Key
 ===================     =======================================================================================================================================================================
 
 
-How to do: Manage Product Keys
+How-to: Manage Product Keys
 ===============================
 To manage product keys, follow these steps:
 
@@ -121,4 +121,4 @@ To manage product keys, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

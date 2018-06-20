@@ -213,4 +213,4 @@ Note that the **Deployment User** is used to connect to the schema and run the S
 |
 
 .. image:: _images/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

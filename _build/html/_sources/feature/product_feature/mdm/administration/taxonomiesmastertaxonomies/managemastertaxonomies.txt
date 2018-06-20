@@ -1,7 +1,7 @@
 ==========================
 Manage Master Taxonomies
 ==========================
-The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies that are based on Masters so that each level of taxonomy is represented by a Master Tag Group.
+The Manage Master Taxonomies is a feature that sets up Master Taxonomies that are based on Masters so that each level of taxonomy is represented by a Master Tag Group.
 
 
 ====================    =======================================================================================================================================================================
@@ -29,7 +29,7 @@ The Manage Master Taxonomies is an admin feature that sets up Master Taxonomies 
 ====================    =======================================================================================================================================================================
 
 
-How to do: Create a Master Taxonomy
+How-to: Create a Master Taxonomy
 ====================================
 To create a Master Taxonomy, follow these steps:
 
@@ -41,11 +41,13 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
+
 #. Click on **Taxonomies** and select **Master Taxonomies**.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clicktaxonomies.PNG
 |
 |
+
 
 #. Click on the "+" icon to create a new Master Taxonomy.
 
@@ -53,11 +55,13 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
+
 #. Enter the name and enable the slider to create a major taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_entername.PNG
 |
 |
+
 
 #. Click on the **Create** button.
 
@@ -65,11 +69,13 @@ To create a Master Taxonomy, follow these steps:
 |
 |
 
+
 #. Click on the "+" sign in the *Section* tab to add a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_clickplussign.PNG
 |
 |
+
 
 #. Select the created taxonomy and add sub-levels to it to create a sub-taxonomy.
 
@@ -108,12 +114,13 @@ To create a Master Taxonomy, follow these steps:
       |
       .. image:: /feature/_images/mdmimages/cs_managemastertaxonomies_createsublevel2.PNG
 |
-
+|
 
 #. Repeat the previous step if you want to add more levels to the existing sub-taxonomies.
 
 |
+|
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

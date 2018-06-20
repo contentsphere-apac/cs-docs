@@ -82,4 +82,4 @@ The Media tab in the onboarding portal displays all the uploaded media files alo
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

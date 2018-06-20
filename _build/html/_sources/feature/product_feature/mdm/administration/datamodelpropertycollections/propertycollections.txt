@@ -23,7 +23,7 @@ The Property Collections feature allows a user to group the attributes and tags 
 ===================     =============================================================================================================================================================
 
 
-How to do: Property Collections
+How-to: Property Collections
 ================================
 To create and add property collections, follow these steps:
 

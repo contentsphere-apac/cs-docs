@@ -26,7 +26,7 @@ The KPI-based Conformity Rules is a data governance feature that sets up rules t
 ===================     =======================================================================================================================================================================
 
 
-How to do: KPI-based Conformity Rules
+How-to: KPI-based Conformity Rules
 ======================================
 To do this feature, follow these steps:
 
@@ -119,4 +119,4 @@ To do this feature, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

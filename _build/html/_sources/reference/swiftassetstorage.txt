@@ -19,4 +19,4 @@ The *Asset Store* provides a solution to store, maintain, and version the physic
 |
 
 .. image:: _images/line-png-32.PNG
-  :alt: Contentsphere line
+  :alt: Contentserv line

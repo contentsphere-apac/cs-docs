@@ -22,7 +22,7 @@ Product Comparison allows a user to select and compare products within PIM.
 ===================    =============================================================================================================================================================
 
 
-How to do: Product Comparison
+How-to: Product Comparison
 ==============================
 This guide provides instructions on how to compare products.
 To do this, follow these steps:
@@ -32,9 +32,9 @@ To do this, follow these steps:
 #. Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_login.PNG
+|
+|
 
-|
-|
 
 #. Select two or more products to be compared.
 
@@ -55,6 +55,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_comparisonview.PNG
 |
 |
+
 
 *Note:  The indicators for comparison are shown on the right. The Red icon with down arrow indicates "Lesser", the Green icon with "=" indicates "Equal to", and the Green icon with up arrow indicates "Greater than" for the values being compared.*
 

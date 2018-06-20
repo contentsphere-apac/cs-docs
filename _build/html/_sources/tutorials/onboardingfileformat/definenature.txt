@@ -27,6 +27,6 @@ Relationship Column    The articles like Fixed Bundle, Loose Bundle, Set of Prod
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
  

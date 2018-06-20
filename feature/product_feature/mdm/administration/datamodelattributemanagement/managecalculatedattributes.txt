@@ -1,7 +1,6 @@
 =============================
 Manage Calculated Attributes
 =============================
-
 The Manage Calculated Attributes is a feature that allows attributes to be calculated by using a formula that takes values from other attributes.
 
 
@@ -23,7 +22,7 @@ The Manage Calculated Attributes is a feature that allows attributes to be calcu
 ===================     ===============================================================================================================================================================
 
 
-How to do: Manage Calculated Attributes
+How-to: Manage Calculated Attributes
 ========================================
 To do this admin feature, follow the steps below:
 
@@ -73,4 +72,4 @@ To do this admin feature, follow the steps below:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

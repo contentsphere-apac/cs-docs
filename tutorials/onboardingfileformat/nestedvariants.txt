@@ -31,4 +31,4 @@ Attribute              You need to mention the attribute name as column header. 
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

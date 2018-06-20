@@ -1,11 +1,10 @@
 =============
 Relationships
 =============
-
 The Relationships feature enables the user to set up relationships or links between products, assets, articles, and entities.
 
 ====================      ===============================================================================================================================================================
-**Key Term:**             * **Relationships**: a way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
+**Key Term:**             * **Relationships:** a way of linking entities together from different domains (e.g. PIM, MDM, DAM) as well as within the same domain.
 
 **Description:**          * A user can set up relationships between a *Product* and an *Asset.*
                           * A user can set up relationships between *Articles.*

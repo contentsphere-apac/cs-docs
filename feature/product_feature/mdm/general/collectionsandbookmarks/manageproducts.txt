@@ -3,6 +3,7 @@ Manage Products across Collections
 ===================================
 Manage Products across Collections lets you copy or move products between collections.
 
+
 ====================    =============================================================================================================================================================
 **Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
@@ -20,11 +21,10 @@ Manage Products across Collections lets you copy or move products between collec
 ====================    =============================================================================================================================================================
 
 
-How to do: Manage Products across Collections
+How-to: Manage Products across Collections
 =============================================
 
 To copy or move products across collections, follow these steps:
-
 
 |
 

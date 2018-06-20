@@ -24,7 +24,7 @@ The Task Dashboard is where the created tasks can be viewed by the users. The ta
 ===================     ===============================================================================================================================================================
 
 
-How to do: Task Dashboard
+How-to: Task Dashboard
 ==========================
 To view tasks in the dashboard, follow these steps:
 
@@ -65,7 +65,7 @@ To view tasks in the dashboard, follow these steps:
 |
 
 
-*Note:  Tasks can be edited and updated in the Task Dashboard*.
+*Note: Tasks can be edited and updated in the Task Dashboard*.
 
 .. image:: /feature/_images/mdmimages/taskdashboard_notetaskscanbeedited.PNG
 |
@@ -73,4 +73,4 @@ To view tasks in the dashboard, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -23,7 +23,7 @@ The Group By feature allows a user to view a group of objects in the system by s
 ===================     =============================================================================================================================================================
 
 
-How to do: Group By
+How-to: Group By
 ====================
 To do this feature, follow these steps:
 

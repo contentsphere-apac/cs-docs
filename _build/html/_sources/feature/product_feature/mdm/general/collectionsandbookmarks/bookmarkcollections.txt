@@ -27,7 +27,7 @@ Public or Private Bookmarks and Collections feature lets you define whether book
 ====================    =============================================================================================================================================================
 
 
-How to do: Public or Private Bookmarks and Collections
+How-to: Public or Private Bookmarks and Collections
 ======================================================
 
 To define a bookmark (or collection) to either *Public or Private*, follow these steps:

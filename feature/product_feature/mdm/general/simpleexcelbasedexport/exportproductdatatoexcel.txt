@@ -21,7 +21,7 @@ The Export Product Data to Excel feature provides the functionality to select an
 ===================     ===============================================================================================================================================================
 
 
-How to do: Export Product Data to Excel
+How-to: Export Product Data to Excel
 ========================================
 To export product data to an Excel file, follow these steps:
 
@@ -41,9 +41,11 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
+
 #. Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
 
 |
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

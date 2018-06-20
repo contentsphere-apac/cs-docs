@@ -19,9 +19,9 @@ The Perspective Variant feature allows the user to link several related images t
 ===================     =======================================================================================================================================================================
 
 
-How to do: How to create Perspective Variant
+How-to: How to create Perspective Variant
 ============================================
-To do this, follow these steps:
+To do this feature, follow these steps:
 
 |
 
@@ -115,4 +115,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/damimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

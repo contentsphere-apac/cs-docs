@@ -12,9 +12,9 @@ Prerequisites
 
 Key Terms
 =========
-* **Mappings** - The Mapping section allows to map different elements (attributes, tag, classes, and taxonomies) defined in an onboarding file to the similar elements (the attributes, tag, classes, and taxonomies) defined in the system.
+* **Mappings:** the mapping section allows to map different elements (attributes, tag, classes, and taxonomies) defined in an onboarding file to the similar elements (the attributes, tag, classes, and taxonomies) defined in the system.
 
-* **Endpoints** - The Endpoint is the final process where we map the partners with the defined process. This endpoint will be visible on the partner’s dashboard.
+* **Endpoints:** the endpoint is the final process where we map the partners with the defined process. This endpoint will be visible on the partner’s dashboard.
 
 
 Steps for Real-Time Mapping
@@ -78,4 +78,4 @@ Steps for Real-Time Mapping
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

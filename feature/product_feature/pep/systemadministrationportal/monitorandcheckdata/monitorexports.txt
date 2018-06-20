@@ -19,7 +19,7 @@ The Monitor Exports feature provides an export summary for every export of produ
 ===================     =======================================================================================================================================================================
 
 
-How to do: Monitor Exports
+How-to: Monitor Exports
 ============================
 To monitor exports, follow these steps:
 
@@ -80,9 +80,9 @@ To monitor exports, follow these steps:
 
 *Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the offboarding report summary.*
 
-
+|
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

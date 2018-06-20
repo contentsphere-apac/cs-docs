@@ -27,7 +27,7 @@ This enables better categorization of products as well as inheritance of relevan
 ====================    =================================================================================================================================================================================================================================================================
 
 
-How to do: Multi-classify Objects
+How-to: Multi-classify Objects
 =================================
 
 To multi-classify objects, follow these steps:

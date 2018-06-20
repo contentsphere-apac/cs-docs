@@ -5,25 +5,24 @@ Manage Endpoints for a System is an admin feature that manages endpoints in the 
 
 
 ====================    =======================================================================================================================================================================
-**Key Term:**           * **Endpoint:** is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.
+**Key Term:**            * **Endpoint:** is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.
 
+**Description:**         * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
+                           These gateways are used for the onboarding or offboarding of one or many products in and out of the system.
 
-**Description:**        * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
-                          These gateways are used for the onboarding or offboarding of one or many products in and out of the system.
+**Related topics:**      * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+                         * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
+                         * :doc:`Simple Flat File Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsviassff/simpleflatfileexport>`
+                         * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
+                         * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
 
-**Related topics:**     * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
-                        * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
-                        * :doc:`Simple Flat File Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsviassff/simpleflatfileexport>`
-                        * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
-                        * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
-
-**Application:**        * It helps a user to choose the gateway from the *Data Integration* window for the importing or exporting of files.
-                        * It gives a numerical conclusion/summary in the *Data Integration* window for the different aspects that the endpoint has been used for.
+**Application:**         * It helps a user to choose the gateway from the *Data Integration* window for the importing or exporting of files.
+                         * It gives a numerical conclusion/summary in the *Data Integration* window for the different aspects that the endpoint has been used for.
 
 ====================    =======================================================================================================================================================================
 
 
-How to do: Manage Endpoints for a System
+How-to: Manage Endpoints for a System
 ==========================================
 To manage the endpoints, follow these steps:
 
@@ -110,6 +109,5 @@ To manage the endpoints, follow these steps:
 |
 
 
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

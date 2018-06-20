@@ -23,7 +23,7 @@ Drill Down for KPI Reports is a data governance feature that sets up drill down 
 ===================     =======================================================================================================================================================================
 
 
-How to do: Drill Down for KPI Reports
+How-to: Drill Down for KPI Reports
 ======================================
 To do this, follow these steps:
 
@@ -108,4 +108,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

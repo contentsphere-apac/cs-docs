@@ -26,7 +26,7 @@ The Public/Private Tasks feature allows a user to set a task to either *Public (
 ===================     ===============================================================================================================================================================
 
 
-How to do: Public/Private Tasks
+How-to: Public/Private Tasks
 ================================
 To set a task to either public or private, follow these steps:
 
@@ -38,11 +38,13 @@ To set a task to either public or private, follow these steps:
 |
 |
 
+
 #. Click on the **Tasks** tab to create a new task.
 
 .. image:: /feature/_images/mdmimages/publicprivatetasks_clickonthetasktab.PNG
 |
 |
+
 
 #. Select the *Content Level* task.
 
@@ -50,11 +52,13 @@ To set a task to either public or private, follow these steps:
 |
 |
 
+
 #. Click on **Add New Task** button to create a new task.
 
 .. image:: /feature/_images/mdmimages/publicprivatetasks_clickontheaddnewtaskbutton.PNG
 |
 |
+
 
 #. Enter the name of the new task then click on the **Save** button.
 
@@ -62,11 +66,13 @@ To set a task to either public or private, follow these steps:
 |
 |
 
+
 #. Toggle between the **Public** or **Private Mode** using the lock icon.
 
 .. image:: /feature/_images/mdmimages/publicprivatetasks_togglebetweenpublicorprivate.PNG
 |
 |
+
 
 #. Set the important dates for the task.
 
@@ -74,9 +80,11 @@ To set a task to either public or private, follow these steps:
 |
 |
 
+
 #. Go to *PIM* and go to the *Calendar View* to check the task.
 
 .. image:: /feature/_images/mdmimages/publicprivatetasks_gotoPIMandcalendarview.PNG
+|
 |
 
 *Note: If a task is set in Private Mode, other users will not have access to view that task (except for those who are given permission).*
@@ -85,4 +93,4 @@ To set a task to either public or private, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -32,7 +32,7 @@ This feature helps define the products better and takes corrective actions to ma
 ===================     =======================================================================================================================================================================
 
 
-How to do: Monitor Data Quality
+How-to: Monitor Data Quality
 ================================
 To monitor data quality, follow these steps:
 
@@ -120,4 +120,4 @@ To monitor data quality, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -24,7 +24,7 @@ The Define Relationships feature provides the functionality to set up relationsh
 ====================      ===============================================================================================================================================================
 
 
-How to do: Define Relationships
+How-to: Define Relationships
 ================================
 To define relationships, follow these steps:
 

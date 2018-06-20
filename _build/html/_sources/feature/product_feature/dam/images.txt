@@ -5,7 +5,7 @@ The Images feature allows the user to upload images of various formats to the DA
 
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find, and retrieve digital files.
+**Key Term:**           * **DAM:** Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find, and retrieve digital files.
                           Digital files in the DAM are linked to the PIM through relationships.
 
 **Description:**        * This feature enables uploading images of various formats such as .psd and .jpg onto the system.
@@ -23,7 +23,7 @@ The Images feature allows the user to upload images of various formats to the DA
 ====================    =============================================================================================================================================================
 
 
-How to do: Upload Images of Various Formats
+How-to: Upload Images of Various Formats
 ============================================
 To upload images of various formats, follow these steps:
 
@@ -60,4 +60,4 @@ To upload images of various formats, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

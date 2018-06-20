@@ -39,4 +39,4 @@ Users, Access, Folder Structure :
 |
 
 .. image:: _images/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

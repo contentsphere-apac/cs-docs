@@ -10,4 +10,4 @@ Having a PIM-integrated Onboarding portal helps in getting rid of obsolete, redu
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

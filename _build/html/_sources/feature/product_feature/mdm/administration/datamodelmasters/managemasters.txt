@@ -21,7 +21,7 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 ===================     =======================================================================================================================================================================
 
 
-How to do: Manage Masters
+How-to: Manage Masters
 =============================
 To do this, follow these steps:
 
@@ -66,27 +66,27 @@ To do this, follow these steps:
 |
 
 
-#.      Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+#. Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
 |
 |
 
 
-#.      Click **Create tag value** to create subtag value.
+#. Click **Create tag value** to create subtag value.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
 
 
-#.      Enter a  name for the subtag and click **CREATE**.
+#. Enter a  name for the subtag and click **CREATE**.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatesub.PNG
 |
 |
 
 
-#.      View the created tags.
+#. View the created tags.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_viewtags.PNG
 |
@@ -94,4 +94,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

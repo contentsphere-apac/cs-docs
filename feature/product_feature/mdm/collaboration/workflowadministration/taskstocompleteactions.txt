@@ -3,6 +3,7 @@ Tasks to Complete Actions
 ==========================
 The Tasks to Complete Actions feature automates the assigning of tasks to users involved in a process or workflow.
 
+
 ====================      ===============================================================================================================================================================
 **Key Term:**              * **Workflow Tasks:** are tasks assigned to users depending on the business logic arranged through the Workflow Modeler.
                              These tasks will allow the Modeler to have complex custom actions through Tasks.
@@ -22,7 +23,7 @@ The Tasks to Complete Actions feature automates the assigning of tasks to users 
 ====================      ===============================================================================================================================================================
 
 
-How to do: Tasks to Complete Actions
+How-to: Tasks to Complete Actions
 =====================================
 To do this feature, follow these steps:
 

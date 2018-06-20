@@ -11,7 +11,6 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
                         * It can apply multiple taxonomies to a product to show the categories the product falls under.
 
 **Related topics:**     * :doc:`Inheritance via Taxonomy </feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance>`
-
                         * :doc:`Multi-taxonomy Assignment </feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment>`
 
 **Application:**        * Link an object to a taxonomy for proper classification.
@@ -19,14 +18,13 @@ Linking Objects allows an administrator to link an object to multiple taxonomies
 ====================    =============================================================================================================================================================
 
 
-How to do: Linking Objects
+How-to: Linking Objects
 ==========================
-
 Classify with ease by linking objects, and here's how to do it.
 
 |
 
-#. Go to **PIM** and hover on the "+" icon.
+#. Go to *PIM* and hover on the "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_gotopim.PNG
 |
@@ -36,26 +34,31 @@ Classify with ease by linking objects, and here's how to do it.
 |
 |
 
+
 #. Select your product.
 
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_selectproduct.PNG
 |
 |
 
+
 #. On the *Overview* tab, click **Add Taxonomy**.
 
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy.PNG
 |
 |
+
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_clickaddtaxonomy2.PNG
 |
 |
+
 
 #. Property collection is added via Taxonomy. You can link more products if necessary.
 
 .. image:: /feature/_images/mdmimages/cs_linkingobjects_propertycollectionadded.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

@@ -24,7 +24,7 @@ The Full-text Search feature gives the user the ability to search for a product 
 ===================     ===================================================================================================================================================================================
 
 
-How to do: Full-text Search
+How-to: Full-text Search
 ============================
 To do a full-text search, follow these steps:
 

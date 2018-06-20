@@ -37,4 +37,4 @@ Products in the real world can be described in various ways. In real life we may
 |
 
 .. image:: /tutorials/_images/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

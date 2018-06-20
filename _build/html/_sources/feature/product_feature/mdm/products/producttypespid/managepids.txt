@@ -22,7 +22,7 @@ Manage PIDs lets you define articles that are a combination of other individual 
 ===================     =============================================================================================================================================================
 
 
-How to do: Manage PIDs
+How-to: Manage PIDs
 ======================
 Easily group related products by defining PIDs, and here's how to do it.
 
@@ -101,4 +101,4 @@ Easily group related products by defining PIDs, and here's how to do it.
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

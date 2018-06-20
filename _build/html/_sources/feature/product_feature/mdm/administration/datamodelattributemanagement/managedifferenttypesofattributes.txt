@@ -1,7 +1,6 @@
 ====================================
 Manage Different Types of Attributes
 ====================================
-
 The Manage Different Types of Attributes is a feature that allows an administrator to manage and set up attributes in the system.
 
 
@@ -23,7 +22,7 @@ The Manage Different Types of Attributes is a feature that allows an administrat
 ===================     ===============================================================================================================================================================
 
 
-How to do: Manage Different Types of Attributes
+How-to: Manage Different Types of Attributes
 ================================================
 To do this admin feature, follow the steps below:
 
@@ -133,4 +132,4 @@ To do this admin feature, follow the steps below:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

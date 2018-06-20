@@ -21,7 +21,7 @@ The Version Context feature allows a user to create a special version of a produ
 ===================     ===============================================================================================================================================================
 
 
-How to do: Version Context
+How-to: Version Context
 ===========================
 To do this feature, follow these steps:
 
@@ -123,4 +123,4 @@ To do this feature, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

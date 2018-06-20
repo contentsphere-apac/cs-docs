@@ -23,9 +23,9 @@ The Manage Concatenated Attributes is a feature that has the functionality to se
 ===================     ===============================================================================================================================================================
 
 
-How to do: Manage Concatenated Attributes
+How-to: Manage Concatenated Attributes
 ==========================================
-To do this admin feature, follow the steps below:
+To do this feature, follow the steps below:
 
 |
 
@@ -71,7 +71,8 @@ To do this admin feature, follow the steps below:
 
 .. image:: /feature/_images/mdmimages/manageconcatenatedattributes_providethevalues.PNG
 |
+|
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

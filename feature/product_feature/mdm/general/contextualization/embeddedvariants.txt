@@ -21,10 +21,10 @@ Embedded Variants within Context is a feature that allows users to create a vari
 ===================    =============================================================================================================================================================
 
 
-How to do: Embedded Variants within Contexts
+How-to: Embedded Variants within Contexts
 =============================================
 
-This How To guide provides instructions on how to create embedded variants for a product within a context.
+This *How-to* guide provides instructions on how to create embedded variants for a product within a context.
 To do this, follow these steps:
 
 
@@ -106,4 +106,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

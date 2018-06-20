@@ -256,7 +256,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 ===================     ===============================================================================================================================================================
 
 
-How to do: Measurement Type: Volume
+How-to: Measurement Type: Volume
 ------------------------------------
 To set an attribute as a volume, follow these steps:
 
@@ -325,7 +325,7 @@ To set an attribute as a volume, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
 
 
@@ -353,7 +353,7 @@ This feature example allows an administrator to set an attribute as *Weight (Mas
 ===================     ===============================================================================================================================================================
 
 
-How to do: Measurement Type: Weight (Mass)
+How-to: Measurement Type: Weight (Mass)
 -------------------------------------------
 To set an attribute as a weight/mass, follow these steps:
 
@@ -422,7 +422,7 @@ To set an attribute as a weight/mass, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
 
 
 
@@ -451,7 +451,7 @@ This feature example allows an administrator to set an attribute as *Temperature
 ===================     ===============================================================================================================================================================
 
 
-How to do: Measurement Type: Temperature
+How-to: Measurement Type: Temperature
 -----------------------------------------
 To set an attribute as a temperature, follow these steps:
 
@@ -519,5 +519,6 @@ To set an attribute as a temperature, follow these steps:
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

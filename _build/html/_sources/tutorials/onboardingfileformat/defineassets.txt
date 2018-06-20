@@ -26,4 +26,4 @@ Asset Name             Mention the name of each asset in this column. There is n
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-  :alt: Contentsphere line
+  :alt: Contentserv line

@@ -22,8 +22,7 @@ Manage Hierarchy via Relationship lets you set up relationships as links so that
 ====================    =============================================================================================================================================================
 
 
-
-How to do: Manage Hierarchy via Relationship
+How-to: Manage Hierarchy via Relationship
 ============================================
 To manage hierarchy via relationship, follow these steps.
 
@@ -34,6 +33,7 @@ To manage hierarchy via relationship, follow these steps.
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_login.PNG
 |
 |
+
 
 #. Click on the **Choose Taxonomies** button, then click on the **Create Relationship Hierarchy** button.
 
@@ -48,6 +48,7 @@ To manage hierarchy via relationship, follow these steps.
 |
 |
 
+
 #. Click on the **Add Class** button and select the class.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass.PNG
@@ -56,10 +57,13 @@ To manage hierarchy via relationship, follow these steps.
 |
 |
 
+
 #. Once done adding the classes, click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickapply.PNG
 |
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

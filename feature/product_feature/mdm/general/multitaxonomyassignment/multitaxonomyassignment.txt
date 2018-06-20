@@ -24,7 +24,7 @@ The Multi-taxonomy Assignment feature provides general users the capability to a
 ===================     ==========================================================================================================================================================================================
 
 
-How to do: Multi-taxonomy Assignment
+How-to: Multi-taxonomy Assignment
 ====================================
 To assign a single object to multiple different taxonomies or to multiple nodes within the same taxonomy, follow these steps:
 
@@ -71,6 +71,7 @@ To assign a single object to multiple different taxonomies or to multiple nodes 
 *Note: The last image shows the multiple nodes within a single taxonomy that have been added to the product.*
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_multiplenodes.PNG
+|
 |
 
 

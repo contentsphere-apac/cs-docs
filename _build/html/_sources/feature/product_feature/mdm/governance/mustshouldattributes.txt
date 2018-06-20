@@ -25,7 +25,7 @@ which means that a user will be required to provide data for that specific field
 ===================     ===============================================================================================================================================================
 
 
-How to do: Must/Should Attributes
+How-to: Must/Should Attributes
 ==================================
 To do this data governance feature, follow these steps:
 

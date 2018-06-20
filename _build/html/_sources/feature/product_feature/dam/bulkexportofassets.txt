@@ -24,7 +24,7 @@ The digital assets that may be exported in DAM are the following: *Images, Docum
 ====================      ===============================================================================================================================================================
 
 
-How to do: Bulk Export of Assets
+How-to: Bulk Export of Assets
 ==================================
 To export assets in bulk, follow these steps:
 
@@ -66,4 +66,4 @@ To export assets in bulk, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

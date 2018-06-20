@@ -38,7 +38,7 @@ it also sets up merging rules to consolidate information and to facilitate the b
 ====================      ===============================================================================================================================================================
 
 
-How to do: Golden Record
+How-to: Golden Record
 ==========================
 To create a *Golden Record*, follow these steps:
 
@@ -237,4 +237,4 @@ Once found, the system will put these records in a bundle and will create a buck
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

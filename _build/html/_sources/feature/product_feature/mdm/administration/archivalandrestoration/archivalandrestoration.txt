@@ -27,7 +27,7 @@ The Archival and Restoration is a feature that enables restoration of archived p
 ===================     =======================================================================================================================================================================
 
 
-How to do: Perform Archival and Restoration Operation
+How-to: Perform Archival and Restoration Operation
 ======================================================
 To archive and restore products, follow these steps:
 
@@ -88,4 +88,4 @@ To archive and restore products, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

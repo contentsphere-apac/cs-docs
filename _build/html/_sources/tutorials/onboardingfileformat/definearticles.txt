@@ -58,4 +58,4 @@ Multiple Class         It is possible that all the defined articles in a sheet u
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

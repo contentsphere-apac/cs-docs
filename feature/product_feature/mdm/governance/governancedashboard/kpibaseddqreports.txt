@@ -26,7 +26,7 @@ which enables the designated users to take proper corrective actions.
 ===================     =======================================================================================================================================================================
 
 
-How to do: KPI Based DQ Reports
+How-to: KPI Based DQ Reports
 =============================
 To do this, follow these steps:
 
@@ -38,11 +38,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on the *Data Governance* tab from the tab at the top.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickgov.PNG
 |
 |
+
 
 #.  Click   **KPIs** on the leftside in the Data *Governance* tab.
 
@@ -50,11 +52,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click the '+' icon at the top right to create a new KPI.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickplus.PNG
 |
 |
+
 
 #.   Fill the name and code(optional) and click on 'Create' to create the KPI.
 
@@ -62,58 +66,67 @@ To do this, follow these steps:
 |
 |
 
-#.      Once the KPI is created, it will appear in the list of KPI, click on the 'Edit' icon at the extreme right in the list of KPI.
 
+#.  Once the KPI is created, it will appear in the list of KPI, click on the 'Edit' icon at the extreme right in the list of KPI.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
 |
 |
 
-#.      Select the Class and Taxonomy for which KPI is designed.
+
+#. Select the Class and Taxonomy for which KPI is designed.
 
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selclass.PNG
 |
 |
 
-#.      Select the 'Completeness' tab on the top and add rule for completeness. Select the attributes and Tags that are to be said to be complete.
+
+#. Select the 'Completeness' tab on the top and add rule for completeness. Select the attributes and Tags that are to be said to be complete.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selcomp.PNG
 |
 |
 
-#.      Click on the 'Conformity' tab on the top and add a rule for conformity. Select the attributes/tags and select the operation and condition for conformity.
+
+#. Click on the 'Conformity' tab on the top and add a rule for conformity. Select the attributes/tags and select the operation and condition for conformity.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selconform.PNG
 |
 |
 
-#.     Follow similar steps for Accuracy and  Uniqueness. Click on the 'Save' button to save the KPI.
+
+#. Follow similar steps for Accuracy and  Uniqueness. Click on the 'Save' button to save the KPI.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selconform.PNG
 |
 |
 
-#.      To assign the KPI to a role: Select the Partner Admin tab and then select the Organization to which the role is present.
+
+#. To assign the KPI to a role: Select the Partner Admin tab and then select the Organization to which the role is present.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_selpartad.PNG
 |
 |
 
-#.       In the role assign the KPI which was created. ( If no KPI is selected the role will have permission to all the KPI present).
+
+#. In the role assign the KPI which was created. ( If no KPI is selected the role will have permission to all the KPI present).
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_asskpi.PNG
 |
 |
 
-#.        Logout from the system then login with the user belonging to the role, to view the KPI for that role.
+
+#. Log out from the system then login with the user belonging to the role, to view the KPI for that role.
 
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_logout.PNG
 |
 |
+
 .. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_viewkpi.PNG
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

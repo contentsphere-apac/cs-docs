@@ -22,7 +22,7 @@ Manage Prepacks is a feature that allows a user to group together different prod
 ===================     =======================================================================================================================================================================
 
 
-How to do: Manage Prepacks
+How-to: Manage Prepacks
 ==========================
 To do this, follow these steps:
 

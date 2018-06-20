@@ -23,7 +23,7 @@ The linking between article-to-article or product-to-product is bidirectional.
 ====================      ===============================================================================================================================================================
 
 
-How to do: Define Article Links
+How-to: Define Article Links
 ================================
 To define article links, follow these steps:
 

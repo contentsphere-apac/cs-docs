@@ -26,7 +26,7 @@ This feature allows mixing and matching of tags to build simple hierarchies.
 ===================     =======================================================================================================================================================================
 
 
-How to do: Manage Tag Hierarchies
+How-to: Manage Tag Hierarchies
 ==================================
 To manage/create tag hierarchies, follow this set of instructions:
 
@@ -114,4 +114,4 @@ To manage/create tag hierarchies, follow this set of instructions:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

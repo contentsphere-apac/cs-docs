@@ -5,7 +5,7 @@ The Videos feature allows the user to upload videos of various formats to the DA
 
 
 ====================    =============================================================================================================================================================
-**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+**Key Term:**           * **DAM:** Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
                           Digital files in the DAM are linked to the PIM through relationships.
 
 **Description:**        * This feature enables uploading videos of various formats such as .wmv and .mov onto the system.
@@ -21,7 +21,7 @@ The Videos feature allows the user to upload videos of various formats to the DA
 ====================    =============================================================================================================================================================
 
 
-How to do: Upload/Import Videos of Various Formats
+How-to: Upload/Import Videos of Various Formats
 ===================================================
 To upload videos of various formats, follow these steps:
 
@@ -57,5 +57,6 @@ To upload videos of various formats, follow these steps:
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

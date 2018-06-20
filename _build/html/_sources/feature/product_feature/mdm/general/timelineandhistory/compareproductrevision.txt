@@ -25,7 +25,7 @@ It also allows merging of specific values from previous versions into the latest
 ===================     ===============================================================================================================================================================
 
 
-How to do: Compare Product Revision
+How-to: Compare Product Revision
 ======================================
 To do this feature, follow these steps:
 
@@ -37,15 +37,16 @@ To do this feature, follow these steps:
 |
 |
 
+
 #. Select a product and click on the **Timeline Tab**.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
 |
 |
-
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproductandclicktimeline.PNG
 |
 |
+
 
 #. View the revision timeline.
 
@@ -53,17 +54,20 @@ To do this feature, follow these steps:
 |
 |
 
+
 #.  On the selected version, click **Compare with current version** icon.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
 |
 |
 
+
 #. View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
 
 .. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
 |
 |
+
 
 #. Click **OK**.
 

@@ -4,23 +4,23 @@ Manage Displays
 The Manage Displays feature allows the user to sell multiple quantity products.
 
 
+====================   =================================================================================================================================================================
+**Key Term:**           * **Loose Bundle:** a group of products where the quantity of each product can be defined by the retailer.
+
+**Description:**        * The Manage Displays feature allows you to create a bundle of products grouped for the purpose of displays in store.
+
+**Related topics:**     * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
+
+**Application:**        * This feature brings single articles together in multiple quantities and sells them.
+                        * This type of bundle can be used during stock clearance, where the retailer can add a single item in multiple quantities and can sell them at an offered price.
+                        * *Example:*
+
+                             A retail company held a stock clearance sale event. With this, a retailer adds a single item in multiple quantities and sells them at a given price.
+
 ====================  =================================================================================================================================================================
-**Key Term:**         * **Loose Bundle:** a group of products where the quantity of each product can be defined by the retailer.
-
-**Description:**      * The Manage Displays feature allows you to create a bundle of products grouped for the purpose of displays in store.
-
-**Related topics:**   * :doc:`Manage Media Links </feature/product_feature/mdm/administration/datamodelrelationships/managemedialinks>`
-
-**Application:**      * This feature brings single articles together in multiple quantities and sells them.
-                      * This type of bundle can be used during stock clearance, where the retailer can add a single item in multiple quantities and can sell them at an offered price.
-                      * *Example:*
-
-                          A retail company held a stock clearance sale event. With this, a retailer adds a single item in multiple quantities and sells them at a given price.
-
-====================  =================================================================================================================================================================
 
 
-How to do: Manage Displays
+How-to: Manage Displays
 =============================
 To do this, follow these steps:
 
@@ -78,21 +78,21 @@ To do this, follow these steps:
 |
 
 
-#.   To add an image, click  **Relationships** tab.
+#. To add an image, click  **Relationships** tab.
 
 .. image:: /feature/_images/mdmimages/managedisplays_gotorel.PNG
 |
 |
 
 
-#.   Hover over on the "+" icon and click  **Add Entity**.
+#. Hover over on the "+" icon and click  **Add Entity**.
 
 .. image:: /feature/_images/mdmimages/managedisplays_addentity.PNG
 |
 |
 
 
-#.   Hover over on the "+" icon and click  **Image**.
+#. Hover over on the "+" icon and click  **Image**.
 
 .. image:: /feature/_images/mdmimages/managedisplays_hoverimage.PNG
 |
@@ -101,7 +101,7 @@ To do this, follow these steps:
 |
 
 
-#.   Click **Add Image** again.
+#. Click **Add Image** again.
 
 .. image:: /feature/_images/mdmimages/managedisplays_imageagain.PNG
 |
@@ -110,7 +110,7 @@ To do this, follow these steps:
 |
 
 
-#.   View bundle on the top section of the page.
+#. View bundle on the top section of the page.
 
 .. image:: /feature/_images/mdmimages/managedisplays_imageready.PNG
 |

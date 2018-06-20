@@ -21,7 +21,7 @@ Manage Units for Individual Articles allows you to efficiently handle various qu
 ===================     =============================================================================================================================================================
 
 
-How to do: Manage Units for Individual Articles
+How-to: Manage Units for Individual Articles
 ===============================================
 Easily manage the units for individual articles, and here's how to do it.
 
@@ -98,4 +98,4 @@ Easily manage the units for individual articles, and here's how to do it.
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

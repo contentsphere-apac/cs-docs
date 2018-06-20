@@ -24,7 +24,7 @@ Correct Imported Records is a feature that edits records with incorrect, non-con
 ===================     =======================================================================================================================================================================
 
 
-How to do: How to create correct imported records
+How-to: How to create correct imported records
 =================================================
 To do this, follow these steps:
 
@@ -36,11 +36,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click *Data Integration* tab and select an endpoint.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash2.PNG
 |
 |
+
 
 #. Click **Files** and select a file to import ( in this demo, we selected the first "Documentation onboard sheet.xlsx")
    and click **Import** icon.
@@ -48,6 +50,7 @@ To do this, follow these steps:
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfile.PNG
 |
 |
+
 
 #. Check the status of the file, click **Workflow Status**.
 
@@ -75,5 +78,6 @@ To do this, follow these steps:
 |
 |
 
+
 .. image:: /feature/_images/pepimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

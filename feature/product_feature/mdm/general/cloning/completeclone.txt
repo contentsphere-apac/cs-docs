@@ -25,7 +25,7 @@ In a complete clone, all the values of the original product are cloned into the 
 ====================    =============================================================================================================================================================
 
 
-How to do: Creating a Complete Clone
+How-to: Creating a Complete Clone
 =====================================
 
 This How To guide provides instructions on how to create a complete clone.

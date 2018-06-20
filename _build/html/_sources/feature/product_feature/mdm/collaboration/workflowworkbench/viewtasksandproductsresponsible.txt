@@ -21,7 +21,7 @@ The View Tasks and Products Responsible feature allows viewing of the tasks and 
 ====================      ===============================================================================================================================================================
 
 
-How to do:  View Tasks and Products Responsible
+How-to:  View Tasks and Products Responsible
 ===============================================
 To do this, follow these steps:
 
@@ -37,6 +37,7 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on **TASKS** to view all tasks that have been assigned to a user, in any of the categories.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask.PNG
@@ -47,11 +48,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on **Notifications** to see all the notifications.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicknotifications.PNG
 |
 |
+
 
 #. Click on **ALL** to see the consolidated assigned tasks of the user for all the categories.
 
@@ -59,17 +62,20 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on any task to view its details.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall2.PNG
 |
 |
 
+
 #. Click on a category to see the tasks assigned to the user for that category.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickanytask.PNG
 |
 |
+
 
 #. Click on **PRODUCTS** to view all tasks according to a product view.
 
@@ -81,11 +87,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click on **ALL** to see all products.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickallproducts.PNG
 |
 |
+
 
 #. Click on a product to see all the tasks created for that product.
 
@@ -93,11 +101,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. You can view all the products category wise as well as all the tasks created for each product.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct2.PNG
 |
 |
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

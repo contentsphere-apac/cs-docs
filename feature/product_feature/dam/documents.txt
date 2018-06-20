@@ -5,7 +5,7 @@ The Documents feature allows the user to upload documents of various formats to 
 
 
 ====================    ==============================================================================================================================================================================
-**Key Term:**           * **DAM**: Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
+**Key Term:**           * **DAM:** Digital Asset Management (DAM) offers a solution for enterprises to store, organize, find and retrieve digital files.
                           Digital files in the DAM are linked to the PIM through relationships.
 
 **Description:**        * This feature enables uploading of documents of various formats such as .docx, and .pdf onto the system.
@@ -21,7 +21,7 @@ The Documents feature allows the user to upload documents of various formats to 
 ====================    ==============================================================================================================================================================================
 
 
-How to do: Upload/Import Documents of Various Formats
+How-to: Upload/Import Documents of Various Formats
 ======================================================
 To upload/import documents of various formats, follow these steps:
 
@@ -58,4 +58,4 @@ To upload/import documents of various formats, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -23,7 +23,7 @@ The Manage Virtual Catalogs feature creates multiple collections and bookmarks t
 ===================     =======================================================================================================================================================================
 
 
-How to do: Manage Virtual Catalogs
+How-to: Manage Virtual Catalogs
 ===================================
 To do this feature, follow these steps:
 
@@ -117,4 +117,4 @@ To do this feature, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

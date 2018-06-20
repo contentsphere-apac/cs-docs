@@ -23,7 +23,7 @@ The Product Classification via Taxonomies feature provides the functionality to 
 ===================     ===============================================================================================================================================================
 
 
-How to do: Product Classification via Taxonomies
+How-to: Product Classification via Taxonomies
 =================================================
 To classify a product to multiple taxonomies, follow these steps:
 
@@ -97,4 +97,4 @@ To classify a product to multiple taxonomies, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

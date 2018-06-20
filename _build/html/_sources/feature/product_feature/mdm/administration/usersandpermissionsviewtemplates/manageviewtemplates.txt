@@ -23,7 +23,7 @@ Manage View Templates lets you set up view templates that are customized to diff
 ===================     =============================================================================================================================================================
 
 
-How to do: Manage View Templates
+How-to: Manage View Templates
 =================================
 Easily manage who gets to see what, and here's how to do it.
 
@@ -131,4 +131,4 @@ Easily manage who gets to see what, and here's how to do it.
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

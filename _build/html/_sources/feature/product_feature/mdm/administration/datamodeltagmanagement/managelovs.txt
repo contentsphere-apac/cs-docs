@@ -19,9 +19,8 @@ Manage LOVs feature is a feature that lets you create a property with many possi
 ====================    =============================================================================================================================================================
 
 
-How to do: Manage LOVs
-======================
-
+How-to: Manage LOVs
+=====================
 To manage LOVs, follow these steps:
 
 |

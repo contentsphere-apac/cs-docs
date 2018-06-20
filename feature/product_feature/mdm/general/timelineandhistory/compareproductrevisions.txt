@@ -23,7 +23,7 @@ The Compare Product Revision feature allows the selection and comparison of diff
 ===================     ===============================================================================================================================================================
 
 
-How to do: Compare Product Revisions
+How-to: Compare Product Revisions
 =====================================
 To do this feature, follow these steps:
 

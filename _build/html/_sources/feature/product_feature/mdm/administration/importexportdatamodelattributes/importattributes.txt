@@ -23,7 +23,7 @@ The Import Attributes is a feature that allows importing of attribute definition
 ===================     =========================================================================================================================================================================
 
 
-How to do: Import Attributes
+How-to: Import Attributes
 ================================
 To import attributes, follow the steps provided below:
 
@@ -60,7 +60,7 @@ To import attributes, follow the steps provided below:
 #. Wait for the import to finish.  Once done, the added attributes can be viewed in the system.
 
 |
-
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

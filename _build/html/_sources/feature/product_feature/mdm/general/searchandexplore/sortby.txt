@@ -21,11 +21,12 @@ The Sort By feature allows a user to view products and assets according to a spe
 ===================     =============================================================================================================================================================
 
 
-How to do: Sort By
+How-to: Sort By
 ===================
 To do a sort by, follow these steps:
 
 |
+
 
 #. Log in and go to *PIM*.
 

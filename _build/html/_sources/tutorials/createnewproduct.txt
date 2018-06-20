@@ -3,7 +3,8 @@ Create a New Product
 =====================
 The system allows effective management of products in the system. Products can be created, deleted, and edited.
 
-How to do: Create New Products
+
+How-to: Create New Products
 ==============================
 To do this, follow these steps:
 
@@ -95,4 +96,4 @@ To do this, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

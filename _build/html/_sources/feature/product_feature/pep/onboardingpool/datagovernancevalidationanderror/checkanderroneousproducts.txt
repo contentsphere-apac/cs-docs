@@ -25,7 +25,7 @@ The Check for Erroneous Products is a feature that can be used by users to view 
 ===================     =======================================================================================================================================================================
 
 
-How to do: Check for Erroneous Products
+How-to: Check for Erroneous Products
 =========================================
 To do this, follow these steps:
 
@@ -59,4 +59,4 @@ To do this, follow these steps:
 
 
 .. image:: /feature/_images/pepimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

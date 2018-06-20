@@ -23,7 +23,7 @@ Creating a Partial Clone is a feature that allows users to create partial clones
 ===================     =============================================================================================================================================================
 
 
-How to do: Creating a Partial Clone
+How-to: Creating a Partial Clone
 ===================================
 
 This How To guide provides instructions on how to create a partial clone.
@@ -37,11 +37,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Select a product.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_selectproductb.PNG
 |
 |
+
 
 #. On the top right section, click **More Options**.
 
@@ -49,11 +51,13 @@ To do this, follow these steps:
 |
 |
 
+
 #. Then, click **Clone**. A list of all categories related to *Attributes*, *Tags* and *Relationships* will appear.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickclone.PNG
 |
 |
+
 
 #. Click on any category and click on the features that are to be copied to the new product.
 
@@ -61,17 +65,20 @@ To do this, follow these steps:
 |
 |
 
+
 #. Click **Clone**.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickcloneb.PNG
 |
 |
 
+
 #. Your clone product is ready.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickproductready.PNG
 |
+|
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contenbtserv line
+   :alt: Contentserv line

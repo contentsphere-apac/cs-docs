@@ -21,7 +21,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
 ===================   =================================================================================================================================================================
 
 
-How to do: Manage Individual Articles
+How-to: Manage Individual Articles
 =====================================
 
 Managing individual articles is easy, and here's how to do it.
@@ -34,11 +34,13 @@ Managing individual articles is easy, and here's how to do it.
 |
 |
 
+
 #. Hover on the "+" icon.
 
 .. image:: /feature/_images/mdmimages/manageindividualarticles_hover.PNG
 |
 |
+
 
 #. Select **Single Article**.
 
@@ -46,11 +48,13 @@ Managing individual articles is easy, and here's how to do it.
 |
 |
 
+
 #. Enter the name for the single article and provide relevant information.
 
 .. image:: /feature/_images/mdmimages/manageindividualarticles_enterthename.PNG
 |
 |
+
 
 #. Click the **Relationships** button.
 
@@ -58,17 +62,20 @@ Managing individual articles is easy, and here's how to do it.
 |
 |
 
+
 #. Click the "+" icon under Images.
 
 .. image:: /feature/_images/mdmimages/manageindividualarticles_plusicon.PNG
 |
 |
 
+
 #. Select the image and click the **Add All** button (or drag and drop the image to the right side).
 
 .. image:: /feature/_images/mdmimages/manageindividualarticles_selectimage.PNG
 |
 |
+
 
 #. Click the **Back** button to check that the image is added to the product.
 
@@ -77,6 +84,7 @@ Managing individual articles is easy, and here's how to do it.
 .. image:: /feature/_images/mdmimages/manageindividualarticles_clickback2.PNG
 |
 |
+
 
 #. Add markets. The steps are the same as with adding images except that you click the "+" icon under Market.
 
@@ -89,6 +97,7 @@ Managing individual articles is easy, and here's how to do it.
 .. image:: /feature/_images/mdmimages/manageindividualarticles_market4.PNG
 |
 |
+
 
 #. Check your single article.
 

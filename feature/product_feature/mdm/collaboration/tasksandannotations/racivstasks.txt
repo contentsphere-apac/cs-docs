@@ -25,7 +25,7 @@ The RACI-VS Tasks is a feature that allows users to create a task and assign rol
 ===================     ===============================================================================================================================================================
 
 
-How to do: RACI-VS Tasks
+How-to: RACI-VS Tasks
 =========================
 To do this feature, follow these steps:
 
@@ -119,4 +119,4 @@ To do this feature, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

@@ -19,7 +19,7 @@ The Monitor Imports feature provides an import summary for every import of produ
 ===================     =======================================================================================================================================================================
 
 
-How to do: Monitor Imports
+How-to: Monitor Imports
 ===========================
 
 | For this example, we will use a user with a general account.
@@ -94,7 +94,7 @@ Other options are available: *Last Upload and All Uploads*.
 |
 
 
-How to do: Maintain the Data Quality
+How-to: Maintain the Data Quality
 =====================================
 If there are violations in the *Endpoint Dashboard Entry*, the user may correct them by following these simple steps:
 
@@ -113,4 +113,4 @@ If there are violations in the *Endpoint Dashboard Entry*, the user may correct 
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

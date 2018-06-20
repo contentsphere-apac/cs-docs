@@ -1,7 +1,6 @@
 ================
 Language Variant
 ================
-
 Language Variant is a feature that allows a user to assign language specific values for an attribute or product information can be maintained in multiple languages.
 
 ====================    =============================================================================================================================================================
@@ -18,7 +17,7 @@ Language Variant is a feature that allows a user to assign language specific val
 ====================    =============================================================================================================================================================
 
 
-How to do: Create a Language Variant
+How-to: Create a Language Variant
 ====================================
 To do this, follow these steps:
 
@@ -123,4 +122,4 @@ C#. lick **Explore** and then **PIM**. Select or create a product (In this demo,
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

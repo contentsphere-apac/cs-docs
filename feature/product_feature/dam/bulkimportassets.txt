@@ -25,7 +25,7 @@ The digital assets that may be imported in DAM are the following: *Images, Docum
 ====================      ===============================================================================================================================================================
 
 
-How to do: Bulk Import of Assets
+How-to: Bulk Import of Assets
 ==================================
 To import assets in bulk, follow these steps:
 
@@ -84,4 +84,4 @@ To import assets in bulk, follow these steps:
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

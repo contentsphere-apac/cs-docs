@@ -23,7 +23,7 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 ===================     =======================================================================================================================================================================
 
 
-How to do: Import Tags
+How-to: Import Tags
 ======================
 To import tags, follow these steps:
 

@@ -20,7 +20,7 @@ The Multi-faceted Search feature allows a user to have a multi-faceted search su
 ===================     =============================================================================================================================================================
 
 
-How to do: Multi-faceted Search
+How-to: Multi-faceted Search
 ================================
 To do this search, follow these steps:
 

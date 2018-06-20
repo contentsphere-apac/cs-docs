@@ -18,9 +18,8 @@ Manage Affinities lets you show the right products to the right persona.
 ====================    =============================================================================================================================================================
 
 
-How to do: Manage Affinities
+How-to: Manage Affinities
 ============================
-
 To manage affinities, follow these steps:
 
 |

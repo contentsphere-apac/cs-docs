@@ -25,7 +25,7 @@ Manage Products across Taxonomies is a feature that allows a user to copy or mov
 ====================    =============================================================================================================================================================
 
 
-How to do: Manage Products across Taxonomies
+How-to: Manage Products across Taxonomies
 ============================================
 To manage products across taxonomies, follow these steps:
 
@@ -85,5 +85,6 @@ To manage products across taxonomies, follow these steps:
 |
 |
 
+
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
