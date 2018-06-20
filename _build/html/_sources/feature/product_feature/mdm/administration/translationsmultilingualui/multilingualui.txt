@@ -41,7 +41,7 @@ To do this, follow these steps:
 
 #. Click **Application Labels**.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabels.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabelsa.PNG
 |
 |
 

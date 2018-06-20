@@ -16,7 +16,7 @@ Multilingual UI is a feature that provides translation capability for UI menu it
 **Application:**        * The system can have multiple languages of the UI for different languages.
                         * *Example:*
 
-                            The administrator wants the UI to be in French for a French user. The administrator configures translations to the UI labels in the administration section. When the user selects their desired language, the UI of the system will be translated.
+                            The administrator wants the UI to be in French for a French user. The adminstrator configures translations to the UI labels in the administration section. When the user selects their desired language, the UI of the system will be translated.
 
 ===================     ============================================================================================================================================================================
 
@@ -33,7 +33,7 @@ To do this, follow these steps:
 |
 |
 
-#. Click on the **Translations** tab.
+#. Click **Translations** tab.
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_clicktranslationtab.PNG
 |
@@ -41,11 +41,11 @@ To do this, follow these steps:
 
 #. Click **Application Labels**.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabelsa.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabels.PNG
 |
 |
 
-#. Based on the language required, enter the translations for the desired label (in this demo, we selected *"Acceleration"*).
+#. Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
 
 .. image:: /feature/_images/mdmimages/cs_multilingualui_basedlanguagerequiredentertranslation.PNG
 |
