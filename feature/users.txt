@@ -4,7 +4,7 @@ Getting Started: Users
 
 |
 
-:doc:`Home </index>`
+:doc:`Feature Guides Homepage </feature/homepage>`
 
 |
 
@@ -50,7 +50,7 @@ From PIM to DAM to Virtual Catalog, the Dashboard lets you navigate the system w
 Add New Users
 ===============
 
-| 1. Go to **Settings** > **Partner Admin** > **Users**.
+| 1. Go to **Administration** > **Partner Admin** > **Users**.
 | 2. Enter data in the fields then click **Create**.
 | 3. Click **Add Icon** and select an image icon from your computer.
 |
@@ -58,9 +58,11 @@ Add New Users
 
 .. image:: /feature/_images/mdmimages/cs_users.PNG
 |
+|
+|
+|
 
-
-| :doc:`On to Part 3 </feature/products>`
+| :doc:`Proceed to Part 3. Products </feature/products>`
 |
 | keywords: :doc:`user </glossary>`, :doc:`data model </glossary>`
 |

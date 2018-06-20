@@ -1,6 +1,6 @@
-===============================================
+=========================================
 Getting Started: Overview of Contentserv
-===============================================
+=========================================
 
 |
 
@@ -57,7 +57,14 @@ Nature Classes are customizable in the *Settings* or *Administration*.
 |
 |
 |
+|
+|
 
-| :doc:`On to Part 2 </feature/users>`
+| :doc:`Proceed to Part 2. Users </feature/users>`
 |
 | keywords: :doc:`classes </glossary>`, :doc:`data model </glossary>`
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

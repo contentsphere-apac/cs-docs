@@ -98,3 +98,14 @@ Virtual Catalog Quick Start Guide
 #. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
 #. :doc:`Collections and Bookmarks </feature/product_feature/mdm/general/collectionsandbookmarks/index>`
 #. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+
+|
+|
+|
+|
+
+| :doc:`Back to Overview </feature/overview>`
+
+|
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
