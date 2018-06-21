@@ -24,83 +24,89 @@ Embedded Variants within Context is a feature that allows users to create a vari
 How-to: Embedded Variants within Contexts
 =============================================
 
-This *How-to* guide provides instructions on how to create embedded variants for a product within a context.
 To do this, follow these steps:
-
 
 |
 
+#. Go to *PIM*.
+
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_gotopim.PNG
+|
+|
+
+
 #. Click on the "+" icon and select *Single Article*.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_clickplusicon.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickplusicon.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickplusicon2.PNG
 |
 |
 
 
 #. Fill in the appropriate data and add images for the product and its variants.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_filldata.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_fillinappropriateproductdata.PNG
 |
 |
 
 
-#. Click on the context icon found next to the home icon.
+#. Click the **Contexts** tab.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_clickcontexticon.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcontexticon.PNG
 |
 |
 
 
-#. Click on the **Create Variant** button.
+#. Click on the **Create** button to create a variant.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_clickplusiconcreatevariant.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcreate.PNG
 |
 |
 
 
-#. Select the appropriate tags, select the name of the variant, and click **Save**.
+#. Select the appropriate tags, select a variant, and click **Save**.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_selecttag.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_selectappropriatetags.PNG
 |
 |
 
 
-#. Fill in the data for the variant.
+#. Fill in the data for the variant and click **Save**.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_filldataforvariant.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_fillindata.PNG
 |
 |
 
 
-#. Click on the Camera icon to add the image.
+#. Add image to the created variant.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_clickcamera.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage.PNG
 |
 |
 
-
-#. Select the image from the asset selection of the parent products and click **OK**.
-
-.. image:: /feature/_images/mdmimages/embeddedvariants_selectimage.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage2.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage3.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_addvariantimage4.PNG
 |
 |
 
+#. Go back to the created *Single Article* at the top left corner.
 
-#. Click **Save**.
-
-|
-
-
-#. Click on the **Back** button at the top left corner.
-
-.. image:: /feature/_images/mdmimages/embeddedvariants_clickbackicon.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_clickcreatedsinglearticle.PNG
 |
 |
 
 
 #. The variant looks similar to the image below. Take note that users can create several embedded variants.
 
-.. image:: /feature/_images/mdmimages/embeddedvariants_checkoutput.PNG
+.. image:: /feature/_images/mdmimages/cs_embeddedvariants_variantlookssimilar.PNG
 |
 |
 
