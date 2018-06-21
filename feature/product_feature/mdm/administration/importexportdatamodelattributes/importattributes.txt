@@ -31,21 +31,21 @@ To import attributes, follow the steps provided below:
 
 #. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_logintocontentsphere.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_login.PNG
 |
 |
 
 
 #. Click on the **Data Model** tab and go to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickonthedatamodel.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickondatamodel.PNG
 |
 |
 
 
 #. Go to any attribute type (like *Date*) and click on the **Import all Attributes** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_gotoanyattributeandclickonimport.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickimportallattributes.PNG
 |
 |
 
