@@ -24,8 +24,8 @@ Correct Imported Records is a feature that edits records with incorrect, non-con
 ===================     =======================================================================================================================================================================
 
 
-How-to: How to create correct imported records
-=================================================
+How-to: Correct Imported Records
+==================================
 To do this, follow these steps:
 
 |
