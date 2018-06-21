@@ -56,7 +56,7 @@ To standardize product definitions, follow these steps:
 |
 |
 
-#. Select the *Partners,* and *Physical Catalogs* to which the rule is to be applied.
+#. Select the *Partners* and *Physical Catalogs* to which the rule is to be applied.
 
 .. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_selectpartners.PNG
 |
@@ -73,7 +73,7 @@ To standardize product definitions, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_condition.PNG
 |
 .. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_condition2.PNG
-
+|
 |
 
 #. Select multiple conditions if necessary.
@@ -95,7 +95,7 @@ To standardize product definitions, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_attributeeffect.PNG
 |
 .. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_attributeeffect2.PNG
-
+|
 |
 
 #. Click on the **Save** button to save the rule for the selected attributes and tags. For classes and taxonomies, the rule gets saved upon selection.
@@ -105,4 +105,4 @@ To standardize product definitions, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line
