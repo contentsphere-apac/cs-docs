@@ -4,8 +4,8 @@ Add New Users
 Manage different roles or profiles within the system by adding new users.
 
 
-How to do: Add New Users
-=============================
+How-to: Add New Users
+======================
 To do this, follow these steps:
 
 

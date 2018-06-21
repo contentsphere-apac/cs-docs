@@ -1,7 +1,11 @@
-
+=======================
 Add an Image to the DAM
 =======================
 Products with displayed images are more appealing for the users to the system, which can be stored in DAM (Data Asset Management).
+
+
+How-to: Add an Image
+======================
 To do this, follow these steps:
 
 
