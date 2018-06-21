@@ -23,7 +23,7 @@ The Export Attributes is a feature that allows exporting of attribute definition
 
 
 How-to: Export Attributes
-================================
+==========================
 To export attributes, follow the steps provided below:
 
 |
