@@ -82,12 +82,6 @@ To do this, follow these steps:
 |
 |
 
-#. Click on the attribute with variations.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_clickattribute.PNG
-|
-|
-
 #. Create Attribute Variant for list price.
 
 .. image:: /feature/_images/mdmimages/targetandchannel_createattributevariant.PNG
