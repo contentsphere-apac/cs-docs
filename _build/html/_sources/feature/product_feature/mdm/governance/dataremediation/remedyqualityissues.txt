@@ -27,76 +27,78 @@ To create a rule violation, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+#. Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_login.PNG
 |
 |
 
 
 #. Click on the **Data Governance** tab.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_clickdatagovernance.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_clickdatagovernance.PNG
 |
 |
 
 
 #. Click on **Rules** then click on the “+” icon to create a rule.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_clickrules.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_clickrules.PNG
 |
 |
 
 
 #. Enter the name and select **Violation** as rule type, then click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_entername.PNG
 |
 |
 
 
-#. Select the *Partners,* *Endpoints,* and *Physical Catalogs* to which the rule is to be applied.
+#. Select the *Partners,* and *Physical Catalogs* to which the rule is to be applied.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selectpartners.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selectpartners.PNG
 |
 |
 
 
 #. In the *Cause* section, select the attributes, tags, and classes to which the rule will be applied. Take note that leaving the configuration details empty will apply the rule to every attribute, tag, and class.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selectattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selectattribute.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selecttag.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selecttag.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selectclass.PNG
 |
 |
 
 
-#. After selecting the attribute, select the type of violation.
+#. After selecting the attribute, select the type of violation and enter the value if necessary.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selectviolation.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selectviolation.PNG
 |
 |
 
 
 #. In the *Effect* section, select the attribute to which the violation will be reflected.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_attributeeffect.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_attributeeffect.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_attributeeffect2.PNG
 |
 |
 
 
 #. Select the color and enter the description to be shown whenever the violation occurs.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_selectcolor.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_selectcolor.PNG
 |
 |
 
 
 #. Click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/cs_dataremediation_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_remedyqualityissues_clicksave.PNG
 |
 |
 
