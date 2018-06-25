@@ -16,14 +16,14 @@ Remedy Quality Issues is a data governance feature that edits records with incor
 **Application:**        * The feature can create *Data Quality Rules*.
                         * *Example:*
 
-                             *Organization A* sells *Electronics* and each product has a unique GTIN.  An admin can set up a **rule** stating that the GTIN cannot exceed 14 digits.
+                             *Organization A* sells *Electronics* and each product has a unique GTIN.  An admin can set up a **rule** stating that the GTIN should be 13 digits long.
 
 ===================     =======================================================================================================================================================================
 
 
-How-to: Create Rule Violation
-=================================
-To create a rule violation, follow these steps:
+How-to: Remedy Quality Issues
+==============================
+To remedy quality issues, follow these steps:
 
 |
 
