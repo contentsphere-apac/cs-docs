@@ -1,7 +1,7 @@
 ================================
 Standardize Product Definitions
 ================================
-Standardize Product Definitions is a data governance feature that standardizes the product definitions, which results to improved consistency of product definitions in the system.
+Standardize Product Definitions is a data governance feature that standardizes the product definitions, which results in improved consistency of product definitions in the system.
 
 
 ===================     =======================================================================================================================================================================
