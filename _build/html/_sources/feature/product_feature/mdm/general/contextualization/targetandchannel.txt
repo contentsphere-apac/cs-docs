@@ -21,7 +21,7 @@ Target and Channel Contextualization is a feature that allows users to have attr
 
 
 How-to: Target and Channel Contextualization
-===============================================
+=============================================
 
 To do this, follow these steps:
 
@@ -33,7 +33,7 @@ To do this, follow these steps:
 |
 |
 
-#. Select **Context Configuration**.
+#. Select **Contexts**.
 
 .. image:: /feature/_images/mdmimages/cs_targetandchannel_selectcontextconfiguration.PNG
 |
@@ -51,13 +51,9 @@ To do this, follow these steps:
 |
 |
 
-#. Select tag group to be added in the context and click **Save**.
+#. Select tag group to be added in the context and click **SAVE**.
 
 .. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup2.PNG
 |
 |
 
@@ -104,7 +100,7 @@ To do this, follow these steps:
 |
 |
 
-#. Create Attribute Variant for price.
+#. Create an Attribute Variant for price.
 
 .. image:: /feature/_images/mdmimages/cs_targetandchannel_createattributevariant.PNG
 |
@@ -115,11 +111,12 @@ To do this, follow these steps:
 |
 
 
-#. Select the tag group, enter the value for the attribute, and click **Save**.
+#. Select the tag group, and value for the attribute, and click **Save**.
 
 .. image:: /feature/_images/mdmimages/cs_targetandchannel_selecttaggroup.PNG
 |
 |
+
 
 #. The screen should display something like the image below.
 
@@ -128,6 +125,7 @@ To do this, follow these steps:
 |
 
 .. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay2.PNG
+
 |
 |
 
