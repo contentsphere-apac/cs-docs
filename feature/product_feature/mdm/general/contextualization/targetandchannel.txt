@@ -113,7 +113,7 @@ To do this, follow these steps:
 
 #. Select the tag group, and value for the attribute, and click **Save**.
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_selecttaggroup.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selecttaggroupb.PNG
 |
 |
 
@@ -124,7 +124,7 @@ To do this, follow these steps:
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay2.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay2b.PNG
 
 |
 |
