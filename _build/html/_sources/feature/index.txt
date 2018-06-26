@@ -1,5 +1,5 @@
 ==================
-All Feature Guides
+Feature Guides
 ==================
 
 .. toctree::

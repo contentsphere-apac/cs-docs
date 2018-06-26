@@ -1,6 +1,6 @@
-==============
-Feature Guides
-==============
+===================
+All Feature Guides
+===================
 
 Our feature guides are designed to help you understand a particular feature and be able to implement it through an accompanying how-to guide. Navigate to your desired feature by product line:
 
@@ -10,4 +10,3 @@ Our feature guides are designed to help you understand a particular feature and 
    mdm/index
    pep/index
    dam/index
-   

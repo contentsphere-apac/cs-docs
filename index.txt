@@ -72,9 +72,9 @@ Are you new to Contentserv? This is the place to start:
    :doc:`Part 5: Create a New Product <tutorials/createnewproduct>` |
    :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`|
 
-#. Check out our :doc:`Quick Start Guides </feature/homepage>` to know more on how to get started with the Contentserv platform.
+#. Check out our :doc:`Quick Start Guides </feature/homepage>` to learn how to get started with the Contentserv platform.
 
-#. Visit the :doc:`Help Center </feature/helpcentermain>` for comprehensive access to the help topics.
+#. Know more about :doc:`Using this Resource </feature/helpcentermain>` and access additional help topics.
 
 |
 
