@@ -105,7 +105,7 @@ Virtual Catalog Quick Start Guide
 |
 |
 
-| :doc:`Back to Overview </feature/overview>`
+| Learn :doc:`The Basics </feature/overview>`
 
 |
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
