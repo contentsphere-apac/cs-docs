@@ -1,10 +1,7 @@
-=========================================
-Getting Started: Overview of Contentserv
-=========================================
+===============
+Getting Started
+===============
 
-|
-
-:doc:`Feature Guides Homepage </feature/homepage>`
 
 |
 
@@ -38,21 +35,21 @@ Concepts
 
 Data Model
 ----------
-Products in the real world can be described in various ways.
-In real life we may say a TV has dimensions, colors, and a supplier.
-This is all data that relates to the product.
-When we say Data Model we are talking about the way we structure this information
-so that it accurately reflects reality while also capturing how different entities in Contentserv
-(products, images, audio, color) relate to one another.
+    Products in the real world can be described in various ways.
+    In real life we may say a TV has dimensions, colors, and a supplier.
+    This is all data that relates to the product.
+    When we say Data Model we are talking about the way we structure this information
+    so that it accurately reflects reality while also capturing how different entities in Contentserv
+    (products, images, audio, color) relate to one another.
 
 Classes
 ---------
-Contentserv uses two types of classes: **(1) Nature Class** and **(2) Non-Nature/Attribution Class**.
-Classes define the base configurations for products.
-Each class that is given to a product allows that product to have a more precise definition.
-There are multiple levels of classes that can be used in conjunction to achieve a more refined classification.
-The top level of class is Nature Class. This sets up the type of product base to start with.
-Nature Classes are customizable in the *Settings* or *Administration*.
+    Contentserv uses two types of classes: **(1) Nature Class** and **(2) Non-Nature/Attribution Class**.
+    Classes define the base configurations for products.
+    Each class that is given to a product allows that product to have a more precise definition.
+    There are multiple levels of classes that can be used in conjunction to achieve a more refined classification.
+    The top level of class is Nature Class. This sets up the type of product base to start with.
+    Nature Classes are customizable in the *Settings* or *Administration*.
 
 |
 |

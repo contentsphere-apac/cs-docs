@@ -1,11 +1,11 @@
-========================
-Feature Guides Homepage
-========================
+===========================
+Quick Start Guides
+===========================
 
 |
 
-PIM Quick Start Guide
-=======================
+PIM
+----
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Product Information Management </product/PIM>`
@@ -17,8 +17,8 @@ PIM Quick Start Guide
 * :doc:`Glossary </glossary>`
 
 
-Dashboard Quick Start Guide
-============================
+Dashboard
+---------
 
 * :doc:`Product Glossary </glossary>`
 * :doc:`Explore UI </tutorials/exploretheui>`
@@ -29,8 +29,8 @@ Dashboard Quick Start Guide
 
 
 
-Product Detail View Quick Start Guide
-======================================
+Product Detail View
+--------------------
 
 #. :doc:`Products </feature/product_feature/mdm/products/index>`
 #. :doc:`Create a New Product </tutorials/createnewproduct>`
@@ -39,8 +39,8 @@ Product Detail View Quick Start Guide
 
 
 
-Administration Quick Start Guide
-=================================
+Administration
+---------------
 
 #. :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
 #. :doc:`Data Model - Tag Management </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`
@@ -55,8 +55,8 @@ Administration Quick Start Guide
 #. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`
 
 
-PEP, Onboarding, Data Integration Quick Start Guide
-=====================================================
+PEP, Onboarding, Data Integration
+-----------------------------------
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Partner Engagement Platform </product/PEP>`
@@ -70,8 +70,8 @@ PEP, Onboarding, Data Integration Quick Start Guide
 * :doc:`Glossary </glossary>`
 
 
-DAM Quick Start Guide
-======================
+DAM
+----
 
 #. :doc:`Add an Image to the DAM </tutorials/addimagetoDAM>`
 #. :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
@@ -84,8 +84,8 @@ DAM Quick Start Guide
 #. :doc:`Documents </feature/product_feature/dam/documents>`
 
 
-Supplier Quick Start Guide
-===========================
+Supplier
+---------
 
 #. :doc:`Manage Supplier Records </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`
 #. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
