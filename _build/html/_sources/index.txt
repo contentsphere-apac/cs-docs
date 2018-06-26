@@ -1,7 +1,8 @@
 Overview
 ========
 
-For retailers and brand owners, managing product communication can be overwhelmingly complex - so meeting customer expectations is no small feat! That’s why we developed our Product Experience Management platform. Our innovative software allows you to centrally manage all of your product content and to provide an engaging product experience across all touchpoints.
+he Content Serv system is a Product Experience Management platform was developed for retailers and brand owners, managing overwhelmingly complex product communication.  .The Content serv software allows you to centrally manage all of
+your product content and to provide an engaging product experience across all touchpoints.
 
 
 
@@ -10,7 +11,7 @@ For retailers and brand owners, managing product communication can be overwhelmi
 
 
 Quick Start Guide
-====================
+=================
 What is included in the ContentServ System:
 
 #. :doc:`Master Data Management <product/MDM>` with functionality supporting workflow rules, data quality, catalogue management, user security, data distribution.
