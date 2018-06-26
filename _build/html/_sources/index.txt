@@ -1,7 +1,11 @@
 Overview
-============
+========
 
-.. image:  _images/cs_logindashbord.PNG
+For retailers and brand owners, managing product communication can be overwhelmingly complex - so meeting customer expectations is no small feat! That’s why we developed our Product Experience Management platform. Our innovative software allows you to centrally manage all of your product content and to provide an engaging product experience across all touchpoints.
+
+
+
+.. image:: _images/cs_logindashbord.PNG
    :alt: Contentserv workflow process
 
 
