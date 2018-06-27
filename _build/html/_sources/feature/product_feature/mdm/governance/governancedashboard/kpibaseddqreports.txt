@@ -31,7 +31,7 @@ To do this, follow these steps:
 
 #. Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_kpibaseddqreports_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickadministrationc.PNG
 |
 |
 
