@@ -43,7 +43,7 @@ Manage Supplier Records is a feature that manages supplier records and their ide
 
 
 How-to: Manage Supplier Records
-===================================
+=================================
 To manage supplier records, follow these steps:
 
 |
