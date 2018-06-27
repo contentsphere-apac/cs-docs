@@ -87,13 +87,10 @@ To do this, follow these steps:
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab2.PNG
+.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab2b.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab3.PNG
-|
-|
 
 #. Click **Apply**.  Click **Save** to save the changes.
 
