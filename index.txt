@@ -22,7 +22,7 @@ What is included in the ContentServ System:
 |
 
 Exploring Contentserv
-======================
+=====================
 |
 
 **Newbie:**
