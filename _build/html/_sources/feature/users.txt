@@ -1,0 +1,69 @@
+=======================
+Getting Started: Users
+=======================
+
+|
+
+:doc:`1. Overview </feature/overview>` | :doc:`2. Users </feature/users>` | :doc:`3. Products </feature/products>` | :doc:`4. References </reference/index>` |
+
+Prerequisites
+===============
+
+* Read the orientation in :doc:`Part 1 </feature/overview>`
+
+
+Introduction
+===============
+
+A user is someone who logs into the Contentserv system. Depending on the permission given, a user can:
+
+* create products and taxonomies
+* view and update
+* delete
+
+|
+
+Log in to Contentserv
+========================
+
+| 1. On a web browser, enter https://sandbox.contentsphere.com/docs.
+| 2. Enter the username and password.
+| 3. Click **LOG IN**.
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_login.PNG
+|
+
+Dashboard
+==========
+The Dashboard provides an at-a-glance view of the Contentserv system, providing access to the array of features that Contentserv offers.
+From PIM to DAM to Virtual Catalog, the Dashboard lets you navigate the system with ease while making the quality monitoring process a breeze.
+
+.. image:: /feature/_images/mdmimages/cs_dashboard.PNG
+|
+
+Add New Users
+===============
+
+| 1. Go to **Administration** > **Partner Admin** > **Users**.
+| 2. Enter data in the fields then click **Create**.
+| 3. Click **Add Icon** and select an image icon from your computer.
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_users.PNG
+|
+|
+|
+|
+
+| :doc:`Proceed to Part 3. Products </feature/products>`
+|
+| keywords: :doc:`user </glossary>`, :doc:`data model </glossary>`
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

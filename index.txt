@@ -4,69 +4,46 @@ Getting help
 .. image:: _images/homescreenshot-compressed.png
    :alt: Contentserv log in screen
 
-
-Using this Resource
-====================
-
-The Help Center holds everything you need to know about the **Contentserv** application suite in the form of
-training materials and guides.
-
-To search through the documentation see the :ref:`search` or use the search field in the navigation bar.
-
-The site is organized into four key areas which are referenced throughout the handbook. The Handbook is also
-the basis for the context sensitive help and tooltips within the application.
-
-* :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
-  Start here if you’re new to **Contentserv** or training on the product as a user.
-  Also look at the *New to Contentserv* section below.
-
-* :doc:`Feature guides </feature/index>` discuss key features and concepts at a fairly high level and provide
-  useful background information and explanation, including key user stories.
-
-* :doc:`Reference guides </reference/index>` contain technical reference for implementation and support of the
-  application and other aspects of **Contentserv’s** machinery. They describe how it works and how to use it but assume
-  that you have a basic understanding of key concepts.
-
-* :doc:`Glossary </glossary>` defines the terms found in Contentserv.
-
-.. _new-to-contentserv:
-
-|
 |
 
-.. image:: _images/line-png-32.png
-   :alt: Contentserv log in screen
+
+Overview
+=========
 
 |
 
-New to Contentserv
-===================
+What is CONTENTSERV
+--------------------
 
-Are you new to Contentserv? This is the place to start:
-
-#. **Newbie:**
-   :doc:`About the product <product/productlines>` |
-   :doc:`Explore the User Interface <tutorials/exploretheui>` |
-   :doc:`Technical Deployment <reference/install>`
-
-#. **Tutorial:**
-   :doc:`Part 1: About the product <product/productlines>` |
-   :doc:`Part 2: Explore the User Interface <tutorials/exploretheui>` |
-   :doc:`Part 3: Add New Users <tutorials/addnewuser>` |
-   :doc:`Part 4: Add an Image to the DAM <tutorials/addimagetoDAM>` |
-   :doc:`Part 5: Create a New Product <tutorials/createnewproduct>` |
-   :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`
+* Contentserv is a software vendor for Enterprise Marketing Management solutions (EMM).
+* The Contentserv product is a creative system for marketing, sales and communication.
+* Placing utmost importance on customer service, Contentserv is solidly founded on good relationships with the customers.
+* Offering a comprehensive web-based platform, Contentserv's solution portfolio combines selected products and best-practice models for individual solution areas such as Product Information Management.
 
 |
-|
 
-.. image:: _images/line-png-32.png
-  :alt: Contentserv log in screen
+
 
 |
+
+The Contentserv Solution
+-------------------------
+
+* Contentserv empowers it customers to prepare their products with the respective images linked and localized to customer data.
+* The platform allows for the use of classic and digital marketing channels for greater reach and accessibility across every touchpoint.
+
+
+.. image:: _images/contentserv_solution.PNG
+   :alt: Contentserv solution
+
+.. image:: _images/contentserv_solution2.PNG
+   :alt: Contentserv solution
+
+|
+
 
 Contentserv Product Lines
-===========================
+--------------------------
 Learn about some other core functionalities of the :doc:`Contentserv Product Lines <product/index>`:
 
 #. :doc:`Master Data Management <product/MDM>` with functionality supporting workflow rules, data quality, catalogue management, user security, data distribution.
@@ -78,5 +55,27 @@ Learn about some other core functionalities of the :doc:`Contentserv Product Lin
 |
 
 
-.. image:: _images/line-png-32.png
-  :alt: Contentserv log in screen
+New to Contentserv
+--------------------
+Are you new to Contentserv? This is the place to start:
+
+Newbie
+
+* :doc:`About the product <product/productlines>`
+* :doc:`Explore the User Interface <tutorials/exploretheui>`
+* :doc:`Technical Deployment <reference/install>`
+
+Tutorial
+
+* :doc:`Part 1: About the product <product/productlines>`
+* :doc:`Part 2: Explore the User Interface <tutorials/exploretheui>`
+* :doc:`Part 3: Add New Users <tutorials/addnewuser>`
+* :doc:`Part 4: Add an Image to the DAM <tutorials/addimagetoDAM>`
+* :doc:`Part 5: Create a New Product <tutorials/createnewproduct>`
+* :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`
+
+Check out our :doc:`Quick Start Guides </feature/homepage>` to learn how to get started with the Contentserv platform.
+|
+
+Know more about :doc:`Using this Resource </feature/helpcentermain>` and access additional help topics.
+|
