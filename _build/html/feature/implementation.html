@@ -1,0 +1,306 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Implementation Guide &#8212; Contentsphere  documentation</title>
+    <link rel="stylesheet" href="../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="The Basics" href="overview.html" />
+    <link rel="prev" title="Documents: .docx, .pptx, .pdf, .indd" href="product_feature/dam/documents.html" />
+
+
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contentserv Help Center</title>
+<script type="text/javascript" src="../templatebuiltins.js"></script>
+<script type="text/javascript">
+(function($) {
+    if (!contentsphere_template_builtins) {
+       // templatebuiltins.js missing, do nothing.
+       return;
+    }
+    $(document).ready(function() {
+        // Hyperlink contentsphere template tags and filters
+        var base = "../ref/templates/builtins.html";
+        if (base == "#") {
+            // Special case for builtins.html itself
+            base = "";
+        }
+        // Tags are keywords, class '.k'
+        $("div.highlight\\-html\\+contentsphere span.k").each(function(i, elem) {
+             var tagname = $(elem).text();
+             if ($.inArray(tagname, contentsphere_template_builtins.ttags) != -1) {
+                 var fragment = tagname.replace(/_/, '-');
+                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + tagname + "</a>");
+             }
+        });
+        // Filters are functions, class '.nf'
+        $("div.highlight\\-html\\+contentsphere span.nf").each(function(i, elem) {
+             var filtername = $(elem).text();
+             if ($.inArray(filtername, contentsphere_template_builtins.tfilters) != -1) {
+                 var fragment = filtername.replace(/_/, '-');
+                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + filtername + "</a>");
+             }
+        });
+    });
+})(jQuery);
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110467525-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110467525-1');
+</script>
+
+  </head>
+  <body>
+
+    <div class="document">
+  <div id="custom-doc" class="yui-t6">
+    <div id="top-nav">
+      <a href="../index.html"><img src="https://assets.hypefactors.com/companies/company-logos/original/2TGKzLT4YYMJsqTVe3wvL7qWOPF1e0W0iCAoaGqa.png" class="cs-logo"></a>
+      <ul class="nav-ul">
+        <li class="nav-li"><a href="https://contentsphere.com/">Website</a></li>
+        <li class="nav-li active"><a href="http://help.contentsphere.com/en/latest/">Help Center</a></li>
+        <li class="nav-li"><a href="https://contentsphere.com/contactform/">Contact</a></li>
+      </ul>
+    </div>
+    <div id="hd">
+      <h1 class="documentation-header"><a href="../index.html">Help Center</a></h1>
+      <div id="searchbox" role="search" class="search-nav">
+        <form class="search" action="http://help.contentsphere.com/en/latest/search.html" method="get">
+          <div>
+            <input type="text" class="form-input" name="q">
+            <button type="submit" class="form-btn">Search</button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <div id="global-nav">
+      <!-- <a title="Home page" href="../index.html">Home</a>  |
+      <a title="Table of contents" href="../contents.html">Table of contents</a>  |
+      <a title="Global index" href="../genindex.html">Index</a>  | -->
+      
+    </div>
+    <!-- <div class="nav">
+    &laquo; <a href="product_feature/dam/documents.html" title="Documents: .docx, .pptx, .pdf, .indd">previous</a>
+     |
+    <a href="index.html" title="Feature Guides" accesskey="U">up</a>
+   |
+    <a href="overview.html" title="The Basics">next</a> &raquo;</div> -->
+
+    <div id="bd">
+      <div id="yui-main">
+        <div class="yui-b">
+          
+            <div class="breadcrumbs">
+              <a href="../index.html">Home</a> /
+              
+                <span><a href="index.html">Feature Guides</a> /
+              
+              <span>Implementation Guide</span>
+              </span>
+            </div>
+          
+          <div class="yui-g" id="feature-implementation">
+            
+  <div class="section" id="s-implementation-guide">
+<span id="implementation-guide"></span><h1>Implementation Guide<a class="headerlink" href="#implementation-guide" title="Permalink to this headline">¶</a></h1>
+<p>This page will help you, a Contentserv user to understand the basic concepts surrounding a product.
+After reading through the content of this page, you should be able to define what a product is as it pertains to Contentserv and the various types that you can set up in the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-what-is-a-product">
+<span id="what-is-a-product"></span><h2>What is a Product?<a class="headerlink" href="#what-is-a-product" title="Permalink to this headline">¶</a></h2>
+<p>Products are merchandise offered to a market by a supplier to satisfy a need or demand.  A product is manufactured through a process and provides benefit to its intended market.
+A chair, a table, and a ‘set of furniture’ for the dining room are examples of products. Similarly, a product can also be an idea or a service.</p>
+<p>In the Contentserv Global System, a product can be a placeholder for a group of items of the same model or a stand-alone item up for sale. Here, you can create a product, enrich it with relevant images, videos and classify it according to its specific details.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-what-are-the-various-types-of-products-in-contentserv">
+<span id="what-are-the-various-types-of-products-in-contentserv"></span><h2>What are the various types of Products in Contentserv?<a class="headerlink" href="#what-are-the-various-types-of-products-in-contentserv" title="Permalink to this headline">¶</a></h2>
+<p>To give our customers the liberty of displaying the products in the most attractive manner that will also aid with their promotional activities,
+we have introduced various types of products, a detailed account of same is described in the following section.</p>
+<p>Each type of product has a unique set of values/attributes that can be assigned to it. Having various types of products enhances its use and makes it more relevant for the market.
+Say, a <em>Chair</em> is a good stand-alone product to sell, but a <em>Dining Table</em> usually sells and comes with chairs.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>Here is a list of the types of products that can be set up in the system:</p>
+<ul class="simple">
+<li>Single Article</li>
+<li>Bundle</li>
+<li>Fixed Bundle</li>
+<li>Set of products</li>
+<li>Promotional Collections</li>
+<li>PID</li>
+<li>Unit</li>
+<li>Standard Identifier</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-single-article">
+<span id="single-article"></span><h3>Single Article<a class="headerlink" href="#single-article" title="Permalink to this headline">¶</a></h3>
+<p>A <em>Single Article</em> is a stand-alone sellable item. This product type is usually used to create independent products.</p>
+<p><em>Example:</em></p>
+<blockquote>
+<div><p>Dog Bed.</p>
+<img alt="../_images/cs_classesanddatamodels_singlearticle.PNG" src="../_images/cs_classesanddatamodels_singlearticle.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+<p>Also, a single article can be a chair, a table lamp, a mattress and so on.</p>
+<img alt="../_images/butdocumentation_image4.PNG" src="../_images/butdocumentation_image4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p>These <em>Single Articles</em> can be sold individually or grouped together to make a bundle.</p>
+<ul>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Furnishing items like chair, table, sofa, table lamp are individual items for sale; when put together in a bundle, they form a ‘living room set’.</p>
+</div></blockquote>
+</li>
+</ul>
+<p>And that introduces you to the next product type- <strong>Bundle</strong>.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-bundle">
+<span id="bundle"></span><h3>Bundle<a class="headerlink" href="#bundle" title="Permalink to this headline">¶</a></h3>
+<p>A bundle is a collection of items put together by the retailer for sale.
+In Contentserv, a user (authorized person to use the system) can create two types of bundles: <strong>(1) Fixed Bundle</strong> and <strong>(2) Threshold (or Loose) Bundle</strong>.</p>
+<img alt="../_images/butdocumentation_image5.PNG" src="../_images/butdocumentation_image5.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-ready-to-create-a-product">
+<span id="ready-to-create-a-product"></span><h3>Ready to create a Product?<a class="headerlink" href="#ready-to-create-a-product" title="Permalink to this headline">¶</a></h3>
+<p>Once the concept of a product (and its types) is clear, you may visit the <a class="reference internal" href="../tutorials/createnewproduct.html"><span class="doc">Create a New Product</span></a> page to learn about the steps in creating a product in Contentserv.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../_images/line-png-328.PNG" />
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <!-- Sidebar -->
+      <!-- 
+        
+          <div class="yui-b" id="sidebar">
+            <div class="sidebar-padding">
+              
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../contents.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Implementation Guide</a><ul>
+<li><a class="reference internal" href="#what-is-a-product">What is a Product?</a></li>
+<li><a class="reference internal" href="#what-are-the-various-types-of-products-in-contentserv">What are the various types of Products in Contentserv?</a><ul>
+<li><a class="reference internal" href="#single-article">Single Article</a></li>
+<li><a class="reference internal" href="#bundle">Bundle</a></li>
+<li><a class="reference internal" href="#ready-to-create-a-product">Ready to create a Product?</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <h3>Browse</h3>
+  <ul>
+    
+      <li>Prev: <a href="product_feature/dam/documents.html">Documents: .docx, .pptx, .pdf, .indd</a></li>
+    
+    
+      <li>Next: <a href="overview.html">The Basics</a></li>
+    
+  </ul>
+  <h3>You are here:</h3>
+  <ul>
+      <li>
+        <a href="../index.html">Contentsphere  documentation</a>
+        
+          <ul><li><a href="index.html">Feature Guides</a>
+        
+        <ul><li>Implementation Guide</li></ul>
+        </li></ul>
+      </li>
+  </ul>
+
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="../search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+                <h3>Last update:</h3>
+                <p class="topless">Jun 28, 2018</p>
+            </div>
+          </div>
+        
+       -->
+    </div>
+
+    <!-- Jira snippet -->
+    <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
+
+    <div id="ft">
+        <p class="topless">Last updated: Jun 28, 2018</p>
+      <div class="nav">
+    &laquo; <a href="product_feature/dam/documents.html" title="Documents: .docx, .pptx, .pdf, .indd">previous</a>
+     |
+    <a href="index.html" title="Feature Guides" accesskey="U">up</a>
+   |
+    <a href="overview.html" title="The Basics">next</a> &raquo;</div>
+    </div>
+  </div>
+
+      <div class="clearer"></div>
+    </div>
+  </body>
+</html>

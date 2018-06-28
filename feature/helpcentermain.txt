@@ -4,6 +4,7 @@ Using this Resource
 
 The Help Center holds everything you need to know about the **Contentserv** application suite in the form of
 training materials and guides.
+
 To search through the documentation see the :ref:`search` or use the search field in the navigation bar.
 
 The site is organized into four key areas which are referenced throughout the handbook. The Handbook is also

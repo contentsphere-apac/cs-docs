@@ -1,44 +1,41 @@
 Getting help
-============
+==============
 
 .. image:: _images/homescreenshot-compressed.png
    :alt: Contentserv log in screen
 
 |
-
-
-Overview
-=========
-
 |
 
-What is CONTENTSERV
+CONTENTSERV
+============
+
+|
+|
+
+
+What is Contentserv?
 --------------------
 
-* Contentserv is a software vendor for Enterprise Marketing Management solutions (EMM).
-* The Contentserv product is a creative system for marketing, sales and communication.
-* Placing utmost importance on customer service, Contentserv is solidly founded on good relationships with the customers.
-* Offering a comprehensive web-based platform, Contentserv's solution portfolio combines selected products and best-practice models for individual solution areas such as Product Information Management.
+* Contentserv is a web-based multi-platform and enterprise solution that turns product information into an engaging product experience.
+* The Contentserv product is a creative system for marketing, sales, and communication, placing utmost importance on customer service because the product is solidly founded on good relationships with the customers.
+* Offering a comprehensive web-based platform, Contentserv's solution portfolio combines selected products and best-practice models for individual solution areas such as Product Information Management or Marketing Content Management.
 
 |
-
-
-
 |
+
 
 The Contentserv Solution
 -------------------------
 
-* Contentserv empowers it customers to prepare their products with the respective images linked and localized to customer data.
-* The platform allows for the use of classic and digital marketing channels for greater reach and accessibility across every touchpoint.
+* The platform allows for the use of classic and digital marketing channels for greater reach and accessibility across every touch point and empowers customers by preparing products with respective images linked and localized to the customer data.
 
 
-.. image:: _images/contentserv_solution.PNG
-   :alt: Contentserv solution
 
-.. image:: _images/contentserv_solution2.PNG
-   :alt: Contentserv solution
+.. image:: _images/butdocumentation_image1.PNG
+   :alt: Contentserv Solution
 
+|
 |
 
 
@@ -52,12 +49,23 @@ Learn about some other core functionalities of the :doc:`Contentserv Product Lin
 #. :doc:`Partner Engagement Platform <product/PEP>` deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding.
 
 |
+
+.. image:: _images/butdocumentation_image2.PNG
+   :alt: Contentserv Solution
+
+|
+
+.. image:: _images/butdocumentation_image3.PNG
+   :alt: Contentserv Solution
+
+|
 |
 
 
 New to Contentserv
---------------------
+-------------------
 Are you new to Contentserv? This is the place to start:
+
 
 Newbie
 
@@ -74,8 +82,14 @@ Tutorial
 * :doc:`Part 5: Create a New Product <tutorials/createnewproduct>`
 * :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`
 
-Check out our :doc:`Quick Start Guides </feature/homepage>` to learn how to get started with the Contentserv platform.
+|
 |
 
-Know more about :doc:`Using this Resource </feature/helpcentermain>` and access additional help topics.
+
+Check out our :doc:`Quick Start Guides </feature/homepage>` to learn how to get started with the Contentserv platform
+and know more about :doc:`Using this Resource </feature/helpcentermain>` and access additional help topics.
+
 |
+
+.. image:: _images/line-png-32.PNG
+   :alt: Contentserv line

@@ -4,8 +4,8 @@ Quick Start Guides
 
 |
 
-PIM
-----
+Product Information Management (PIM)
+-------------------------------------
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Product Information Management </product/PIM>`
@@ -16,9 +16,10 @@ PIM
 * :doc:`Create a New Product </tutorials/createnewproduct>`
 * :doc:`Glossary </glossary>`
 
+|
 
 Dashboard
----------
+----------
 
 * :doc:`Product Glossary </glossary>`
 * :doc:`Explore UI </tutorials/exploretheui>`
@@ -27,17 +28,17 @@ Dashboard
 * :doc:`KPI-based DQ Reports </feature/product_feature/mdm/governance/governancedashboard/kpibaseddqreports>`
 * :doc:`Standard Product Definitions </feature/product_feature/mdm/governance/standardizationandnormalization/standardizeproductdefinitions>`
 
-
+|
 
 Product Detail View
---------------------
+---------------------
 
 #. :doc:`Products </feature/product_feature/mdm/products/index>`
 #. :doc:`Create a New Product </tutorials/createnewproduct>`
 #. :doc:`What is a Data Model? </tutorials/whatisadatamodel>`
 #. :doc:`How Classes Work </tutorials/howclasseswork>`
 
-
+|
 
 Administration
 ---------------
@@ -54,9 +55,10 @@ Administration
 #. :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
 #. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`
 
+|
 
-PEP, Onboarding, Data Integration
------------------------------------
+Partner Engagement Platform (PEP), Onboarding, Data Integration
+----------------------------------------------------------------
 
 * :doc:`Product Lines and Products </product/index>`
 * :doc:`Partner Engagement Platform </product/PEP>`
@@ -69,9 +71,10 @@ PEP, Onboarding, Data Integration
 * :doc:`Assign Endpoint to Partner and Role </tutorials/onboardingpractical/assignendpoint>`
 * :doc:`Glossary </glossary>`
 
+|
 
-DAM
-----
+Data Asset Management (DAM)
+----------------------------
 
 #. :doc:`Add an Image to the DAM </tutorials/addimagetoDAM>`
 #. :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
@@ -83,6 +86,7 @@ DAM
 #. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkexportofassets>`
 #. :doc:`Documents </feature/product_feature/dam/documents>`
 
+|
 
 Supplier
 ---------
@@ -91,22 +95,21 @@ Supplier
 #. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
 #. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
+|
 
-
-Virtual Catalog Quick Start Guide
-==================================
+Virtual Catalog
+----------------
 
 #. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
 #. :doc:`Collections and Bookmarks </feature/product_feature/mdm/general/collectionsandbookmarks/index>`
 #. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
 
-|
-|
+
 |
 |
 
-| Learn :doc:`The Basics </feature/overview>`
 
+|
 |
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
