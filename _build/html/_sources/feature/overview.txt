@@ -20,6 +20,8 @@ User Interface
 ===============
 Easily navigate via Contentserv's user-friendly interface:
 
+|
+
 .. image:: /feature/_images/mdmimages/cs_ui1.jpg
    :alt: Contentsphere UI
 
