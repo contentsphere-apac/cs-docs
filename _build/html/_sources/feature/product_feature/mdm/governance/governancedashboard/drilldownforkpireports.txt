@@ -36,7 +36,7 @@ To do this, follow these steps:
 |
 
 
-#. Click the *Data Governance* tab from the top.
+#. Click the **Data Governance** tab from the top.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_clicgovernancetab.PNG
 |
@@ -63,7 +63,7 @@ To do this, follow these steps:
 |
 |
 
-#. Once the KPI is created, it appears in the list of KPI. It automatically opens the created KPI.
+#. Once the KPI is created, it automatically opens the created KPI.
 
 |
 
