@@ -34,7 +34,7 @@ To set up system profile, follow these steps:
 
 #. Log in and go to *Administration*.
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_gotoadmin.PNG
+.. image:: /feature/_images/pepimages/cs_managesystemprofile_login.PNG
 |
 |
 
@@ -53,9 +53,9 @@ To set up system profile, follow these steps:
 |
 
 
-#. Click on the "+" button to create an organization (or select an existing one).
+#. Click on the "+" icon to create an organization (or select an existing one).
 
-.. image:: /feature/_images/pepimages/cs_managesystemprofile_clickplusbutton.PNG
+.. image:: /feature/_images/pepimages/cs_managesystemprofile_clickplusicon.PNG
 |
 |
 
@@ -87,6 +87,11 @@ To set up system profile, follow these steps:
 |
 |
 
+#. Click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_managesystemprofile_clicksave.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
