@@ -24,7 +24,7 @@ The Manage Virtual Catalogs feature creates multiple collections and bookmarks t
 
 
 How-to: Manage Virtual Catalogs
-===================================
+================================
 To do this feature, follow these steps:
 
 |
@@ -60,6 +60,13 @@ To do this feature, follow these steps:
 #. Fill out all the details like *Name, Nature Type, and Type*. It is optional to provide a detail for the *Code* field. Click on the **Create** button once done.
 
 .. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_fillouthedetails.PNG
+|
+|
+
+
+#. Once the pane on the right of the screen has loaded, complete the remaining details.
+
+.. image:: /feature/_images/mdmimages/cs_managevirtualcatalog_completedetails.PNG
 |
 |
 
