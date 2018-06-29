@@ -152,7 +152,7 @@ To do this, follow these steps:
 #. Click **Back** to add more products. Images can also be added in the *Relationship* tab.
 
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickback.PNG
+.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickbackb.PNG
 |
 |
 
