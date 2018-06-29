@@ -44,14 +44,14 @@ To do this, follow these steps:
 
 #. Click on the "+" icon to create the type of product.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickdatamodel.PNG
+.. image:: /feature/_images/mdmimages/cs_manageprepacks_clickplus.PNG
 |
 |
 
 
 #. Fill in the required details and enable the tab for nature class type.
 
-.. image:: /feature/_images/mdmimages/cs_manageprepacks_enterdetails.PNG
+.. image:: /feature/_images/mdmimages/cs_manageprepacks_fillindetailsenable.PNG
 |
 |
 
@@ -94,7 +94,7 @@ To do this, follow these steps:
 |
 |
 
-#. In the Relationship section, select the class by clicking on Other Side (in this demo, we selected   *'article'*). The type of class you choose here will decide what kind of products you can add to threshold bundles.
+#. In the Relationship section, select the class by clicking on Other Side (in this demo, we selected   *'Single Article'*). The type of class you choose here will decide what kind of products you can add to threshold bundles.
 
 .. image:: /feature/_images/mdmimages/cs_manageprepacks_inrelationshipsection.PNG
 |
