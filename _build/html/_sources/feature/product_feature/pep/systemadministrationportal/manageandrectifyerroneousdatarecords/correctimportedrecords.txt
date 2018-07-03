@@ -25,7 +25,7 @@ Correct Imported Records is a feature that edits records with incorrect, non-con
 
 
 How-to: Correct Imported Records
-==================================
+================================
 To do this, follow these steps:
 
 |
@@ -39,7 +39,7 @@ To do this, follow these steps:
 
 #. Click on the **Data Integration** tab and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtaba.PNG
 |
 |
 
@@ -70,7 +70,7 @@ To do this, follow these steps:
 |
 
 
-#. Click **Catalog**. The Catalog includes the products that are visible with violations.
+#. Click **Catalog**. The Catalog includes the products that has violations.
 
 .. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickcatalog.PNG
 |

@@ -39,7 +39,7 @@ To do this, follow these steps:
 
 #. Click on the **Data Integration** tab and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtaba.PNG
 |
 |
 
