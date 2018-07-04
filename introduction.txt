@@ -1,5 +1,5 @@
 ============
-CONTENTSERV
+Contentserv
 ============
 
 |
@@ -75,8 +75,8 @@ Tutorial
 |
 
 
-Check out our :doc:`Deployment Guides </deployment/index>` to learn how to get started with the Contentserv platform
-and access the :doc:`Using this Resource </feature/helpcentermain>` to learn additional help topics.
+Check out our :doc:`Deployment Guides <deployment/index>` to learn how to get started with the Contentserv platform
+and access the :doc:`Using this Resource <feature/helpcentermain>` to learn additional help topics.
 
 |
 
