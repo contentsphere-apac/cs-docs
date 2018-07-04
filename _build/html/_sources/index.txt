@@ -1,16 +1,7 @@
-Getting help
-==============
-
-.. image:: _images/homescreenshot-compressed.png
-   :alt: Contentserv log in screen
-
-|
-|
-
+============
 CONTENTSERV
 ============
 
-|
 |
 
 
@@ -22,12 +13,10 @@ What is Contentserv?
 * Offering a comprehensive web-based platform, Contentserv's solution portfolio combines selected products and best-practice models for individual solution areas such as Product Information Management or Marketing Content Management.
 
 |
-|
 
 
 The Contentserv Solution
 -------------------------
-
 * The platform allows for the use of classic and digital marketing channels for greater reach and accessibility across every touch point and empowers customers by preparing products with respective images linked and localized to the customer data.
 
 
