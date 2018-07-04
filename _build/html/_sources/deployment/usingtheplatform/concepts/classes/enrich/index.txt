@@ -1,0 +1,8 @@
+================================
+Enrich product information
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   enrich/index

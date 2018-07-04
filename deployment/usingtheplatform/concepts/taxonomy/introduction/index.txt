@@ -1,0 +1,8 @@
+================================
+Introduction to taxonomy
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   introduce
