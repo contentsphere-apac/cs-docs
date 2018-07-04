@@ -1,5 +1,5 @@
 ================================
-Introduction to taxonomy
+Introduction to Taxonomy
 ================================
 
 .. toctree::
