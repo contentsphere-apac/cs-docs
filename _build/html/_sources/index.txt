@@ -86,8 +86,8 @@ Tutorial
 |
 
 
-Check out our :doc:`Quick Start Guides </feature/homepage>` to learn how to get started with the Contentserv platform
-and know more about :doc:`Using this Resource </feature/helpcentermain>` and access additional help topics.
+Check out the :doc:`Deployment Guide </deployment/index>` to learn how to get started with the Contentserv platform
+and access the :doc:`Using this Resource </feature/helpcentermain>` to learn additional help topics.
 
 |
 

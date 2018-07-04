@@ -1,0 +1,14 @@
+============
+Setting Up
+============
+
+.. toctree::
+   :maxdepth: 1
+
+   assessing/index
+   planning
+   installing
+   deploying/index
+   settingup
+   configuring/index
+   checking

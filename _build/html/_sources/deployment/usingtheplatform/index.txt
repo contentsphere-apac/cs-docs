@@ -1,0 +1,9 @@
+===================
+Using the Platform
+===================
+
+.. toctree::
+   :maxdepth: 1
+
+   references
+   usingthefeatures/index
