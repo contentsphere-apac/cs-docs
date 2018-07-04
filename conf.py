@@ -72,7 +72,7 @@ source_suffix = '.txt'
 master_doc = 'contents'
 
 # General substitutions.
-project = 'Contentsphere'
+project = 'Contentserv'
 copyright = 'CS Group'
 
 
