@@ -156,9 +156,9 @@ html_static_path = ["_theme/contentspheredocs/_static"]
     'style_external_links': False,
     'vcs_pageview_mode': '',
     # Toc options
-    'collapse_navigation': False,
+    'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 3,
+    'navigation_depth': 4,
     'includehidden': True,
     'titles_only': False
 }
