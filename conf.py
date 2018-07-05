@@ -164,7 +164,7 @@ html_static_path = ["_theme/contentspheredocs/_static"]
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ["_theme"]
+html_theme_path = ["sphinx_rtd_theme"]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
