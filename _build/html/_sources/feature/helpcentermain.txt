@@ -1,0 +1,26 @@
+====================
+Using this Resource
+====================
+
+The Help Center holds everything you need to know about the **Contentserv** application suite in the form of
+training materials and guides.
+
+To search through the documentation see the :ref:`search` or use the search field in the navigation bar.
+
+The site is organized into four key areas which are referenced throughout the handbook. The Handbook is also
+the basis for the context sensitive help and tooltips within the application.
+
+* :doc:`Tutorials </tutorials/index>` take you by the hand through a series of steps to work within the **Contentserv** application.
+  Start here if you’re new to **Contentserv** or training on the product as a user.
+  Also look at the *New to Contentserv* section below.
+
+* :doc:`Feature guides </feature/index>` discuss key features and concepts at a fairly high level and provide
+  useful background information and explanation, including key user stories.
+
+* :doc:`Reference guides </reference/index>` contain technical reference for implementation and support of the
+  application and other aspects of **Contentserv’s** machinery. They describe how it works and how to use it but assume
+  that you have a basic understanding of key concepts.
+
+* :doc:`Glossary </glossary>` defines the terms found in Contentserv.
+
+.. _new-to-contentserv:

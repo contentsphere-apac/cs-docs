@@ -1,0 +1,8 @@
+================================
+Creating Hierarchies in Taxonomy
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   configure

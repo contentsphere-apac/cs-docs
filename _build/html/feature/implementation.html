@@ -1,0 +1,299 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Implementation Guide &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" /> 
+
+  
+  <script src="../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../index.html">CONTENTSERV</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../contents.html">Docs</a> &raquo;</li>
+        
+      <li>Implementation Guide</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-implementation-guide">
+<span id="implementation-guide"></span><h1>Implementation Guide<a class="headerlink" href="#implementation-guide" title="Permalink to this headline">¶</a></h1>
+<p>This page will help you, a Contentserv user to understand the basic concepts surrounding a product.
+After reading through the content of this page, you should be able to define what a product is as it pertains to Contentserv and the various types that you can set up in the system.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-what-is-a-product">
+<span id="what-is-a-product"></span><h2>What is a Product?<a class="headerlink" href="#what-is-a-product" title="Permalink to this headline">¶</a></h2>
+<p>Products are merchandise offered to a market by a supplier to satisfy a need or demand.  A product is manufactured through a process and provides benefit to its intended market.
+A chair, a table, and a ‘set of furniture’ for the dining room are examples of products. Similarly, a product can also be an idea or a service.</p>
+<p>In the Contentserv Global System, a product can be a placeholder for a group of items of the same model or a stand-alone item up for sale. Here, you can create a product, enrich it with relevant images, videos and classify it according to its specific details.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-what-are-the-various-types-of-products-in-contentserv">
+<span id="what-are-the-various-types-of-products-in-contentserv"></span><h2>What are the various types of Products in Contentserv?<a class="headerlink" href="#what-are-the-various-types-of-products-in-contentserv" title="Permalink to this headline">¶</a></h2>
+<p>To give our customers the liberty of displaying the products in the most attractive manner that will also aid with their promotional activities,
+we have introduced various types of products, a detailed account of same is described in the following section.</p>
+<p>Each type of product has a unique set of values/attributes that can be assigned to it. Having various types of products enhances its use and makes it more relevant for the market.
+Say, a <em>Chair</em> is a good stand-alone product to sell, but a <em>Dining Table</em> usually sells and comes with chairs.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>Here is a list of the types of products that can be set up in the system:</p>
+<ul class="simple">
+<li>Single Article</li>
+<li>Bundle</li>
+<li>Fixed Bundle</li>
+<li>Set of products</li>
+<li>Promotional Collections</li>
+<li>PID</li>
+<li>Unit</li>
+<li>Standard Identifier</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-single-article">
+<span id="single-article"></span><h3>Single Article<a class="headerlink" href="#single-article" title="Permalink to this headline">¶</a></h3>
+<p>A <em>Single Article</em> is a stand-alone sellable item. This product type is usually used to create independent products.</p>
+<p><em>Example:</em></p>
+<blockquote>
+<div><p>Dog Bed.</p>
+<img alt="../_images/cs_classesanddatamodels_singlearticle.PNG" src="../_images/cs_classesanddatamodels_singlearticle.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+<p>Also, a single article can be a chair, a table lamp, a mattress and so on.</p>
+<img alt="../_images/butdocumentation_image4.PNG" src="../_images/butdocumentation_image4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p>These <em>Single Articles</em> can be sold individually or grouped together to make a bundle.</p>
+<ul>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Furnishing items like chair, table, sofa, table lamp are individual items for sale; when put together in a bundle, they form a ‘living room set’.</p>
+</div></blockquote>
+</li>
+</ul>
+<p>And that introduces you to the next product type- <strong>Bundle</strong>.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-bundle">
+<span id="bundle"></span><h3>Bundle<a class="headerlink" href="#bundle" title="Permalink to this headline">¶</a></h3>
+<p>A bundle is a collection of items put together by the retailer for sale.
+In Contentserv, a user (authorized person to use the system) can create two types of bundles: <strong>(1) Fixed Bundle</strong> and <strong>(2) Threshold (or Loose) Bundle</strong>.</p>
+<img alt="../_images/butdocumentation_image5.PNG" src="../_images/butdocumentation_image5.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-ready-to-create-a-product">
+<span id="ready-to-create-a-product"></span><h3>Ready to create a Product?<a class="headerlink" href="#ready-to-create-a-product" title="Permalink to this headline">¶</a></h3>
+<p>Once the concept of a product (and its types) is clear, you may visit the <a class="reference internal" href="../tutorials/createnewproduct.html"><span class="doc">Create a New Product</span></a> page to learn about the steps in creating a product in Contentserv.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../_images/line-png-321.PNG" />
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Jul 04, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../_static/jquery.js"></script>
+      <script type="text/javascript" src="../_static/underscore.js"></script>
+      <script type="text/javascript" src="../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
