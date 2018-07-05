@@ -1,8 +1,0 @@
-================================
-Configure the Products
-================================
-
-.. toctree::
-   :maxdepth: 1
-
-   configure

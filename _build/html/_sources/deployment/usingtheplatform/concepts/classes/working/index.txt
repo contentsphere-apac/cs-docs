@@ -1,8 +1,0 @@
-================================
-Working with Classes
-================================
-
-.. toctree::
-   :maxdepth: 1
-
-   working

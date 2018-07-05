@@ -1,8 +1,0 @@
-============================================
-Adding Property Collections to Products
-============================================
-
-.. toctree::
-   :maxdepth: 1
-
-   propertycollections

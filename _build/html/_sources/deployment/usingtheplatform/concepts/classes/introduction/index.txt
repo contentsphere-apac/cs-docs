@@ -1,8 +1,0 @@
-================================
-Introduction to Products
-================================
-
-.. toctree::
-   :maxdepth: 1
-
-   introduce
