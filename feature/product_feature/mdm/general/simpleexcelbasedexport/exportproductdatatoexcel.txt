@@ -5,47 +5,87 @@ The Export Product Data to Excel feature provides the functionality to select an
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**            * **Product Information Management (PIM)** facilitates the central management and maintenance of an enterprise’s product data, content, or any related information.
 
-**Description:**         * This feature allows the export of data from PIM/MAM to a Microsoft Excel spreadsheet.
-                         * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
+**Description:**        * This feature allows the export of data from PIM/MAM to an Excel spreadsheet.
+                        * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
 
-**Related topics:**      * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
+**Related topics:**     * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
 
-**Application:**         * The simple Excel-based export makes a record of data that is saved as an Excel file.
-                         * *Example:*
+**Application:**        * The simple Excel-based export makes a record of data that can be saved as an Excel file.
+                        * *Example:*
 
-                              A user has a department/workgroup that uses Microsoft Excel to work on data.
-                              The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
+                             A user has a department/workgroup that uses Microsoft Excel to work on their data.
+                             The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
 
 ===================     ===============================================================================================================================================================
 
 
-How-to: Export Product Data to Excel
+How to do: Export Product Data to Excel
 ========================================
 To export product data to an Excel file, follow these steps:
 
 |
 
-#. Select the products that will be exported.  A user can select an entire page by using the **Select All** button.
+#. Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/simpleexcelbasedexport_selecttheproducts.PNG
-|
-.. image:: /feature/_images/mdmimages/simpleexcelbasedexport_selecttheproducts2.PNG
-|
-|
-
-#. Once the products are selected, click on the **Export to Excel** button.
-
-.. image:: /feature/_images/mdmimages/simpleexcelbasedexport_clicktheexporttoexcel.PNG
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_loginandgotopim.PNG
 |
 |
 
 
-#. Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
+#. Select the products that will be exported.
 
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selecttheproducts.PNG
 |
 |
+
+
+*Note: You may also use the Select All button to select all the products.*
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_selectalltheproducts.PNG
+|
+|
+
+
+#. Once the products are selected, click on the **Export** button and select the relevant outbound endpoint.  The selected products will be transferred to that endpoint.
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clicktheexportbutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clicktheexportbutton2.PNG
+|
+|
+
+
+#. Go to the *Dashboard* and then to the *Data Integration* menu.
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_gotodashboardanddataintegration.PNG
+|
+|
+
+
+#. Locate and click on the outbound endpoint where you transferred the products.
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_locateandclickonendpoint.PNG
+|
+|
+
+
+#. Once clicked, the **Export** tab will show a list of Excel files with the selected products that are ready for download. Choose your Excel file from the list.
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_onceclickedtheexport.PNG
+|
+|
+
+
+#. Click on the **Download** button. Wait for the Excel file to be downloaded.
+
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clickonthedownloadbutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clickonthedownloadbutton2.PNG
+|
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
