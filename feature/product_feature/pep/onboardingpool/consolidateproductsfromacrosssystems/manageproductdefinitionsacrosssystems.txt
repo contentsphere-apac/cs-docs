@@ -13,7 +13,7 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
                         * :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
-**Application:**        * Master catalog allows the user to manage all the product content.
+**Application:**        * The master catalog allows the user to manage all the product content.
                         * *Example:*
 
                             A retailer, with 5 suppliers, creates a user who monitors the data quality of products that are onboarded.
