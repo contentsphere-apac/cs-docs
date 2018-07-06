@@ -50,7 +50,7 @@ To do this feature, follow these steps:
 
 #. On the pop-up window, provide the following details: *Name* and the *Event Type*. For this example, select the **Business Process Workflow**.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_popupwindowprovidedetails.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundprocess_popupwindowprovidedetailsb.PNG
 |
 |
 
