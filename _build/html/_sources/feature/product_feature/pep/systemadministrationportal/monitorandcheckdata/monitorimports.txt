@@ -51,9 +51,6 @@ How-to: Monitor Imports
 
 #. On that *Onboard Endpoint* page, click on the **Import File** button.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_onendpintpage.PNG
-|
-|
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_clickimportfile.PNG
 |
