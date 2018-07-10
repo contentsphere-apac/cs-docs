@@ -73,13 +73,6 @@ To monitor data quality, follow these steps:
 |
 
 
-#. Once the KPI is created, the new KPI will be shown on the list. Click on the **Edit** button on the right.
-
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_oncethekpiiscreated.PNG
-|
-|
-
-
 #. On the *KPI Details* page, select a *Class* and *Taxonomy*, which will use the KPI.  Click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_selectclassandtaxonomy.PNG
@@ -110,7 +103,7 @@ To monitor data quality, follow these steps:
 |
 
 
-#. A new dashboard for the KPI will be created.  Click on the graph and drill down on the details of the KPI using the added taxonomy and tag.
+#. Click on the **Data Governance** tab. A new dashboard for the KPI will be created.  Click on the graph and drill down on the details of the KPI using the added taxonomy and tag.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_anewdashboard.PNG
 |

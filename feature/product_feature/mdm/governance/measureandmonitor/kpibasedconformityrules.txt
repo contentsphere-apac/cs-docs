@@ -67,13 +67,6 @@ To do this feature, follow these steps:
 |
 
 
-#. Once the KPI is created, the new KPI will be shown on the list. Click on the **Edit** button on the right.
-
-.. image:: /feature/_images/mdmimages/cs_kpibasedconformity_oncethekpiiscreated.PNG
-|
-|
-
-
 #. On the *KPI Details* page, select a *Class* and *Taxonomy*, which will use the KPI.  Click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_kpibasedconformity_selectclassandtaxonomy.PNG
