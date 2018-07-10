@@ -1,0 +1,92 @@
+================
+Monitor Exports
+================
+The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if necessary.
+
+
+===================     =======================================================================================================================================================================
+**Description:**        * The user will get a summary of the reports for each completed export process.
+                        * The summary includes a report on key indicators of the products being exported, so that the user can check the product violations and may appropriately correct them.
+
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
+                        * :doc:`Monitor Data Quality </feature/product_feature/mdm/governance/measureandmonitor/monitordataquality>`
+                        * :doc:`Monitor Imports </feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorimports>`
+
+**Application:**        * The user gets an overall summary of the *previous, recent, and/or the total number* of exported files.
+                          It also provides information about the successful exports and violations.
+
+===================     =======================================================================================================================================================================
+
+
+How-to: Monitor Exports
+============================
+To monitor exports, follow these steps:
+
+|
+
+#. Log in and go to *PIM*.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_login.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_logingotopim.PNG
+|
+|
+
+
+#. Select the products to be exported.
+   *Note: To select all the products, click on the Select All button.*
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_gotopimselectproducts2.PNG
+|
+|
+
+#. Once selected, click on the **Transfer** button. This will transfer and get the products ready for offboarding and select *Self*.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_onceselectedclicktransfer.PNG
+|
+|
+.. image:: /feature/_images/pepimages/cs_monitorexports_onceselectedclicktransfer2.PNG
+|
+|
+
+
+#. Once the notification says that the transfer is successful, click on the **PIM** menu on the upper left corner of the screen and go to *Offboarding*.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_oncetransfersuccesfulgotooffboarding.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_oncetransfersuccesfulgotooffboarding2.PNG
+|
+|
+
+#. Check if the page shows the selected products.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_checkselectedproducts.PNG
+|
+|
+
+
+#. Select the products and click on the **Export** button.  Then, select the desired endpoint from the menu.
+   Wait for the data to be exported. Once done, view the exported data.
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_clickproductsclickexport.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_monitorexports_clickproductsclickexport3.PNG
+|
+|
+
+
+*Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the offboarding report summary.*
+
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
