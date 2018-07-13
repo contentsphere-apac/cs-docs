@@ -11,6 +11,8 @@ The Export Product Data to Excel feature provides the functionality to select an
                         * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
 
 **Related topics:**     * :doc:`Edit Data in a Grid View </feature/product_feature/mdm/general/masseditinggridediting/editdatainagridview>`
+                        * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+                        * :doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`
 
 **Application:**        * The simple Excel-based export makes a record of data that can be saved as an Excel file.
                         * *Example:*
@@ -47,6 +49,13 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
+
+*Note: For the next steps, make sure that you have configured an outbound endpoint and workflow.  Refer to the following feature pages to know more:*
+:doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>` and
+:doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`.
+
+
+|
 
 #. Once the products are selected, click on the **Export** button and select the relevant outbound endpoint.  The selected products will be transferred to that endpoint.
 
@@ -85,6 +94,7 @@ To export product data to an Excel file, follow these steps:
 .. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_clickonthedownloadbutton2.PNG
 |
 |
+
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
