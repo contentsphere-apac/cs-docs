@@ -11,8 +11,8 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
                         * In *Outbound Endpoint*, an endpoint can have only one process.
 
 **Related topics:**     * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
-                        * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
-                        * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
+                        * :doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`
+                        * :doc:`Simple Excel Based Export </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>`
                         * :doc:`Sales and Order Units </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
 **Application:**        * To create data endpoints, administrator decides on the process that would be offboarded.
@@ -30,46 +30,39 @@ To do this, follow these steps:
 
 |
 
-#. Log in and then, click **Administration**.
+#. Log in and then, click on the **Administration** button.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_gotoadmin.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundendpoint_login.PNG
 |
 |
 
 
-#. Click *Data integration* tab and click on the **Endpoints** section on the left. To create a endpoint, click on the "+" icon on the right side of the window.
+#. Click *Data Integration* tab and click on the **Endpoints** section on the left. To create an endpoint, click on the "+" icon on the right side of the window.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundendpoint_gotodataintegration.PNG
 |
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
-|
-|
-
-
-#. Fill-in the details *(Name, code, type of Endpoint)* and select the outbound endpoint. Click on the **Create** button to create an endpoint.
-
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_enterdetails.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundendpoint_gotodataintegration2.PNG
 |
 |
 
 
-#. Select the process in the endpoint for offboarding data.
+#. Fill out the details *(Name and Code)*.  For the type of endpoint, select *Outbound Endpoint*.  Click on the **Create** button to create an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_datainteg.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundendpoint_providethevalues.PNG
 |
 |
 
 
-#. Go to 'All/Explore' in PIM and then select the articles to be exported with the export button.
+#. Provide the values for the endpoint: *Realtime Mapping, System, Workflow, Mapping, Dashboard Tab, and Physical Catalog*.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickexplore.PNG
+.. image:: /feature/_images/pepimages/cs_manageoutboundendpoint_providethevalues2.PNG
 |
 |
 
 
-#. Next, select the endpoint from which data has to be offboarded.
+*Note: Select the process in the endpoint for offboarding data.  Once done, you can export selected items (or all) in PIM.
+You may refer to this :doc:`Simple Excel Based Export </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>` feature page to check on how it's done.
 
-.. image:: /feature/_images/pepimages/cs_manageoutboundendpoints_clickexplore.PNG
 |
 |
 
