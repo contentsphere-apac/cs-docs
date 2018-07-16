@@ -1,0 +1,8 @@
+=====================================================
+Data Integration - Configure Article Export Workflow
+=====================================================
+
+.. toctree::
+   :maxdepth: 1
+
+   configurearticleexportworkflow

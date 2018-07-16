@@ -1,5 +1,5 @@
 ==========================
-Manage Outbound Endpoints
+Manage Outbound Endpoint
 ==========================
 Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* on the *Partner Engagement Platform* so that the endpoint can be used for exporting data.
 
@@ -10,10 +10,10 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 **Description:**        * Outbound Endpoint allows users to make a data endpoint where the data would be transferred from the system to an export functionality, example, an Excel file.
                         * In *Outbound Endpoint*, an endpoint can have only one process.
 
-**Related topics:**     * :doc:`Manage Outbound Process </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
+**Related topics:**     * :doc:`Sales and Order Units </feature/product_feature/mdm/products/unitsandsku/salesandorder>`
                         * :doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`
                         * :doc:`Export Product Data to Excel </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>`
-                        * :doc:`Sales and Order Units </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
+                        * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
 **Application:**        * To create data endpoints, administrator decides on the process that would be offboarded.
                         * *Example:*
@@ -24,7 +24,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 ===================     ===================================================================================================================================================================
 
 
-How-to: Manage Outbound Endpoints
+How-to: Manage Outbound Endpoint
 ======================================
 To do this, follow these steps:
 

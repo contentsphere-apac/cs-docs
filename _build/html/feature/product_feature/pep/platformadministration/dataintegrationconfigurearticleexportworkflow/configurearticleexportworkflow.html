@@ -1,0 +1,479 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Configure Article Export Workflow &#8212; Contentsphere  documentation</title>
+    <link rel="stylesheet" href="../../../../../_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../../../../../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+    <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+    <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" />
+    <link rel="next" title="Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint" href="../dataintegrationexportproductsviassff/index.html" />
+    <link rel="prev" title="Data Integration - Configure Article Export Workflow" href="index.html" />
+
+
+
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contentserv Help Center</title>
+<script type="text/javascript" src="../../../../../templatebuiltins.js"></script>
+<script type="text/javascript">
+(function($) {
+    if (!contentsphere_template_builtins) {
+       // templatebuiltins.js missing, do nothing.
+       return;
+    }
+    $(document).ready(function() {
+        // Hyperlink contentsphere template tags and filters
+        var base = "../../../../../ref/templates/builtins.html";
+        if (base == "#") {
+            // Special case for builtins.html itself
+            base = "";
+        }
+        // Tags are keywords, class '.k'
+        $("div.highlight\\-html\\+contentsphere span.k").each(function(i, elem) {
+             var tagname = $(elem).text();
+             if ($.inArray(tagname, contentsphere_template_builtins.ttags) != -1) {
+                 var fragment = tagname.replace(/_/, '-');
+                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + tagname + "</a>");
+             }
+        });
+        // Filters are functions, class '.nf'
+        $("div.highlight\\-html\\+contentsphere span.nf").each(function(i, elem) {
+             var filtername = $(elem).text();
+             if ($.inArray(filtername, contentsphere_template_builtins.tfilters) != -1) {
+                 var fragment = filtername.replace(/_/, '-');
+                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + filtername + "</a>");
+             }
+        });
+    });
+})(jQuery);
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110467525-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110467525-1');
+</script>
+
+  </head>
+  <body>
+
+    <div class="document">
+  <div id="custom-doc" class="yui-t6">
+    <div id="top-nav">
+      <a href="../../../../../index.html"><img src="https://assets.hypefactors.com/companies/company-logos/original/2TGKzLT4YYMJsqTVe3wvL7qWOPF1e0W0iCAoaGqa.png" class="cs-logo"></a>
+      <ul class="nav-ul">
+        <li class="nav-li"><a href="https://contentsphere.com/">Website</a></li>
+        <li class="nav-li active"><a href="http://help.contentsphere.com/en/latest/">Help Center</a></li>
+        <li class="nav-li"><a href="https://contentsphere.com/contactform/">Contact</a></li>
+      </ul>
+    </div>
+    <div id="hd">
+      <h1 class="documentation-header"><a href="../../../../../index.html">Help Center</a></h1>
+      <div id="searchbox" role="search" class="search-nav">
+        <form class="search" action="http://help.contentsphere.com/en/latest/search.html" method="get">
+          <div>
+            <input type="text" class="form-input" name="q">
+            <button type="submit" class="form-btn">Search</button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <div id="global-nav">
+      <!-- <a title="Home page" href="../../../../../index.html">Home</a>  |
+      <a title="Table of contents" href="../../../../../contents.html">Table of contents</a>  |
+      <a title="Global index" href="../../../../../genindex.html">Index</a>  | -->
+      
+    </div>
+    <!-- <div class="nav">
+    &laquo; <a href="index.html" title="Data Integration - Configure Article Export Workflow">previous</a>
+     |
+    <a href="../../../../index.html" title="All Feature Guides" accesskey="U">up</a>
+   |
+    <a href="../dataintegrationexportproductsviassff/index.html" title="Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint">next</a> &raquo;</div> -->
+
+    <div id="bd">
+      <div id="yui-main">
+        <div class="yui-b">
+          
+            <div class="breadcrumbs">
+              <a href="../../../../../index.html">Home</a> /
+              
+                <span><a href="../../../../index.html">All Feature Guides</a> /
+              
+                <span><a href="../../../index.html">Feature Guides</a> /
+              
+                <span><a href="../../index.html">Partner Engagement Portal (PEP)</a> /
+              
+                <span><a href="../index.html">Platform Administration</a> /
+              
+                <span><a href="index.html">Data Integration - Configure Article Export Workflow</a> /
+              
+              <span>Configure Article Export Workflow</span>
+              </span></span></span></span></span>
+            </div>
+          
+          <div class="yui-g" id="feature-product_feature-pep-platformadministration-dataintegrationconfigurearticleexportworkflow-configurearticleexportworkflow">
+            
+  <div class="section" id="s-configure-article-export-workflow">
+<span id="configure-article-export-workflow"></span><h1>Configure Article Export Workflow<a class="headerlink" href="#configure-article-export-workflow" title="Permalink to this headline">¶</a></h1>
+<p>Configure Article Export Workflow is a <em>Partner Engagement Platform</em> feature that allows a user to create a workflow for exporting of data.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Worflow:</strong> a workflow is a business process that is modeled digitally within Contentserv.
+An example of a workflow being used in Contentserv is a workflow to manage the product lifecycle.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>This feature allows a user to make a data business process workflow for exporting product data from the Contentserv system to a defined output format, like Excel.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../dataintegrationmanageoutboundendpoint/manageoutboundendpoint.html"><span class="doc">Manage Outbound Endpoint</span></a></li>
+<li><a class="reference internal" href="../../../mdm/general/simpleexcelbasedexport/exportproductdatatoexcel.html"><span class="doc">Export Product Data to Excel</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">To export data, an administrator decides on the export workflow and endpoints of the offboarding process that would facilitate the data export.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p><em>Organization A</em> sells electronics. If a user from Organization A wants to transfer product data from the system to an Excel sheet,
+the user can make a workflow and endpoint and selects the workflow at the time of offboard.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-configure-article-export-workflow">
+<span id="how-to-configure-article-export-workflow"></span><h2>How-to: Configure Article Export Workflow<a class="headerlink" href="#how-to-configure-article-export-workflow" title="Permalink to this headline">¶</a></h2>
+<p>To do this, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Log in and then, click on the <strong>Administration</strong> button.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_login.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click the <em>Data Integration</em> tab and click on the <strong>Workflow</strong> section.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>To create a workflow, click on the “+” icon on the right side of the window.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_clicktocreateworkflow.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_clicktocreateworkflow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Fill out the details <em>(Name, Event Type, and Code)</em>.  For the Event Type, select the <em>Business Process Workflow</em>. Click on the <strong>Create</strong> button.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_filloutthedetails.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_filloutthedetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the created workflow and you will be redirected to a pop-up window, where you can define the workflow of article export process.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note:  The Graph section in a pop-up window contains BPMN 2.0 modelling notation.
+This will allow users to model article export process using universally known and standardized BPMN 2.0 notations.</em></p>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_notethatthegraphsection.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_notethatthegraphsection.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Drag and drop the notations in the <em>Workflow Modeler</em> to define workflow for article export.
+The workflow starts with the <strong>Process Start</strong>. It acts as a process trigger. So, first element in the workflow will be the <strong>Process Start</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_draganddropthenotation.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_draganddropthenotation.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the <em>wrench</em> icon of the <strong>Start Event</strong> notation and a drop-down list will pop up containing the list of types of events.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchprocessstart.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchprocessstart.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the option, <strong>Process Start</strong> from the list to change the type.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selecttheoptionprocessstart.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selecttheoptionprocessstart.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Now, click on the <strong>Append Task</strong> icon.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_clickontheappendtask.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_clickontheappendtask.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Check that the task has been added in the workflow.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_checkthatthetask.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_checkthatthetask.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the <em>wrench</em> icon of the task notation and a pop-up window would appear containing the list of task types.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchtask.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchtask.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the option, <strong>Article Export</strong> from the list.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selecttheoptionarticleexport.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selecttheoptionarticleexport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the notation to end the process.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectheappendendevent.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectheappendendevent.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Check that the <strong>Process End</strong> element has been added in the flow.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_checkthattheendevent.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_checkthattheendevent.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Click on the <em>wrench</em> icon and a pop-up window will appear and there you can select the option, <strong>Process End</strong>.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchprocessend.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthewrenchprocessend.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple">
+<li>Select the article export notation from the defined flow and fill out the necessary details on the right side vertical panel.</li>
+</ol>
+<img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthearticleflowandfilloutdetails.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthearticleflowandfilloutdetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-fill-out-the-following-details">
+<span id="fill-out-the-following-details"></span><h2>Fill out the following details:<a class="headerlink" href="#fill-out-the-following-details" title="Permalink to this headline">¶</a></h2>
+<ul>
+<li><dl class="first docutils">
+<dt>Sheet Name</dt>
+<dd><p class="first last">Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Primary Key Column</dt>
+<dd><p class="first last">All the defined products/ articles in a file have unique identification or IDs.
+Here, in Primary Key Column we need to define the column name of the sheet which will contains the unique IDs of the products.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Type</dt>
+<dd><p class="first">Here we need to select one of the options from below mentioned options:</p>
+<div class="last line-block">
+<div class="line"><em>Single Class:</em> Select this option, if all the products/articles that you want to export, use the same class of the system. For example, if all the products are Individual Article or all the products are PID.</div>
+<div class="line"><em>Column Class:</em> Select this option, if all the products that you want to export, use different types of classes of the system. For example, there are two products in a sheet; one is Individual Article and the other one is PID.</div>
+</div>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Class ID / Class Column</dt>
+<dd><p class="first">The value of this field is based on the selection of Type field:</p>
+<div class="last line-block">
+<div class="line"><em>Class ID:</em> When all the products that you want to export, use the same class of the system. We select Single Class option from Type field. In this case, we need to select that system generated class from the list as Class ID.</div>
+<div class="line"><em>Class Column:</em> When defined products that you want to export, use different classes of the system. We select Column Class option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a Class Column field.</div>
+</div>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Multiclassification</dt>
+<dd><p class="first last">Select this option, if products use non-nature classes.</p>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Type</dt>
+<dd><p class="first">As soon as you select the Multiclassification option, this option will be visible.  Here, we need to select one of the options from these options:</p>
+<div class="last line-block">
+<div class="line"><em>Multiple Class:</em> Select this option, if exported products use multiple system generated non-nature classes.</div>
+<div class="line"><em>Column Class:</em> Select this option, if exported products use multiple non-nature classes which are yet to be created.</div>
+</div>
+</dd>
+</dl>
+</li>
+<li><dl class="first docutils">
+<dt>Taxonomies</dt>
+<dd><p class="first last">Here, we need to enter the column name of the sheet which will contain the taxonomy details.</p>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <!-- Sidebar -->
+      <!-- 
+        
+          <div class="yui-b" id="sidebar">
+            <div class="sidebar-padding">
+              
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="../../../../../contents.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Configure Article Export Workflow</a><ul>
+<li><a class="reference internal" href="#how-to-configure-article-export-workflow">How-to: Configure Article Export Workflow</a></li>
+<li><a class="reference internal" href="#fill-out-the-following-details">Fill out the following details:</a></li>
+</ul>
+</li>
+</ul>
+
+  <h3>Browse</h3>
+  <ul>
+    
+      <li>Prev: <a href="index.html">Data Integration - Configure Article Export Workflow</a></li>
+    
+    
+      <li>Next: <a href="../dataintegrationexportproductsviassff/index.html">Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint</a></li>
+    
+  </ul>
+  <h3>You are here:</h3>
+  <ul>
+      <li>
+        <a href="../../../../../index.html">Contentsphere  documentation</a>
+        
+          <ul><li><a href="../../../../index.html">All Feature Guides</a>
+        
+          <ul><li><a href="../../../index.html">Feature Guides</a>
+        
+          <ul><li><a href="../../index.html">Partner Engagement Portal (PEP)</a>
+        
+          <ul><li><a href="../index.html">Platform Administration</a>
+        
+          <ul><li><a href="index.html">Data Integration - Configure Article Export Workflow</a>
+        
+        <ul><li>Configure Article Export Workflow</li></ul>
+        </li></ul></li></ul></li></ul></li></ul></li></ul>
+      </li>
+  </ul>
+
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="../../../../../search.html" method="get">
+      <div><input type="text" name="q" /></div>
+      <div><input type="submit" value="Go" /></div>
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+                <h3>Last update:</h3>
+                <p class="topless">Jul 16, 2018</p>
+            </div>
+          </div>
+        
+       -->
+    </div>
+
+    <!-- Jira snippet -->
+    <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
+
+    <div id="ft">
+        <p class="topless">Last updated: Jul 16, 2018</p>
+      <div class="nav">
+    &laquo; <a href="index.html" title="Data Integration - Configure Article Export Workflow">previous</a>
+     |
+    <a href="../../../../index.html" title="All Feature Guides" accesskey="U">up</a>
+   |
+    <a href="../dataintegrationexportproductsviassff/index.html" title="Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint">next</a> &raquo;</div>
+    </div>
+  </div>
+
+      <div class="clearer"></div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,190 @@
+==================================
+Configure Article Export Workflow
+==================================
+Configure Article Export Workflow is a *Partner Engagement Platform* feature that allows a user to create a workflow for exporting of data.
+
+
+===================     ===================================================================================================================================================================
+**Key Term:**           * **Worflow:** a workflow is a business process that is modeled digitally within Contentserv.
+                          An example of a workflow being used in Contentserv is a workflow to manage the product lifecycle.
+
+**Description:**        * This feature allows a user to make a data business process workflow for exporting product data from the Contentserv system to a defined output format, like Excel.
+
+**Related topics:**     * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
+                        * :doc:`Export Product Data to Excel </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>`
+
+**Application:**        * To export data, an administrator decides on the export workflow and endpoints of the offboarding process that would facilitate the data export.
+                        * *Example:*
+
+                            *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to an Excel sheet,
+                            the user can make a workflow and endpoint and selects the workflow at the time of offboard.
+
+===================     ===================================================================================================================================================================
+
+
+How-to: Configure Article Export Workflow
+==========================================
+To do this, follow these steps:
+
+|
+
+#. Log in and then, click on the **Administration** button.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_login.PNG
+|
+|
+
+
+#. Click the *Data Integration* tab and click on the **Workflow** section.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG
+|
+|
+
+
+#.  To create a workflow, click on the "+" icon on the right side of the window.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_clicktocreateworkflow.PNG
+|
+|
+
+
+#. Fill out the details *(Name, Event Type, and Code)*.  For the Event Type, select the *Business Process Workflow*. Click on the **Create** button.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_filloutthedetails.PNG
+|
+|
+
+
+#. Select the created workflow and you will be redirected to a pop-up window, where you can define the workflow of article export process.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG
+|
+|
+
+
+*Note:  The Graph section in a pop-up window contains BPMN 2.0 modelling notation.
+This will allow users to model article export process using universally known and standardized BPMN 2.0 notations.*
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_notethatthegraphsection.PNG
+|
+|
+
+
+#. Drag and drop the notations in the *Workflow Modeler* to define workflow for article export.
+   The workflow starts with the **Process Start**. It acts as a process trigger. So, first element in the workflow will be the **Process Start**.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_draganddropthenotation.PNG
+|
+|
+
+
+#. Select the *wrench* icon of the **Start Event** notation and a drop-down list will pop up containing the list of types of events.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthewrenchprocessstart.PNG
+|
+|
+
+
+#. Select the option, **Process Start** from the list to change the type.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selecttheoptionprocessstart.PNG
+|
+|
+
+
+#. Now, click on the **Append Task** icon.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_clickontheappendtask.PNG
+|
+|
+
+
+#. Check that the task has been added in the workflow.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_checkthatthetask.PNG
+|
+|
+
+
+#. Select the *wrench* icon of the task notation and a pop-up window would appear containing the list of task types.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthewrenchtask.PNG
+|
+|
+
+
+#. Select the option, **Article Export** from the list.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selecttheoptionarticleexport.PNG
+|
+|
+
+
+#. Select the notation to end the process.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectheappendendevent.PNG
+|
+|
+
+
+#. Check that the **Process End** element has been added in the flow.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_checkthattheendevent.PNG
+|
+|
+
+
+#. Click on the *wrench* icon and a pop-up window will appear and there you can select the option, **Process End**.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthewrenchprocessend.PNG
+|
+|
+
+
+#. Select the article export notation from the defined flow and fill out the necessary details on the right side vertical panel.
+
+.. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthearticleflowandfilloutdetails.PNG
+|
+|
+
+
+Fill out the following details:
+===============================
+
+* Sheet Name
+    Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.
+
+* Primary Key Column
+    All the defined products/ articles in a file have unique identification or IDs.
+    Here, in Primary Key Column we need to define the column name of the sheet which will contains the unique IDs of the products.
+
+* Type
+    Here we need to select one of the options from below mentioned options:
+
+    | *Single Class:* Select this option, if all the products/articles that you want to export, use the same class of the system. For example, if all the products are Individual Article or all the products are PID.
+    | *Column Class:* Select this option, if all the products that you want to export, use different types of classes of the system. For example, there are two products in a sheet; one is Individual Article and the other one is PID.
+
+* Class ID / Class Column
+    The value of this field is based on the selection of Type field:
+
+    | *Class ID:* When all the products that you want to export, use the same class of the system. We select Single Class option from Type field. In this case, we need to select that system generated class from the list as Class ID.
+    | *Class Column:* When defined products that you want to export, use different classes of the system. We select Column Class option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a Class Column field.
+
+* Multiclassification
+    Select this option, if products use non-nature classes.
+
+* Type
+    As soon as you select the Multiclassification option, this option will be visible.  Here, we need to select one of the options from these options:
+
+    | *Multiple Class:* Select this option, if exported products use multiple system generated non-nature classes.
+    | *Column Class:* Select this option, if exported products use multiple non-nature classes which are yet to be created.
+
+* Taxonomies
+    Here, we need to enter the column name of the sheet which will contain the taxonomy details.
+
+|
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line
