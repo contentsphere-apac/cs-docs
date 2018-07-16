@@ -61,7 +61,7 @@ To do this, follow these steps:
 
 
 *Note: Select the process in the endpoint for offboarding data.  Once done, you can export selected items (or all) in PIM.
-You may refer to this :doc:`Export Product Data to Excel </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>` feature page to check on how it's done.*
+You may refer to this feature page to check on how it's done:*  :doc:`Export Product Data to Excel </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>`
 
 |
 |
