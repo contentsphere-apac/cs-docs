@@ -4,8 +4,8 @@ Export Product Data to Excel
 The Export Product Data to Excel feature provides the functionality to select and export product information to an Excel file.
 
 
-===================     ===============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM)** facilitates the central management and maintenance of an enterprise’s product data, content, or any related information.
+===================     =============================================================================================================================================================================
+**Key Term:**           * **Product Information Management (PIM)** facilitates the central management and maintenance of an enterprise’s product data, content, or any related information.
 
 **Description:**        * This feature allows the export of data from PIM/MAM to an Excel spreadsheet.
                         * This feature allows (1) the export of all the products and images or (2) the export of selected items to an Excel sheet.
@@ -20,10 +20,10 @@ The Export Product Data to Excel feature provides the functionality to select an
                              A user has a department/workgroup that uses Microsoft Excel to work on their data.
                              The user can directly export data from the platform to an Excel file that the department/workgroup can easily use.
 
-===================     ===============================================================================================================================================================
+===================     =============================================================================================================================================================================
 
 
-How to do: Export Product Data to Excel
+How-to: Export Product Data to Excel
 ========================================
 To export product data to an Excel file, follow these steps:
 
