@@ -160,15 +160,17 @@ Fill out the following details:
     Here, in the *Primary Key Column*, we need to define the column name of the sheet which will contain the unique IDs of the products.
 
 * Type
-    Here we need to select one from the mentioned options below:
+    Here, we need to select one from the mentioned options below:
 
     | *Single Class:* Select this option, if all the products/articles that you want to export, use the same class in the system. For example, if all the products are *Individual Article* or all the products are *PID*.
+    |
     | *Column Class:* Select this option, if all the products that you want to export, use different types of classes in the system. For example, there are two products in a sheet; one is *Individual Article* and the other one is *PID*.
 
 * Class ID/Class Column
     The value of this field is based on the selection of *Type* field:
 
     | *Class ID:* When all the products that you want to export use the same class of the system, we select *Single Class* option from the Type field. In this case, we need to select the system-generated class from the list as *Class ID*.
+    |
     | *Class Column:* When defined products that you want to export use different classes of the system, we select *Column Class* option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a *Class Column* field.
 
 * Multiclassification
@@ -178,6 +180,7 @@ Fill out the following details:
     As soon as you select the Multiclassification option, this option will be visible and available.  Here, we need to select one from these options:
 
     | *Multiple Class:* Select this option, if exported products use multiple system-generated non-nature classes.
+    |
     | *Column Class:* Select this option, if exported products use multiple non-nature classes which are yet to be created.
 
 * Taxonomies
