@@ -17,7 +17,7 @@ Configure Article Export Workflow is a *Partner Engagement Platform* feature tha
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to an Excel sheet,
-                            the user can make a workflow and endpoint and selects the workflow at the time of offboard.
+                            the user can make a workflow and endpoint and can select the workflow at the time of offboard.
 
 ===================     ===================================================================================================================================================================
 
@@ -35,14 +35,14 @@ To do this, follow these steps:
 |
 
 
-#. Click the *Data Integration* tab and click on the **Workflow** section.
+#. Click the **Data Integration** tab and click on the **Workflow** section.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG
 |
 |
 
 
-#.  To create a workflow, click on the "+" icon on the right side of the window.
+#. To create a workflow, click on the "+" icon on the right side of the window.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_clicktocreateworkflow.PNG
 |
@@ -56,7 +56,7 @@ To do this, follow these steps:
 |
 
 
-#. Select the created workflow and you will be redirected to a pop-up window, where you can define the workflow of article export process.
+#. Select the created workflow and you will be directed to a pop-up window, where you can define the workflow of *Article Export Process*.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG
 |
@@ -71,8 +71,8 @@ This will allow users to model article export process using universally known an
 |
 
 
-#. Drag and drop the notations in the *Workflow Modeler* to define workflow for article export.
-   The workflow starts with the **Process Start**. It acts as a process trigger. So, first element in the workflow will be the **Process Start**.
+#. Drag and drop the notations in the *Workflow Modeler* to define the workflow of the article export.
+   The workflow starts with **Process Start** and acts as a process trigger. So, the first element in the workflow will be the **Process Start**.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_draganddropthenotation.PNG
 |
@@ -153,31 +153,31 @@ Fill out the following details:
 ===============================
 
 * Sheet Name
-    Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.
+    An Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.
 
 * Primary Key Column
-    All the defined products/ articles in a file have unique identification or IDs.
-    Here, in Primary Key Column we need to define the column name of the sheet which will contains the unique IDs of the products.
+    All the defined products/articles in a file have unique identification or ID.
+    Here, in the *Primary Key Column*, we need to define the column name of the sheet which will contain the unique IDs of the products.
 
 * Type
-    Here we need to select one of the options from below mentioned options:
+    Here we need to select one from the mentioned options below:
 
     | *Single Class:* Select this option, if all the products/articles that you want to export, use the same class of the system. For example, if all the products are Individual Article or all the products are PID.
     | *Column Class:* Select this option, if all the products that you want to export, use different types of classes of the system. For example, there are two products in a sheet; one is Individual Article and the other one is PID.
 
-* Class ID / Class Column
-    The value of this field is based on the selection of Type field:
+* Class ID/Class Column
+    The value of this field is based on the selection of *Type* field:
 
-    | *Class ID:* When all the products that you want to export, use the same class of the system. We select Single Class option from Type field. In this case, we need to select that system generated class from the list as Class ID.
-    | *Class Column:* When defined products that you want to export, use different classes of the system. We select Column Class option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a Class Column field.
+    | *Class ID:* When all the products that you want to export use the same class of the system, we select *Single Class* option from the Type field. In this case, we need to select the system-generated class from the list as *Class ID*.
+    | *Class Column:* When defined products that you want to export use different classes of the system, we select *Column Class* option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a *Class Column* field.
 
 * Multiclassification
-    Select this option, if products use non-nature classes.
+    Select this option, if products use *Non-nature classes*.
 
 * Type
-    As soon as you select the Multiclassification option, this option will be visible.  Here, we need to select one of the options from these options:
+    As soon as you select the Multiclassification option, this option will be visible and available.  Here, we need to select one from these options:
 
-    | *Multiple Class:* Select this option, if exported products use multiple system generated non-nature classes.
+    | *Multiple Class:* Select this option, if exported products use multiple system-generated non-nature classes.
     | *Column Class:* Select this option, if exported products use multiple non-nature classes which are yet to be created.
 
 * Taxonomies

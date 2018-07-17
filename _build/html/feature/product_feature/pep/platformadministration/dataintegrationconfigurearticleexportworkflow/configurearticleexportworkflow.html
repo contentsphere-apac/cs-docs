@@ -171,7 +171,7 @@ An example of a workflow being used in Contentserv is a workflow to manage the p
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
 <div><p><em>Organization A</em> sells electronics. If a user from Organization A wants to transfer product data from the system to an Excel sheet,
-the user can make a workflow and endpoint and selects the workflow at the time of offboard.</p>
+the user can make a workflow and endpoint and can select the workflow at the time of offboard.</p>
 </div></blockquote>
 </li>
 </ul>
@@ -194,7 +194,7 @@ the user can make a workflow and endpoint and selects the workflow at the time o
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Click the <em>Data Integration</em> tab and click on the <strong>Workflow</strong> section.</li>
+<li>Click the <strong>Data Integration</strong> tab and click on the <strong>Workflow</strong> section.</li>
 </ol>
 <img alt="../../../../../_images/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_gotodataintegrationandworkflow.PNG" />
 <div class="line-block">
@@ -218,7 +218,7 @@ the user can make a workflow and endpoint and selects the workflow at the time o
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Select the created workflow and you will be redirected to a pop-up window, where you can define the workflow of article export process.</li>
+<li>Select the created workflow and you will be directed to a pop-up window, where you can define the workflow of <em>Article Export Process</em>.</li>
 </ol>
 <img alt="../../../../../_images/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG" />
 <div class="line-block">
@@ -233,8 +233,8 @@ This will allow users to model article export process using universally known an
 <div class="line"><br /></div>
 </div>
 <ol class="arabic simple">
-<li>Drag and drop the notations in the <em>Workflow Modeler</em> to define workflow for article export.
-The workflow starts with the <strong>Process Start</strong>. It acts as a process trigger. So, first element in the workflow will be the <strong>Process Start</strong>.</li>
+<li>Drag and drop the notations in the <em>Workflow Modeler</em> to define the workflow of the article export.
+The workflow starts with <strong>Process Start</strong> and acts as a process trigger. So, the first element in the workflow will be the <strong>Process Start</strong>.</li>
 </ol>
 <img alt="../../../../../_images/cs_configurearticleexportworkflow_draganddropthenotation.PNG" src="../../../../../_images/cs_configurearticleexportworkflow_draganddropthenotation.PNG" />
 <div class="line-block">
@@ -327,20 +327,20 @@ The workflow starts with the <strong>Process Start</strong>. It acts as a proces
 <ul>
 <li><dl class="first docutils">
 <dt>Sheet Name</dt>
-<dd><p class="first last">Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.</p>
+<dd><p class="first last">An Excel file may contain different sheets in it. Here, we need to mention the sheet name which will contain the articles.</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>Primary Key Column</dt>
-<dd><p class="first last">All the defined products/ articles in a file have unique identification or IDs.
-Here, in Primary Key Column we need to define the column name of the sheet which will contains the unique IDs of the products.</p>
+<dd><p class="first last">All the defined products/articles in a file have unique identification or ID.
+Here, in the <em>Primary Key Column</em>, we need to define the column name of the sheet which will contain the unique IDs of the products.</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>Type</dt>
-<dd><p class="first">Here we need to select one of the options from below mentioned options:</p>
+<dd><p class="first">Here we need to select one from the mentioned options below:</p>
 <div class="last line-block">
 <div class="line"><em>Single Class:</em> Select this option, if all the products/articles that you want to export, use the same class of the system. For example, if all the products are Individual Article or all the products are PID.</div>
 <div class="line"><em>Column Class:</em> Select this option, if all the products that you want to export, use different types of classes of the system. For example, there are two products in a sheet; one is Individual Article and the other one is PID.</div>
@@ -349,26 +349,26 @@ Here, in Primary Key Column we need to define the column name of the sheet which
 </dl>
 </li>
 <li><dl class="first docutils">
-<dt>Class ID / Class Column</dt>
-<dd><p class="first">The value of this field is based on the selection of Type field:</p>
+<dt>Class ID/Class Column</dt>
+<dd><p class="first">The value of this field is based on the selection of <em>Type</em> field:</p>
 <div class="last line-block">
-<div class="line"><em>Class ID:</em> When all the products that you want to export, use the same class of the system. We select Single Class option from Type field. In this case, we need to select that system generated class from the list as Class ID.</div>
-<div class="line"><em>Class Column:</em> When defined products that you want to export, use different classes of the system. We select Column Class option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a Class Column field.</div>
+<div class="line"><em>Class ID:</em> When all the products that you want to export use the same class of the system, we select <em>Single Class</em> option from the Type field. In this case, we need to select the system-generated class from the list as <em>Class ID</em>.</div>
+<div class="line"><em>Class Column:</em> When defined products that you want to export use different classes of the system, we select <em>Column Class</em> option from Type field. In this case, we need to enter the column name, which will contain the IDs of all the classes in a <em>Class Column</em> field.</div>
 </div>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>Multiclassification</dt>
-<dd><p class="first last">Select this option, if products use non-nature classes.</p>
+<dd><p class="first last">Select this option, if products use <em>Non-nature classes</em>.</p>
 </dd>
 </dl>
 </li>
 <li><dl class="first docutils">
 <dt>Type</dt>
-<dd><p class="first">As soon as you select the Multiclassification option, this option will be visible.  Here, we need to select one of the options from these options:</p>
+<dd><p class="first">As soon as you select the Multiclassification option, this option will be visible and available.  Here, we need to select one from these options:</p>
 <div class="last line-block">
-<div class="line"><em>Multiple Class:</em> Select this option, if exported products use multiple system generated non-nature classes.</div>
+<div class="line"><em>Multiple Class:</em> Select this option, if exported products use multiple system-generated non-nature classes.</div>
 <div class="line"><em>Column Class:</em> Select this option, if exported products use multiple non-nature classes which are yet to be created.</div>
 </div>
 </dd>
@@ -452,7 +452,7 @@ Here, in Primary Key Column we need to define the column name of the sheet which
         </div>
       </div>
                 <h3>Last update:</h3>
-                <p class="topless">Jul 16, 2018</p>
+                <p class="topless">Jul 17, 2018</p>
             </div>
           </div>
         
@@ -463,7 +463,7 @@ Here, in Primary Key Column we need to define the column name of the sheet which
     <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
 
     <div id="ft">
-        <p class="topless">Last updated: Jul 16, 2018</p>
+        <p class="topless">Last updated: Jul 17, 2018</p>
       <div class="nav">
     &laquo; <a href="index.html" title="Data Integration - Configure Article Export Workflow">previous</a>
      |

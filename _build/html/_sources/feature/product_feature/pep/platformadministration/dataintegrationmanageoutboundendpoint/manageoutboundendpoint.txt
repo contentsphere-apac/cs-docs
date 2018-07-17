@@ -19,7 +19,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet,
-                            the user can make an endpoint and selects that endpoint at the time of offboard.
+                            the user can make an endpoint and can select that endpoint at the time of offboard.
 
 ===================     ===================================================================================================================================================================
 
