@@ -56,15 +56,15 @@ To do this, follow these steps:
 |
 
 
-#. Select the created workflow and you will be directed to a pop-up window, where you can define the workflow of *Article Export Process*.
+#. Select the created workflow and you will be directed to a pop-up window, where you can define the workflow of the *Article Export Process*.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthecreatedworkflow.PNG
 |
 |
 
 
-*Note:  The Graph section in a pop-up window contains BPMN 2.0 modelling notation.
-This will allow users to model article export process using universally known and standardized BPMN 2.0 notations.*
+*Note:  The Graph section in the pop-up window contains BPMN 2.0 modelling notation.
+This will allow users to model article export process using universally known and standard BPMN 2.0 notations.*
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_notethatthegraphsection.PNG
 |
@@ -86,7 +86,7 @@ This will allow users to model article export process using universally known an
 |
 
 
-#. Select the option, **Process Start** from the list to change the type.
+#. Select the option, **Process Start** from the list to change the type from *Start Event to Process Start*.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selecttheoptionprocessstart.PNG
 |
@@ -107,7 +107,7 @@ This will allow users to model article export process using universally known an
 |
 
 
-#. Select the *wrench* icon of the task notation and a pop-up window would appear containing the list of task types.
+#. Select the *wrench* icon of the task notation and a pop-up window will appear containing the list of task types.
 
 .. image:: /feature/_images/pepimages/cs_configurearticleexportworkflow_selectthewrenchtask.PNG
 |
@@ -162,8 +162,8 @@ Fill out the following details:
 * Type
     Here we need to select one from the mentioned options below:
 
-    | *Single Class:* Select this option, if all the products/articles that you want to export, use the same class of the system. For example, if all the products are Individual Article or all the products are PID.
-    | *Column Class:* Select this option, if all the products that you want to export, use different types of classes of the system. For example, there are two products in a sheet; one is Individual Article and the other one is PID.
+    | *Single Class:* Select this option, if all the products/articles that you want to export, use the same class in the system. For example, if all the products are *Individual Article* or all the products are *PID*.
+    | *Column Class:* Select this option, if all the products that you want to export, use different types of classes in the system. For example, there are two products in a sheet; one is *Individual Article* and the other one is *PID*.
 
 * Class ID/Class Column
     The value of this field is based on the selection of *Type* field:
