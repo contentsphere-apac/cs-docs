@@ -25,7 +25,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 
 
 How-to: Manage Outbound Endpoint
-======================================
+=================================
 To do this, follow these steps:
 
 |
