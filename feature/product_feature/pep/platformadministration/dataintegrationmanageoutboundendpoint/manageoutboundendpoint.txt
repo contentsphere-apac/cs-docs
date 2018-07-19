@@ -5,7 +5,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
 
 
 ===================     ===================================================================================================================================================================
-**Key Term:**           * **Endpoint:** is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
+**Key Term:**           * **Endpoint:** is a gateway that describes the system, processes, and mapping to be used when onboarding or offboarding the products to and from the system.
 
 **Description:**        * Outbound Endpoint allows users to make a data endpoint where the data would be transferred from the system to an export functionality, example, an Excel file.
                         * In *Outbound Endpoint*, an endpoint can have only one process.
@@ -15,7 +15,7 @@ Manage Outbound Endpoint is an admin feature that manages *Outbound Endpoints* o
                         * :doc:`Export Product Data to Excel </feature/product_feature/mdm/general/simpleexcelbasedexport/exportproductdatatoexcel>`
                         * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
 
-**Application:**        * To create data endpoints, administrator decides on the process that would be offboarded.
+**Application:**        * To create data endpoints, the administrator decides on the process that would be offboarded.
                         * *Example:*
 
                             *Organization A* sells electronics. If a user from Organization A wants to transfer product data from the system to the sheet,
