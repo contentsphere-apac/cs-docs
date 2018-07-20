@@ -1,6 +1,6 @@
-============================
+=============================
 Export Product Data to Excel
-============================
+=============================
 The Export Product Data to Excel feature provides the functionality to select and export product information to an Excel file.
 
 
@@ -29,6 +29,13 @@ To export product data to an Excel file, follow these steps:
 
 |
 
+*Note: For the next steps, make sure that you have configured an outbound endpoint and workflow.  Refer to the following feature pages to know more:*
+:doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>` and
+:doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`.
+
+|
+|
+
 #. Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_exportproductdatatoexcel_loginandgotopim.PNG
@@ -49,13 +56,6 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
-
-*Note: For the next steps, make sure that you have configured an outbound endpoint and workflow.  Refer to the following feature pages to know more:*
-:doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>` and
-:doc:`Configure Article Export Workflow </feature/product_feature/pep/platformadministration/dataintegrationconfigurearticleexportworkflow/configurearticleexportworkflow>`.
-
-
-|
 
 #. Once the products are selected, click on the **Export** button and select the relevant outbound endpoint.  The selected products will be transferred to that endpoint.
 
