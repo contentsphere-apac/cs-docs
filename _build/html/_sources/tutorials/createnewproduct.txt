@@ -8,87 +8,105 @@ How-to: Create New Products
 ==============================
 To do this, follow these steps:
 
-
 |
 
-#.	Click  **All** from the top right.
+#.	Click  **Explore** from the top right and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/createnewprod_clickall.PNG
-|
-|
-
-#. Hover over the "+" icon and select the desired product (in this demo, we select **Single Product**).
-
-.. image:: /feature/_images/mdmimages/createnewprod_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickexplore.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/createnewprod_clicksingleprod.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickexplore2.PNG
 |
 |
 
-#. Enter the necessary information. Items with red marks are required to be filled out.
 
-.. image:: /feature/_images/mdmimages/createnewprod_completeattrib.PNG
-|
-|
+#. Hover over the "+" icon and select the desired product (in this demo, we select **Smartphone Accessories**).
 
-#. Click **Add Taxonomy** to add taxonomy to the product.
-
-.. image:: /feature/_images/mdmimages/createnewprod_addtax.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus.PNG
 |
 |
 
-#. Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Tops**).
-
-.. image:: /feature/_images/mdmimages/createnewprod_taxmenu.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_hoverplus2.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/createnewprod_seltax.PNG
+#. Enter the necessary information.
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo.PNG
 |
 |
 
-#.  View the selected taxonomy.
-
-.. image:: /feature/_images/mdmimages/createnewprod_taxselected.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo2.PNG
 |
 |
 
-#.  Click  **Relationships** tab to add an image to the product.
-
-
-.. image:: /feature/_images/mdmimages/createnewprod_clickrel.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_enternecessaryinfo3.PNG
 |
 |
 
-#.  Click on  "+" to add an entity.
+#. Go back to *Overview* tab and click **Add Taxonomy** to add taxonomy to the product.
 
-
-.. image:: /feature/_images/mdmimages/createnewprod_caddentity.PNG
-|
-|
-
-#.  Click the select button to add the desired image (button turns to blue when selected), then click  **Add**.
-
-.. image:: /feature/_images/mdmimages/createnewprod_imageselect.PNG
-|
-|
-.. image:: /feature/_images/mdmimages/createnewprod_addall.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_gobackoverview.PNG
 |
 |
 
-#.  Drag the selected image to the right pane can also be performed to add the image.
-
-.. image:: /feature/_images/mdmimages/createnewprod_dragimage.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_gobackoverview2.PNG
 |
 |
 
-#.  To add more image, click **Return**, and repeat the previous steps.
+#. Taxonomy menu appears. Select the desired taxonomy (in this demo, we select **Accesories**).
 
-.. image:: /feature/_images/mdmimages/createnewprod_clickret.PNG
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_taxmenuappears.PNG
 |
 |
+
+#. View the selected taxonomy.
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_viewselectedtax.PNG
+|
+|
+
+#. Click  **Relationships** tab to add an image to the product.
+
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickrelationshiptab.PNG
+|
+|
+
+#. Click on  "+" to add an entity.
+
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickplus.PNG
+|
+|
+
+#. Click the **select** checkbox to add the desired image (button turns to blue when selected), then click  **Add**.
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickselect.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_clickselect2.PNG
+|
+|
+
+#. Drag the selected image to the right pane can also be performed to add the image.
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_dragimage.PNG
+|
+|
+
+#. To add more image, click **Back**, and repeat the previous steps.
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_addimageclickback.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_createnewproduct_addimageclickback2.PNG
+|
+|
+
 
 | :doc:`Previous: Add an Image to the DAM </tutorials/addimagetoDAM>`
 | :doc:`Next: Set Up a Taxonomy </tutorials/settinguptaxonomy>`
