@@ -6,7 +6,7 @@ Products with displayed images are more appealing for the users to the system, w
 
 
 How-to: Add an Image
-======================
+=======================
 
 To do this, follow these steps:
 
