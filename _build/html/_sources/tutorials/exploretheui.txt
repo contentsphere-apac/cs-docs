@@ -4,12 +4,12 @@ Explore the User Interface
 
 Use these screenshots to help guide you through Contentserv's user interface:
 
-.. image:: _images/cs_ui1.jpg
+.. image:: /feature/_images/mdmimages/newUI/cs_ui1b.PNG
    :alt: Contentsphere UI
 
 |
 
-.. image:: _images/cs_ui2.jpg
+.. image:: /feature/_images/mdmimages/newUI/cs_ui2b.PNG
    :alt: Contentsphere UI
 
 |
