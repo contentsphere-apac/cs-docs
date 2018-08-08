@@ -1,0 +1,24 @@
+=========================================
+Adding Property Collections to Products
+=========================================
+
+What is a Property Collection
+==============================
+
+As what the name suggests, a Property Collection is a collection of similar or relevant properties. It is used to group the attributes and tags under one area.
+One important aspect of having this feature is that the user can create products that share similar properties without having to add the same attributes and tags all over again.
+
+  **Example:**
+
+  A mobile retailer can create a Property Collection ‘General Information’ with common attributes like PID, GTIN, Brand, Long Description, Short Description, Price, and so on;
+  and apply the same to all the products.
+
+  Similarly, one could also create a Property Collection ‘Warranty Information’; this Property Collection can be extended to the other similar products as well.
+
+
+.. image:: /feature/_images/butimages/cs_propertycollection.PNG
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

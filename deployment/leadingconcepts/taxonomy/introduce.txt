@@ -1,0 +1,58 @@
+========
+Taxonomy
+========
+
+Why use taxonomies
+==================
+
+Taxonomy is the classification of data. It is about the “semantic architecture”, which includes naming items, making decisions for a different concept, and term mapping. Aside from being useful for creating a consistent structure, it can also be used to categorize large volume of data in readable and identifiable form. In the CS Global system, Taxonomy is also used to link two objects and drive inheritance.
+A child (or last node of a taxonomy branch) will have most attributes (not all) of the parent node. Taxonomy makes it easier for the customer to find his/her desired product based on the cues provided by the classification structure.
+
+  **Example:**
+
+  Taxonomy determines the type of product (Chair), its category (Furniture), its attributes (Teakwood, Mahogany, etc.) and the attribute’s type (Wood type, wood finish).
+
+ .. image:: /feature/_images/butimages/cs_introduce_taxonomyb.PNG
+
+In CS Global system, Taxonomy has two types:
+
+* Hierarchies
+* Major Taxonomy
+
+
+
+Hierarchies
+===========
+
+
+Definition and Use
+------------------
+
+A hierarchy refers to the way products are organized and displayed in the system. Each hierarchy level classifies similar types of products into progressively smaller categories. The main objectives of the hierarchy are to structure, set up, and maintain product attributes and properties at the category level.
+
+  **Example:**
+
+  If we create a hierarchy of Master ‘Fashion’ Taxonomy, it can be further classified to level 2 (‘Shirts’, ‘Trousers’, etc.). A Shirt can be further classified as Formal or Casual wear.
+
+
+
+Major Taxonomy
+==============
+
+
+Definition and Use
+------------------
+
+ Major Taxonomy determines the category of the products. Generally, it is the highest node of the hierarchy that drives the inheritance. Major Taxonomy may have several levels (Level -2, Level -3, etc.). Major taxonomy has category-specific attributes mapped to relevant category levels.
+ Master taxonomy is typically static, as any changes there would impact the overall data quality. A major difference between Hierarchy and Taxonomy in this system is that you can’t add ‘property collection’ to hierarchies.
+
+
+  **Example:**
+
+
+  A Retailer that sells furniture and home appliances may categorize products into Kitchen & Bathroom, Living Room, and Bedroom and so on. The category Kitchen & Bathroom can further have categories like Kitchen Furniture, Bathroom Furniture, and Appliances and so on.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

@@ -22,65 +22,75 @@ The Monitor Imports feature provides an import summary for every import of produ
 How-to: Monitor Imports
 ===========================
 
+|
+
 | For this example, we will use a user with a general account.
 | To monitor imports as a general user, follow the instructions below:
 
 |
 
-#. Log in (as a *General User*).
+* Log in (as a *General User*).
 
 .. image:: /feature/_images/pepimages/cs_monitorimports_login.PNG
 |
 |
 
 
-#. Go to the *Dashboard* and click on the **Data Integration** tab.
+* Go to the *Dashboard* and click on the **Data Integration** tab.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_gotodashboardthendata.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_gotodashboardclickdataintegration.PNG
 |
 |
 
 
-#. On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
+* On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_onthedataintegrationpage.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_ondataintegrationtab.PNG
 |
 |
 
 
-#. On that *Onboard Endpoint* page, click on the **Import File** button.
+* On that *Onboard Endpoint* page, click on the **Import File** button.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_onthatonboardendpoint.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_onendpintpage.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_clickimportfile.PNG
 |
 |
 
 
-#. Select the file to be imported from your computer. Once selected, click **Open**.
+* Select the file to be imported from your computer. Once selected, click **Open**.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_onceclicked.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_selectfile.PNG
 |
 |
 
 
 *Note:  You may check the status or the progress of the onboarding process by going to the Workflow Status*.
 
-On that page, the *Start Time, End Time, and the Status* are provided for review.
+.. image:: /feature/_images/pepimages/cs_monitorimports_note.PNG
+|
+|
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_noteasauser.PNG
+* On that page, the *Start Time, End Time, and the Status* are provided for review.
+
+.. image:: /feature/_images/pepimages/cs_monitorimports_onthatpage.PNG
 |
 |
 
 
-#. Click on the **Dashboard** button to go back.
+* Click on the **Dashboard** button to go back.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_clickonthedashboardtogoback.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_clickdashboard.PNG
 |
 |
 
 
-#. View the data shown on the *Dashboard*.
+* View the data shown on the *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_monitorimports_viewtheupdateddata.PNG
+.. image:: /feature/_images/pepimages/cs_monitorimports_viewdata.PNG
 |
 |
 
@@ -98,19 +108,21 @@ How-to: Maintain the Data Quality
 =====================================
 If there are violations in the *Endpoint Dashboard Entry*, the user may correct them by following these simple steps:
 
-#. Click on the **Endpoint**.
+|
+
+* Click on the **Endpoint**.
 
 |
 
-#. Go to *Catalog* that can be found on the side menu.
+* Go to *Catalog* that can be found on the side menu.
 
 |
 
-#. Click on each product with violation and provide (or correct) the necessary data.
+* Click on each product with violation and provide (or correct) the necessary data.
 
 |
 |
 
 
-.. image:: /feature/_images/mdmimages/line-png-32.PNG
+.. image:: /feature/_images/pepimages/line-png-32.PNG
    :alt: Contentserv line

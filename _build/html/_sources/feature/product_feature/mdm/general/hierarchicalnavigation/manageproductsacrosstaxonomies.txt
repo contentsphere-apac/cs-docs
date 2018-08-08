@@ -26,65 +26,64 @@ Manage Products across Taxonomies is a feature that allows a user to copy or mov
 
 
 How-to: Manage Products across Taxonomies
-============================================
+===========================================
 To manage products across taxonomies, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_login.PNG
 |
 |
 
-#. Click on the **Choose Taxonomies** drop-down list.
+* Click on the **Choose Taxonomies** drop-down menu.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_choosetaxonomies.PNG
 |
 |
 
-#. Click on the **Organize** button at the bottom of the drop-down window.
+* Click on the **Organize** button at the bottom of the drop-down window.
 
-.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_organize.PNG
+.. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_organize1.PNG
 |
 |
 
-#. View the list of existing taxonomies on the left pane and the products on the right.
+* View the list of existing taxonomies on the left pane and the products on the right.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_viewlist.PNG
 |
 |
 
-#. Navigate the taxonomy hierarchy to which the desired product belongs.
+* Navigate the taxonomy hierarchy to which the desired product belongs.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_navigatetaxonomy.PNG
 |
 |
 
-#. Click the checkbox of a product to select it.
+* Click the checkbox of a product to select it.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickcheckbox.PNG
 |
 |
 
-#. Click the **Copy** icon.
+* Click on the **Copy** icon.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickcopy.PNG
 |
 |
 
-#. Navigate to the taxonomy where you want to paste the product and click the **Paste** icon.
+* Navigate to the taxonomy where you want to move the product and click on the **Paste** icon.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_clickpaste.PNG
 |
 |
 
-#. View the product added to the selected taxonomy.
+* View the product added to the selected taxonomy.
 
 .. image:: /feature/_images/mdmimages/cs_hierarchicalnavigation_viewaddedproduct.PNG
 |
 |
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

@@ -1,0 +1,133 @@
+===========================
+Introduction to the Product
+===========================
+
+Overview
+=========
+
+What is a Product?
+------------------
+
+Products are the merchandise offered to a market to satisfy a want or need. It is created through a process and provides benefits to a market.
+A chair, a table, or ‘set of furniture’ related to the dining room are examples of products. Similarly, a product can also be an idea or a service.
+In the CS Global System, a product can be a placeholder for a group of items of the same model or a  standalone item up for sale. Here, you can create a product, enrich it with images, videos and classify  it.
+
+
+To give our customers liberty of displaying the products in the most attractive manner and to aid the promotional activities, we have introduced various types of products, a detailed account of same is described in the following section.
+
+
+What are the types of Products in the system?
+---------------------------------------------
+
+The CS Global System allows you to create a variety of products. Each type of product has a unique set of values/attributes assigned to it. Having various types of products enhances its use and makes it more relevant.
+For example, a chair is a good standalone product to sell, but a Dining Table usually sells with chairs.
+
+Single Article
+--------------
+
+A Single Article is a standalone sellable item. This product type is usually used to create independent products. Items such as:  chair, table-lamp, mattress etc. These Single Articles can be sold individually or grouped together to make a bundle.
+Furnishing items like chair, table, sofa, table-lamp are individual items for sale; when put together in a bundle they form ‘living room set’.
+
+
+
+.. image:: /feature/_images/butimages/cs_introproduct_singlearticle.PNG
+|
+|
+
+Bundles
+-------
+
+A bundle is a collection of items put together by the retailer for sale. In CS system, a user (authorized person to use the system) can create two types of bundles namely, Fixed Bundle and Threshold Bundle.
+
+
+A **Fixed Bundle** is a group of items, where the quantity of each item is fixed, while in a **Threshold Bundle** quantity of each item can be defined by the retailer.
+
+A bedroom set with items like bed, mattress, side table and wardrobe form a bundle. A retailer can dictate whether the items can be tightly coupled (can’t be sold without the other) or loosely coupled (selling permutations like bed and wardrobe, bed and side table). The tightly coupled bedroom set will form a Fixed Bundle, while the loosely coupled items will come under the product type, Threshold Bundle.
+
+.. image:: /feature/_images/butimages/cs_introproduct_fixedbundle.PNG
+|
+|
+
+In this picture, the part 1 and part 2 of the sofa are sold as a fixed bundle, i.e. can’t be sold individually.
+
+
+In a **Threshold bundle**, a retailer adds relevant products together to form a bundle. These products put together in a bundle can also be sold individually.
+
+.. image:: /feature/_images/butimages/cs_introproduct_thresholdbundle.PNG
+|
+|
+
+Set of products
+---------------
+
+Similarly, it is possible to display relevant complementary products along with the main product, by using the product type – Set of Products.
+So, when the customer logs in to buy a sofa set, the complementary products like a lamp, a coffee table or vase are displayed alongside.
+
+.. image:: /feature/_images/butimages/cs_introproduct_setofproducts.PNG
+|
+|
+
+Promotional Collection
+----------------------
+
+Group of products grouped under same price tag or special promotional price. For example, Retailer ‘A’ puts sale of stationery items at an eye-catching price of $9 or $19 or $29 or $39.
+
+.. image:: /feature/_images/butimages/cs_introproduct_personalcollection.PNG
+|
+|
+
+PID
+---
+
+A PID, in this system, is a virtual product used to group a product line related to a brand/Product at one place. A PID is a set of similar products, but with a difference of one or two of the properties. Use this product type, if you have a product with almost similar attributes and properties, albeit varying in a certain property. A sofa retailer may have sofas of similar dimensions, varying in wood-type or fabric or color.
+
+.. image:: /feature/_images/butimages/cs_introproduct_pid.PNG
+|
+|
+
+**Embedded** -  In a similar fashion, the product type ‘Embedded’ should be used when you need to create ‘virtual products’, entities that are not physically present but are linked to the original product as its variants. A retailer selling shirts will require to display shirts of the same brand, same color but different sizes, can achieve the same by using product type Embedded. An embedded variant in CS system is displayed in an editable table, making it easier for the user to make changes in real time.
+
+|
+|
+
+
+Unit
+----
+
+You may sell a single can of Cola, or you may sell a whole carton; to handle such a variety of quantities, the product type ‘Unit’ has been introduced. A retailer usually orders in bulk and sells in parts to the customer. So, having a record of items as a sales unit/ base unit/order unit is very necessary.
+The Sales & Order Units in the CS system are defined as follows – **Base Unit:** The smallest measuring unit that cannot be divided further or the Item itself in its single quantity (Example, a single can of Red Bull).
+
+.. image:: /feature/_images/butimages/cs_introproduct_baseunit.PNG
+|
+|
+
+
+
+**Sales Unit:** Any product that is ready for sale can be tagged as a sales unit (Example, A single can of Red Bull or a pack of 24 Red bulls).
+
+.. image:: /feature/_images/butimages/cs_introproduct_salesunit.PNG
+
+|
+|
+
+
+
+
+
+**Order Unit:**  Order unit can be tagged with products that are in large quantity. Therefore, items that are usually not sell-able to an end customer. These units are usually tagged with products that a retailer orders from a wholesaler or a manufacturer (Mainly used for order the products in bulk) Example, a fridge of beverages.
+
+*Some products can fall under both a sales unit and an order unit. (Example, a shoulder piece of pork)*.
+
+.. image:: /feature/_images/butimages/cs_introproduct_orderunit.PNG
+|
+|
+
+Standard Identifier
+-------------------
+
+Standard identifiers are a series of numeric or alphanumeric digits that are used to identify a specific product. PID commonly includes Global Trade Item Numbers (GTINs), Manufacturer Part Numbers (MPNs) and brand names. Depending on the product type, one can submit different identifiers.
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

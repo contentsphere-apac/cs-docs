@@ -1,0 +1,14 @@
+============================
+Introduction to Properties
+============================
+
+
+A property is a characteristic of the component that can be set to different values.
+It gives additional information and the details of a component.
+In the system, a property is a field used to describe a product.
+
+It comes in several different types:
+
+  * *Attributes*
+  * *Tags*
+  * *Dependent Attributes*

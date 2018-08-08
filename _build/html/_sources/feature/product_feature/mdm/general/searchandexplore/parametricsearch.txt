@@ -32,28 +32,28 @@ To do a parametric search, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
 
-#. Click the **Sort & Filter** button found on the upper right corner. Once clicked, it will expand the selection.
+* Click the **Sort & Filter** button found on the upper right corner. Once clicked, it will expand the selection.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_sortandfilter.PNG
 |
 |
 
 
-#. Click the **Advanced Filters**.
+* Click the **Advanced Filters**.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_clicktheadvancedfilters.PNG
 |
 |
 
 
-#. Click the **Attributes** on the pop-up window and select an attribute (e.g. *List Price*).
+* Click the **Attributes** on the pop-up window and select an attribute (e.g. *List Price*).
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_clickonattributeandselect.PNG
 |
@@ -62,14 +62,14 @@ To do a parametric search, follow these steps:
 |
 
 
-#. After selecting an attribute, the attribute options will appear on the right.  Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
+* After selecting an attribute, the attribute options will appear on the right.  Click on the first drop-down list (the *Contains* drop-down list) and select the appropriate operator.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectingtheattribute.PNG
 |
 |
 
 
-#. After selecting an operator (e.g. *Greater Than*), select the value and unit. Click the **Apply** button.
+* After selecting an operator (e.g. *Greater Than*), select the value and unit. Click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_afterselectinganoperator.PNG
 |
@@ -78,7 +78,7 @@ To do a parametric search, follow these steps:
 |
 
 
-#. Wait for the results to be displayed based on the search criteria. The search criteria can be found in the **Applied Filter** section as shown.
+* Wait for the results to be displayed based on the search criteria. The search criteria can be found in the **Applied Filter** section as shown.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_waitfortheresults.PNG
 |
@@ -87,7 +87,7 @@ To do a parametric search, follow these steps:
 |
 
 
-#. For an improved and more refined search, use multiple properties (attributes/tags).
+* For an improved and more refined search, use multiple properties (attributes/tags).
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_foranimprovedsearch.PNG
 |

@@ -29,27 +29,28 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
 
-#. Click the **Sort & Filter** button found on the upper right corner. Once clicked, it will expand the selection.
+* Click the **Sort & Filter** button found on the upper right corner. Once clicked, it will expand the selection.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_clicksortandfilter.PNG
 |
 |
 
 
-#. Click the **Group By** button found on the upper right corner of the screen.
+* Click the **Group By** button found on the upper right corner of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_clickthegroupby.PNG
 |
 |
 
 
-#. Click the "+" icon to add the properties of a grouping. A list of all the filterable properties will be shown.
+* Click the "+" icon to add the properties of a grouping. A list of all the filterable properties will be shown.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_clicktheicontoaddproperties.PNG
 |
@@ -58,7 +59,7 @@ To do this feature, follow these steps:
 |
 
 
-#. Select the property/properties to be used. A list of values will be displayed along with the number of products.
+* Select the property/properties to be used. A list of values will be displayed along with the number of products.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_selecttheproperty.PNG
 |
@@ -67,21 +68,21 @@ To do this feature, follow these steps:
 |
 
 
-#. View the products that are displayed after selecting a value.
+* View the products that are displayed after selecting a value.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_viewtheproducts.PNG
 |
 |
 
 
-#. To add another level for the grouping, click the "+" icon.
+* To add another level for the grouping, click the "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_toaddanotherlevel.PNG
 |
 |
 
 
-#. Similarly, on the list that will appear, select the appropriate property. Select a subtag to have a more refined grouping.
+* Similarly, on the list that will appear, select the appropriate property. Select a subtag to have a more refined grouping.
 
 .. image:: /feature/_images/mdmimages/cs_groupby_similarlyonthelist.PNG
 |

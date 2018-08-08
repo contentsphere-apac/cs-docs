@@ -1,0 +1,370 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Tomcat : WebServer &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Other Configurations" href="others.html" />
+    <link rel="prev" title="Swift : Asset Storage" href="swift.html" /> 
+
+  
+  <script src="../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Setting Up</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../assessing/index.html">Assessing your Environment and Requirements</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../planning.html">Planning and Preparing your Deployment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../installing.html">Installing your Contentserv Platform</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../deploying/index.html">Deploying the Platform</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../settingup.html">Setting up Security Features</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="index.html">Configuring the Components</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../checking.html">Checking the System after deployment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../usingtheplatform/index.html">Using the Platform</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../index.html">Setting Up</a> &raquo;</li>
+        
+          <li><a href="index.html">Configuring the Components</a> &raquo;</li>
+        
+      <li>Tomcat : WebServer</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-tomcat-webserver">
+<span id="tomcat-webserver"></span><h1>Tomcat : WebServer<a class="headerlink" href="#tomcat-webserver" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-brief">
+<span id="brief"></span><h2>Brief<a class="headerlink" href="#brief" title="Permalink to this headline">¶</a></h2>
+<p>Tomcat can handle high number of incoming requests, efficiently using a combination of load balancing multiple server “workers” to process the balanced load.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-installation">
+<span id="installation"></span><h3>Installation<a class="headerlink" href="#installation" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+<div class="section" id="s-setup-and-configuration">
+<span id="setup-and-configuration"></span><h2>Setup and Configuration<a class="headerlink" href="#setup-and-configuration" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Download Apache Tomcat (/opt/cs/tomcat).</p>
+<blockquote>
+<div><p>Link:  <a class="reference external" href="http://mirror.fibergrid.in/apache/tomcat/tomcat-9/v9.0.0.M9/bin/apache-tomcat-9.0.0.M9.tar.gz">http://mirror.fibergrid.in/apache/tomcat/tomcat-9/v9.0.0.M9/bin/apache-tomcat-9.0.0.M9.tar.gz</a></p>
+</div></blockquote>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Alternatively, visit <a class="reference external" href="https://tomcat.apache.org/download-90.cgi">https://tomcat.apache.org/download-90.cgi</a> and download <strong>Version 9</strong>.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Extract tar.gz.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span>
+
+<span class="n">tar</span> <span class="o">-</span><span class="n">zxvf</span> <span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">.</span><span class="n">tar</span><span class="o">.</span><span class="n">gz</span>
+</pre></div>
+</div>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Change configuration:</p>
+<blockquote>
+<div><ul>
+<li><p class="first">You will find a block of code for <em>Connector port</em>. Replace that code with the one mentioned below:</p>
+<blockquote>
+<div><p>vim /opt/cs/tomcat/apache-tomcat-9.0.0.M9/conf/server.xml</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="o">&lt;</span><span class="n">Connector</span> <span class="n">port</span><span class="o">=</span><span class="s2">&quot;8080&quot;</span> <span class="n">maxHttpHeaderSize</span><span class="o">=</span><span class="s2">&quot;8192&quot;</span>
+<span class="n">maxThreads</span><span class="o">=</span><span class="s2">&quot;150&quot;</span> <span class="n">minSpareThreads</span><span class="o">=</span><span class="s2">&quot;25&quot;</span> <span class="n">maxSpareThreads</span><span class="o">=</span><span class="s2">&quot;75&quot;</span>
+<span class="n">enableLookups</span><span class="o">=</span><span class="s2">&quot;false&quot;</span> <span class="n">redirectPort</span><span class="o">=</span><span class="s2">&quot;8443&quot;</span> <span class="n">acceptCount</span><span class="o">=</span><span class="s2">&quot;100&quot;</span>
+<span class="n">connectionTimeout</span><span class="o">=</span><span class="s2">&quot;20000&quot;</span> <span class="n">disableUploadTimeout</span><span class="o">=</span><span class="s2">&quot;true&quot;</span>
+<span class="n">compression</span><span class="o">=</span><span class="s2">&quot;on&quot;</span>
+<span class="n">compressionMinSize</span><span class="o">=</span><span class="s2">&quot;2048&quot;</span>
+<span class="n">noCompressionUserAgents</span><span class="o">=</span><span class="s2">&quot;gozilla, traviata&quot;</span>
+<span class="n">compressableMimeType</span><span class="o">=</span><span class="s2">&quot;text/html,text/plain,text/xml,application/xhtml+xml,text/css,application/javascript,image/svg+xml,application/x-javascript,application/json&quot;</span><span class="o">/&gt;</span>
+</pre></div>
+</div>
+</div></blockquote>
+</li>
+<li><p class="first">Also add <strong>IP</strong>. You will find this at the end of the file.</p>
+</li>
+<li><p class="first">Create a file <em>bin/setenv.sh</em> and specify the memory configuration.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">touch</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">setenv</span><span class="o">.</span><span class="n">sh</span>
+<span class="n">vim</span>  <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">setenv</span><span class="o">.</span><span class="n">sh</span>  <span class="ow">and</span> <span class="n">add</span> <span class="n">the</span> <span class="n">following</span> <span class="n">line</span><span class="p">:</span>
+<span class="n">export</span> <span class="n">JAVA_OPTS</span><span class="o">=</span><span class="s2">&quot;-Dfile.encoding=UTF-8 -Xms4216m -Xmx13312m&quot;</span>
+</pre></div>
+</div>
+</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Start up the application.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Stop</span> <span class="n">Tomcat</span>
+    <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">shutdown</span><span class="o">.</span><span class="n">shORfuser</span> <span class="o">-</span><span class="n">k</span> <span class="mi">8080</span><span class="o">/</span><span class="n">tcp</span>
+
+<span class="n">Note</span><span class="p">:</span> <span class="n">fuser</span> <span class="ow">is</span> <span class="n">used</span> <span class="n">just</span> <span class="n">to</span> <span class="n">kill</span> <span class="n">the</span> <span class="n">process</span> <span class="k">if</span> <span class="n">it</span> <span class="ow">is</span>  <span class="n">running</span> <span class="n">even</span> <span class="n">after</span> <span class="n">using</span> <span class="s1">&#39;shutdown.sh&#39;</span><span class="o">.</span>
+
+<span class="n">Start</span> <span class="n">Tomcat</span>
+    <span class="n">cd</span>  <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span>
+
+    <span class="o">./</span><span class="n">startup</span><span class="o">.</span><span class="n">sh</span>
+</pre></div>
+</div>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Remove/Add war.</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">Remove</span> <span class="n">war</span>
+  <span class="n">cd</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="n">webapps</span><span class="o">/</span>
+  <span class="n">rm</span> <span class="n">edeka</span><span class="o">.</span><span class="n">war</span>
+  <span class="n">rm</span> <span class="o">-</span><span class="n">r</span> <span class="n">edeka</span>
+
+<span class="n">Add</span> <span class="n">war</span>
+  <span class="n">cp</span> <span class="o">&lt;</span><span class="n">Path</span> <span class="n">of</span> <span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">&gt;/</span><span class="n">CS</span><span class="o">-</span><span class="n">Refactored</span><span class="o">/</span><span class="n">REST</span><span class="o">/</span><span class="n">build</span><span class="o">/</span><span class="n">libs</span><span class="o">/</span><span class="n">edeka</span><span class="o">.</span><span class="n">war</span> <span class="o">/</span><span class="n">opt</span><span class="o">/</span><span class="n">cs</span><span class="o">/</span><span class="n">tomcat</span><span class="o">/</span><span class="n">apache</span><span class="o">-</span><span class="n">tomcat</span><span class="o">-</span><span class="mf">9.0</span><span class="o">.</span><span class="mf">0.</span><span class="n">M9</span><span class="o">/</span><span class="n">webapps</span><span class="o">/</span>
+</pre></div>
+</div>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p><em>Note: Before copying edeka.war to webapps directory of tomcat, make sure you have built the war.</em></p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../_images/line-png-322.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="others.html" class="btn btn-neutral float-right" title="Other Configurations" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="swift.html" class="btn btn-neutral" title="Swift : Asset Storage" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

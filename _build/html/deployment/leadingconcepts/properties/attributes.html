@@ -1,0 +1,421 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Attributes &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Tags" href="tags.html" />
+    <link rel="prev" title="Introduction to Properties" href="overview.html" /> 
+
+  
+  <script src="../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Leading Concepts</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../products/index.html">Products</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../classes/index.html">Classes</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="index.html">Properties</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../propertygroups/index.html">Property Groups</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../taxonomy/index.html">Taxonomy</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../context/index.html">Context</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../relationships/index.html">Relationships and Templates</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../usingtheplatform/index.html">Using the Platform</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../index.html">Leading Concepts</a> &raquo;</li>
+        
+          <li><a href="index.html">Properties</a> &raquo;</li>
+        
+      <li>Attributes</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-attributes">
+<span id="attributes"></span><h1>Attributes<a class="headerlink" href="#attributes" title="Permalink to this headline">¶</a></h1>
+<p>An attribute is a data field that describes a product.
+It is a characteristic or property of a component that can only have one value at a time.
+The properties that are preceded with an ‘A’ icon are the attributes.</p>
+<div class="line-block">
+<div class="line">There are different types of attributes that are available in the system:</div>
+</div>
+<ul class="simple">
+<li>Calculated</li>
+<li>Concatenated</li>
+<li>Date</li>
+<li>HTML</li>
+<li>Measurement</li>
+<li>Number</li>
+<li>Price</li>
+<li>Standard Attribute</li>
+<li>Text</li>
+</ul>
+<img alt="../../../_images/cs_properties_attributes.PNG" src="../../../_images/cs_properties_attributes.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-calculated">
+<span id="calculated"></span><h2>Calculated<a class="headerlink" href="#calculated" title="Permalink to this headline">¶</a></h2>
+<p>A calculated attribute is a read-only field whose value is based on a specified formula that derives values from other defined attributes.
+This attribute stores the calculation of two or more numbers.
+By definition, one can define a formula for this type of attribute and the value of an attribute will be calculated based on this defined formula.</p>
+<img alt="../../../_images/cs_properties_calculated.PNG" src="../../../_images/cs_properties_calculated.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to give 10 percent discount on the selling price of a chair.
+He can define the formula to apply a 10 percent discount on the selling price using a <em>Calculated</em> attribute.
+The attribute value will be based on the calculation of the defined formula and the attributes that have been used.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-concatenated">
+<span id="concatenated"></span><h2>Concatenated<a class="headerlink" href="#concatenated" title="Permalink to this headline">¶</a></h2>
+<p>This feature is used to concatenate two or more attributes to form one new attribute.
+It is used to combine related values together that will produce a single value of a new attribute.</p>
+<img alt="../../../_images/cs_properties_concatenated.PNG" src="../../../_images/cs_properties_concatenated.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>We want to show the physical address of a user. The user sets the details in different fields and
+We can combine different attributes like <em>State, City, and Zip Code</em> to get the complete address of a user.</p>
+<p>Two different attributes containing the first name and last name of a user are available in the system. Supplier wants to show the full name of a user.
+He will use Concatenated attribute to combine the first name and last name, displaying the full name of the user.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-date">
+<span id="date"></span><h2>Date<a class="headerlink" href="#date" title="Permalink to this headline">¶</a></h2>
+<p>Date attribute is used to store different types of dates in the system; examples are <em>Manufacturing date, Expiry date, Due date,</em> and so on.
+In runtime, the attributes will have a calendar popup for the date picker.</p>
+<img alt="../../../_images/cs_properties_date.PNG" src="../../../_images/cs_properties_date.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../_images/cs_properties_date2.PNG" src="../../../_images/cs_properties_date2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to specify the release date of a product.
+He can use the <em>Date</em> attribute to set the release date of the product in the product information page.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-html">
+<span id="html"></span><h2>HTML<a class="headerlink" href="#html" title="Permalink to this headline">¶</a></h2>
+<p>This attribute is used to store text in the system.
+The advantage in using this attribute type is that a user can modify the behavior of a text using different HTML attributes like <em>Bold, Italic, Underline, Font Size, Font Family,</em> and so on.
+By default, the attribute value can have a maximum of 999 characters. However, a user can manually change the maximum number of characters that an attribute value can accommodate.</p>
+<img alt="../../../_images/cs_properties_html.PNG" src="../../../_images/cs_properties_html.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../_images/cs_properties_html2.PNG" src="../../../_images/cs_properties_html2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to create a new product.
+He wants to add a description and highlight some texts in bold letters to put emphasis.
+He can create a new attribute in the system using the HTML attribute and he can also apply the bold style to this attribute.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-measurement">
+<span id="measurement"></span><h2>Measurement<a class="headerlink" href="#measurement" title="Permalink to this headline">¶</a></h2>
+<p>This attribute can be used to set different types of measurement attributes to be managed in the system.
+Some examples of different types of measurement attributes are: <em>Length, Width, Volume, Speed, Power, Density,</em> and so on.
+Once set as a measurement, the appropriate unit can be attached to the value of the attribute.</p>
+<img alt="../../../_images/cs_properties_measurement.PNG" src="../../../_images/cs_properties_measurement.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A furniture manufacturer wants to define the height and width of a cupboard.
+He can define the height and width in the system using the Measurement attribute.
+He can then also set the unit of measurement.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-number">
+<span id="number"></span><h2>Number<a class="headerlink" href="#number" title="Permalink to this headline">¶</a></h2>
+<p>This attribute is used to save any type of number value in the system.
+Once set to a number type, the system can validate the information in the field and check that the numbers have been entered.
+A default value can also be provided.</p>
+<img alt="../../../_images/cs_properties_number.PNG" src="../../../_images/cs_properties_number.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A furniture manufacturer wants to define the GTIN value for his product.
+He can define the GTIN value using the Number attribute.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-price">
+<span id="price"></span><h2>Price<a class="headerlink" href="#price" title="Permalink to this headline">¶</a></h2>
+<p>This attribute is used to save any type of price in a system like <em>List price, Minimum price, Maximum price, Retail price, Selling price,</em> and so on.
+Similar to the Number attribute, the system will check that numbers are the only values to be provided.
+In addition, the <em>Price</em> attribute allows a user to define the currency in which the price value is displayed like <em>Euro, US Dollar, Australian Dollar, Indian Rupee, Canadian Dollar,</em> and so on.</p>
+<img alt="../../../_images/cs_properties_price.PNG" src="../../../_images/cs_properties_price.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to display the selling price of all the products in Euro.
+He can then set up a price attribute and define Euro as the unit.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-standard-attribute">
+<span id="standard-attribute"></span><h2>Standard Attribute<a class="headerlink" href="#standard-attribute" title="Permalink to this headline">¶</a></h2>
+<p>Standard Attributes are the system-generated attributes.
+The system automatically generates these attributes and may be available in the system, by default.
+The most frequently used or common attributes across the system are generated by default for the convenience of the user.</p>
+<img alt="../../../_images/cs_properties_standardattribute.PNG" src="../../../_images/cs_properties_standardattribute.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to display the <em>Product description, GTIN, and Discount</em> for all the products.
+He can define these attributes as <em>Standard Attributes</em> for his convenience.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-text">
+<span id="text"></span><h2>Text<a class="headerlink" href="#text" title="Permalink to this headline">¶</a></h2>
+<p>This attribute is used to store text in the system. There is no limit or restriction on the number of characters for Text attributes.
+It can accommodate any number of characters as the attribute value.</p>
+<img alt="../../../_images/cs_properties_text.PNG" src="../../../_images/cs_properties_text.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>A manufacturer wants to show the key features of a sofa set.
+He can create the Text attribute to define the features of a sofa set.</p>
+</div></blockquote>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="tags.html" class="btn btn-neutral float-right" title="Tags" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="overview.html" class="btn btn-neutral" title="Introduction to Properties" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,36 @@
+=============================
+Practical Quick Start Guide
+=============================
+
+
+Step-By-Step Guide for Configuration
+=====================================
+Onboarding process requires configuration of following system components: *User, Partner and Role, Assign User to Role, Workflow, Mapping, Endpoint, and
+Assign Endpoint to Partner and Role*.
+
+
+.. toctree::
+   :maxdepth: 1
+
+   createuser
+   createpartnerrole
+   configureworkflow
+   configuremapping
+   configureendpoint
+   assignendpoint
+
+|
+
+Step-By-Step Guide for Uploading Onboarding File
+=================================================
+
+.. toctree::
+   :maxdepth: 1
+
+   stepbystepguideforuploading
+
+|
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

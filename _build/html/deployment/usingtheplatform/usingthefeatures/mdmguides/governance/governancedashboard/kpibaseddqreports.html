@@ -1,0 +1,445 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>KPI-based DQ Reports &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Drill Down for KPI Reports" href="drilldownforkpireports.html" />
+    <link rel="prev" title="Governance Dashboard" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Governance</a> &raquo;</li>
+        
+          <li><a href="index.html">Governance Dashboard</a> &raquo;</li>
+        
+      <li>KPI-based DQ Reports</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-kpi-based-dq-reports">
+<span id="kpi-based-dq-reports"></span><h1>KPI-based DQ Reports<a class="headerlink" href="#kpi-based-dq-reports" title="Permalink to this headline">¶</a></h1>
+<p>The KPI-based DQ Reports is a data governance feature that allows an administrator set up a KPI-based Data Quality reports and link it to specific roles,
+which enables the designated users to take proper corrective actions.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Administrator:</strong> a technical specialist who configures a software system.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>Data Quality Reports or Dashboards can be generated for each user/role in the system that shows a brief overview of all the products.</li>
+<li>These reports help a user understand the products in the system and show errors in the system (if there are any).</li>
+<li>The Data Quality Report gives a role a summary of all the products in the system that enables a user to take proper corrective actions
+based on the rules applied to the products and the KPI dashboard.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/governancedashboard/drilldownforkpireports.html"><span class="doc">Drill Down for KPI Reports</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">The KPI Dashboard helps a user better understand the products and take actions on it if they do not meet the set standard,
+which have been predefined by the rules set for those products.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>For a supplier of fashion products, a Fashion KPI Report would give an overview of all the fashion products based on a certain rule like the completeness of GTIN.
+Corrective actions can be taken for products violating the rule.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-kpi-based-dq-reports">
+<span id="how-to-kpi-based-dq-reports"></span><h2>How-to: KPI Based DQ Reports<a class="headerlink" href="#how-to-kpi-based-dq-reports" title="Permalink to this headline">¶</a></h2>
+<p>To do this, follow these steps:</p>
+<ul class="simple">
+<li>Click the <strong>Administration</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_clickadministration.PNG" src="../../../../../../_images/cs_pibaseddqreports_clickadministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Data Governance</strong> tab from the top.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_clickdatagovernancetab.PNG" src="../../../../../../_images/cs_pibaseddqreports_clickdatagovernancetab.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>KPIs</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_clickkpi.PNG" src="../../../../../../_images/cs_pibaseddqreports_clickkpi.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the “+” icon at the top right to create a new KPI.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_clickplus.PNG" src="../../../../../../_images/cs_pibaseddqreports_clickplus.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter a name and code (optional). Then, click <strong>Create</strong> to create the KPI.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_fillnamecode.PNG" src="../../../../../../_images/cs_pibaseddqreports_fillnamecode.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once the KPI is created, it will appear in the list of KPI, click the <strong>Edit</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_oncekpicreatedclickedit.PNG" src="../../../../../../_images/cs_pibaseddqreports_oncekpicreatedclickedit.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the <em>KPI Information</em> tab, click to select <strong>Class</strong>. then, <strong>Taxonomy</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_selectclasstax.PNG" src="../../../../../../_images/cs_pibaseddqreports_selectclasstax.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_selectclasstax2.PNG" src="../../../../../../_images/cs_pibaseddqreports_selectclasstax2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_selectclasstax3.PNG" src="../../../../../../_images/cs_pibaseddqreports_selectclasstax3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <em>Completeness</em> tab. Then, click to select <strong>attributes</strong> and <strong>Tags</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_incompletenesstab.PNG" src="../../../../../../_images/cs_pibaseddqreports_incompletenesstab.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_incompletenesstab2b.PNG" src="../../../../../../_images/cs_pibaseddqreports_incompletenesstab2b.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_incompletenesstab3b.PNG" src="../../../../../../_images/cs_pibaseddqreports_incompletenesstab3b.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>Apply</strong>.  Click <strong>Save</strong> to save the changes.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Repeat the similars teps for <em>Conformity</em>, <em>Uniqueness</em> and  <em>Accuracy</em> tab. Click to select the attributes and tags.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_repeatsimilarsteps.PNG" src="../../../../../../_images/cs_pibaseddqreports_repeatsimilarsteps.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To assign the KPI to a role, click  <em>Partner Administration</em> tab and  select the Organization where the role is present (in this demo, we selected “Fashionista”).</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_assignkpirole.PNG" src="../../../../../../_images/cs_pibaseddqreports_assignkpirole.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_assignkpirole2.PNG" src="../../../../../../_images/cs_pibaseddqreports_assignkpirole2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_assignkpirole3.PNG" src="../../../../../../_images/cs_pibaseddqreports_assignkpirole3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <em>Roles</em> tab and select a role ( in this demo, we selected ” Garment Supplier”). Then, select a KPI and click <strong>Apply</strong>.</li>
+</ul>
+<img alt="feature/_images/mdmimages/cs_pibaseddqreports_clickrolesselectrole.PNG" src="feature/_images/mdmimages/cs_pibaseddqreports_clickrolesselectrole.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Logout from the system and login with the user belonging to the role, to view the KPI for that role.</li>
+</ul>
+<img alt="../../../../../../_images/cs_pibaseddqreports_logout.PNG" src="../../../../../../_images/cs_pibaseddqreports_logout.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_logout2.PNG" src="../../../../../../_images/cs_pibaseddqreports_logout2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_pibaseddqreports_logout3.PNG" src="../../../../../../_images/cs_pibaseddqreports_logout3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="drilldownforkpireports.html" class="btn btn-neutral float-right" title="Drill Down for KPI Reports" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Governance Dashboard" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -5,7 +5,7 @@ The feature allows a user to change the values of multiple attributes/tags for m
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**           * **Grid Edit:** is a data editing functionality wherein the product data are presented in grid.
+**Key Term:**           * **Grid Edit:** is a data editing functionality wherein the product data are presented in a grid.
 
 **Description:**        * This feature can change the values of multiple attributes/tags for multiple products in a single operation using the grid view.
                         * This feature can be used on similar or dissimilar types of products.
@@ -14,13 +14,13 @@ The feature allows a user to change the values of multiple attributes/tags for m
 
 **Related topics:**     * :doc:`Bulk Edit </feature/product_feature/mdm/general/masseditingbulkapply/bulkedit>`
 
-**Application:**        * Edit Data in Grid View can support a variety of actions, such as: *Editing, Labeling, Changing States, Moving, or Deleting*.
-                        * Edit Data in Grid View saves hours of manual work by editing selected products in grid in one go.
+**Application:**        * Edit Data in Grid View supports a variety of actions, such as *Editing, Labeling, Changing States, Moving, or Deleting*.
+                        * Edit Data in Grid View saves hours of manual work by editing selected products in a grid in one go.
                         * It also provides the functionality to change and set a variety of product attributes like *Price, Compare at Price, Weight, Tags,* and more.
                         * *Example:*
 
-                            A mobile retailer wants to update pricing for 5 of his products. The retailer can simply select all products on a dashboard
-                            and click on **Grid Editable** to update the pricing.
+                            A retailer wants to update the pricing of his products. The retailer can simply select all products on a dashboard
+                            and click on **Grid Editable** to update the pricing information.
 
 ===================     ===============================================================================================================================================================
 
@@ -31,58 +31,73 @@ To do this editing feature, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs_editdataingridview_logintocontentsphere.PNG
+.. image:: /feature/_images/mdmimages/cs_editdataingridview_login.PNG
 |
 |
 
-#. Click on the **Data Model** tab.
 
-.. image:: /feature/_images/mdmimages/cs_editdataingridview_clickonthedatamodeltab.PNG
+* Click on the **Data Model** tab.
+
+.. image:: /feature/_images/mdmimages/cs_editdataingridview_clickondatamodel.PNG
 |
 |
 
-#. Click on *Properties* on the left panel and search for the attribute or tag whose value needs to be updated.
+
+* Click on *Properties* on the left panel and search for the attribute or tag that will be set as *editable in a grid view*.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_clickonproperties.PNG
 |
 |
 
-#. Scroll to the right and find the *Grid Editable* column.  Enable this option for the particular attribute or tag.
-   Repeat this step for the other attributes and tags that need to be updated.
+
+* Scroll to the right and find the *Grid Editable* column. Enable this option for the attribute or tag. Repeat this step for the other attributes and tags.  If not enabled, the attribute/tag will not be editable in a grid view.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_scrollrightandfind.PNG
 |
+.. image:: /feature/_images/mdmimages/cs_editdataingridview_scrollrightandfind2.PNG
+|
 |
 
-#. Click on the **Explore** button to reach PIM.
+
+* Click on the **Explore** button and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_clickontheexplore.PNG
 |
 |
 
-#. Select the products that need the modifications.
+
+* Select the products that need the modifications.
+
+.. image:: /feature/_images/mdmimages/cs_editdataingridview_selecttheproducts.PNG
+|
+|
+
+
+* Click on the **Grid Edit** button to perform the editing.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_clickonthegridedit.PNG
 |
 |
 
-#. Click on the **Grid Edit** button to perform the editing.
 
-.. image:: /feature/_images/mdmimages/cs_editdataingridview_clickonthegridedit2.PNG
-|
-|
-
-#. View the window that pops up. It lists the selected products with the attributes/tags that are to be edited.
+* View the window that pops up. It lists the selected products with the attributes/tags that are to be edited.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_viewthewindow.PNG
 |
 |
 
-#. Make the necessary changes and click the **OK** button to save these changes.
+*Note: The Pricing details are not included in the property collections of the Red Bull products. Thus, these attributes are not shown in the grid.*
+
+|
+
+* Make the necessary changes and click the **OK** button to save these changes.
 
 .. image:: /feature/_images/mdmimages/cs_editdataingridview_makethenecessaryadjustments.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_editdataingridview_makethenecessaryadjustments2.PNG
+|
 |
 |
 

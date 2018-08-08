@@ -1,110 +1,79 @@
-==============================
-Manage Endpoints for a System
-==============================
-Manage Endpoints for a System is an admin feature that manages endpoints in the system that are used for onboarding or offboarding of products.
+=================================
+Import/Export Data via Endpoints
+=================================
+The Import/Export Data via Endpoints is a feature that provides a *Data Integration* dashboard for a workspace so that data can be imported or exported using the endpoints.
 
 
-====================    =======================================================================================================================================================================
-**Key Term:**            * **Endpoint:** is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.
+===================     =======================================================================================================================================================================
+**Key Term**            * **Endpoint:** an endpoint is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.
 
-**Description:**         * This feature allows the managing of endpoints which are considered gateways of a *system, process, or mapping*.
-                           These gateways are used for the onboarding or offboarding of one or many products in and out of the system.
+**Description:**        * The dashboard provides an at-a-glance view of the key indicators in the process or system.
+                        * A dashboard for the *Import/Export Endpoints* will showcase all the information regarding the process in a summary.
+                          It will show key indicators for the products that are transferred through the process.
 
-**Related topics:**      * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
-                         * :doc:`Manage Outbound Process </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundprocess/manageoutboundprocess>`
-                         * :doc:`Simple Flat File Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsviassff/simpleflatfileexport>`
-                         * :doc:`Custom ETL Import </feature/product_feature/pep/platformadministration/dataintegrationimportproductsincfviaetl/custometlimport>`
-                         * :doc:`Custom ETL Export </feature/product_feature/pep/platformadministration/dataintegrationexportproductsincfviaetl/custometlexport>`
+**Related topics:**     * :doc:`Manage Endpoints for a System </feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem>`
+                        * :doc:`Manage System Profile </feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile>`
+                        * :doc:`Manage Outbound Endpoint </feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint>`
 
-**Application:**         * It helps a user to choose the gateway from the *Data Integration* window for the importing or exporting of files.
-                         * It gives a numerical conclusion/summary in the *Data Integration* window for the different aspects that the endpoint has been used for.
+**Application:**        * Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
+                          The supplier/user can then take appropriate corrective measures and decisions.
 
-====================    =======================================================================================================================================================================
+                        * *Example:*
+
+                             The *Import Endpoint* dashboard helps a *Fashion* supplier to import the fashion data into the system.
+                             The dashboard will show a summarized report, as well as, a detailed report for the products imported.
+                             The dashboard will also give a glimpse of erroneous or incomplete data that can be corrected  by the supplier.
+
+===================     =======================================================================================================================================================================
 
 
-How-to: Manage Endpoints for a System
-==========================================
-To manage the endpoints, follow these steps:
+How-to: Import/Export via Endpoints
+=======================================
+To import and export via endpoints, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in using the supplier username and password, then click on the **Log In** button.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_login.PNG
-|
-|
-
-
-#. Click on the **Data Integration** tab and then go to *Endpoints*.
-
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickondataintegration.PNG
-|
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickondataintegration2.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_login.PNG
 |
 |
 
 
-#. On the right, click on the "+" icon to create a new endpoint.
+* Click on the **Data Integration** tab.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_ontherightclickontheicon.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_dataintegration.PNG
 |
 |
 
 
-#. Provide the required details.
+* Click on the desired endpoint to open and view the endpoint.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails.PNG
-|
-|
-
-      #. If onboarding products, select the *Inbound Endpoint* for the *Type*. Click **Create**.
-
-      .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails2.PNG
-      |
-      |
-
-      #. If offboarding products, select the *Outbound Endpoint* for the *Type*. Click **Create**.
-
-      .. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_providetherequireddetails3.PNG
-      |
-      |
-
-
-#. Once the endpoint has been added, enable (or disable) the *Realtime Mapping*. This allows the mapping in runtime that can be tracked in the dashboard. Click the **Save** button.
-
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_oncetheendpointhasbeenadded.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_endpoint.PNG
 |
 |
 
 
-#. Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
-   To create a new system, click on the **Create 'system name'** button after typing the name of the new system to be added.
+* Click on the **Import File** button to import data.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_clickonsystem.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_importfile1.PNG
+|
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_importfile2.PNG
 |
 |
 
 
-#. Next, follow this sequence: *Partner Administration tab >> Partners >> Standard Organization >> Systems*.
+* VIew the process under the *Process Status* tab and click on the **Back** icon to go back to *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_nextfollowthissequence.PNG
 |
 |
 
 
-#. Add the created system or select the *Standard System* as you click on the "+" icon to add systems.
-   Then, enable the endpoint that was created.
+* Click on the drop-down button and select the scenario to be shown in the report.
 
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_addthesystem.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_dropdown.PNG
 |
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_addthesystem2.PNG
-|
-|
-
-
-#. View the endpoint in the *Dashboard*.
-
-.. image:: /feature/_images/pepimages/cs_systemprofilesetupandmanageendpoints_viewtheendpoint.PNG
+.. image:: /feature/_images/pepimages/cs_importexportdataviaendpoints_dropdown2.PNG
 |
 |
 

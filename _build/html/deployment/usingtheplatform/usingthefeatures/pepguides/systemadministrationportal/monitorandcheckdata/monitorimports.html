@@ -1,0 +1,407 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Monitor Imports &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Monitor Exports" href="monitorexports.html" />
+    <link rel="prev" title="Data Integration Dashboard - Monitor and Check Data per Endpoint" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Partner Engagement Portal (PEP)</a> &raquo;</li>
+        
+          <li><a href="../index.html">System Administration Portal</a> &raquo;</li>
+        
+          <li><a href="index.html">Data Integration Dashboard - Monitor and Check Data per Endpoint</a> &raquo;</li>
+        
+      <li>Monitor Imports</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-monitor-imports">
+<span id="monitor-imports"></span><h1>Monitor Imports<a class="headerlink" href="#monitor-imports" title="Permalink to this headline">¶</a></h1>
+<p>The Monitor Imports feature provides an import summary for every import of product data that allows corrective action to be promptly done, if necessary.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>The user will get a summary of the reports for each completed import process.</li>
+<li>The summary includes a report on key indicators of the products being imported, so that the user can check the product violations and may appropriately correct them.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem.html"><span class="doc">Manage Endpoints for a System</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile.html"><span class="doc">Manage System Profile</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/measureandmonitor/monitordataquality.html"><span class="doc">Monitor Data Quality</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorexports.html"><span class="doc">Monitor Exports</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Application:</strong></td>
+<td><ul class="first last simple">
+<li>The user gets an overall summary of the <em>previous, recent, and/or the total number</em> of uploaded files.
+It also provides information about the successful imports and violations.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-monitor-imports">
+<span id="how-to-monitor-imports"></span><h2>How-to: Monitor Imports<a class="headerlink" href="#how-to-monitor-imports" title="Permalink to this headline">¶</a></h2>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="line-block">
+<div class="line">For this example, we will use a user with a general account.</div>
+<div class="line">To monitor imports as a general user, follow the instructions below:</div>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in (as a <em>General User</em>).</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_login.PNG" src="../../../../../../_images/cs_monitorimports_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to the <em>Dashboard</em> and click on the <strong>Data Integration</strong> tab.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_gotodashboardclickdataintegration.PNG" src="../../../../../../_images/cs_monitorimports_gotodashboardclickdataintegration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the Data Integration page, find the endpoint for your onboarding.  Once found, click on the dashboard entry.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_ondataintegrationtab.PNG" src="../../../../../../_images/cs_monitorimports_ondataintegrationtab.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On that <em>Onboard Endpoint</em> page, click on the <strong>Import File</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_onendpintpage.PNG" src="../../../../../../_images/cs_monitorimports_onendpintpage.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitorimports_clickimportfile.PNG" src="../../../../../../_images/cs_monitorimports_clickimportfile.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the file to be imported from your computer. Once selected, click <strong>Open</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_selectfile.PNG" src="../../../../../../_images/cs_monitorimports_selectfile.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note:  You may check the status or the progress of the onboarding process by going to the Workflow Status</em>.</p>
+<img alt="../../../../../../_images/cs_monitorimports_note.PNG" src="../../../../../../_images/cs_monitorimports_note.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On that page, the <em>Start Time, End Time, and the Status</em> are provided for review.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_onthatpage.PNG" src="../../../../../../_images/cs_monitorimports_onthatpage.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Dashboard</strong> button to go back.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_clickdashboard.PNG" src="../../../../../../_images/cs_monitorimports_clickdashboard.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>View the data shown on the <em>Dashboard</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorimports_viewdata.PNG" src="../../../../../../_images/cs_monitorimports_viewdata.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note: In the Endpoint Dashboard Entry, there is a drop-down menu for the details of the import process. It is set with the default value, Summary.</em>
+Other options are available: <em>Last Upload and All Uploads</em>.
+<em>Also, the violations (Red, Orange, and Yellow) can be viewed that will notify the user if there are product data to be corrected so that Data Quality can be maintained.</em></p>
+<img alt="../../../../../../_images/cs_monitorimports_noteintheendpoint.PNG" src="../../../../../../_images/cs_monitorimports_noteintheendpoint.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-how-to-maintain-the-data-quality">
+<span id="how-to-maintain-the-data-quality"></span><h2>How-to: Maintain the Data Quality<a class="headerlink" href="#how-to-maintain-the-data-quality" title="Permalink to this headline">¶</a></h2>
+<p>If there are violations in the <em>Endpoint Dashboard Entry</em>, the user may correct them by following these simple steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Endpoint</strong>.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to <em>Catalog</em> that can be found on the side menu.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on each product with violation and provide (or correct) the necessary data.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-324.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="monitorexports.html" class="btn btn-neutral float-right" title="Monitor Exports" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Data Integration Dashboard - Monitor and Check Data per Endpoint" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+=======
+General
+=======
+
+.. toctree::
+   :maxdepth: 1
+
+   searchandexplore/index
+   hierarchicalnavigation/index
+   collectionsandbookmarks/index
+   multitaxonomyassignment/index
+   contextualization/index
+   timelineandhistory/index
+   cloning/index
+   simpleexcelbasedexport/index
+   multiclassification/index
+   masseditingbulkapply/index
+   masseditinggridediting/index
+   selectandcompare/index
+   rollback/index
+   contextualdatatransfer/index
+   versioncontext/index
+   

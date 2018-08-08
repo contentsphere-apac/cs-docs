@@ -1,0 +1,20 @@
+=====================
+Dependent Attributes
+=====================
+
+
+Dependent attribute is a grouping of commonly shared attributes and tags attached to the main product.
+A dependent attribute is also referred to as *Minor taxonomy*. One could create a minor taxonomy say for a *Wood type (Teak, Plywood)* and apply it to the main product *(Dining Table)*.
+
+
+.. image:: /feature/_images/butimages/cs_properties_dependentattributes.PNG
+|
+.. image:: /feature/_images/butimages/cs_properties_dependentattributes2.PNG
+|
+|
+
+	**Example:**
+
+	There are properties that are dependent on the type of material.
+	Glass has different properties associated with it and steel has different properties as well.
+	The *‘Material’* will be set as a minor taxonomy and will be added in a property collection.

@@ -1,0 +1,12 @@
+=======================
+Deploying the Platform
+=======================
+
+.. toctree::
+   :maxdepth: 1
+
+   prerequisites
+   aws
+   azure
+   onpremise
+   cloud

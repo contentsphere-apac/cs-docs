@@ -1,0 +1,17 @@
+===========================
+Configuring the Products
+===========================
+
+
+Why do we configure products
+===============================
+
+Products can be configured with classifications to drive a richer data model. Assigning classes allows the products to be defined of their nature and be provided with basic property sets.
+Aside from classes, taxonomies can be added to the products so as to enable the inclusion of attributes that
+are specific to a particular category, channel or as in the case of minor taxonomies — specific property such as material or type.
+Hierarchies can also be added to establish a navigation structure that is clear and easy to follow.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

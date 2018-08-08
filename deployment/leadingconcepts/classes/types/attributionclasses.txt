@@ -1,0 +1,36 @@
+===================================
+Attribution or Non-Nature Classes
+===================================
+
+Products that are defined only by a Nature Class are not yet categorized in your PIM. To give a more specific categorization, you can add Attribution Classes.
+The added benefit of using one or many Attribution Classes is that they have their own properties that the product will inherit.
+For example, a mobile phone product can have a ‘Mobile Attribution Class’ associated with it, which would include properties for screen size, storage, etc.
+Every mobile phone product in your system can be given this Attribution Class. Other Attribution Classes, such as Electronics or Computer, can be added to the mobile phone product.
+
+Below are examples of Attribution Classes and potential properties that they may hold. Each class is fully customizable through the Settings backend.
+
+
+Examples of Attribution Classes
+==================================
+
+
+Electronics
+--------------
+    * Voltage
+    * Current
+    * Resistance
+    * Power
+
+Mobile
+---------
+    * Screen size
+    * Storage and RAM
+    * Operating System
+    * Camera
+
+Food
+------
+    * List of Nutritional Information
+    * Contains nuts?
+    * Contains pork?
+    * Contains beef?

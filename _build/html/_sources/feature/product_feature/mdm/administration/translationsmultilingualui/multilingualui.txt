@@ -7,7 +7,7 @@ Multilingual UI is a feature that provides translation capability for UI menu it
 ===================     ============================================================================================================================================================================
 **Key Term:**			      * **User Interface (UI):** the digital interface used to interact with the Contentserv software.
 
-**Description:**        * The UI can be in various languages such as *French, German, and Spanish*.
+**Description:**        * The UI can be in various languages such as *French, German and Spanish*.
                         * The administrator can set up the data model (attributes, tags, classes) in various languages so that it can be understood by users in multiple countries or regions.
                         * The configuration of this feature can be accessed in the administration section.
 
@@ -22,56 +22,46 @@ Multilingual UI is a feature that provides translation capability for UI menu it
 
 
 How-to: Manage Multilingual UI
-=================================
+===============================
 To do this, follow these steps:
 
 |
 
-#. Go to **Administration**.
+* Go to **Administration**.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_clickadministration.PNG
 |
 |
 
+* Click **Translations** tab.
 
-#. Click *Translations* tab.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualui_clicktrans.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_clicktranslationtab.PNG
 |
 |
 
+* Click **Application Labels**.
 
-#. Click  **Application Labels**.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualui_selapplabel.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_clickapplicationlabels.PNG
 |
 |
 
+* Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
 
-#. Based on the language required, enter the translations for the desired label (in this demo, we selected "Acceleration").
-
-.. image:: /feature/_images/mdmimages/cs_multilingualui_entertrans.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_basedlanguagerequiredentertranslation.PNG
 |
 |
 
+* Logout and login again.
 
-#.  Logout  and login again.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualui_logoutb.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualui_logout.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_multilingualui_logout2.PNG
+*  On the login page, select your desired language from the flyout on the lower right corner of the screen.
+
+.. image:: /feature/_images/mdmimages/cs_multilingualui_onthelogin.PNG
 |
 |
-
-
-#.   On the login page, select your desired language from the flyout  on the lower right corner of the screen.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualui_login.PNG
-|
-|
-
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

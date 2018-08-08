@@ -1,0 +1,432 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Manage View Templates &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Taxonomies - Inheritance and Data Transfer" href="../inheritanceanddatatransfer/index.html" />
+    <link rel="prev" title="Users and Permissions - View Templates" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Administration</a> &raquo;</li>
+        
+          <li><a href="index.html">Users and Permissions - View Templates</a> &raquo;</li>
+        
+      <li>Manage View Templates</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-manage-view-templates">
+<span id="manage-view-templates"></span><h1>Manage View Templates<a class="headerlink" href="#manage-view-templates" title="Permalink to this headline">¶</a></h1>
+<p>Manage View Templates lets you set up view templates that are customized to different users.</p>
+<table class="docutils">
+<colgroup>
+<col width="11%" />
+<col width="89%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Taxonomy:</strong> a taxonomy is a scheme of classification used for an organization’s products.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>Easily customize the templates and hide certain portions as necessary.</li>
+<li>Create templates as per user’s requirements.</li>
+<li>Show the custom template to the authorized users.</li>
+<li>Hide certain modules within the product. Even portions of property collections can be hidden from certain users.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions.html"><span class="doc">Manage Permissions</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">Limit the access of a user to certain information.</p>
+</li>
+<li><p class="first">Hide sensitive information.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Let’s say the marketing team does not want to show the promotions to a supplier.
+So what they can do is to create a customized template that does not show promotions and assign it to a role for the supplier to use.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-manage-view-templates">
+<span id="how-to-manage-view-templates"></span><h2>How-to: Manage View Templates<a class="headerlink" href="#how-to-manage-view-templates" title="Permalink to this headline">¶</a></h2>
+<p>Easily manage who gets to see what, and here’s how to do it.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>Administration</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickadministration.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickadministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Templates</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clicktemplates.PNG" src="../../../../../../_images/cs_manageviewtemplates_clicktemplates.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the “+” icon to create a new template. The left pane shows the default templates.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickplus.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickplus.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter the name for the template and click <strong>Create</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_entername.PNG" src="../../../../../../_images/cs_manageviewtemplates_entername.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the “+” icon  and select the desired property collection.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickplusaddproperty.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickplusaddproperty.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickplusaddproperty2.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickplusaddproperty2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to the <em>Partner Administration</em> tab, and select a partner from the list. In this demo, we selected “Suppliers”.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_gotopartneradministration.PNG" src="../../../../../../_images/cs_manageviewtemplates_gotopartneradministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Roles</strong> tab and select a role from the list to which the template is to be assigned.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickrolestab.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickrolestab.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Show Permissions</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickshowpermissions.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickshowpermissions.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Eye</strong> icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clickeyeicon.PNG" src="../../../../../../_images/cs_manageviewtemplates_clickeyeicon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the appropriate class from the list of classes then click the “+” icon to add a template.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_selectappropriateclass.PNG" src="../../../../../../_images/cs_manageviewtemplates_selectappropriateclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageviewtemplates_selectappropriateclass2.PNG" src="../../../../../../_images/cs_manageviewtemplates_selectappropriateclass2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the created template and click <strong>Apply</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_selectcreatedtemplateapply.PNG" src="../../../../../../_images/cs_manageviewtemplates_selectcreatedtemplateapply.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To toggle the visibility of the property, click the <strong>Eye</strong> icon. To edit the rights for the property, click the <strong>Pencil</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_totoggle.PNG" src="../../../../../../_images/cs_manageviewtemplates_totoggle.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the properties to be non-editable (for example, <em>PID</em>) and hidden (for example, <em>Taxonomy</em>).</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_totoselectpropertiesexamplepid.PNG" src="../../../../../../_images/cs_manageviewtemplates_totoselectpropertiesexamplepid.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG" src="../../../../../../_images/cs_manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>Save</strong> to save the changes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageviewtemplates_clicksave.PNG" src="../../../../../../_images/cs_manageviewtemplates_clicksave.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../inheritanceanddatatransfer/index.html" class="btn btn-neutral float-right" title="Taxonomies - Inheritance and Data Transfer" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Users and Permissions - View Templates" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

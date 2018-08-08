@@ -31,14 +31,14 @@ To do this feature, follow these steps:
 
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_gotopim.PNG
 |
 |
 
 
-#. Select a product and click on the **Timeline Tab**.
+* Select a product and click on the **Timeline Tab**.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_selectaproduct.PNG
 |
@@ -48,28 +48,28 @@ To do this feature, follow these steps:
 |
 
 
-#. View the revision timeline.
+* View the revision timeline.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_viewtimeline.PNG
 |
 |
 
 
-#.  On the selected version, click **Compare with current version** icon.
+*  On the selected version, click **Compare with current version** icon.
 
 .. image:: /feature/_images/mdmimages/cs_compareproductrevision_onselectedclickcompare.PNG
 |
 |
 
 
-#. View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
+* View the comparing versions. The attributes of the latest version in the timeline will be compared to the selected version.
 
 .. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_viewcomparingversion.PNG
 |
 |
 
 
-#. Click **OK**.
+* Click **OK**.
 
 .. image:: /feature/_images/mdmimages/cs_cs_compareproductrevision_clickok.PNG
 |

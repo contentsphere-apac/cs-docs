@@ -1,0 +1,9 @@
+================================
+Relationships and Templates
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   relationships
+   templates

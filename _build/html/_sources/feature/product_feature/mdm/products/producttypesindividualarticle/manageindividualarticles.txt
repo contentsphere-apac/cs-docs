@@ -7,7 +7,7 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
 ===================   =================================================================================================================================================================
 **Key Term:**         * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**      * A Single Article is the basic unit in Contentserv for a product without variants.
+**Description:**      * A Single Article is a basic unit in Contentserv for a product without variants.
                       * Contentserv allows you to create, edit and delete individual products.
 
 **Related topics:**   * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
@@ -16,94 +16,82 @@ Manage Individual Articles enables you to manage a product at the level of a Sin
                       * *Example:*
 
                           Let's say a retailer wants to add a new flavor of Red Bull to their stock.
-                          To do that, they needs to create this product as a Single Article.
+                          To do that, they need to create this product as a Single Article.
 
 ===================   =================================================================================================================================================================
 
 
-How-to: Manage Individual Articles
+How to do: Manage Individual Articles
 =====================================
 
-Managing individual articles is easy, and here's how to do it.
+To manage individual articles, follow these steps:
 
 |
 
-#. Go to PIM.
+* Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/manageindividualarticles_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_login.PNG
 |
 |
 
+* Hover over the "+" icon.
 
-#. Hover on the "+" icon.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_hover.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_hover.PNG
 |
 |
 
+* Select **Single Article**.
 
-#. Select **Single Article**.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_selectsinglearticle.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_selectsinglearticle.PNG
 |
 |
 
+* Enter the name for the Single Article.
 
-#. Enter the name for the single article and provide relevant information.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_enterthename.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_entername.PNG
 |
 |
 
+* Go to the *Property Collection* tab.
 
-#. Click the **Relationships** button.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_relationships.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_gotopropertycollectiontab.PNG
 |
 |
 
+* Enter relevant information about the Single Article.
 
-#. Click the "+" icon under Images.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_plusicon.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_enterinfo.PNG
 |
 |
 
+* Go to the *Relationships* tab and click on the "+" icon under *Images*.
 
-#. Select the image and click the **Add All** button (or drag and drop the image to the right side).
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_selectimage.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_gotorelationshipstab.PNG
 |
 |
 
+* Select the image for the Single Article and click on the **Add** button.
 
-#. Click the **Back** button to check that the image is added to the product.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_clickback.PNG
-|
-.. image:: /feature/_images/mdmimages/manageindividualarticles_clickback2.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_selectimage.PNG
 |
 |
 
+* Click on the **Back** button.
 
-#. Add markets. The steps are the same as with adding images except that you click the "+" icon under Market.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_market.PNG
-|
-.. image:: /feature/_images/mdmimages/manageindividualarticles_market2.PNG
-|
-.. image:: /feature/_images/mdmimages/manageindividualarticles_market3.PNG
-|
-.. image:: /feature/_images/mdmimages/manageindividualarticles_market4.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_clickback.PNG
 |
 |
 
+* Add markets. The steps are the same as with adding an image except that you click on the "+" icon under *Market*.
 
-#. Check your single article.
-
-.. image:: /feature/_images/mdmimages/manageindividualarticles_yoursinglearticle.PNG
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_addmarket.PNG
+|
 |
 
+* View your Single Article.
+
+.. image:: /feature/_images/mdmimages/cs_manageindividualarticles_viewsinglearticle.PNG
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

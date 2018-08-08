@@ -34,28 +34,28 @@ To multi-classify objects, follow these steps:
 
 |
 
-#. Go to PIM and hover over the "+" icon.
+* Go to *PIM* and hover over the "+" icon.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_gotopim.PNG
 |
 |
 
 
-#. Click **Single Article**.
+* Click **Single Article**.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_clicksinglearticle.PNG
 |
 |
 
 
-#. Once clicked, a new window will appear. Enter the name of the single article.
+* Once clicked, a new window will appear. Enter the name of the single article.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_enterthenameofarticle.PNG
 |
 |
 
 
-#. To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
+* To add an *Attribution (Non-Nature) class*, refer to the *Classes* section and click **Add Class**.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanattributionclass.PNG
 |
@@ -64,7 +64,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-#. Select a relevant class from the drop-down list.
+* Select a relevant class from the drop-down list.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_selectarelevantclass.PNG
 |
@@ -73,7 +73,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-#. To add another attribution class, click **Add Class** and select a class from the list.
+* To add another attribution class, click **Add Class** and select a class from the list.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toaddanotherattri.PNG
 |
@@ -82,7 +82,7 @@ To multi-classify objects, follow these steps:
 |
 
 
-#. To switch templates from Nature class to Non-nature class, click on the drop-down list and select an option, for example, *Beverages*.
+* To switch templates from Nature class to Non-nature class, click on the drop-down list and select an option, for example, *Beverages*.
 
 .. image:: /feature/_images/mdmimages/cs_multiclassification_toswitchtemplates.PNG
 |

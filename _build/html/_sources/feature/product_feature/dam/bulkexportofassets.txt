@@ -30,28 +30,28 @@ To export assets in bulk, follow these steps:
 
 |
 
-#. Log in and click on the **Explore** icon.
+* Log in and click on the **Explore** icon.
 
 .. image:: /feature/_images/damimages/cs_bulkexportofassets_login.PNG
 |
 |
 
 
-#. Click on **DAM** from the selection on the left.
+* Click on **DAM** from the selection on the left.
 
 .. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonDAM.PNG
 |
 |
 
 
-#. Select the assets to be downloaded. Note that the selected assets are highlighted.
+* Select the assets to be downloaded. Note that the selected assets are highlighted.
 
 .. image:: /feature/_images/damimages/cs_bulkexportofassets_selecttheassets.PNG
 |
 |
 
 
-#. Click on the **Bulk Download** button.
+* Click on the **Bulk Download** button.
 
 .. image:: /feature/_images/damimages/cs_bulkexportofassets_clickonthebulkdownload.PNG
 |

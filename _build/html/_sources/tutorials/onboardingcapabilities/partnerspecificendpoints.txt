@@ -21,63 +21,63 @@ Key Terms
 Steps to Configure Endpoints
 ============================
 
-#. Log in to the application.
+* Log in to the application.
 
 |
 
-#. Click on the **Administration** icon.
+* Click on the **Administration** icon.
 
 |
 
-#. Navigate to **Data Integration** -> **Endpoints** menu.
+* Navigate to **Data Integration** -> **Endpoints** menu.
 
 .. image:: /tutorials/_images/cs_partnerspecificendpoints_navigate.PNG
 |
 |
 
-#. Click on the "+" icon to create the endpoint.
+* Click on the "+" icon to create the endpoint.
 
 |
 
-#. Enter the values for the *Name, Type, and Code*, then click on the **Create** button.
+* Enter the values for the *Name, Type, and Code*, then click on the **Create** button.
 
 .. image:: /tutorials/_images/cs_partnerspecificendpoints_entervalues.PNG
 
 |
 |
 
-#. Select the values for *Realtime Mapping*, *System*, *Workflow*, *Mapping*, *Dashboard Tab*, and *Physical Catalog*, then click on the **Save** button.
+* Select the values for *Realtime Mapping*, *System*, *Workflow*, *Mapping*, *Dashboard Tab*, and *Physical Catalog*, then click on the **Save** button.
 
 .. image:: /tutorials/_images/cs_partnerspecificendpoints_selectvalues.PNG
 |
 |
 
-#. Navigate to **Partner Administration** -> **Partners** menu.
+* Navigate to **Partner Administration** -> **Partners** menu.
 
 |
 
-#. Click on the created partner to whom the endpoint will be assigned.
+* Click on the created partner to whom the endpoint will be assigned.
 
 |
 
-#. Select the created endpoint from the *Systems* section.
+* Select the created endpoint from the *Systems* section.
 
 .. image:: /tutorials/_images/cs_partnerspecificendpoints_selectcreatedendpoint.PNG
 |
 
-#. Click on the **Roles** tab.
+* Click on the **Roles** tab.
 
 |
 
-#. Select the created endpoint from the *Systems* section.
+* Select the created endpoint from the *Systems* section.
 
 |
 
-#. Click on the **Explore** icon and go to *Data Integration*.
+* Click on the **Explore** icon and go to *Data Integration*.
 
 |
 
-#. Click on the **File Uploads** link of the created Endpoint to upload the desired file.
+* Click on the **File Uploads** link of the created Endpoint to upload the desired file.
 
 .. image:: /tutorials/_images/cs_partnerspecificendpoints_clickfileuploads.PNG
 |

@@ -1,0 +1,292 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Introduction to Classes &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../search.html" />
+    <link rel="next" title="Different Classes in the System" href="differentclasses.html" />
+    <link rel="prev" title="Working with Classes" href="index.html" /> 
+
+  
+  <script src="../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../index.html">Leading Concepts</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../../products/index.html">Products</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="../index.html">Classes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../properties/index.html">Properties</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../propertygroups/index.html">Property Groups</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../taxonomy/index.html">Taxonomy</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../context/index.html">Context</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../relationships/index.html">Relationships and Templates</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../../usingtheplatform/index.html">Using the Platform</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Leading Concepts</a> &raquo;</li>
+        
+          <li><a href="../index.html">Classes</a> &raquo;</li>
+        
+          <li><a href="index.html">Working with Classes</a> &raquo;</li>
+        
+      <li>Introduction to Classes</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-introduction-to-classes">
+<span id="introduction-to-classes"></span><h1>Introduction to Classes<a class="headerlink" href="#introduction-to-classes" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-what-is-a-class">
+<span id="what-is-a-class"></span><h2>What is a Class?<a class="headerlink" href="#what-is-a-class" title="Permalink to this headline">¶</a></h2>
+<p>A class is a blueprint, a detailed description, a definition of the object. It describes the attributes,
+characteristics and behavior that you use to create any type of object. For example, you want to
+build a house, then you first make its blueprint. The blueprint of a house describes everything about
+how that house will be built. You can use this blueprint to build one, two, or hundred houses. In the same manner,
+you define the blueprint of any object in the class, and then using that class you can create N
+number of objects of that class.</p>
+<div class="line-block">
+<div class="line">Different classes available in the system</div>
+</div>
+<ul class="simple">
+<li>Article</li>
+<li>Asset</li>
+<li>Campaign</li>
+<li>Promotion</li>
+<li>Supplier</li>
+<li>Target</li>
+<li>Text Asset</li>
+<li>Virtual Catalog</li>
+</ul>
+<img alt="../../../../_images/cs_classes.PNG" src="../../../../_images/cs_classes.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<p>Each class can be categorized either as: Nature Class or Non-Nature Class</p>
+<div class="section" id="s-nature-class">
+<span id="nature-class"></span><h3>Nature Class<a class="headerlink" href="#nature-class" title="Permalink to this headline">¶</a></h3>
+<p>We can define a base type of product using Nature class. Here, we can define behavior of a product. It
+helps to define how a product should look like.</p>
+</div>
+<div class="section" id="s-attribution-or-non-nature-class">
+<span id="attribution-or-non-nature-class"></span><h3>Attribution or Non-Nature Class<a class="headerlink" href="#attribution-or-non-nature-class" title="Permalink to this headline">¶</a></h3>
+<p>There are two ways to enrich the product details; one way is to add taxonomies to a product and the
+other way is to add Non-Nature class to a product. So, defining a Non-Nature class is one of the ways
+to enrich the product. We can define additional attributes in a non-nature class and tag this non-
+nature class to a product. This will specify further additional details regarding the product.</p>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="differentclasses.html" class="btn btn-neutral float-right" title="Different Classes in the System" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Working with Classes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

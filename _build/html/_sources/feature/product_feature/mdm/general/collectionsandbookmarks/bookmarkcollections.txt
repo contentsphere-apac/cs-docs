@@ -38,19 +38,19 @@ Bookmarks: Setting a Public Bookmark
 
 |
 
-#. Log in as admin.
+* Log in as admin.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
 |
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
 |
 |
 
-#. Click on the **Bookmarks** icon and go to the desired bookmark.
+* Click on the **Bookmarks** icon and go to the desired bookmark.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickbookmarksicon.PNG
 |
@@ -58,13 +58,13 @@ Bookmarks: Setting a Public Bookmark
 |
 |
 
-#. The default setting of a bookmark is *Public*. Keep this setting to make a public bookmark.
+* The default setting of a bookmark is *Public*. Keep this setting to make a public bookmark.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_publicbookmark.PNG
 |
 |
 
-#. Once done, the bookmark can be viewed by all users.
+* Once done, the bookmark can be viewed by all users.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewpublicbookmark.PNG
 
@@ -80,19 +80,19 @@ Bookmarks: Setting a Private Bookmark
 
 |
 
-#. Log in as admin.
+* Log in as admin.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
 |
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
 |
 |
 
-#. Click on the **Bookmarks** icon and go to the desired bookmark.
+* Click on the **Bookmarks** icon and go to the desired bookmark.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickbookmarksicon.PNG
 |
@@ -100,13 +100,13 @@ Bookmarks: Setting a Private Bookmark
 |
 |
 
-#. Click on the **Lock** icon to set the bookmark aS *Private*.
+* Click on the **Lock** icon to set the bookmark aS *Private*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_privatebookmark.PNG
 |
 |
 
-#. Once done, only certain users can view the bookmark.
+* Once done, only certain users can view the bookmark.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatebookmark.PNG
 
@@ -125,43 +125,43 @@ Collections: Setting a Public Collection
 
 |
 
-#. Log in as admin.
+* Log in as admin.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_loginasadmin.PNG
 |
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
 |
 |
 
-#. Select the products or assets that will be included in the collection.
+* Select the products or assets that will be included in the collection.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_selectproducts.PNG
 |
 |
 
-#. Click on the **Collections** icon.
+* Click on the **Collections** icon.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickcollectionsicon.PNG
 |
 |
 
-#. Enter the name of the collection and click on the **Create** button.
+* Enter the name of the collection and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_enternameofcollection.PNG
 |
 |
 
-#. The default setting of a collection is *Public*. Keep this setting for a public collection.
+* The default setting of a collection is *Public*. Keep this setting for a public collection.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_publiccollection.PNG
 |
 |
 
-#. Once done, the collection can be viewed by all users.
+* Once done, the collection can be viewed by all users.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewpubliccollection.PNG
 |
@@ -176,26 +176,26 @@ Collections: Setting a Private Collection
 
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotopim.PNG
 |
 |
 
-#. Click on the **Collections** icon and go to the desired collection.
+* Click on the **Collections** icon and go to the desired collection.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_clickcollectionsicon2.PNG
 |
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_gotocollection.PNG
 |
 
-#. Click on the **Lock** icon to set the collection as *Private*.
+* Click on the **Lock** icon to set the collection as *Private*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_privatecollection.PNG
 |
 |
 
-#. Once done, only certain users can view the collection.
+* Once done, only certain users can view the collection.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_viewprivatecollection1.PNG
 |

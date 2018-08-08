@@ -30,27 +30,28 @@ To do a search within taxonomy, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
 
-#.  Click on the **Choose Taxonomies** box next to the Search Bar.
+*  Click on the **Choose Taxonomies** box next to the Search Bar.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clickonchoosetaxonomies.PNG
 |
 |
 
 
-#.  Select a Taxonomy (e.g. *Category*). Once selected, the children nodes will appear.
+*  Select a Taxonomy (e.g. *Category*). Once selected, the children nodes will appear.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_selectataxonomy.PNG
 |
 |
 
 
-#. Tick on the checkbox of the selected category, then click the **Apply** button to display the products that belong to that specific node.
+* Tick on the checkbox of the selected category, then click the **Apply** button to display the products that belong to that specific node.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_tickonthecheckbox.PNG
 |
@@ -59,7 +60,7 @@ To do a search within taxonomy, follow these steps:
 |
 
 
-#. Click on a node to display its children nodes (along with the respective product count). The selected node is highlighted in bold text.
+* Click on a node to display its children nodes (along with the respective product count). The selected node is highlighted in bold text.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clickonanode.PNG
 |
@@ -68,14 +69,14 @@ To do a search within taxonomy, follow these steps:
 |
 
 
-#. Tick on the checkbox of the title heading to select all children nodes at once.
+* Tick on the checkbox of the title heading to select all children nodes at once.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_tickonthetitleheading.PNG
 |
 |
 
 
-#. To view the entire taxonomy tree structure including the blank nodes, click the **Show All** button.
+* To view the entire taxonomy tree structure including the blank nodes, click the **Show All** button.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_toviewtheentire.PNG
 |
@@ -84,7 +85,7 @@ To do a search within taxonomy, follow these steps:
 |
 
 
-#. Click the **Clear Selection** button to reset all selected taxonomy nodes.
+* Click the **Clear Selection** button to reset all selected taxonomy nodes.
 
 .. image:: /feature/_images/mdmimages/cs_searchwithintaxonomy_clicktheclearselection.PNG
 |

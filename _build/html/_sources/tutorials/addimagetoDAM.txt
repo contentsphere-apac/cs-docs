@@ -1,72 +1,75 @@
 =======================
 Add an Image to the DAM
 =======================
+
 Products with displayed images are more appealing for the users to the system, which can be stored in DAM (Data Asset Management).
 
 
 How-to: Add an Image
 ======================
+
 To do this, follow these steps:
 
+|
 
-#. Click **All**.
+* Click **Explore**.
 
-.. image:: /feature/_images/mdmimages/addingimage_clickall.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickexplore.PNG
 |
 |
 
-#. Click **DAM**.
+* Click **DAM**.
 
-.. image:: /feature/_images/mdmimages/addingimage_clickDAM.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickdam.PNG
 |
 |
 
-#.  Hover on the "+".
+* Hover on the "+" icon.
 
-.. image:: /feature/_images/mdmimages/addingimage_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_hoverplus.PNG
 |
 |
 
-#.   Then, click **Image**.
+* Then, click **Image**.
 
-.. image:: /feature/_images/mdmimages/addingimage_selimage.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickimage.PNG
 |
 |
 
-#.    Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
+* Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
 
-.. image:: /feature/_images/mdmimages/addingimage_clickcloud.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickaddimage.PNG
 |
 |
 
-#.   The image appears on the File Preview section, and enter a name for the image.
+* The image appears on the File Preview section, and click on the **pencil** icon to enter a name for the image.
 
-.. image:: /feature/_images/mdmimages/addingimage_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_entername.PNG
 |
 |
 
-#. Then, click **Save**.
+* Then, click **Save**.
 
-.. image:: /feature/_images/mdmimages/addingimage_enternamesave.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clicksave.PNG
 |
 |
 
-#.    Click **Metadata**.
+* Go to the *Metadata* nunder the *Property Collection* tab.
 
-.. image:: /feature/_images/mdmimages/addingimage_clickmeta.PNG
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata.PNG
 |
 |
 
-#.	The available metadata on the Meta Data section  will auto-complete but fields can be manually filled out as desired.
-
-.. image:: /feature/_images/mdmimages/addingimage_compmeta.PNG
-
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata2.PNG
+|
 |
 
-| :doc:`Previous: Add New Users </tutorials/addnewuser>`
-| :doc:`Next: Create a New Product </tutorials/createnewproduct>`
+
+* The available metadata on the Meta Data section  will auto-complete but fields can be manually filled out as desired.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_availablemetadata.PNG
 
 |
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: ContentServ line

@@ -30,27 +30,28 @@ To do a full-text search, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
+.. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
 
-#. Click on the **Search bar**.
+* Click on the **Search bar**.
 
 .. image:: /feature/_images/mdmimages/cs_fulltextsearch_clickonthesearchbar.PNG
 |
 |
 
 
-#. Enter the search keyword(s) (e.g. *Red Bull*). Then, hit **Enter** on your keyboard.
+* Enter the search keyword(s) (e.g. *Red Bull*). Then, hit **Enter** on your keyboard.
 
 .. image:: /feature/_images/mdmimages/cs_fulltextsearch_enterthesearchwords.PNG
 |
 |
 
 
-#. View the search results that are displayed based on the attributes.  The attributes, associated with the search words should have been defined as searchable.
+* View the search results that are displayed based on the attributes.  The attributes, associated with the search words should have been defined as searchable.
 
 .. image:: /feature/_images/mdmimages/cs_fulltextsearch_viewthesearchresults.PNG
 |

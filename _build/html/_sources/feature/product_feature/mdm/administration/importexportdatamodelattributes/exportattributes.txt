@@ -23,47 +23,47 @@ The Export Attributes is a feature that allows exporting of attribute definition
 
 
 How-to: Export Attributes
-================================
+==========================
 To export attributes, follow the steps provided below:
 
 |
 
-#. Log in and click on the **Administration** button.
+* Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_logintocontentsphere.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_login.PNG
 |
 |
 
 
-#. Click on the **Data Model** tab and go to *Properties*.
+* Click on the **Data Model** tab and go to *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickonthedatamodel.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickondatamodel.PNG
 |
 |
 
 
-#. Go to any attribute type (like *Date*).
+* Go to any attribute type (like *Date*).
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_gotodateandselect.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_selectanattribute.PNG
 |
 |
 
 
-#. Click on the **Export all Attributes** button. This will export all the attributes that are in the system.
+* Click on the **Export all Attributes** button. This will export all the attributes that are in the system.
 
-.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_onceselectedclickonthexportall.PNG
+.. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_clickonexportallattributes.PNG
 |
 |
 
 
-#. Wait for the download to be completed.
+* Wait for the export of the attributes to be completed.
 
 .. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_waitforthedownloadtocomplete.PNG
 |
 |
 
 
-#. Once downloaded, access the file and view the attribute data.
+* Once downloaded, access the file and view the attribute data.
 
 .. image:: /feature/_images/mdmimages/cs_importexportdatamodelattributes_oncecompletedaccessthefile.PNG
 |

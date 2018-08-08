@@ -6,70 +6,70 @@ To configure this, follow this set of instructions:
 
 |
 
-#.	Log in to the application and click on the **Administration** button.
+*	Log in to the application and click on the **Administration** button.
 
 .. image:: /tutorials/_images/cs_createuser_logintotheapp.PNG
 |
 |
 
 
-#.	Go to *Data Integration* and then, to the *Mappings* menu.
+*	Go to *Data Integration* and then, to the *Mappings* menu.
 
 .. image:: /tutorials/_images/cs_configuremapping_gotodataintegration.PNG
 |
 |
 
 
-#.	Click the "+" icon to create a new mapping.
+*	Click the "+" icon to create a new mapping.
 
 .. image:: /tutorials/_images/cs_configuremapping_clicktheicontocreate.PNG
 |
 |
 
 
-#.	Provide the details like *Name and Code*. Click on the **Create** button.
+*	Provide the details like *Name and Code*. Click on the **Create** button.
 
 .. image:: /tutorials/_images/cs_configuremapping_providethedetails.PNG
 |
 |
 
 
-#.	Click on the **Edit** button to edit the details.
+*	Click on the **Edit** button to edit the details.
 
 .. image:: /tutorials/_images/cs_configuremapping_clickontheeditbutton.PNG
 |
 |
 
 
-#.	On the pop-up window, click on the **Attribute** tab.
+*	On the pop-up window, click on the **Attribute** tab.
 
 .. image:: /tutorials/_images/cs_configuremapping_onthepopupwindow.PNG
 |
 |
 
 
-#.	Click on the **Add Mapping** button to map the attributes defined in an onboarding file with the system attributes.
+*	Click on the **Add Mapping** button to map the attributes defined in an onboarding file with the system attributes.
 
 .. image:: /tutorials/_images/cs_configuremapping_clickontheaddmapping.PNG
 |
 |
 
 
-#.  Define the **Attribute Name** used in an onboarding file in the left side textbox and select the equivalent system attribute in the **Mapped Element** field.
+*  Define the **Attribute Name** used in an onboarding file in the left side textbox and select the equivalent system attribute in the **Mapped Element** field.
 
 .. image:: /tutorials/_images/cs_configuremapping_definetheattributename.PNG
 |
 |
 
 
-#.	Likewise, map the *Tags, Taxonomies, and Classes* defined in an onboarding file with the tags, taxonomies, and classes of the system in the Tag, Taxonomy, and Class tabs, respectively.
+*	Likewise, map the *Tags, Taxonomies, and Classes* defined in an onboarding file with the tags, taxonomies, and classes of the system in the Tag, Taxonomy, and Class tabs, respectively.
 
 .. image:: /tutorials/_images/cs_configuremapping_likewisemaptags.PNG
 |
 |
 
 
-#.	Click on the **Save** button.
+*	Click on the **Save** button.
 
 .. image:: /tutorials/_images/cs_configuremapping_clickonthesavebutton.PNG
 |

@@ -6,65 +6,76 @@ Manage Sales and Order Units lets you tag various quantity units as sales or ord
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**         * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
-                           (Example: *a single can of Red Bull)*
-                         * **Sales unit** is any item that is sellable to the customer. (Example: *a single can of Red Bull, a pack of 24 Red Bull cans, and minced meat*)
-                         * **Order unit** can be tagged to products that are in large quantity. These items are usually not intended to be sold to an end customer.
-                           These units are usually tagged to products a retailer orders from the wholesaler or manufacturer.
-                           (Example: *a box or 30 beer bottles, a large box of vegetables)*
-                         * Some products can be classified as sales unit and order unit.
+**Description:**        * **Base unit** is the smallest measurement unit that cannot be divided further or the item itself in its single quantity.
+                          (Example: *a single can of Red Bull)*
+                        * **Sales unit** is any item that is sellable to the customer. (Example: *a single can of Red Bull, a pack of 24 Red Bull cans, and minced meat*)
+                        * **Order unit** can be tagged to products that are in large quantity. These items are usually not intended to be sold to an end customer.
+                          These units are usually tagged to products a retailer orders from the wholesaler or manufacturer.
+                          (Example: *a box or 30 beer bottles, a large box of vegetables)*
+                        * Some products can be classified as sales unit and order unit.
 
-**Related topics:**      * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
+**Related topics:**     * :doc:`Manage Units for Individual Articles </feature/product_feature/mdm/products/unitsandsku/individualarticles>`
 
-**Application:**         * Use these tags to distinguish whether an article is a sales unit or an order unit.
-                         * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.
-                           (Example: *For a carton of Red Bull cans, the base unit is a single Red Bull can)*
-                         * *Example:*
+**Application:**        * Use these tags to distinguish whether an article is a sales unit or an order unit.
+                        * A base unit is tagged to the single item. A base unit article is usually tagged as a sales unit.
+                          (Example: *For a carton of Red Bull cans, the base unit is a single Red Bull can)*
+                        * *Example:*
 
-                              Retailer orders in bulk and sells the pieces to the customer so it is important to keep track whether an item is a sales unit, base unit, or order unit.
+                            Retailer orders in bulk and sells the pieces to the customer so it is important to keep track whether an item is a sales unit, base unit, or order unit.
 ===================     =============================================================================================================================================================
 
 
 How-to: Manage Sales and Order Units
-=======================================
-
-Keeping track of items as sales units and order units is easy, and here's how to do it.
+======================================
+To manage Sales and Order units, follow these steps:
 
 |
 
-#. Go to *PIM*.
+* Log in and go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/salesandorder_gotopim.PNG
-|
-|
-
-
-#. Select a product and click **Unit**.
-
-.. image:: /feature/_images/mdmimages/salesandorder_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_login.PNG
 |
 |
 
 
-#. Click **Create**.
+* Select a product.
 
-.. image:: /feature/_images/mdmimages/salesandorder_create.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_selectproduct.PNG
 |
 |
 
 
-#. For the base unit, use ST as measurement unit. ST is the smallest measurement unit that cannot be divided further. ST can be a base unit or a sales unit.
+* Click on the **Property Collection** tab and click on **Unit**.
 
-.. image:: /feature/_images/mdmimages/salesandorder_usest.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab.PNG
 |
 |
 
 
-#. Enter the details of the EAN. Use *IE* for Internal Supplier.
+* Click on **Unit Types** and select **ST**. ST is the smallest measurement unit that cannot be divided further. ST can be a Base unit or a Sales unit.
 
-.. image:: /feature/_images/mdmimages/salesandorder_eandetails.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickst.PNG
+|
+|
+
+
+* Enable as **Base Unit**.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_baseunit.PNG
+|
+|
+
+* Enter the number of Base units *(e.g. 1 Base unit)*.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits.PNG
+|
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_savebaseunit.PNG
 |
 |
 
@@ -74,33 +85,44 @@ Sales and Order Unit
 
 |
 
-#. Click **Create**.
+* Go to *PIM* and select a product.
 
-.. image:: /feature/_images/mdmimages/salesandorder_create2.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_gotopim.PNG
+|
+|
+
+* Click on the **Property Collection** tab and click on **Unit**.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab2.PNG
 |
 |
 
 
-#. The amount of KOA unit is 9, which can be used as the sales and order unit.
+* Click on **Unit Types** and select **KOA**.
 
-.. image:: /feature/_images/mdmimages/salesandorder_koa.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickkoa.PNG
 |
 |
 
 
-#. Enter the details of the EAN.
+* Enter the number of Base units *(e.g. 9 Base units, which can be classified as Sales units or Order units)*.
 
-.. image:: /feature/_images/mdmimages/salesandorder_eandetails1.PNG
-|
-.. image:: /feature/_images/mdmimages/salesandorder_eandetails1a.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits2.PNG
 |
 |
 
 
-#. Use *HE* to refer to External Supplier.
+* Enable as **Order Unit** and **Sales Unit**.
 
-.. image:: /feature/_images/mdmimages/salesandorder_externalsupplier.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_orderunit.PNG
 |
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_salesunit.PNG
+|
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_savesalesorderunit.PNG
 |
 
 
@@ -109,24 +131,41 @@ Order Unit (Bulk Order)
 
 |
 
-#. Click **Create**.
+* Go to *PIM* and select a product.
 
-.. image:: /feature/_images/mdmimages/salesandorder_create3.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_gotopim2.PNG
 |
 |
 
 
-#. The amount of KOB unit is 40, which can be used as the order unit.
+* Click on the **Property Collection** tab and click on **Unit**.
 
-.. image:: /feature/_images/mdmimages/salesandorder_kob.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_propertycollectiontab3.PNG
 |
 |
 
 
-#. Enter the details of the EAN.
+* Click on **Unit Types** and select **KOB**.
 
-.. image:: /feature/_images/mdmimages/salesandorder_eandetails2.PNG
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_clickkob.PNG
 |
+|
+
+* Enter the number of Base units *(e.g. 40 Base units, which can be classified as Order units)*.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_numberofbaseunits3.PNG
+|
+|
+
+* Enable as **Order Unit**.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_orderunit.PNG
+|
+|
+
+* Click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_managesalesandorderunits_saveorderunit.PNG
 |
 
 

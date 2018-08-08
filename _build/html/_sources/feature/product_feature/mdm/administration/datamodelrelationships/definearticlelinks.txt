@@ -29,25 +29,25 @@ To define article links, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button.
+* Log in and click on the **Administration** button.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_login.PNG
 |
 |
 
-#. Click on **Relationships**.
+* Click on **Relationships**.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_relationshipconfiguration.PNG
 |
 |
 
-#. Click on the "+" icon to create a new relationship.
+* Click on the "+" icon to create a new relationship.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_clickplusicon.PNG
 |
 |
 
-#. Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
+* Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
    In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_entername.PNG
@@ -55,35 +55,35 @@ To define article links, follow these steps:
 |
 
 
-#. Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
+* Enter the information for the *Label* and select the *Cardinality* of the relationship. In cardinality, choose either *Many* or *One.*
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_enterinfo.PNG
 |
 |
 
 
-#. Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
+* Tick on the **checkboxes** for the elements to be editable. Select either one or both sides.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_tickcheckboxes.PNG
 |
 |
 
 
-#. Once done, click on the **Save** button.
+* Once done, click on the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_clicksave.PNG
 |
 |
 
 
-#. View the applied relationship.
+* View the applied relationship.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_viewrelationship.PNG
 |
 |
 
 
-#. Add the articles in the *Relationships* tab.
+* Add the articles in the *Relationships* tab.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_addarticles.PNG
 |

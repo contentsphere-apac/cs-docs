@@ -1,0 +1,461 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Manage Prepacks &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Product Types - Fixed Bundles" href="../producttypesfixedbundles/index.html" />
+    <link rel="prev" title="Manage Displays" href="managedisplays.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Products</a> &raquo;</li>
+        
+          <li><a href="index.html">Product Types - Threshold Bundle</a> &raquo;</li>
+        
+      <li>Manage Prepacks</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-manage-prepacks">
+<span id="manage-prepacks"></span><h1>Manage Prepacks<a class="headerlink" href="#manage-prepacks" title="Permalink to this headline">¶</a></h1>
+<p>Manage Prepacks is a feature that allows a user to group together different products to create <em>Prepacks</em>, which are assembled offerings of individual products in various quantities that can be ordered by stores.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Collection:</strong> a fixed collection of objects relevant to the user.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>It is a collection of single articles (<em>similar or dissimilar</em>), tied or wrapped up together as one.</li>
+<li>This feature creates <em>Threshold Bundle</em>, which is also known as <em>Loose bundle</em>.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays.html"><span class="doc">Manage Displays</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">A <em>Loose bundle</em> or <em>Combination of Products</em> may help retailers to increase the sales of products.</p>
+</li>
+<li><p class="first">This type of bundle can be used during stock clearance, where the retailer can add a single item in multiple quantities or can sell the bundle at a discounted price.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>A <em>Retailer</em> puts together a prepack of <em>3 shampoos</em> for 80 bucks or a prepack of <em>shampoo, conditioner, and face wash</em> for 100 bucks.
+These products can be sold either as a combo or individual items.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-manage-prepacks">
+<span id="how-to-manage-prepacks"></span><h2>How-to: Manage Prepacks<a class="headerlink" href="#how-to-manage-prepacks" title="Permalink to this headline">¶</a></h2>
+<p>To do this, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Administration</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clickadministration.PNG" src="../../../../../../_images/cs_manageprepacks_clickadministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Data Model</strong> tab. Then, click <strong>Article</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clickdatamodel.PNG" src="../../../../../../_images/cs_manageprepacks_clickdatamodel.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the “+” icon to create the type of product.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clickdatamodel.PNG" src="../../../../../../_images/cs_manageprepacks_clickdatamodel.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Fill in the required details and enable the tab for nature class type.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_enterdetails.PNG" src="../../../../../../_images/cs_manageprepacks_enterdetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>click <strong>Type</strong> to select from the dropdown list and select <strong>Threshold</strong>. Click <strong>Create</strong> to continue.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clicktypeselectthreshold.PNG" src="../../../../../../_images/cs_manageprepacks_clicktypeselectthreshold.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>In the content window of the class, enable Default. Remember to mention Maximum Number of products you would like to add. Save the changes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_inthecontentwindowclass.PNG" src="../../../../../../_images/cs_manageprepacks_inthecontentwindowclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Similarly, there are various fields where you can add <strong>Events, Embedded Classes</strong> etc.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses.PNG" src="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses2.PNG" src="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses3.PNG" src="../../../../../../_images/cs_manageprepacks_similarlyaddeventsclasses3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Add property collection in the Section tab by clicking on “+” icon and click <strong>Apply</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_addpropertycollection.PNG" src="../../../../../../_images/cs_manageprepacks_addpropertycollection.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_addpropertycollection2.PNG" src="../../../../../../_images/cs_manageprepacks_addpropertycollection2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>In the Relationship section, select the class by clicking on Other Side (in this demo, we selected   <em>‘article’</em>). The type of class you choose here will decide what kind of products you can add to threshold bundles.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_inrelationshipsection.PNG" src="../../../../../../_images/cs_manageprepacks_inrelationshipsection.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Next, click on the Explore tab. Hover to the “+” icon to see <em>Loose Bundle</em> type of class that was created earlier.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clickexplore.PNG" src="../../../../../../_images/cs_manageprepacks_clickexplore.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_clickexplore2.PNG" src="../../../../../../_images/cs_manageprepacks_clickexplore2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_clickexplore3.PNG" src="../../../../../../_images/cs_manageprepacks_clickexplore3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Next, click on the class <strong>Loose Bundle</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_nextclickloose.PNG" src="../../../../../../_images/cs_manageprepacks_nextclickloose.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on <em>Overview</em> tab to find a sub-tab Bundle Section.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_nextclickoverviewtab.PNG" src="../../../../../../_images/cs_manageprepacks_nextclickoverviewtab.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click “+” icon, which opens up to another window, where list of products you made are visible.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_nextclickplusaddproduct.PNG" src="../../../../../../_images/cs_manageprepacks_nextclickplusaddproduct.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the product by clicking on checkbox, and drag it to the right hand side of the space provided.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_selectproduct.PNG" src="../../../../../../_images/cs_manageprepacks_selectproduct.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>After selecting products, click on the <strong>Add Product</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_afterselectingaddproduct.PNG" src="../../../../../../_images/cs_manageprepacks_afterselectingaddproduct.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>Back</strong> to add more products. Images can also be added in the <em>Relationship</em> tab.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageprepacks_clickback1.PNG" src="../../../../../../_images/cs_manageprepacks_clickback1.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_manageprepacks_clickback2.PNG" src="../../../../../../_images/cs_manageprepacks_clickback2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../producttypesfixedbundles/index.html" class="btn btn-neutral float-right" title="Product Types - Fixed Bundles" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="managedisplays.html" class="btn btn-neutral" title="Manage Displays" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -31,49 +31,49 @@ To do this, follow these steps:
 
 |
 
-#. Go to *PIM*.
+* Go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_gotopim.PNG
 |
 |
 
 
-#. Select a product.
+* Select a product.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_selectproductb.PNG
 |
 |
 
 
-#. On the top right section, click **More Options**.
+* On the top right section, click **More Options**.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickmoreoptions.PNG
 |
 |
 
 
-#. Then, click **Clone**. A list of all categories related to *Attributes*, *Tags* and *Relationships* will appear.
+* Then, click **Clone**. A list of all categories related to *Attributes*, *Tags* and *Relationships* will appear.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickclone.PNG
 |
 |
 
 
-#. Click on any category and click on the features that are to be copied to the new product.
+* Click on any category and click on the features that are to be copied to the new product.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickanycategory.PNG
 |
 |
 
 
-#. Click **Clone**.
+* Click **Clone**.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickcloneb.PNG
 |
 |
 
 
-#. Your clone product is ready.
+* Your clone product is ready.
 
 .. image:: /feature/_images/mdmimages/cs_partialclone_clickproductready.PNG
 |

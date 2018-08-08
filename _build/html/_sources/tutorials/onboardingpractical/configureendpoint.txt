@@ -5,28 +5,28 @@ To configure an endpoint, follow these steps:
 
 |
 
-#. Navigate to **Data Integration** -> **Endpoints** menu.
+* Navigate to **Data Integration** -> **Endpoints** menu.
 
 .. image:: /tutorials/_images/cs_configureendpoint_navigate.PNG
 |
 |
 
 
-#.	Click the "+" icon to create the endpoint.
+*	Click the "+" icon to create the endpoint.
 
 .. image:: /tutorials/_images/cs_configureendpoint_clickplusicon.PNG
 |
 |
 
 
-#.	Provide the following details: *Name, Type, and Code*. Click on the **Create** button.
+*	Provide the following details: *Name, Type, and Code*. Click on the **Create** button.
 
 .. image:: /tutorials/_images/cs_configureendpoint_providethedetails.PNG
 |
 |
 
 
-#.	Select the values for: *Realtime Mapping, System, Workflow, Mapping, Dashboard Tab, and Physical Catalog*. Click on the **Save** button.
+*	Select the values for: *Realtime Mapping, System, Workflow, Mapping, Dashboard Tab, and Physical Catalog*. Click on the **Save** button.
 
 .. image:: /tutorials/_images/cs_configureendpoint_selectvalues.PNG
 |

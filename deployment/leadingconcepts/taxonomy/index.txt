@@ -1,0 +1,10 @@
+=============
+Taxonomy
+=============
+
+.. toctree::
+   :maxdepth: 1
+
+   introduce
+   majortaxonomy
+   hierarchies

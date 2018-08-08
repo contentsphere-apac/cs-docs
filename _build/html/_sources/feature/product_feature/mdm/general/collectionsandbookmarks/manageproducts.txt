@@ -28,49 +28,49 @@ To copy or move products across collections, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_login.PNG
 |
 |
 
-#. Click the **Collections** icon and select the desired collection.
+* Click the **Collections** icon and select the desired collection.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_collectionsicon.PNG
 |
 |
 
-#. Click on the **Organize** button.
+* Click on the **Organize** button.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_organize.PNG
 |
 |
 
-#. Click on the **Add New Collection** button.
+* Click on the **Add New Collection** button.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_addnewcollection.PNG
 |
 |
 
-#. Enter the name for the collection.
+* Enter the name for the collection.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_entername.PNG
 |
 |
 
-#. Select the product from the source collection and click on the **Copy** icon.
+* Select the product from the source collection and click on the **Copy** icon.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_copy.PNG
 |
 |
 
-#. Go to the destination collection and click on the **Paste** icon.
+* Go to the destination collection and click on the **Paste** icon.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_paste.PNG
 |
 |
 
-#. View the added product.
+* View the added product.
 
 .. image:: /feature/_images/mdmimages/cs_manageproducts_viewaddedproduct.PNG
 |

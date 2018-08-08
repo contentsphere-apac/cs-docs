@@ -1,0 +1,402 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Monitor Data Quality &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="KPI-based Completeness Rules" href="kpibasedcompletenessrules.html" />
+    <link rel="prev" title="Measure and Monitor" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Governance</a> &raquo;</li>
+        
+          <li><a href="index.html">Measure and Monitor</a> &raquo;</li>
+        
+      <li>Monitor Data Quality</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-monitor-data-quality">
+<span id="monitor-data-quality"></span><h1>Monitor Data Quality<a class="headerlink" href="#monitor-data-quality" title="Permalink to this headline">¶</a></h1>
+<p>The Monitor Data Quality is a data governance feature that monitors the quality of the data in the catalog.
+This feature helps define the products better and takes corrective actions to maintain a good quality of data.</p>
+<table class="docutils">
+<colgroup>
+<col width="6%" />
+<col width="94%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Data Governance:</strong> is an approach to managing a company’s data assets. It defines who is accountable for various aspects of an organization’s data as well as including procedures which define how the data is used, structured and stored. This includes data quality rules and KPIs through the Dashboard.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>All set rules regarding <em>Accuracy, Completeness, Conformity, and Uniqueness</em> are monitored using this feature.</li>
+<li>The <em>Dashboard</em> and <em>Graphical View</em> display the results as per data in the system.</li>
+<li>The results show a combination of all the Data Quality measures: <em>Accuracy, Completeness, Conformity and Uniqueness</em>. These measures are displayed in percentage format.</li>
+<li>The users/suppliers can have a detailed view of all the products in a report that explores the quality issues.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/datamodeltagmanagement/index.html"><span class="doc">Tag Management</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/datamodelattributemanagement/index.html"><span class="doc">Attribute Management</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/simpletaxonomytree/managetaxonomy.html"><span class="doc">Manage Taxonomy</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/measureandmonitor/kpibasedcompletenessrules.html"><span class="doc">KPI-based Completeness Rules</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/measureandmonitor/kpibasedconformityrules.html"><span class="doc">KPI-based Conformity Rules</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/governancedashboard/index.html"><span class="doc">Governance Dashboard</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">Dashboards often provide at-a-glance views of KPIs <em>(Key Performance Indicators)</em> relevant to a particular objective or business process.</p>
+</li>
+<li><p class="first">These reports help a user understand the products in the system and if there are any errors in them.
+Also, a user is presented with a precise and accurate view of the data in the system with respect to <em>Data Quality</em>.</p>
+</li>
+<li><p class="first">A user can see all the set rules together in a single graph.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>Supplier A has about 1000 products in the system and few of them have incomplete data.
+The supplier will be able to track the same with the help of graphs on the <em>Dashboard</em> so the supplier can properly take corrective actions.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-monitor-data-quality">
+<span id="how-to-monitor-data-quality"></span><h2>How-to: Monitor Data Quality<a class="headerlink" href="#how-to-monitor-data-quality" title="Permalink to this headline">¶</a></h2>
+<p>To monitor data quality, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in and go to <em>Administration</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_login.PNG" src="../../../../../../_images/cs_monitordataquality_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Data Governance</strong> tab.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_clickondatagovernance.PNG" src="../../../../../../_images/cs_monitordataquality_clickondatagovernance.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on <strong>KPIs</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_clickonkpis.PNG" src="../../../../../../_images/cs_monitordataquality_clickonkpis.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the “+” icon to create a new KPI.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_clickontheicontocreatenewkpi.PNG" src="../../../../../../_images/cs_monitordataquality_clickontheicontocreatenewkpi.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Fill out the name and click on the <strong>Create</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_filloutthename.PNG" src="../../../../../../_images/cs_monitordataquality_filloutthename.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the <em>KPI Details</em> page, select a <em>Class</em> and <em>Taxonomy</em>, which will use the KPI.  Click the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_selectclassandtaxonomy.PNG" src="../../../../../../_images/cs_monitordataquality_selectclassandtaxonomy.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitordataquality_selectclassandtaxonomy2.PNG" src="../../../../../../_images/cs_monitordataquality_selectclassandtaxonomy2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>For the Drill down levels, add <em>Tags</em> or <em>Taxonomies</em>, where the KPI is to be categorized into.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_forthedrilldownlevels.PNG" src="../../../../../../_images/cs_monitordataquality_forthedrilldownlevels.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Provide the details of the rules and once done, click on the <strong>OK</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_filloutthedetailsoftherules.PNG" src="../../../../../../_images/cs_monitordataquality_filloutthedetailsoftherules.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Explore</strong> button and then go to the <em>Dashboard</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_clickonexploreandthendashboard.PNG" src="../../../../../../_images/cs_monitordataquality_clickonexploreandthendashboard.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Data Governance</strong> tab. A new dashboard for the KPI will be created.  Click on the graph and drill down on the details of the KPI using the added taxonomy and tag.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitordataquality_anewdashboard.PNG" src="../../../../../../_images/cs_monitordataquality_anewdashboard.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitordataquality_anewdashboard2.PNG" src="../../../../../../_images/cs_monitordataquality_anewdashboard2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="kpibasedcompletenessrules.html" class="btn btn-neutral float-right" title="KPI-based Completeness Rules" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Measure and Monitor" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

@@ -1,0 +1,99 @@
+========================
+Inheritance via Taxonomy
+========================
+Inheritance via Taxonomy is a feature that allows an article or product to receive predefined attributes set for a taxonomy.
+
+
+====================    =============================================================================================================================================================
+**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
+
+**Description:**        * Inheritance defines a taxonomy, arranging the concepts from generalized to specialized.
+                        * The user can set the editable attributes and those that are inherited from the taxonomy.
+
+**Related topics:**     * :doc:`Linking Objects </feature/product_feature/mdm/administration/inheritanceanddatatransfer/linkingobjects>`
+
+**Application:**        * *Example:*
+
+                            Let's take for instance the energy drink "Red Bull". It falls under Food & Beverages > Beverages > Energy Drinks.
+                            It is common for Beverages to have the properties such as ingredients and important notice so it is necessary
+                            for Energy Drinks to inherit such properties.
+====================    =============================================================================================================================================================
+
+
+How-to: Inheritance via Taxonomy
+===================================
+
+Inheriting a subset of attributes from a taxonomy is easy, and here's how to do it.
+
+|
+
+#. On the home page, click the **Administration** icon.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickadministration.PNG
+|
+|
+
+
+#. On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_ondatamodeltab.PNG
+|
+|
+
+
+#. Click on the "+" icon to create a new taxonomy and click the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickplus.PNG
+|
+|
+
+
+#. Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty2.PNG
+|
+|
+
+
+#. Select the type of coupling, enter the default value, and click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_selecttypecoupling.PNG
+|
+|
+
+
+#. Click **Explore** icon.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickexplore.PNG
+|
+|
+
+
+#. Go to **PIM** and select your product.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_gotopimselectproduct.PNG
+|
+|
+
+
+#. Click **Add Taxonomy** to add your created taxonomy. Go to *Property Collection* tab.
+
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy2.PNG
+|
+|
+.. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy3.PNG
+|
+|
+
+
+*Note: Attributes under "Dynamic Coupling" are not editable as these values are inherited. Attributes under "Tight Coupling" can be updated.*
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

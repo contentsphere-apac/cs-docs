@@ -2,7 +2,7 @@
 Deploying to AWS
 ================
 
-#. :doc:`Read Prerequisites First </reference/deploymentprerequisites>`
+* :doc:`Read Prerequisites First </reference/deploymentprerequisites>`
 
 |
 

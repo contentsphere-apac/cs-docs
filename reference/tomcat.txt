@@ -18,17 +18,17 @@ Setup and Configuration
 
 |
 
-#. Download Apache Tomcat (/opt/cs/tomcat).
+* Download Apache Tomcat (/opt/cs/tomcat).
 
     Link:  http://mirror.fibergrid.in/apache/tomcat/tomcat-9/v9.0.0.M9/bin/apache-tomcat-9.0.0.M9.tar.gz
 
 |
 
-#. Alternatively, visit https://tomcat.apache.org/download-90.cgi and download **Version 9**.
+* Alternatively, visit https://tomcat.apache.org/download-90.cgi and download **Version 9**.
 
 |
 
-#. Extract tar.gz. ::
+* Extract tar.gz. ::
 
     cd /opt/cs/tomcat
 
@@ -36,7 +36,7 @@ Setup and Configuration
 
 |
 
-#. Change configuration:
+* Change configuration:
 
     * You will find a block of code for *Connector port*. Replace that code with the one mentioned below:
 
@@ -62,7 +62,7 @@ Setup and Configuration
 
 |
 
-#. Start up the application. ::
+* Start up the application. ::
 
     Stop Tomcat
         /opt/cs/tomcat/apache-tomcat-9.0.0.M9/bin/shutdown.shORfuser -k 8080/tcp
@@ -77,7 +77,7 @@ Setup and Configuration
 |
 |
 
-#. Remove/Add war. ::
+* Remove/Add war. ::
 
     Remove war
       cd /opt/cs/tomcat/apache-tomcat-9.0.0.M9/webapps/

@@ -5,7 +5,7 @@ The Check for Erroneous Products is a feature that can be used by users to view 
 
 
 ===================     =======================================================================================================================================================================
-**Key Term:**           * **Partner Engagement Platform (PEP):** a portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+**Key Term:**           * **Partner Engagement Platform (PEP):** a portal which allows customer’s partners to engage with their system. It is deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
 
 **Description:**        * In the *Onboarding Master Catalog*, a user can see Products transferred by a supplier.
                         * This feature allows an admin to create and apply rules like KPIs for data accuracy in the master catalog.
@@ -26,34 +26,41 @@ The Check for Erroneous Products is a feature that can be used by users to view 
 
 
 How-to: Check for Erroneous Products
-=========================================
+=====================================
 To do this, follow these steps:
 
 
-#. Log in and click **Dashboard** to explore the products.
+* Log in and click **Dashboard** to explore the products.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboardb.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickdashboard.PNG
 |
 |
 
 
-#. Click **Catalog**.
+* Select an endpoint in the *Data Integration* tab and click **Catalog**.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_gotocatalogB.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog2.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_clickcatalog3.PNG
+|
+|
+
+*  Select a product. Supplier products appear in the catalog.
+
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproduct.PNG
 |
 |
 
 
-#.  Select a product (in this demo, we selected "Chino Shorts" product). The user displays supplier products in the catalog.
+* View tab which can be used to verify the content and properties of the product. It can also be used to perform corrective actions.
 
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_selectproductb.PNG
-|
-|
-
-
-#. The user also verifies the content and properties of the product and takes corrective actions.
-
-.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_opendatastewardb.PNG
+.. image:: /feature/_images/pepimages/cs_checkanderroneousproducts_userverifiescontentproperties.PNG
 |
 |
 

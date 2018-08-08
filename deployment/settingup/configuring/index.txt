@@ -1,0 +1,12 @@
+===========================
+Configuring the Components
+===========================
+
+.. toctree::
+   :maxdepth: 1
+
+   oracle
+   orientdb
+   swift
+   tomcat
+   others

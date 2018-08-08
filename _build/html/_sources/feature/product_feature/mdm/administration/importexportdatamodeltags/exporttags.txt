@@ -23,27 +23,26 @@ The Export Tags is a feature that exports tag definitions so that they can be vi
 ===================     =======================================================================================================================================================================
 
 
+
 How-to: Export Tags
-======================
+=====================
 To export tags, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_exporttags_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_exporttags_login.PNG
 |
 |
 
-
-#. Click on **Properties**.
+* Click on **Properties**.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clickproperties.PNG
 |
 |
 
-
-#. Click on **LOV** then click on **Export all tags**.
+* Click on **LOV** then click on the **Export all Tags** button.
 
 .. image:: /feature/_images/mdmimages/cs_exporttags_clicklov.PNG
 |

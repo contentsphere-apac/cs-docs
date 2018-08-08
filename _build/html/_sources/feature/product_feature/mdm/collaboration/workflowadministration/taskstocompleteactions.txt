@@ -29,28 +29,28 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_login.PNG
 |
 |
 
 
-#. Click on the **Data Integration** tab and then go to *Workflow*.
+* Click on the **Data Integration** tab and then go to *Workflow*.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickonthedataintegration.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new workflow.
+* Click on the "+" icon to create a new workflow.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickontheicontocreateanewworkflow.PNG
 |
 |
 
 
-#. Provide the details on the window that will pop up like the *Name* and *Event Type*. Click on the **Create** button.
+* Provide the details on the window that will pop up like the *Name* and *Event Type*. Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_providethedetailsonthewindow.PNG
 |
@@ -59,42 +59,42 @@ To do this feature, follow these steps:
 |
 
 
-#. Once the button is clicked, a new window will appear where the workflow can be created. Drag and drop notations from the *Workflow Modeler* to create the process.
+* Once the button is clicked, a new window will appear where the workflow can be created. Drag and drop notations from the *Workflow Modeler* to create the process.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_oncethebuttonisclicked.PNG
 |
 |
 
 
-#. A workflow starts with a *Start Event*. Click on the **Start Event** notation; drag and drop it on the workflow board.
+* A workflow starts with a *Start Event*. Click on the **Start Event** notation; drag and drop it on the workflow board.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_aworkflowstartswith.PNG
 |
 |
 
 
-#. Click on the **Start Event** notation to view the options that can be added after it.  These options will appear on the right of the notation.
+* Click on the **Start Event** notation to view the options that can be added after it.  These options will appear on the right of the notation.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickonthestartevent.PNG
 |
 |
 
 
-#. Click on the **Append Task** icon. Custom actions for different users can be managed through the *Workflow Task*.
+* Click on the **Append Task** icon. Custom actions for different users can be managed through the *Workflow Task*.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_clickontheappendtaskicon.PNG
 |
 |
 
 
-#. Once you click on the icon, it will be added in the workflow.  You may also select the *Task Notation* from the menu on the left.
+* Once you click on the icon, it will be added in the workflow.  You may also select the *Task Notation* from the menu on the left.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_onceyouclicktheicon.PNG
 |
 |
 
 
-#. Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc.
+* Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc.
    Do this by clicking on the **Change Type** icon (icon that looks like a wrench).
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_addingatasknotation.PNG
@@ -102,7 +102,7 @@ To do this feature, follow these steps:
 |
 
 
-#. As soon as the wrench icon is clicked, it will show a selection containing the various types of task.  If you are defining a user task, choose the **Custom User Task** option from the selection.
+* As soon as the wrench icon is clicked, it will show a selection containing the various types of task.  If you are defining a user task, choose the **Custom User Task** option from the selection.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assoonasthewrench.PNG
 |
@@ -111,21 +111,21 @@ To do this feature, follow these steps:
 |
 
 
-#. Once selected, provide the details of the user task on a window found on the right side of the screen.
+* Once selected, provide the details of the user task on a window found on the right side of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_onceselectedprovidethedetails.PNG
 |
 |
 
 
-#. Assign the appropriate users with different roles: **Responsible, Accountable, Consulted, Informed, Verified, or Signoff** by selecting the user and clicking the **Apply** button.
+* Assign the appropriate users with different roles: **Responsible, Accountable, Consulted, Informed, Verified, or Signoff** by selecting the user and clicking the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_assigntheusers.PNG
 |
 |
 
 
-#. Once done, click the **Save** button.
+* Once done, click the **Save** button.
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_oncedoneclicksave.PNG
 |

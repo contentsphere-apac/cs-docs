@@ -25,49 +25,49 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in. Click on **DAM** and then click **Bulk Upload** icon to import images of a product in various image perspectives.
+* Log in. Click on **DAM** and then click **Bulk Upload** icon to import images of a product in various image perspectives.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_clickdambulk.PNG
 |
 |
 
 
-#. Click on **Administration** icon, and then scroll down in *Data Model* tab to click on **Relationships**.
+* Click on **Administration** icon, and then scroll down in *Data Model* tab to click on **Relationships**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_clickadministration.PNG
 |
 |
 
 
-#. Click on **'+'** icon to create a new relationship.
+* Click on **'+'** icon to create a new relationship.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_clickdatamodel.PNG
 |
 |
 
 
-#. Enter Name (in this demo, we named the relationship *'Article-Asset Relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'Article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
+* Enter Name (in this demo, we named the relationship *'Article-Asset Relationship'*), Code, and at the Side 1 section, click **Classes** and select  *'Articles'* and *'Article'*. Similarly, at Side 2, click **Classes** and select  *'Assets'* and *'Asset'*. Click **SAVE**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_enterrelationshipdetails.PNG
 |
 |
 
 
-#. Next, click on **Context** to create a new one. Enter the Name (in this demo, we named this context *'Perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
+* Next, click on **Context** to create a new one. Enter the Name (in this demo, we named this context *'Perspective'*), click the **type** and select *'Relationship Variant'*, and select the appropriate tags.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectrelationshipvariant.PNG
 |
 |
 
 
-#. Go to the *Relationship* tab again, and select the Context you have just created (*'Perspective'*).
+* Go to the *Relationship* tab again, and select the Context you have just created (*'Perspective'*).
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_gotorelationshipsagain.PNG
 |
 |
 
 
-#. Click on **Explore** and then **PIM**.
+* Click on **Explore** and then **PIM**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_clickexplore.PNG
 |
@@ -76,28 +76,28 @@ To do this feature, follow these steps:
 |
 
 
-#. Select on an existing product to add various image perspective.
+* Select on an existing product to add various image perspective.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectproduct.PNG
 |
 |
 
 
-#. Click on *Relationship* Tab and then scroll down to *Asset* tab. Click on **'+'** sign to add image of various perspective.
+* Click on *Relationship* Tab and then scroll down to *Asset* tab. Click on **'+'** sign to add image of various perspective.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_clickrelationship.PNG
 |
 |
 
 
-#. Select the appropriate tag from the list displayed and click on **Next**.
+* Select the appropriate tag from the list displayed and click on **Next**.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectappropriatetagb.PNG
 |
 |
 
 
-#. Select the image and drag the selected image on the right section of the window.
+* Select the image and drag the selected image on the right section of the window.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_selectimageb.PNG
 |
@@ -106,7 +106,7 @@ To do this feature, follow these steps:
 |
 
 
-#. View the images displayed together with the main image.
+* View the images displayed together with the main image.
 
 .. image:: /feature/_images/damimages/cs_perspectivevariant_imagesdisplay.PNG
 |

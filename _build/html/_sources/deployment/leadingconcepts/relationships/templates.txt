@@ -1,0 +1,14 @@
+===========
+Templates
+===========
+
+Templates provide the facility used in defining how a default view should look like for a specific role in an organization. It allows you to define its property collections, relationships, contexts, and nature relationships. This template will be assigned to a specific role and that role will have the property collections, relationships, contexts, and nature relationships defined in a template by default.
+In other words, a template defines default behavior of a role of an organization.
+
+
+ .. image:: /feature/_images/butimages/cs_templates_templates.PNG
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

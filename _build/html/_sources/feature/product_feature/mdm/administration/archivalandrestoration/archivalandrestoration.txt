@@ -33,55 +33,55 @@ To archive and restore products, follow these steps:
 
 |
 
-#. Log in and click on **PIM**.
+* Log in and click on **PIM**.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_login.PNG
 |
 |
 
-#. Select the products you want to archive.
+* Select the products you want to archive.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsdelete.PNG
 |
 |
 
-#. Click on the **Delete** icon.
+* Click on the **Delete** icon.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_delete.PNG
 |
 |
 
-#. Click on the **OK** button.
+* Click on the **OK** button.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_clickok.PNG
 |
 |
 
-#. Click on the drop-down button at the top left section of the screen.
+* Click on the drop-down button at the top left section of the screen.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_dropdown.PNG
 |
 |
 
-#. Select the **PIM Archival** option from the drop-down list to show the archived products.
+* Select the **PIM Archival** option from the drop-down list to show the archived products.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_pimarchival.PNG
 |
 |
 
-#. Select the products that you want to restore.
+* Select the products that you want to restore.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_selectproductsrestore.PNG
 |
 |
 
-#. Click on the **Restore** icon to restore the selected products to their previous location.
+* Click on the **Restore** icon to restore the selected products to their previous location.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_restore.PNG
 |
 |
 
-#. View the restored products.
+* View the restored products.
 
 .. image:: /feature/_images/mdmimages/cs_archivalandrestoration_viewrestoredproducts.PNG
 |

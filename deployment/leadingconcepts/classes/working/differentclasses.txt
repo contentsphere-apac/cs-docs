@@ -1,0 +1,118 @@
+================================
+Different Classes in the System
+================================
+
+Article
+=========
+
+Article refers to a product in the system. It refers to the product which is a sellable item.
+The class 'Article' is used to configure different types of products/articles in the system. It defines the
+behavior and characteristics of the type of product. It defines the blueprint of how a product should look like in the system.
+
+
+    **Example:**
+
+    We want to define the attributes and characteristics of a Single Article in the system. We can create a
+    class that contains the attributes and characteristics of a Single Article, and then we can use this
+    class to create multiple Single Articles in the system.
+
+
+Asset
+======
+
+Asset refers to the digital assets of the system, including media assets such as images, videos,
+documents, files, and so on. This class is used to configure different types of digital assets in
+the system like image, video, document, file, and so on. It defines the behavior and characteristics
+of any type of digital asset. It defines the blueprint of how a digital asset should look like in the
+system.
+
+    **Example:**
+
+    We want to define the attributes and characteristics of an image in the system. We can create a
+    class that contains the attributes and characteristics for an image, and then we can use this class to
+    create multiple images in the system.
+
+
+Campaign
+=========
+
+Campaign is an activity designed to promote and increase the awareness on your business and its
+products. This class is used to configure the marketing campaign. It defines the behavior
+and characteristics of the product for campaigning purposes. When you want to promote your
+product for a longer duration, it is advisable to create the campaign in your system using this class.
+
+    **Example:**
+
+    A furniture manufacturer promotes its newly introduced dining set. He wants to increase the
+    awareness on the newly introduced dining set among his customers. He will promote this product by
+    giving 10% discount on the dining set for a month. He can create the campaign class in the system
+    to promote the dining set.
+
+Promotion
+==========
+
+Promotions refer to the entire set of activities that communicate the product, brand or service to
+the user. The idea is to make people aware, attract and induce to buy the product, in preference
+over others. This class is used to configure the promotion activity. It defines the behavior
+and characteristics of the promotion. Promotion is for shorter duration and it helps to immediately increase
+product sales.
+
+    **Example:**
+
+    A furniture manufacturer promotes its newly introduced lounge chair. He wants to increase the
+    awareness on the newly introduced lounge chair to improve product sales. He will promote this product by giving
+    10% discount on the lounge chair on Mother’s Day. He can create the promotion class in the system
+    to promote the product.
+
+
+Supplier
+=========
+
+Supplier is any organization that uses the system. This class is used to manage the supplier
+details. It gives the insight of all the critical activities related to all the suppliers in the system. It
+defines the behavior and characteristics of the supplier.
+
+    **Example:**
+
+    Before we can add the details of different vendors and suppliers in the system, we first need to gain
+    insight on all the critical activities related to all the suppliers in the system. A user can create the
+    'Supplier' class that describes the characteristics and behavior of the suppliers and he can use this
+    class to create multiple suppliers in the system.
+
+
+Target
+=========
+
+Target refers to a group of consumers to which company wants to sell its products. It refers
+to the market segment that consists of the customers whose needs and desires most
+closely match your product. This class is used to manage the target detailss as it defines the
+behavior and characteristics of the targets.
+
+| There are three types of targets:
+* Market: This type of target refers to the international supermarket chains or retail stores.
+* Persona: Persona refers to an individual customer to which company wants to promote and sell its products in consideration of his likes, dislikes, and field of interest.
+* Situation: Situation target refers to an individual customer to which company wants to promote
+  and sell its product after evaluating and analyzing the current situation of his life. Situation can be
+  based on facts, opinions, beliefs, haunches, and feelings.
+
+    **Example:**
+
+    A furniture manufacturer wants to add in the system the details of multiple retail stores, which are his target
+    market. He will create the 'Market' class, in which he will define the characteristics and behavior of
+    the target market. Using this class within the system, he can add the necessary details about the retail stores.
+
+Text Asset
+===========
+
+Text Asset manages the text or content in the system. It is helpful in defining the text format in the system.
+Text Asset class is used to manage any type of content in the system.
+It gives the insight on how the content should look like in the system, what should be the
+format, how to manage paragraphs or any type of text in the system. This class allows the user to create the blueprint of text
+or content in the system, and effectively present these various types of content.
+
+    **Example:**
+
+    A furniture manufacturer wants to add ’Product Description’ and ‘About Us’ details in the system.
+    He will create a Text Asset class, in which he will define the paragraph style, font style, size, color,
+    margins, and other details related to text. Now, he can use this class each time he needs to add other
+    details or content regarding the product.

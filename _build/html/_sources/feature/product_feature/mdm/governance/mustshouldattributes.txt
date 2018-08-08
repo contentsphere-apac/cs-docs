@@ -31,21 +31,21 @@ To do this data governance feature, follow these steps:
 
 |
 
-#. On the home page, click on the **Administration** button.
+* On the home page, click on the **Administration** button.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickadministration.PNG
 |
 |
 
 
-#. On the *Data Model* tab, go to the *Properties* section and click **Text** attribute.
+* On the *Data Model* tab, go to the *Properties* section and click **Text** attribute.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_condatamodel.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new text attribute. Create 3 new attributes.
+* Click on the "+" icon to create a new text attribute. Create 3 new attributes.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickplus.PNG
 |
@@ -54,7 +54,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Go to the *Property Collection* and create a property collection.
+* Go to the *Property Collection* and create a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotopropertycollection.PNG
 |
@@ -65,7 +65,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Add the 3 new attributes to the newly created property collection. *Note: Attributes can be dragged to the Property section.*
+* Add the 3 new attributes to the newly created property collection. *Note: Attributes can be dragged to the Property section.*
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addnewattributes.PNG
 |
@@ -76,7 +76,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Go to *Class Configuration* and create a **Default** type class.
+* Go to *Class Configuration* and create a **Default** type class.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_gotoclasses.PNG
 |
@@ -86,7 +86,7 @@ To do this data governance feature, follow these steps:
 |
 |
 
-#. Add the property collection to that class.
+* Add the property collection to that class.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_addpropertycollection.PNG
 |
@@ -94,7 +94,7 @@ To do this data governance feature, follow these steps:
 |
 |
 
-#. Assign a mandatory condition to the attributes by ticking on the checkbox. Save the changes.
+* Assign a mandatory condition to the attributes by ticking on the checkbox. Save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_assignmandatory.PNG
 |
@@ -104,7 +104,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Click on the **Explore** tab and go to *PIM*.
+* Click on the **Explore** tab and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_clickexplore.PNG
 |
@@ -113,7 +113,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Hover over the "+" icon and wait for the menu to appear. In the menu, go to the class created (e.g. *Class_1*).
+* Hover over the "+" icon and wait for the menu to appear. In the menu, go to the class created (e.g. *Class_1*).
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_hoverplus.PNG
 |
@@ -124,7 +124,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. View the set conditions in runtime. If a field is set to be *Mandatory* and is left blank, a violation notification will appear.
+* View the set conditions in runtime. If a field is set to be *Mandatory* and is left blank, a violation notification will appear.
 
 .. image:: /feature/_images/mdmimages/cs_mustshouldattributes_viewconditions.PNG
 |

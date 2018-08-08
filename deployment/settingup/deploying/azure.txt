@@ -1,0 +1,18 @@
+==================
+Deploying to Azure
+==================
+
+
+* :doc:`Refer to the Deployment Prerequisites. </reference/deploymentprerequisites>`
+
+|
+|
+
+.. image:: /reference/_images/deployinazure_loginscreen.PNG
+   :alt: azure admin login screen
+
+|
+|
+
+.. image:: /reference/_images/line-png-32.PNG
+    :alt: Contentserv line

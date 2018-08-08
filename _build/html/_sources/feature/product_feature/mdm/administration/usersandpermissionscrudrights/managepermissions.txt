@@ -26,49 +26,49 @@ To manage the permissions of a user, refer to the instructions below:
 
 |
 
-#. Go to *Administration*.
+* Go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_gotoadministration.PNG
 |
 |
 
 
-#. Click **Partner Administration** tab.
+* Click **Partner Administration** tab.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_clickpartneradministration.PNG
 |
 |
 
 
-#. Click **Partners**.
+* Click **Partners**.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_clickpartners.PNG
 |
 |
 
 
-#. On the Partners pane, select an organization.
+* On the Partners pane, select an organization.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_selectpartner.PNG
 |
 |
 
 
-#. Click **Roles** and select a role.
+* Click **Roles** and select a role.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_selectrole.PNG
 |
 |
 
 
-#. Click **Show Permissions**.
+* Click **Show Permissions**.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_clickshowpermission.PNG
 |
 |
 
 
-#. Select a class and set the permission for *Create, Update, and Delete*.
+* Select a class and set the permission for *Create, Update, and Delete*.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_selectslass.PNG
 |
@@ -78,14 +78,14 @@ To manage the permissions of a user, refer to the instructions below:
 |
 
 
-#. Do the same for taxonomy. A green circle indicates that the function is enabled.
+* Do the same for taxonomy. A green circle indicates that the function is enabled.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_selecttaxonomy.PNG
 |
 |
 
 
-#. View the image below that shows an example of a role that has been assigned the following rights.  Click **Save** to save the changes.
+* View the image below that shows an example of a role that has been assigned the following rights.  Click **Save** to save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_managepermissions_viewimage.PNG
 |

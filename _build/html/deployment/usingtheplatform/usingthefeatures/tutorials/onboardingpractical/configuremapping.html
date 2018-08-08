@@ -1,0 +1,401 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Configure Mapping &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" />
+    <link rel="next" title="Configure Endpoint" href="configureendpoint.html" />
+    <link rel="prev" title="Configure Workflow" href="configureworkflow.html" /> 
+
+  
+  <script src="../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../index.html">Tutorials</a> &raquo;</li>
+        
+          <li><a href="index.html">Practical Quick Start Guide</a> &raquo;</li>
+        
+      <li>Configure Mapping</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-configure-mapping">
+<span id="configure-mapping"></span><h1>Configure Mapping<a class="headerlink" href="#configure-mapping" title="Permalink to this headline">¶</a></h1>
+<p>Mapping connects different elements defined in an onboarding file to their respective elements (<em>attributes, tags, classes, and taxonomies</em>) defined in the system.
+To configure this, follow this set of instructions:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in to the application and click on the <strong>Administration</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/cs_createuser_logintotheapp.PNG" src="../../../../../_images/cs_createuser_logintotheapp.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to <em>Data Integration</em> and then, to the <em>Mappings</em> menu.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_gotodataintegration.PNG" src="../../../../../_images/cs_configuremapping_gotodataintegration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the “+” icon to create a new mapping.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_clicktheicontocreate.PNG" src="../../../../../_images/cs_configuremapping_clicktheicontocreate.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Provide the details like <em>Name and Code</em>. Click on the <strong>Create</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_providethedetails.PNG" src="../../../../../_images/cs_configuremapping_providethedetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Edit</strong> button to edit the details.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_clickontheeditbutton.PNG" src="../../../../../_images/cs_configuremapping_clickontheeditbutton.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the pop-up window, click on the <strong>Attribute</strong> tab.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_onthepopupwindow.PNG" src="../../../../../_images/cs_configuremapping_onthepopupwindow.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Add Mapping</strong> button to map the attributes defined in an onboarding file with the system attributes.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_clickontheaddmapping.PNG" src="../../../../../_images/cs_configuremapping_clickontheaddmapping.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Define the <strong>Attribute Name</strong> used in an onboarding file in the left side textbox and select the equivalent system attribute in the <strong>Mapped Element</strong> field.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_definetheattributename.PNG" src="../../../../../_images/cs_configuremapping_definetheattributename.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Likewise, map the <em>Tags, Taxonomies, and Classes</em> defined in an onboarding file with the tags, taxonomies, and classes of the system in the Tag, Taxonomy, and Class tabs, respectively.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_likewisemaptags.PNG" src="../../../../../_images/cs_configuremapping_likewisemaptags.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/cs_configuremapping_clickonthesavebutton.PNG" src="../../../../../_images/cs_configuremapping_clickonthesavebutton.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-configure-mapping-screen-elements">
+<span id="configure-mapping-screen-elements"></span><h2>Configure Mapping: Screen Elements<a class="headerlink" href="#configure-mapping-screen-elements" title="Permalink to this headline">¶</a></h2>
+<p>The following details are seen when creating a new mapping in the system.</p>
+<table class="docutils">
+<colgroup>
+<col width="3%" />
+<col width="17%" />
+<col width="80%" />
+</colgroup>
+<thead valign="bottom">
+<tr class="row-odd"><th class="head">Sr No</th>
+<th class="head">Screen Element</th>
+<th class="head">Description</th>
+</tr>
+</thead>
+<tbody valign="top">
+<tr class="row-even"><td>1</td>
+<td>Name</td>
+<td>Specify the name of mapping.</td>
+</tr>
+<tr class="row-odd"><td>2</td>
+<td>Code</td>
+<td>Specify the code.</td>
+</tr>
+<tr class="row-even"><td>3</td>
+<td>Create</td>
+<td>Click the <strong>Create</strong> button to create the mapping.</td>
+</tr>
+<tr class="row-odd"><td>4</td>
+<td>Attribute Tab</td>
+<td>Define the <em>Attribute</em> used in a sheet of an onboarding file in the left side textbox and select the equivalent system attribute from <strong>Mapped Element</strong> field.</td>
+</tr>
+<tr class="row-even"><td>5</td>
+<td>Tag Tab</td>
+<td>Define the <em>Tag</em> used in a sheet of an onboarding file in the left side textbox and select the equivalent system tag from Mapped Element field.</td>
+</tr>
+<tr class="row-odd"><td>6</td>
+<td>Taxonomy Tab</td>
+<td>Define the <em>Taxonomy</em> used in a sheet of an onboarding file in the left side textbox and select the equivalent system taxonomy from Mapped Element field.</td>
+</tr>
+<tr class="row-even"><td>7</td>
+<td>Class Tab</td>
+<td>Define the <em>Class</em> used in a sheet of an onboarding file in the left side textbox and select the equivalent system class from Mapped Element field.</td>
+</tr>
+<tr class="row-odd"><td>8</td>
+<td>Save</td>
+<td>Click on <strong>Save</strong> button to save the details of a user.</td>
+</tr>
+<tr class="row-even"><td>9</td>
+<td>Cancel</td>
+<td>Click on <strong>Cancel</strong> button to cancel the details of a user.</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="line-block">
+<div class="line"><a class="reference internal" href="../../../../../tutorials/onboardingpractical/configureworkflow.html"><span class="doc">Previous: Configure Workflow</span></a></div>
+<div class="line"><a class="reference internal" href="../../../../../tutorials/onboardingpractical/configureendpoint.html"><span class="doc">Next: Configure Endpoint</span></a></div>
+</div>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="configureendpoint.html" class="btn btn-neutral float-right" title="Configure Endpoint" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="configureworkflow.html" class="btn btn-neutral" title="Configure Workflow" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

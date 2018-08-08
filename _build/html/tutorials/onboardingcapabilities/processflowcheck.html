@@ -1,133 +1,181 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Process Flow Check &#8212; Contentsphere  documentation</title>
-    <link rel="stylesheet" href="../../_static/default.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <script type="text/javascript">
-      var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    '../../',
-        VERSION:     '',
-        COLLAPSE_INDEX: false,
-        FILE_SUFFIX: '.html',
-        HAS_SOURCE:  true,
-        SOURCELINK_SUFFIX: '.txt'
-      };
-    </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Process Flow Check &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Data Remediation" href="dataremediation.html" />
-    <link rel="prev" title="Real-Time Mapping" href="realtimemapping.html" />
+    <link rel="prev" title="Real-Time Mapping" href="realtimemapping.html" /> 
 
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
 
+</head>
 
- 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Contentserv Help Center</title>
-<script type="text/javascript" src="../../templatebuiltins.js"></script>
-<script type="text/javascript">
-(function($) {
-    if (!contentsphere_template_builtins) {
-       // templatebuiltins.js missing, do nothing.
-       return;
-    }
-    $(document).ready(function() {
-        // Hyperlink contentsphere template tags and filters
-        var base = "../../ref/templates/builtins.html";
-        if (base == "#") {
-            // Special case for builtins.html itself
-            base = "";
-        }
-        // Tags are keywords, class '.k'
-        $("div.highlight\\-html\\+contentsphere span.k").each(function(i, elem) {
-             var tagname = $(elem).text();
-             if ($.inArray(tagname, contentsphere_template_builtins.ttags) != -1) {
-                 var fragment = tagname.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + tagname + "</a>");
-             }
-        });
-        // Filters are functions, class '.nf'
-        $("div.highlight\\-html\\+contentsphere span.nf").each(function(i, elem) {
-             var filtername = $(elem).text();
-             if ($.inArray(filtername, contentsphere_template_builtins.tfilters) != -1) {
-                 var fragment = filtername.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + filtername + "</a>");
-             }
-        });
-    });
-})(jQuery);
-</script>
+<body class="wy-body-for-nav">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110467525-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+   
+  <div class="wy-grid-for-nav">
 
-  gtag('config', 'UA-110467525-1');
-</script>
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
 
-  </head>
-  <body>
+          
+            <a href="../../contents.html" class="icon icon-home"> Contentserv
+          
 
-    <div class="document">
-  <div id="custom-doc" class="yui-t6">
-    <div id="top-nav">
-      <a href="../../index.html"><img src="https://assets.hypefactors.com/companies/company-logos/original/2TGKzLT4YYMJsqTVe3wvL7qWOPF1e0W0iCAoaGqa.png" class="cs-logo"></a>
-      <ul class="nav-ul">
-        <li class="nav-li"><a href="https://contentsphere.com/">Website</a></li>
-        <li class="nav-li active"><a href="http://help.contentsphere.com/en/latest/">Help Center</a></li>
-        <li class="nav-li"><a href="https://contentsphere.com/contactform/">Contact</a></li>
-      </ul>
-    </div>
-    <div id="hd">
-      <h1 class="documentation-header"><a href="../../index.html">Help Center</a></h1>
-      <div id="searchbox" role="search" class="search-nav">
-        <form class="search" action="http://help.contentsphere.com/en/latest/search.html" method="get">
-          <div>
-            <input type="text" class="form-input" name="q">
-            <button type="submit" class="form-btn">Search</button>
-          </div>
-        </form>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Contentserv Documentation</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Tutorials</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../index.html#new-to-contentserv">New to Contentserv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#concepts">Concepts</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html#onboarding">Onboarding</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../onboardingoverview.html">Overview</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingkeyterms.html">Key Terms</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardinguioverview.html">UI Overview</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingdesignandarchitecture.html">Design and Architecture</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingpractical/index.html">Practical Quick Start Guide</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingfileformat/index.html">Onboarding File Format</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">Capabilities of Contentserv’s Onboarding Portal</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="partnerspecificendpoints.html">Partner-specific Endpoints</a></li>
+<li class="toctree-l4"><a class="reference internal" href="flexiblefileformats.html">Flexible File Formats</a></li>
+<li class="toctree-l4"><a class="reference internal" href="effortlessfiletransfer.html">Effortless File Transfer</a></li>
+<li class="toctree-l4"><a class="reference internal" href="realtimemapping.html">Real-Time Mapping</a></li>
+<li class="toctree-l4 current"><a class="current reference internal" href="#">Process Flow Check</a></li>
+<li class="toctree-l4"><a class="reference internal" href="dataremediation.html">Data Remediation</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
       </div>
-    </div>
-    <div id="global-nav">
-      <!-- <a title="Home page" href="../../index.html">Home</a>  |
-      <a title="Table of contents" href="../../contents.html">Table of contents</a>  |
-      <a title="Global index" href="../../genindex.html">Index</a>  | -->
-      
-    </div>
-    <!-- <div class="nav">
-    &laquo; <a href="realtimemapping.html" title="Real-Time Mapping">previous</a>
-     |
-    <a href="../index.html" title="Tutorials" accesskey="U">up</a>
-   |
-    <a href="dataremediation.html" title="Data Remediation">next</a> &raquo;</div> -->
+    </nav>
 
-    <div id="bd">
-      <div id="yui-main">
-        <div class="yui-b">
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
           
-            <div class="breadcrumbs">
-              <a href="../../index.html">Home</a> /
-              
-                <span><a href="../index.html">Tutorials</a> /
-              
-                <span><a href="index.html">Capabilities of Contentserv’s Onboarding Portal</a> /
-              
-              <span>Process Flow Check</span>
-              </span></span>
-            </div>
-          
-          <div class="yui-g" id="tutorials-onboardingcapabilities-processflowcheck">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">Tutorials</a> &raquo;</li>
+        
+          <li><a href="index.html">Capabilities of Contentserv’s Onboarding Portal</a> &raquo;</li>
+        
+      <li>Process Flow Check</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
             
   <div class="section" id="s-process-flow-check">
 <span id="process-flow-check"></span><h1>Process Flow Check<a class="headerlink" href="#process-flow-check" title="Permalink to this headline">¶</a></h1>
@@ -147,151 +195,157 @@
 </div>
 <div class="section" id="s-how-to-do-a-process-flow-check">
 <span id="how-to-do-a-process-flow-check"></span><h2>How to do a Process Flow Check<a class="headerlink" href="#how-to-do-a-process-flow-check" title="Permalink to this headline">¶</a></h2>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Log in to the application.</li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the <strong>Administration</strong> icon.</li>
-</ol>
+</ul>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Navigate to <strong>Data Integration</strong> -&gt; <strong>Workflow</strong> menu.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_navigate.PNG" src="../../_images/cs_processflowcheck_navigate.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the “+” icon to create the workflow.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_clickplusicon.PNG" src="../../_images/cs_processflowcheck_clickplusicon.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Enter the details such as <em>Name</em>, <em>Event Type</em>, and <em>Code</em>, then click on the <strong>Create</strong> button.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_enterdetails.PNG" src="../../_images/cs_processflowcheck_enterdetails.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Select the created workflow. On the pop-up window that appears, configure all the components of the workflow.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_selectcreatedworkflow.PNG" src="../../_images/cs_processflowcheck_selectcreatedworkflow.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>The <em>Graph</em> section in the pop-up window is divided into three vertical sections. The first two vertical sections are called <em>Workflow Modeler</em>. It allows to configure workflows using BPMN 2.0 modelling notation. This will allow users to model complex onboarding process using universally known and standardized BPMN 2.0 notation. The third vertical section contains the details of each component of onboarding file.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_workflowmodeler.PNG" src="../../_images/cs_processflowcheck_workflowmodeler.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
-<li>Drag and drop the notations in <em>Workflow Modeler</em> to define the onboarding process. The workflow starts with the <strong>Start Event</strong>.
-It acts as a process trigger. So, first element in the workflow will be the <strong>Start Event</strong>.</li>
-</ol>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>Drag and drop the notations in <em>Workflow Modeler</em> to define the onboarding process. The workflow starts with the <strong>Start Event</strong>.</dt>
+<dd>It acts as a process trigger. So, first element in the workflow will be the <strong>Start Event</strong>.</dd>
+</dl>
+</li>
+</ul>
 <img alt="../../_images/cs_processflowcheck_draganddrop.PNG" src="../../_images/cs_processflowcheck_draganddrop.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Select the <strong>Start Event</strong> notation to show the options for that notation.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_selectstartevent.PNG" src="../../_images/cs_processflowcheck_selectstartevent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
-<li>Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add <em>Article</em> in a flow, then click on the <strong>Task</strong> notation.
-Custom actions for different users will be managed through workflow <strong>Task</strong>.</li>
-</ol>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>Start adding the notations to define a workflow according to the onboarding file. For example, if you want to add <em>Article</em> in a flow, then click on the <strong>Task</strong> notation.</dt>
+<dd>Custom actions for different users will be managed through workflow <strong>Task</strong>.</dd>
+</dl>
+</li>
+</ul>
 <img alt="../../_images/cs_processflowcheck_startaddingnotations.PNG" src="../../_images/cs_processflowcheck_startaddingnotations.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Once you clicked on the icon, the task gets added in the flow.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_clickicon.PNG" src="../../_images/cs_processflowcheck_clickicon.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Adding the <strong>Task</strong> notation simply defines the task. Click on the <strong>Wrench</strong> icon to define what kind of a task it is, whether it is <em>import article</em>, <em>import asset</em>, <em>import relationship</em>, etc.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_definetask.PNG" src="../../_images/cs_processflowcheck_definetask.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>As soon as you click on the <strong>Wrench</strong> icon, a window appears containing the types of task.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_clickwrenchicon.PNG" src="../../_images/cs_processflowcheck_clickwrenchicon.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>If you are defining an article, then select the <strong>Article Import</strong> option from the list.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_selectarticleimport.PNG" src="../../_images/cs_processflowcheck_selectarticleimport.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Double-click on the created task icon and enter a name for that icon.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_doubleclick.PNG" src="../../_images/cs_processflowcheck_doubleclick.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Define the components of the system such as <em>Assets, Relationships, and Nature Classes</em>. Create a task, click on the <strong>Wrench</strong> icon to select the type, and enter a name for that task.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_definecomponents.PNG" src="../../_images/cs_processflowcheck_definecomponents.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Once you added all the components in a flow, append the <strong>End Event</strong> notation at the end. It represents the end of flow. Select the last component and click on the <strong>End Event</strong> notation.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_endevent.PNG" src="../../_images/cs_processflowcheck_endevent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>View the End Event icon appended at the end of flow.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_viewendevent.PNG" src="../../_images/cs_processflowcheck_viewendevent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on each component and in the third vertical section, fill in the details of each component such as <em>Sheet Name, Primary Key Column, Type, Class ID/Class Column, Multiclassification, Type, Select Classes/ Class Column Name, Taxonomies</em>, then click on the <strong>Save</strong> button.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_processflowcheck_clickcomponent.PNG" src="../../_images/cs_processflowcheck_clickcomponent.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -309,85 +363,69 @@ Custom actions for different users will be managed through workflow <strong>Task
 </div>
 
 
+           </div>
+           
           </div>
-        </div>
-      </div>
-      <!-- Sidebar -->
-      <!-- 
-        
-          <div class="yui-b" id="sidebar">
-            <div class="sidebar-padding">
-              
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-  <h3><a href="../../contents.html">Table Of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Process Flow Check</a><ul>
-<li><a class="reference internal" href="#prerequisites">Prerequisites</a></li>
-<li><a class="reference internal" href="#key-terms">Key Terms</a></li>
-<li><a class="reference internal" href="#how-to-do-a-process-flow-check">How to do a Process Flow Check</a></li>
-</ul>
-</li>
-</ul>
-
-  <h3>Browse</h3>
-  <ul>
-    
-      <li>Prev: <a href="realtimemapping.html">Real-Time Mapping</a></li>
-    
-    
-      <li>Next: <a href="dataremediation.html">Data Remediation</a></li>
-    
-  </ul>
-  <h3>You are here:</h3>
-  <ul>
-      <li>
-        <a href="../../index.html">Contentsphere  documentation</a>
-        
-          <ul><li><a href="../index.html">Tutorials</a>
-        
-          <ul><li><a href="index.html">Capabilities of Contentserv’s Onboarding Portal</a>
-        
-        <ul><li>Process Flow Check</li></ul>
-        </li></ul></li></ul>
-      </li>
-  </ul>
-
-<div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
-    <form class="search" action="../../search.html" method="get">
-      <div><input type="text" name="q" /></div>
-      <div><input type="submit" value="Go" /></div>
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
-    </form>
-</div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
-        </div>
-      </div>
-                <h3>Last update:</h3>
-                <p class="topless">Jun 20, 2018</p>
-            </div>
-          </div>
-        
-       -->
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="dataremediation.html" class="btn btn-neutral float-right" title="Data Remediation" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="realtimemapping.html" class="btn btn-neutral" title="Real-Time Mapping" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
     </div>
+  
 
-    <!-- Jira snippet -->
-    <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
+  <hr/>
 
-    <div id="ft">
-        <p class="topless">Last updated: Jun 20, 2018</p>
-      <div class="nav">
-    &laquo; <a href="realtimemapping.html" title="Real-Time Mapping">previous</a>
-     |
-    <a href="../index.html" title="Tutorials" accesskey="U">up</a>
-   |
-    <a href="dataremediation.html" title="Data Remediation">next</a> &raquo;</div>
-    </div>
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
   </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
-      <div class="clearer"></div>
-    </div>
-  </body>
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
 </html>

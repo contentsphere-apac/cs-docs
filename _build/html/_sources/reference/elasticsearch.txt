@@ -24,25 +24,25 @@ Installation
 Setup and Configuration
 ========================
 
-#. Download elasticsearch-2.1.1 (at location, */opt/cs/elastic*).
+* Download elasticsearch-2.1.1 (at location, */opt/cs/elastic*).
 
     https://download.elasticsearch.org/elasticsearch/reease/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz
 
 |
 
-#. Extract *ElasticSearch*. ::
+* Extract *ElasticSearch*. ::
 
     tar -zxvf elasticsearch-2.1.1.tar.gz
 
 |
 
-#. Change configuration. ::
+* Change configuration. ::
 
 	  vim /opt/cs/elastic/elasticsearch-2.1.1/bin/elasticsearch
 
 |
 
-#. Specify **Memory** as following at the top of the file.  ::
+* Specify **Memory** as following at the top of the file.  ::
 
     export ES_HEAP_SIZE=10g
 
@@ -50,13 +50,13 @@ Setup and Configuration
 
 |
 
-#. Specify **IP** as following by uncommenting the line and adding IP of the machine in front of it:  ::
+* Specify **IP** as following by uncommenting the line and adding IP of the machine in front of it:  ::
 
     network.host: <IP_OF_ELASTIC_SERVER>
 
 |
 
-#. Also add following dependencies:  ::
+* Also add following dependencies:  ::
 
      script.inline: true
      script.indexed: true
@@ -80,7 +80,7 @@ Setup and Configuration
 
 |
 
-#. Install plugins.  ::
+* Install plugins.  ::
 
     cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 
@@ -88,19 +88,19 @@ Setup and Configuration
 
 |
 
-#. Start *ElasticSearch*.  ::
+* Start *ElasticSearch*.  ::
 
    	./elasticsearch -d
 
 |
 
-#. Check whether the service is running or not.  ::
+* Check whether the service is running or not.  ::
 
     netstat -tulpn | grep 9200
 
 |
 
-#. Start/Stop/Update Commands:  ::
+* Start/Stop/Update Commands:  ::
 
     Stop Elastic
       ssh elastic@ELASTIC_IP
@@ -112,7 +112,7 @@ Setup and Configuration
 
 |
 
-#. Remove plugins.  ::
+* Remove plugins.  ::
 
      cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 
@@ -120,7 +120,7 @@ Setup and Configuration
 
 |
 
-#. Add plugins.  ::
+* Add plugins.  ::
 
      cd /opt/cs/elastic/elasticsearch-2.1.1/bin/
 

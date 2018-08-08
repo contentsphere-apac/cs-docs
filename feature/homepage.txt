@@ -1,0 +1,115 @@
+===================
+Quick Start Guides
+===================
+
+|
+
+Product Information Management (PIM)
+-------------------------------------
+
+* :doc:`Product Lines and Products </product/index>`
+* :doc:`Product Information Management </product/PIM>`
+* :doc:`PIM Features (Coming Soon) </feature/product_feature/pim/index>`
+* :doc:`Partner Engagement Platform </product/PEP>`
+* :doc:`Explore UI </tutorials/exploretheui>`
+* :doc:`Add New User </tutorials/addnewuser>`
+* :doc:`Create a New Product </tutorials/createnewproduct>`
+* :doc:`Glossary </glossary>`
+
+|
+
+Dashboard
+----------
+
+* :doc:`Product Glossary </glossary>`
+* :doc:`Explore UI </tutorials/exploretheui>`
+* :doc:`Data Quality Rule </feature/product_feature/mdm/governance/dataqualityrule>`
+* :doc:`KPI-based Completeness Rules </feature/product_feature/mdm/governance/measureandmonitor/kpibasedcompletenessrules>`
+* :doc:`KPI-based DQ Reports </feature/product_feature/mdm/governance/governancedashboard/kpibaseddqreports>`
+* :doc:`Standard Product Definitions </feature/product_feature/mdm/governance/standardizationandnormalization/standardizeproductdefinitions>`
+
+|
+
+Product Detail View
+---------------------
+
+#. :doc:`Products </feature/product_feature/mdm/products/index>`
+#. :doc:`Create a New Product </tutorials/createnewproduct>`
+#. :doc:`What is a Data Model? </tutorials/whatisadatamodel>`
+#. :doc:`How Classes Work </tutorials/howclasseswork>`
+
+|
+
+Administration
+---------------
+
+#. :doc:`Manage Different Types of Attributes </feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes>`
+#. :doc:`Data Model - Tag Management </feature/product_feature/mdm/administration/datamodeltagmanagement/index>`
+#. :doc:`Dependent Attributes </feature/product_feature/mdm/administration/datamodeldependentattributes/dependentattributes>`
+#. :doc:`Property Collections </feature/product_feature/mdm/administration/datamodelpropertycollections/propertycollections>`
+#. :doc:`How Classes Work </tutorials/howclasseswork>`
+#. :doc:`Define Relationships </feature/product_feature/mdm/administration/datamodelrelationships/definerelationships>`
+#. :doc:`Manage Taxonomy </feature/product_feature/mdm/administration/simpletaxonomytree/managetaxonomy>`
+#. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+#. :doc:`Manage Permissions </feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions>`
+#. :doc:`Multilingual UI </feature/product_feature/mdm/administration/translationsmultilingualui/multilingualui>`
+#. :doc:`Manage Master Taxonomies </feature/product_feature/mdm/administration/taxonomiesmastertaxonomies/managemastertaxonomies>`
+
+|
+
+Partner Engagement Platform (PEP), Onboarding, Data Integration
+----------------------------------------------------------------
+
+* :doc:`Product Lines and Products </product/index>`
+* :doc:`Partner Engagement Platform </product/PEP>`
+* :doc:`PEP Features </feature/product_feature/pep/index>`
+* :doc:`Data Integration </feature/product_feature/pep/platformadministration/index>`
+* :doc:`Real-Time Mapping </tutorials/onboardingcapabilities/realtimemapping>`
+* :doc:`Quick Start Guide: Configure Mapping </tutorials/onboardingpractical/configuremapping>`
+* :doc:`Configure Workflow </tutorials/onboardingpractical/configureworkflow>`
+* :doc:`Configure Endpoint </tutorials/onboardingpractical/configureendpoint>`
+* :doc:`Assign Endpoint to Partner and Role </tutorials/onboardingpractical/assignendpoint>`
+* :doc:`Glossary </glossary>`
+
+|
+
+Data Asset Management (DAM)
+----------------------------
+
+#. :doc:`Add an Image to the DAM </tutorials/addimagetoDAM>`
+#. :doc:`Images: .psd, .eps, .jpg, .png, .ai </feature/product_feature/dam/images>`
+#. :doc:`Seasonal/Mood Motives (Coming Soon) </feature/product_feature/dam/seasonalmoodmotives>`
+#. :doc:`Bulk Import of Assets </feature/product_feature/dam/bulkimportassets>`
+#. :doc:`Videos: .wmv, .mpeg, .avi, .mov </feature/product_feature/dam/videos>`
+#. :doc:`Perspective Variant </feature/product_feature/dam/perspectiveresolutionvariants/perspectivevariant>`
+#. :doc:`Resolution Variant </feature/product_feature/dam/perspectiveresolutionvariants/resolutionvariant>`
+#. :doc:`Bulk Export of Assets </feature/product_feature/dam/bulkexportofassets>`
+#. :doc:`Documents </feature/product_feature/dam/documents>`
+
+|
+
+Supplier
+---------
+
+#. :doc:`Manage Supplier Records </feature/product_feature/mdm/products/productidentifiersidentifierrecords/managesupplierrecords>`
+#. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+#. :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
+
+|
+
+Virtual Catalog
+----------------
+
+#. :doc:`Manage Virtual Catalogs </feature/product_feature/mdm/products/catalogmanagementvirtualproductcatalogs/managevirtualcatalogs>`
+#. :doc:`Collections and Bookmarks </feature/product_feature/mdm/general/collectionsandbookmarks/index>`
+#. :doc:`Manage Product Keys </feature/product_feature/mdm/products/productidentifiersidentifierattributes/manageproductkeys>`
+
+
+|
+|
+
+
+|
+|
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

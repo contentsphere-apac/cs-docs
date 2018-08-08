@@ -20,44 +20,44 @@ Key Terms
 Steps to Transfer a File
 =========================
 
-#. Log in to the application.
+* Log in to the application.
 
 |
 
-#. Click on the **Explore** icon and go to *Data Integration*.
+* Click on the **Explore** icon and go to *Data Integration*.
 
 |
 
-#. Click on the **File Uploads** link of the created endpoint.
+* Click on the **File Uploads** link of the created endpoint.
 
 .. image:: /tutorials/_images/cs_effortlessfiletransfer_clickfileuploads.PNG
 |
 |
 
-#. Click on the **Import File** icon and upload the onboarding file to the supplier's *Data Integration* tab.
+* Click on the **Import File** icon and upload the onboarding file to the supplier's *Data Integration* tab.
 
 |
 
-#. Click on the **Catalog** tab to check for data violations. *Note: The violations are shown in red, orange, and yellow color against each product. The products with red violations are not pushed into the PIM system.*
+* Click on the **Catalog** tab to check for data violations. *Note: The violations are shown in red, orange, and yellow color against each product. The products with red violations are not pushed into the PIM system.*
 
 .. image:: /tutorials/_images/cs_effortlessfiletransfer_clickcatalog.PNG
 
 |
 |
 
-#. Click on the **Media** tab to see all the media files. These media files are mapped with their respective articles.
+* Click on the **Media** tab to see all the media files. These media files are mapped with their respective articles.
 
 |
 
-#. Click on the **Catalog** tab.
+* Click on the **Catalog** tab.
 
 |
 
-#. Select all the products that are needed to be transferred to Onboarding or PIM portal (Self).
+* Select all the products that are needed to be transferred to Onboarding or PIM portal (Self).
 
 |
 
-#. Click on the **Transfer** icon and select **Transfer To PIM** or **Transfer To Onboarding** option.
+* Click on the **Transfer** icon and select **Transfer To PIM** or **Transfer To Onboarding** option.
 
 .. image:: /tutorials/_images/cs_effortlessfiletransfer_clicktransfer.PNG
 |

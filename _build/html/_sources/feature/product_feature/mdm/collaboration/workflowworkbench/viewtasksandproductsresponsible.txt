@@ -27,7 +27,7 @@ To do this, follow these steps:
 
 |
 
-#. Log into the application and click on **Workflow Workbench** tab from the Dashboard menu.
+* Log into the application and click on **Workflow Workbench** tab from the Dashboard menu.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickdasboard.PNG
 |
@@ -38,7 +38,7 @@ To do this, follow these steps:
 |
 
 
-#. Click on **TASKS** to view all tasks that have been assigned to a user, in any of the categories.
+* Click on **TASKS** to view all tasks that have been assigned to a user, in any of the categories.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicktask.PNG
 |
@@ -49,35 +49,35 @@ To do this, follow these steps:
 |
 
 
-#. Click on **Notifications** to see all the notifications.
+* Click on **Notifications** to see all the notifications.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clicknotifications.PNG
 |
 |
 
 
-#. Click on **ALL** to see the consolidated assigned tasks of the user for all the categories.
+* Click on **ALL** to see the consolidated assigned tasks of the user for all the categories.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall.PNG
 |
 |
 
 
-#. Click on any task to view its details.
+* Click on any task to view its details.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickall2.PNG
 |
 |
 
 
-#. Click on a category to see the tasks assigned to the user for that category.
+* Click on a category to see the tasks assigned to the user for that category.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickanytask.PNG
 |
 |
 
 
-#. Click on **PRODUCTS** to view all tasks according to a product view.
+* Click on **PRODUCTS** to view all tasks according to a product view.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickproducts.PNG
 |
@@ -88,21 +88,21 @@ To do this, follow these steps:
 |
 
 
-#. Click on **ALL** to see all products.
+* Click on **ALL** to see all products.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickallproducts.PNG
 |
 |
 
 
-#. Click on a product to see all the tasks created for that product.
+* Click on a product to see all the tasks created for that product.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct.PNG
 |
 |
 
 
-#. You can view all the products category wise as well as all the tasks created for each product.
+* You can view all the products category wise as well as all the tasks created for each product.
 
 .. image:: /feature/_images/mdmimages/cs_viewtasksandproductsresponsible_clickonaproduct2.PNG
 |

@@ -1,0 +1,24 @@
+================
+Creating Tabs
+================
+
+What is a Tab
+===============
+
+For a better distribution of content and a clutter-free display, one could divide the product information into various tabs.
+The tabs may contain one or many property collections added to it. Relevant tabs make navigation easy and give the product its desired structure.
+Once the content behind each tab is logically chunked, the users can easily predict what they'll find when they select a certain tab.
+
+  **Example:**
+
+  Mobile Product information can be divided into several tabs – Overview (that displays information like classes, Taxonomies, Versions),
+  Property Collection (that displays information like Brand Name, PID, Short and Long Description and so on), and Relationships (that displays related Images, Market, Video, and so on).
+
+
+.. image:: /feature/_images/butimages/cs_tabs.PNG
+|
+.. image:: /feature/_images/butimages/cs_tabs2.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

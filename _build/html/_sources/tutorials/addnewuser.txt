@@ -1,6 +1,6 @@
-=============
+==============
 Add New Users
-=============
+==============
 Manage different roles or profiles within the system by adding new users.
 
 
@@ -11,70 +11,67 @@ To do this, follow these steps:
 
 |
 
-#. Click **Settings**.
+* Click **Administration**.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_clicksettings.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_clicksettings.PNG
 |
 |
 
-#. Click **Partner Admin**.
+* Click **Partner Administration**.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_clickpartadmin.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_clickpartneradmnistration.PNG
 |
 |
 
-#.  Click **Users** on the left sidebar.
+* Click **Users** on the left sidebar.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_clickusers.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_clickusers.PNG
 |
 |
 
-#.   Then, click "+" to add a user.
+* Then, click "+" to add a user.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_clickplus.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_clickplus.PNG
 |
 |
 
-#.    Enter data in the fields.
+* Enter data in the fields.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_enterdetails.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_enterdetails.PNG
 |
 |
 
-#.  Then, click **Create**.
+* Then, click **Create**.
 
-.. image:: /feature/_images/mdmimages/addingnewusers_enterdetailsandcreate.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_clickcreate.PNG
 |
 |
 
-#.   View the added user.
+* View the added user.
 
 
-.. image:: /feature/_images/mdmimages/addingnewusers_addeduser.PNG
+.. image:: /feature/_images/mdmimages/cs_addingnewusers_viewuseradded.PNG
 |
 |
 
 
 Icon for the user can also be added. To do this, follow the steps below:
 
-      #.    Click **Add Icon** and select an image icon from your computer.
+      * Click **Add Icon** and select an image icon from your computer.
 
-      .. image:: /feature/_images/mdmimages/addingnewusers_clickaddicon.PNG
+      .. image:: /feature/_images/mdmimages/cs_addingnewusers_clickaddicon.PNG
       |
       |
 
 
-      #.    View the added icon.
+      * View the added icon.
 
-      .. image:: /feature/_images/mdmimages/addingnewusers_iconadded.PNG
+      .. image:: /feature/_images/mdmimages/cs_addingnewusers_viewaddedicon.PNG
       |
       |
-
-| :doc:`Previous: Explore the User Interface </tutorials/exploretheui>`
-| :doc:`Next: Add an Image to the DAM </tutorials/addimagetoDAM>`
 
 |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
-   :alt: Contentsphere line
+   :alt: Contentserv line

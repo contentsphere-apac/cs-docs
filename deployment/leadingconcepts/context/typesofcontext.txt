@@ -1,0 +1,46 @@
+========
+Context
+========
+
+Definition and Use
+==================
+
+In today’s times, accurately delivering a message via a channel to a given person at a specific time has become a challenge and an opportunity to determine a successful business. CS Global System now uses this opportunity to ensure we are using top of the line technology provided to our customers.  The CS Global System has 3 types of contexts which when applied to the products ensure simplicity and minimize duplicity of the content.
+
+
+
+Types of Context
+=================
+
+Attribute Context
+-----------------
+
+The Attribute Context can be used in assigning multiple values to attribute that varies in time. For better product management, it can be used in assigning various Attribute Values.
+
+  **Example:**
+
+  In the iPhone category, there is a different price for a model for every year model.
+
+
+Relationship Context
+---------------------
+
+This Relationship Context allows the user to link several related entities (e.g. images) to a single article. This can be used to give the correct impression of the product’s height, width, depth, and information (if any).
+
+  **Example:**
+
+  A retailer that sells dog food would add several images (front, back and side) to the main product image to give the customer a better and thorough impression of the product. The back image often contains important information, such as ingredient and nutritional value, which helps the customer in deciding whether to purchase or not.
+
+Version Context
+----------------
+
+The feature ‘Version Context’ helps the user create various versions (depending on the tags) of a product. This feature will create clones of the original product and is particularly helpful when the user needs to run a promotional campaign on one or more versions of the product.
+
+  **Example:**
+
+  Retailer ‘A’ wants to run a promotion on iPhone 6’s 32GB and 64GB variants only during Christmas. He will create variants of the original product through the feature ‘Version Context’ and have a time-bound campaign running for those variants.
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

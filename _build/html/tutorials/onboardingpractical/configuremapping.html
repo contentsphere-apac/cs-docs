@@ -1,133 +1,177 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Configure Mapping &#8212; Contentsphere  documentation</title>
-    <link rel="stylesheet" href="../../_static/default.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <script type="text/javascript">
-      var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    '../../',
-        VERSION:     '',
-        COLLAPSE_INDEX: false,
-        FILE_SUFFIX: '.html',
-        HAS_SOURCE:  true,
-        SOURCELINK_SUFFIX: '.txt'
-      };
-    </script>
-    <script type="text/javascript" src="../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../_static/doctools.js"></script>
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Configure Mapping &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Configure Endpoint" href="configureendpoint.html" />
-    <link rel="prev" title="Configure Workflow" href="configureworkflow.html" />
+    <link rel="prev" title="Configure Workflow" href="configureworkflow.html" /> 
 
+  
+  <script src="../../_static/js/modernizr.min.js"></script>
 
+</head>
 
- 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Contentserv Help Center</title>
-<script type="text/javascript" src="../../templatebuiltins.js"></script>
-<script type="text/javascript">
-(function($) {
-    if (!contentsphere_template_builtins) {
-       // templatebuiltins.js missing, do nothing.
-       return;
-    }
-    $(document).ready(function() {
-        // Hyperlink contentsphere template tags and filters
-        var base = "../../ref/templates/builtins.html";
-        if (base == "#") {
-            // Special case for builtins.html itself
-            base = "";
-        }
-        // Tags are keywords, class '.k'
-        $("div.highlight\\-html\\+contentsphere span.k").each(function(i, elem) {
-             var tagname = $(elem).text();
-             if ($.inArray(tagname, contentsphere_template_builtins.ttags) != -1) {
-                 var fragment = tagname.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + tagname + "</a>");
-             }
-        });
-        // Filters are functions, class '.nf'
-        $("div.highlight\\-html\\+contentsphere span.nf").each(function(i, elem) {
-             var filtername = $(elem).text();
-             if ($.inArray(filtername, contentsphere_template_builtins.tfilters) != -1) {
-                 var fragment = filtername.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + filtername + "</a>");
-             }
-        });
-    });
-})(jQuery);
-</script>
+<body class="wy-body-for-nav">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110467525-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+   
+  <div class="wy-grid-for-nav">
 
-  gtag('config', 'UA-110467525-1');
-</script>
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
 
-  </head>
-  <body>
+          
+            <a href="../../contents.html" class="icon icon-home"> Contentserv
+          
 
-    <div class="document">
-  <div id="custom-doc" class="yui-t6">
-    <div id="top-nav">
-      <a href="../../index.html"><img src="https://assets.hypefactors.com/companies/company-logos/original/2TGKzLT4YYMJsqTVe3wvL7qWOPF1e0W0iCAoaGqa.png" class="cs-logo"></a>
-      <ul class="nav-ul">
-        <li class="nav-li"><a href="https://contentsphere.com/">Website</a></li>
-        <li class="nav-li active"><a href="http://help.contentsphere.com/en/latest/">Help Center</a></li>
-        <li class="nav-li"><a href="https://contentsphere.com/contactform/">Contact</a></li>
-      </ul>
-    </div>
-    <div id="hd">
-      <h1 class="documentation-header"><a href="../../index.html">Help Center</a></h1>
-      <div id="searchbox" role="search" class="search-nav">
-        <form class="search" action="http://help.contentsphere.com/en/latest/search.html" method="get">
-          <div>
-            <input type="text" class="form-input" name="q">
-            <button type="submit" class="form-btn">Search</button>
-          </div>
-        </form>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../index.html">Contentserv Documentation</a></li>
+</ul>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">Tutorials</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../index.html#new-to-contentserv">New to Contentserv</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../index.html#concepts">Concepts</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../index.html#onboarding">Onboarding</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../onboardingoverview.html">Overview</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingkeyterms.html">Key Terms</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardinguioverview.html">UI Overview</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingdesignandarchitecture.html">Design and Architecture</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="index.html">Practical Quick Start Guide</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="index.html#step-by-step-guide-for-configuration">Step-By-Step Guide for Configuration</a></li>
+<li class="toctree-l4"><a class="reference internal" href="index.html#step-by-step-guide-for-uploading-onboarding-file">Step-By-Step Guide for Uploading Onboarding File</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingfileformat/index.html">Onboarding File Format</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../onboardingcapabilities/index.html">Capabilities of Contentserv’s Onboarding Portal</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
       </div>
-    </div>
-    <div id="global-nav">
-      <!-- <a title="Home page" href="../../index.html">Home</a>  |
-      <a title="Table of contents" href="../../contents.html">Table of contents</a>  |
-      <a title="Global index" href="../../genindex.html">Index</a>  | -->
-      
-    </div>
-    <!-- <div class="nav">
-    &laquo; <a href="configureworkflow.html" title="Configure Workflow">previous</a>
-     |
-    <a href="../index.html" title="Tutorials" accesskey="U">up</a>
-   |
-    <a href="configureendpoint.html" title="Configure Endpoint">next</a> &raquo;</div> -->
+    </nav>
 
-    <div id="bd">
-      <div id="yui-main">
-        <div class="yui-b">
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
           
-            <div class="breadcrumbs">
-              <a href="../../index.html">Home</a> /
-              
-                <span><a href="../index.html">Tutorials</a> /
-              
-                <span><a href="index.html">Practical Quick Start Guide</a> /
-              
-              <span>Configure Mapping</span>
-              </span></span>
-            </div>
-          
-          <div class="yui-g" id="tutorials-onboardingpractical-configuremapping">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../index.html">Tutorials</a> &raquo;</li>
+        
+          <li><a href="index.html">Practical Quick Start Guide</a> &raquo;</li>
+        
+      <li>Configure Mapping</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
             
   <div class="section" id="s-configure-mapping">
 <span id="configure-mapping"></span><h1>Configure Mapping<a class="headerlink" href="#configure-mapping" title="Permalink to this headline">¶</a></h1>
@@ -136,81 +180,81 @@ To configure this, follow this set of instructions:</p>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Log in to the application and click on the <strong>Administration</strong> button.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_createuser_logintotheapp.PNG" src="../../_images/cs_createuser_logintotheapp.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Go to <em>Data Integration</em> and then, to the <em>Mappings</em> menu.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_gotodataintegration.PNG" src="../../_images/cs_configuremapping_gotodataintegration.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click the “+” icon to create a new mapping.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_clicktheicontocreate.PNG" src="../../_images/cs_configuremapping_clicktheicontocreate.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Provide the details like <em>Name and Code</em>. Click on the <strong>Create</strong> button.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_providethedetails.PNG" src="../../_images/cs_configuremapping_providethedetails.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the <strong>Edit</strong> button to edit the details.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_clickontheeditbutton.PNG" src="../../_images/cs_configuremapping_clickontheeditbutton.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>On the pop-up window, click on the <strong>Attribute</strong> tab.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_onthepopupwindow.PNG" src="../../_images/cs_configuremapping_onthepopupwindow.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the <strong>Add Mapping</strong> button to map the attributes defined in an onboarding file with the system attributes.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_clickontheaddmapping.PNG" src="../../_images/cs_configuremapping_clickontheaddmapping.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Define the <strong>Attribute Name</strong> used in an onboarding file in the left side textbox and select the equivalent system attribute in the <strong>Mapped Element</strong> field.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_definetheattributename.PNG" src="../../_images/cs_configuremapping_definetheattributename.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Likewise, map the <em>Tags, Taxonomies, and Classes</em> defined in an onboarding file with the tags, taxonomies, and classes of the system in the Tag, Taxonomy, and Class tabs, respectively.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_likewisemaptags.PNG" src="../../_images/cs_configuremapping_likewisemaptags.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the <strong>Save</strong> button.</li>
-</ol>
+</ul>
 <img alt="../../_images/cs_configuremapping_clickonthesavebutton.PNG" src="../../_images/cs_configuremapping_clickonthesavebutton.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -285,83 +329,69 @@ To configure this, follow this set of instructions:</p>
 </div>
 
 
+           </div>
+           
           </div>
-        </div>
-      </div>
-      <!-- Sidebar -->
-      <!-- 
-        
-          <div class="yui-b" id="sidebar">
-            <div class="sidebar-padding">
-              
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-  <h3><a href="../../contents.html">Table Of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Configure Mapping</a><ul>
-<li><a class="reference internal" href="#configure-mapping-screen-elements">Configure Mapping: Screen Elements</a></li>
-</ul>
-</li>
-</ul>
-
-  <h3>Browse</h3>
-  <ul>
-    
-      <li>Prev: <a href="configureworkflow.html">Configure Workflow</a></li>
-    
-    
-      <li>Next: <a href="configureendpoint.html">Configure Endpoint</a></li>
-    
-  </ul>
-  <h3>You are here:</h3>
-  <ul>
-      <li>
-        <a href="../../index.html">Contentsphere  documentation</a>
-        
-          <ul><li><a href="../index.html">Tutorials</a>
-        
-          <ul><li><a href="index.html">Practical Quick Start Guide</a>
-        
-        <ul><li>Configure Mapping</li></ul>
-        </li></ul></li></ul>
-      </li>
-  </ul>
-
-<div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
-    <form class="search" action="../../search.html" method="get">
-      <div><input type="text" name="q" /></div>
-      <div><input type="submit" value="Go" /></div>
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
-    </form>
-</div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
-        </div>
-      </div>
-                <h3>Last update:</h3>
-                <p class="topless">Jun 20, 2018</p>
-            </div>
-          </div>
-        
-       -->
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="configureendpoint.html" class="btn btn-neutral float-right" title="Configure Endpoint" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="configureworkflow.html" class="btn btn-neutral" title="Configure Workflow" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
     </div>
+  
 
-    <!-- Jira snippet -->
-    <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
+  <hr/>
 
-    <div id="ft">
-        <p class="topless">Last updated: Jun 20, 2018</p>
-      <div class="nav">
-    &laquo; <a href="configureworkflow.html" title="Configure Workflow">previous</a>
-     |
-    <a href="../index.html" title="Tutorials" accesskey="U">up</a>
-   |
-    <a href="configureendpoint.html" title="Configure Endpoint">next</a> &raquo;</div>
-    </div>
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
   </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
-      <div class="clearer"></div>
-    </div>
-  </body>
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
 </html>

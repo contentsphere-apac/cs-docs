@@ -1,0 +1,369 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Manage Outbound Process &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint" href="../dataintegrationexportproductsviassff/index.html" />
+    <link rel="prev" title="Data Integration - Manage Outbound Process" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Partner Engagement Portal (PEP)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Platform Administration</a> &raquo;</li>
+        
+          <li><a href="index.html">Data Integration - Manage Outbound Process</a> &raquo;</li>
+        
+      <li>Manage Outbound Process</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-manage-outbound-process">
+<span id="manage-outbound-process"></span><h1>Manage Outbound Process<a class="headerlink" href="#manage-outbound-process" title="Permalink to this headline">¶</a></h1>
+<p>Manage Outbound Process is an admin feature that manages <em>Outbound Processes</em> so that data can be evaluated correctly and be transformed into the required output format before exporting.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>An <em>Outbound Process</em> allows the transfer of system data into an Excel sheet.</li>
+<li>An <em>Outbound Process</em> can be used to export multiple articles in one go.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/dataintegrationmanageoutboundendpoint/manageoutboundendpoint.html"><span class="doc">Manage Outbound Endpoint</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile.html"><span class="doc">Manage System Profile</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/products/index.html"><span class="doc">Products</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">To export data from the system into an Excel sheet, admin uses an outbound process.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p><em>Organization A</em> sells <em>Electronics</em>.
+If a user wants to transfer and export product data into an Excel sheet, the user will make an outbound process with the desired output.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-manage-outbound-process">
+<span id="how-to-manage-outbound-process"></span><h2>How-to: Manage Outbound Process<a class="headerlink" href="#how-to-manage-outbound-process" title="Permalink to this headline">¶</a></h2>
+<p>To do this feature, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in and click on <strong>Administration</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_clickadministration.PNG" src="../../../../../../_images/cs_manageoutboundprocess_clickadministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Data Integration</strong> tab and go to <em>Workflow</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_clickdataintegration.PNG" src="../../../../../../_images/cs_manageoutboundprocess_clickdataintegration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To create a new process, click on the “+” icon on the right.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_createnewprocess.PNG" src="../../../../../../_images/cs_manageoutboundprocess_createnewprocess.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>On the pop-up window, provide the following details: <em>Name</em> and the <em>Event Type</em>. For this example, select the <strong>Business Process Workflow</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_popupwindowprovidedetails.PNG" src="../../../../../../_images/cs_manageoutboundprocess_popupwindowprovidedetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Create</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_clickcreate.PNG" src="../../../../../../_images/cs_manageoutboundprocess_clickcreate.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once clicked, a pop-up window will appear. Check if the details are correct for the <em>Name, Code,</em> and the <em>Event Type</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_onceclicked.PNG" src="../../../../../../_images/cs_manageoutboundprocess_onceclicked.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Create a graph for the workflow using <em>BPMN (Business Process Modeling Notation)</em> components on the left menu.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_creategraphusebpmn.PNG" src="../../../../../../_images/cs_manageoutboundprocess_creategraphusebpmn.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once the workflow is created, provide the details of each component used in the graph. On the window on the right, ensure  all details are completed for each tab.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_onceworkflowcreatedprovidedetails.PNG" src="../../../../../../_images/cs_manageoutboundprocess_onceworkflowcreatedprovidedetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once done, click on the <strong>Save</strong> button. A notification will appear to indicate the workflow is saved. Click the <strong>OK</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_manageoutboundprocess_clicksave.PNG" src="../../../../../../_images/cs_manageoutboundprocess_clicksave.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../dataintegrationexportproductsviassff/index.html" class="btn btn-neutral float-right" title="Data Integration - Export Products via Standard Simple Flat File-based DI Endpoint" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Data Integration - Manage Outbound Process" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

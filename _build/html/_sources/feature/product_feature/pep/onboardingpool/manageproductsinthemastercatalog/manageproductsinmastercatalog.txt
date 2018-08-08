@@ -5,18 +5,74 @@ The Manage Products in the Master Catalog is a feature that allows a user to add
 
 
 ===================     =======================================================================================================================================================================
+**Key Term:**           * **Partner Engagement Platform (PEP):** A portal which allows customer’s partners to engage with their system. Deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding/offboarding.
+
 **Description:**        * Master Catalog allows a user to manage all products at the time of onboarding.
                         * The feature also allows a user to manage all the content and data of a product before transferring it to PIM.
 
-**Related topics:**     * :doc:`Check for Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
-                        * :doc:`Consolidate Products across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+**Related topics:**     * :doc:`Check Erroneous Products </feature/product_feature/pep/onboardingpool/datagovernancevalidationanderror/checkanderroneousproducts>`
+                        * :doc:`Manage Product Definitions across Systems </feature/product_feature/pep/onboardingpool/consolidateproductsfromacrosssystems/manageproductdefinitionsacrosssystems>`
+                        * :doc:`Design and Architecture </tutorials/onboardingdesignandarchitecture>`
 
 **Application:**        * The Master Catalog feature can permit users to manage all of the product content.
                         * *Example:*
 
                             An organization has a user who manages all the products in the Master Catalog and there are *Suppliers A and B*, who sell furniture and fashion products.
                             User gives permission for *Data Integration* to both suppliers.
-                            They proceeded with on-boarding of their products and transferring to the Master Catalog,
+                            They proceeded with onboarding of their products and transferring to the Master Catalog,
                             where all the Products are verified and corrected by the user, if necessary.
 
 ===================     =======================================================================================================================================================================
+
+
+How-to: Add Additional Information in the Product
+==================================================
+To add additional information to products, follow these steps:
+
+|
+
+* Log in as Supplier, go to *Onboarding* and click on the **Data Integration** tab.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_login1.PNG
+|
+|
+
+* Under the applicable inbound endpoint created for a specific organization, click on the **Import File** button.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_importfile1.PNG
+|
+|
+
+* Select the onboarding file.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile1.PNG
+|
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_onboardingfile2.PNG
+|
+|
+
+* Go to *Catalog* and select the product.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog1.PNG
+|
+|
+
+* Click on the **Property Collection** tab.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog2.PNG
+|
+|
+
+* Add information *(e.g. Long Description)* to the product and click on the **Save** button.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog3.PNG
+|
+|
+
+* View the content that was added successfully to the product.
+
+.. image:: /feature/_images/pepimages/cs_manageproductsinthemastercatalog_gotocatalog4.PNG
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

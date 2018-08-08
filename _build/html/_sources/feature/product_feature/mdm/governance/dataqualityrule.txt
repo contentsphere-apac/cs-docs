@@ -34,21 +34,21 @@ To do this data governance feature, follow these steps:
 
 |
 
-#. Go to *Administration*.
+* Go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoadministration.PNG
 |
 |
 
 
-#. Go to the *Rule Configuration* section.
+* Go to the *Rule Configuration* section.
 
 .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotoruleconfiguration.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new rule.
+* Click on the "+" icon to create a new rule.
 
 .. image:: /feature/_images/mdmimages/cs_dataqualityrule_clickplus.PNG
 |
@@ -59,7 +59,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
+* Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
 
 .. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername.PNG
 |
@@ -70,9 +70,9 @@ To do this data governance feature, follow these steps:
 |
 
 
-#. Refer to the steps below for a data quality rule example applied to an attribute:
+* Refer to the steps below for a data quality rule example applied to an attribute:
 
-  #. Select the attribute (in Cause) and then, add the warning (in Effect). Save all the changes.
+  * Select the attribute (in Cause) and then, add the warning (in Effect). Save all the changes.
 
   .. image:: /feature/_images/mdmimages/cs_dataqualityrule_selectattribute.PNG
   |
@@ -86,19 +86,19 @@ To do this data governance feature, follow these steps:
   |
   |
 
-  #. In the *Classes* section, select the rule that will be applied.
+  * In the *Classes* section, select the rule that will be applied.
 
   .. image:: /feature/_images/mdmimages/cs_dataqualityrule_inclasssection.PNG
   |
   |
 
-  #. Go to *PIM*.
+  * Go to *PIM*.
 
   .. image:: /feature/_images/mdmimages/cs_dataqualityrule_gotopim.PNG
   |
   |
 
-  #. Hover over the "+" icon and select the class.
+  * Hover over the "+" icon and select the class.
 
   .. image:: /feature/_images/mdmimages/cs_dataqualityrule_hoverplus.PNG
   |

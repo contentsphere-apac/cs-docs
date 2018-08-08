@@ -28,28 +28,28 @@ To do a sort by, follow these steps:
 |
 
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_parametricsearch_login.PNG
 |
 |
 
 
-#. Click the **Sort and Filter** button. The menu selection will expand.
+* Click the **Sort and Filter** button. The menu selection will expand.
 
 .. image:: /feature/_images/mdmimages/cs_sortby_clickthesortandfilter.PNG
 |
 |
 
 
-#. Select an attribute.  Only filterable attributes are displayed.  Once an attribute is selected, it will be highlighted in bold.
+* Select an attribute.  Only filterable attributes are displayed.  Once an attribute is selected, it will be highlighted in bold.
 
 .. image:: /feature/_images/mdmimages/cs_sortby_selectanattribute.PNG
 |
 |
 
 
-#. View the icon next to the selected attribute. This icon indicates the sorting order.
+* View the icon next to the selected attribute. This icon indicates the sorting order.
 
 .. image:: /feature/_images/mdmimages/cs_sortby_viewtheicon.PNG
 |
@@ -59,7 +59,7 @@ To do a sort by, follow these steps:
 
   |
 
-  #. Below is *Created On* in ascending order (oldest to newest).
+  * Below is *Created On* in ascending order (oldest to newest).
 
   .. image:: /feature/_images/mdmimages/cs_sortby_ascendingorder.PNG
   |
@@ -68,7 +68,7 @@ To do a sort by, follow these steps:
   |
 
 
-  #. Below is *Created On* in descending order (newest to oldest).  Click this icon to toggle between ascending or descending sort order.
+  * Below is *Created On* in descending order (newest to oldest).  Click this icon to toggle between ascending or descending sort order.
 
   .. image:: /feature/_images/mdmimages/cs_sortby_descendingorder.PNG
   |

@@ -1,0 +1,8 @@
+================================
+Setting up Major Taxonomy
+================================
+
+.. toctree::
+   :maxdepth: 1
+
+   enrich

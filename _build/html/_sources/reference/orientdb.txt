@@ -20,13 +20,13 @@ Setup and configuration
 
 |
 
-#. Download OrientDB Community 2.1.16 (*/opt/cs/orientdb*).
+* Download OrientDB Community 2.1.16 (*/opt/cs/orientdb*).
 
     http://orientdb.com/download.php?email=unknown@unknown.com&file=orientdb-community-2.1.16.tar.gz&os=multi
 
 |
 
-#. Extract tar.gz. ::
+* Extract tar.gz. ::
 
     cd /opt/cs/orientdb
 
@@ -34,7 +34,7 @@ Setup and configuration
 
 |
 
-#. Specify path and user in orientdb.sh (orientdb-community-2.1.16/bin). ::
+* Specify path and user in orientdb.sh (orientdb-community-2.1.16/bin). ::
 
     vim orientdb-community-2.1.16/bin/orientdb.sh
 
@@ -44,7 +44,7 @@ Setup and configuration
 
 |
 
-#. Change configurations. ::
+* Change configurations. ::
 
     vim orientdb-community-2.1.16/bin/orientdb.sh
 
@@ -58,7 +58,7 @@ Setup and configuration
 
 |
 
-#. Specify Memory. ::
+* Specify Memory. ::
 
     vim orientdb-community-2.1.16/bin/server.sh
 
@@ -68,7 +68,7 @@ Setup and configuration
 
 |
 
-#. Replace  orientdb-server-config.xml and cp OrientDB.jar.
+* Replace  orientdb-server-config.xml and cp OrientDB.jar.
 
    *Note: Replace orientdb-server-config.xml with the one modified by  our developers.* ::
 
@@ -78,7 +78,7 @@ Setup and configuration
 
 |
 
-#. Add plugins. ::
+* Add plugins. ::
 
     cp <path of CS-Refactored >/ CS-Refactored/ServerPlugins/OrientDB/build/libs/OrientDB.jar
 
@@ -89,7 +89,7 @@ Setup and configuration
 Verification
 -------------
 
-#. Verify If Plugin (*OrientDB.jar*) and xml file (*orientdb-server-config.xml*) are present in their respective locations. ::
+* Verify If Plugin (*OrientDB.jar*) and xml file (*orientdb-server-config.xml*) are present in their respective locations. ::
 
     /opt/cs/orientdb/orientdb-community-2.1.16/lib
 
@@ -100,13 +100,13 @@ Verification
 Application Startup
 --------------------
 
-#. Start Orientdb. ::
+* Start Orientdb. ::
 
     /opt/cs/orientdb/orientdb-community-2.1.16/bin/orientdb.sh start
 
 |
 
-#. Check whether the service is running or not. ::
+* Check whether the service is running or not. ::
 
     netstat -tulpn | grep 2480
 
@@ -115,7 +115,7 @@ Application Startup
 Commands
 ---------
 
-#. Stop OrientDB. ::
+* Stop OrientDB. ::
 
     /opt/cs/orientdb/orientdb-community-2.1.16/bin/orientdb.sh stop
 
@@ -125,13 +125,13 @@ Commands
 
 |
 
-#. Start OrientDB. ::
+* Start OrientDB. ::
 
     /opt/cs/orientdb/orientdb-community-2.1.16/bin/orientdb.sh start
 
 |
 
-#. Check if application is running. ::
+* Check if application is running. ::
 
     netstat -tulpn | grep 2480
 

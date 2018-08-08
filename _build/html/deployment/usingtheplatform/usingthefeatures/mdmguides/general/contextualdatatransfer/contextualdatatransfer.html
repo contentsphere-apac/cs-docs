@@ -1,0 +1,530 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Contextual Data Transfer &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Version Context" href="../versioncontext/index.html" />
+    <link rel="prev" title="Contextual Data Transfer" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">General</a> &raquo;</li>
+        
+          <li><a href="index.html">Contextual Data Transfer</a> &raquo;</li>
+        
+      <li>Contextual Data Transfer</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-contextual-data-transfer">
+<span id="contextual-data-transfer"></span><h1>Contextual Data Transfer<a class="headerlink" href="#contextual-data-transfer" title="Permalink to this headline">¶</a></h1>
+<p>The Contextual Data Transfer is a feature that replicates and transfers the data from a parent product to its child products.
+This feature provides the facility to transfer the details of contextual products to the different variants of the product.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Contextual Data Transfer:</strong> contextual data transfer refers to the replication and transmission of data from the parent product to its child product.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>Contextual Data Transfer is concerned with the transmission of data from a parent product to its child products.</li>
+<li>This feature is useful whenever you create any type of variant in the system and you want to replicate the details of the parent product into all of its variants.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/datamodelattributemanagement/managedifferenttypesofattributes.html"><span class="doc">Manage Different Types of Attributes</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs.html"><span class="doc">Manage LOVs</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/administration/inheritanceanddatatransfer/inheritance.html"><span class="doc">Inheritance via Taxonomy</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">This feature helps to reduce the time and effort needed for providing details in the variants of the product.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>A fashion retailer wants to create the different size and color variants of the shirt product.
+Using Contextual Data Transfer, only the details for only parent shirt product are required.
+Once the retailer provides the details in the parent product, he will be able to transfer all the details in all variant products.
+Thus, he will not have to manually provide all the details in all variants.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-contextual-data-transfer">
+<span id="how-to-contextual-data-transfer"></span><h2>How-to: Contextual Data Transfer<a class="headerlink" href="#how-to-contextual-data-transfer" title="Permalink to this headline">¶</a></h2>
+<p>To do a contextual data transfer, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in and click on the <strong>Administration</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_login.PNG" src="../../../../../../_images/cs_contextualdatatransfer_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Data Model</strong> tab and select <strong>Classes</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_datamodel.PNG" src="../../../../../../_images/cs_contextualdatatransfer_datamodel.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on a class type and select the created class of that class type. You will see all the details of that class.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clickclasstype.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clickclasstype.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Locate the <em>Unit Class</em> section and select a created unit class from the <strong>Add Class</strong> field.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_locateunitclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_locateunitclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Upon selecting the class, you will see the <strong>Data Transfer Properties</strong> field appear in the <em>Unit Class</em> section.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_unitclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_unitclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Attributes</strong> icon from the <em>Data Transfer Properties</em> field to view the list of attributes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applyattribute.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applyattribute.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Tags</strong> icon from the <em>Data Transfer Properties</em> field to view the list of tags.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clicktagicon.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clicktagicon.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the unit tags that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applytag.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applytag.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Locate the <em>Standard Identifier</em> section and select a created standard identifier class from the <strong>Add Class</strong> field.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_locatestandardidentifier.PNG" src="../../../../../../_images/cs_contextualdatatransfer_locatestandardidentifier.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Upon selecting the class, you will see the <strong>Data Transfer Properties</strong> field appear in the <em>Standard Identifier</em> section.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_standardidentifier.PNG" src="../../../../../../_images/cs_contextualdatatransfer_standardidentifier.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Attributes</strong> icon from the <em>Data Transfer Properties</em> field to view the list of attributes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon2.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applyattribute2.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applyattribute2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Tags</strong> icon from the <em>Data Transfer Properties</em> field to view the list of tags.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clicktagicon2.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clicktagicon2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applytag2.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applytag2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Locate the <em>Embedded Class</em> section and select a created embedded class from <strong>Add Class</strong> field.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_locateembeddedclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_locateembeddedclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Upon selecting the class, you will see the <strong>Data Transfer Properties</strong> field appear in the <em>Embedded Class</em> section.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_embeddedclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_embeddedclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Attributes</strong> icon from the <em>Data Transfer Properties</em> field to view the list of attributes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon3.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applyattribute3.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applyattribute3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Tags</strong> icon from the <em>Data Transfer Properties</em> field to view the list of tags.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clicktagicon3.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clicktagicon3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applytag3.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applytag3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Locate the <em>Language Class</em> section and select a created language class from <strong>Add Class</strong> field.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_locatelanguageclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_locatelanguageclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Upon selecting the class, you will see the <strong>Data Transfer Properties</strong> field appear in the <em>Language Class</em> section.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_languageclass.PNG" src="../../../../../../_images/cs_contextualdatatransfer_languageclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Attributes</strong> icon from the <em>Data Transfer Properties</em> field to view the list of attributes.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon4.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clickattributeicon4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the attributes that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applyattribute4.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applyattribute4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Tags</strong> icon from the <em>Data Transfer Properties</em> field to view the list of tags.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clicktagicon4.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clicktagicon4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the tags that you want to replicate and transfer from the parent product to its variants, then click on the <strong>Apply</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_applytag4.PNG" src="../../../../../../_images/cs_contextualdatatransfer_applytag4.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the <strong>Save</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_contextualdatatransfer_clicksave.PNG" src="../../../../../../_images/cs_contextualdatatransfer_clicksave.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../versioncontext/index.html" class="btn btn-neutral float-right" title="Version Context" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Contextual Data Transfer" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

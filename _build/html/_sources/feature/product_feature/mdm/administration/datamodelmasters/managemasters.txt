@@ -1,7 +1,7 @@
 ===============
 Manage Masters
 ===============
-Manage Masters feature sets up **Master Tags** in the system like: *Region, Color, Material, Brands*.
+Manage Masters feature sets up Master Tags in the system like: *Region, Color, Material, Brands*.
 
 
 ===================     =======================================================================================================================================================================
@@ -21,74 +21,64 @@ Manage Masters feature sets up **Master Tags** in the system like: *Region, Colo
 ===================     =======================================================================================================================================================================
 
 
-How-to: Manage Masters
+How to do: Manage Masters
 =============================
 To do this, follow these steps:
 
 |
 
-#. Click  **Administration** icon.
+* Click  the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_gotoadmin.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickadministration.PNG
 |
 |
 
+* Click the **Data Model** tab.
 
-#. Click *Data Model* tab.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickdatam.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickdatamodel.PNG
 |
 |
 
+* Click **Properties** to view the dropdown menu.
 
-#. Click **Properties** to view the dropdown menu.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickprop.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickproperties.PNG
 |
 |
 
+* Click **Master** on the dropdown menu.
 
-#. Click **Master** on the dropdown menu.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickmas.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickmaster.PNG
 |
 |
 
-
-#. Click the "+" icon on the right of the window. A small details window appears.
+* Click the "+" icon on the right of the window. A small details window appears.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_clickplus.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/cs_managemasters_enterdetails.PNG
+
+* Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+
+.. image:: /feature/_images/mdmimages/cs_managemasters_entertagname.PNG
 |
 |
 
+* Click **Create tag value** to create subtag value.
 
-#. Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
-
+.. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatetagvalue.PNG
 |
 |
 
+* Enter a  name for the subtag and click **Create**.
 
-#. Click **Create tag value** to create subtag value.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_createsub.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_entersubname.PNG
 |
 |
 
+* View the created tags.
 
-#. Enter a  name for the subtag and click **CREATE**.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_clickcreatesub.PNG
-|
-|
-
-
-#. View the created tags.
-
-.. image:: /feature/_images/mdmimages/cs_managemasters_viewtags.PNG
+.. image:: /feature/_images/mdmimages/cs_managemasters_viewcreatedtag.PNG
 |
 |
 

@@ -1,144 +1,158 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Dependent Attributes &#8212; Contentsphere  documentation</title>
-    <link rel="stylesheet" href="../../../../../_static/default.css" type="text/css" />
-    <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
-    <script type="text/javascript">
-      var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    '../../../../../',
-        VERSION:     '',
-        COLLAPSE_INDEX: false,
-        FILE_SUFFIX: '.html',
-        HAS_SOURCE:  true,
-        SOURCELINK_SUFFIX: '.txt'
-      };
-    </script>
-    <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
-    <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
-    <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Dependent Attributes &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../../../../genindex.html" />
-    <link rel="search" title="Search" href="../../../../../search.html" />
-    <link rel="next" title="Data Model - Property Collections" href="../datamodelpropertycollections/index.html" />
-    <link rel="prev" title="Data Model - Dependent Attributes" href="index.html" />
+    <link rel="search" title="Search" href="../../../../../search.html" /> 
 
+  
+  <script src="../../../../../_static/js/modernizr.min.js"></script>
 
+</head>
 
- 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Contentserv Help Center</title>
-<script type="text/javascript" src="../../../../../templatebuiltins.js"></script>
-<script type="text/javascript">
-(function($) {
-    if (!contentsphere_template_builtins) {
-       // templatebuiltins.js missing, do nothing.
-       return;
-    }
-    $(document).ready(function() {
-        // Hyperlink contentsphere template tags and filters
-        var base = "../../../../../ref/templates/builtins.html";
-        if (base == "#") {
-            // Special case for builtins.html itself
-            base = "";
-        }
-        // Tags are keywords, class '.k'
-        $("div.highlight\\-html\\+contentsphere span.k").each(function(i, elem) {
-             var tagname = $(elem).text();
-             if ($.inArray(tagname, contentsphere_template_builtins.ttags) != -1) {
-                 var fragment = tagname.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + tagname + "</a>");
-             }
-        });
-        // Filters are functions, class '.nf'
-        $("div.highlight\\-html\\+contentsphere span.nf").each(function(i, elem) {
-             var filtername = $(elem).text();
-             if ($.inArray(filtername, contentsphere_template_builtins.tfilters) != -1) {
-                 var fragment = filtername.replace(/_/, '-');
-                 $(elem).html("<a href='" + base + "#" + fragment + "'>" + filtername + "</a>");
-             }
-        });
-    });
-})(jQuery);
-</script>
+<body class="wy-body-for-nav">
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110467525-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+   
+  <div class="wy-grid-for-nav">
 
-  gtag('config', 'UA-110467525-1');
-</script>
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
 
-  </head>
-  <body>
+          
+            <a href="../../../../../contents.html" class="icon icon-home"> Contentserv
+          
 
-    <div class="document">
-  <div id="custom-doc" class="yui-t6">
-    <div id="top-nav">
-      <a href="../../../../../index.html"><img src="https://assets.hypefactors.com/companies/company-logos/original/2TGKzLT4YYMJsqTVe3wvL7qWOPF1e0W0iCAoaGqa.png" class="cs-logo"></a>
-      <ul class="nav-ul">
-        <li class="nav-li"><a href="https://contentsphere.com/">Website</a></li>
-        <li class="nav-li active"><a href="http://help.contentsphere.com/en/latest/">Help Center</a></li>
-        <li class="nav-li"><a href="https://contentsphere.com/contactform/">Contact</a></li>
-      </ul>
-    </div>
-    <div id="hd">
-      <h1 class="documentation-header"><a href="../../../../../index.html">Help Center</a></h1>
-      <div id="searchbox" role="search" class="search-nav">
-        <form class="search" action="http://help.contentsphere.com/en/latest/search.html" method="get">
-          <div>
-            <input type="text" class="form-input" name="q">
-            <button type="submit" class="form-btn">Search</button>
-          </div>
-        </form>
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../index.html">Contentserv Documentation</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
       </div>
-    </div>
-    <div id="global-nav">
-      <!-- <a title="Home page" href="../../../../../index.html">Home</a>  |
-      <a title="Table of contents" href="../../../../../contents.html">Table of contents</a>  |
-      <a title="Global index" href="../../../../../genindex.html">Index</a>  | -->
-      
-    </div>
-    <!-- <div class="nav">
-    &laquo; <a href="index.html" title="Data Model - Dependent Attributes">previous</a>
-     |
-    <a href="../../../../index.html" title="All Feature Guides" accesskey="U">up</a>
-   |
-    <a href="../datamodelpropertycollections/index.html" title="Data Model - Property Collections">next</a> &raquo;</div> -->
+    </nav>
 
-    <div id="bd">
-      <div id="yui-main">
-        <div class="yui-b">
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
           
-            <div class="breadcrumbs">
-              <a href="../../../../../index.html">Home</a> /
-              
-                <span><a href="../../../../index.html">All Feature Guides</a> /
-              
-                <span><a href="../../../index.html">Feature Guides</a> /
-              
-                <span><a href="../../index.html">Master Data Management (MDM)</a> /
-              
-                <span><a href="../index.html">Administration</a> /
-              
-                <span><a href="index.html">Data Model - Dependent Attributes</a> /
-              
-              <span>Dependent Attributes</span>
-              </span></span></span></span></span>
-            </div>
-          
-          <div class="yui-g" id="feature-product_feature-mdm-administration-datamodeldependentattributes-dependentattributes">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
+        
+      <li>Dependent Attributes</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
             
   <div class="section" id="s-dependent-attributes">
 <span id="dependent-attributes"></span><h1>Dependent Attributes<a class="headerlink" href="#dependent-attributes" title="Permalink to this headline">¶</a></h1>
-<p>The Dependent Attributes feature is an admin feature that configures dependent attributes, which are used to introduce additional set of properties that should be filled out
-because of a logical relationship they have with each other.</p>
+<p>The Dependent Attributes feature is a feature that configures dependent attributes, which are used to introduce an additional set of properties
+that should be filled out because of a logical relationship they have with each other.</p>
 <table class="docutils">
 <colgroup>
 <col width="10%" />
@@ -153,7 +167,7 @@ because of a logical relationship they have with each other.</p>
 </tr>
 <tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
-<li>This feature sets up a Dependent Attribute that introduces other collections of attributes that add more definition to a product.</li>
+<li>This feature sets up a <em>Dependent Attribute</em> that introduces other collections of attributes that add more definition to a product.</li>
 <li>Minor Taxonomies are used to build dependent attributes wherein various properties will be dependent on a particular property.</li>
 </ul>
 </td>
@@ -172,7 +186,7 @@ because of a logical relationship they have with each other.</p>
 <td><ul class="first last">
 <li><p class="first">An article/product may have a set of properties linked to a different tag group.</p>
 </li>
-<li><p class="first">An admin can create various attributes and by using the minor taxonomy, may have these attributes linked as dependent attributes.</p>
+<li><p class="first">An administrator can create various attributes and by using the minor taxonomy, may have these attributes linked as dependent attributes.</p>
 </li>
 <li><p class="first"><em>Example:</em></p>
 <blockquote>
@@ -191,61 +205,61 @@ The ‘Material’ will be set as a minor taxonomy and will be added in a proper
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
-<li>Log in and click on the <strong>Administration</strong> button to go to the configuration panel.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_logintocontentsphere.PNG" src="../../../../../_images/cs_dependentattributes_logintocontentsphere.PNG" />
+<ul class="simple">
+<li>Log in and go to the <em>Administration</em> panel.</li>
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_login.PNG" src="../../../../../_images/cs_dependentattributes_login.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Create the attributes, tags, and property collection for the various dependent attributes.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_createattributestagspropertycollections.PNG" src="../../../../../_images/cs_dependentattributes_createattributestagspropertycollections.PNG" />
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_createtheattribute.PNG" src="../../../../../_images/cs_dependentattributes_createtheattribute.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Go to <em>Taxonomies</em> section and then, select <em>Master Taxonomies</em>.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_gototaxonomiessection.PNG" src="../../../../../_images/cs_dependentattributes_gototaxonomiessection.PNG" />
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_gototaxonomies.PNG" src="../../../../../_images/cs_dependentattributes_gototaxonomies.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the “+” icon to create a new taxonomy.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_gototaxonomiessection2.PNG" src="../../../../../_images/cs_dependentattributes_gototaxonomiessection2.PNG" />
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_clickonthecreatebutton.PNG" src="../../../../../_images/cs_dependentattributes_clickonthecreatebutton.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Provide a name for the taxonomy. Also, disable the <em>Major Taxonomy</em> so that a <em>Minor Taxonomy</em> will be created. Click on the <strong>Create</strong> button.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_clickontheicon.PNG" src="../../../../../_images/cs_dependentattributes_clickontheicon.PNG" />
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_provideaname.PNG" src="../../../../../_images/cs_dependentattributes_provideaname.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Click on the “+” icon to add a property collection.</li>
-</ol>
-<img alt="../../../../../_images/cs_dependentattributes_clickontheicontoaddpropertycollection.PNG" src="../../../../../_images/cs_dependentattributes_clickontheicontoaddpropertycollection.PNG" />
+</ul>
+<img alt="../../../../../_images/cs_dependentattributes_addapropertycollection.PNG" src="../../../../../_images/cs_dependentattributes_addapropertycollection.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<img alt="../../../../../_images/cs_dependentattributes_clickontheicontoaddpropertycollection2.PNG" src="../../../../../_images/cs_dependentattributes_clickontheicontoaddpropertycollection2.PNG" />
+<img alt="../../../../../_images/cs_dependentattributes_addapropertycollection2.PNG" src="../../../../../_images/cs_dependentattributes_addapropertycollection2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>To add another level, click on the “+” icon and a list of all the master tags will be shown. Select or add more tags.</li>
-</ol>
+</ul>
 <img alt="../../../../../_images/cs_dependentattributes_toaddanotherlevel.PNG" src="../../../../../_images/cs_dependentattributes_toaddanotherlevel.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -255,9 +269,9 @@ The ‘Material’ will be set as a minor taxonomy and will be added in a proper
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
+<ul class="simple">
 <li>Add more levels or property collections, as desired.</li>
-</ol>
+</ul>
 <img alt="../../../../../_images/cs_dependentattributes_addmorelevels.PNG" src="../../../../../_images/cs_dependentattributes_addmorelevels.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -265,12 +279,15 @@ The ‘Material’ will be set as a minor taxonomy and will be added in a proper
 <img alt="../../../../../_images/cs_dependentattributes_addmorelevels2.PNG" src="../../../../../_images/cs_dependentattributes_addmorelevels2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_dependentattributes_addmorelevels3.PNG" src="../../../../../_images/cs_dependentattributes_addmorelevels3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
-<ol class="arabic simple">
-<li>Once the taxonomy is created, the minor taxonomy can then be added as a property collection.
-In the <em>Property Collections</em> tab, search for the minor taxonomy and add it as one of the properties.</li>
-</ol>
+<ul class="simple">
+<li>Once the taxonomy is created, the minor taxonomy can then be added as a property collection. In the <em>Property Collections</em> tab, search for the minor taxonomy and add it as one of the properties.</li>
+</ul>
 <img alt="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated.PNG" src="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
@@ -281,11 +298,11 @@ In the <em>Property Collections</em> tab, search for the minor taxonomy and add 
 <div class="line"><br /></div>
 </div>
 <p><em>Note: Once the minor taxonomy is added, view the dependent attributes in runtime.</em></p>
-<img alt="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated3.PNG" src="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated3.PNG" />
+<img alt="../../../../../_images/cs_dependentattributes_viewtheattributesinruntime.PNG" src="../../../../../_images/cs_dependentattributes_viewtheattributesinruntime.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<img alt="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated4.PNG" src="../../../../../_images/cs_dependentattributes_oncethetaxonomyiscreated4.PNG" />
+<img alt="../../../../../_images/cs_dependentattributes_viewtheattributesinruntime2.PNG" src="../../../../../_images/cs_dependentattributes_viewtheattributesinruntime2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
@@ -295,89 +312,60 @@ In the <em>Property Collections</em> tab, search for the minor taxonomy and add 
 </div>
 
 
+           </div>
+           
           </div>
-        </div>
-      </div>
-      <!-- Sidebar -->
-      <!-- 
-        
-          <div class="yui-b" id="sidebar">
-            <div class="sidebar-padding">
-              
-      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
-        <div class="sphinxsidebarwrapper">
-  <h3><a href="../../../../../contents.html">Table Of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Dependent Attributes</a><ul>
-<li><a class="reference internal" href="#how-to-dependent-attributes">How-to: Dependent Attributes</a></li>
-</ul>
-</li>
-</ul>
+          <footer>
+  
 
-  <h3>Browse</h3>
-  <ul>
-    
-      <li>Prev: <a href="index.html">Data Model - Dependent Attributes</a></li>
-    
-    
-      <li>Next: <a href="../datamodelpropertycollections/index.html">Data Model - Property Collections</a></li>
-    
-  </ul>
-  <h3>You are here:</h3>
-  <ul>
-      <li>
-        <a href="../../../../../index.html">Contentsphere  documentation</a>
-        
-          <ul><li><a href="../../../../index.html">All Feature Guides</a>
-        
-          <ul><li><a href="../../../index.html">Feature Guides</a>
-        
-          <ul><li><a href="../../index.html">Master Data Management (MDM)</a>
-        
-          <ul><li><a href="../index.html">Administration</a>
-        
-          <ul><li><a href="index.html">Data Model - Dependent Attributes</a>
-        
-        <ul><li>Dependent Attributes</li></ul>
-        </li></ul></li></ul></li></ul></li></ul></li></ul>
-      </li>
-  </ul>
+  <hr/>
 
-<div id="searchbox" style="display: none" role="search">
-  <h3>Quick search</h3>
-    <form class="search" action="../../../../../search.html" method="get">
-      <div><input type="text" name="q" /></div>
-      <div><input type="submit" value="Go" /></div>
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
-    </form>
-</div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
-        </div>
-      </div>
-                <h3>Last update:</h3>
-                <p class="topless">Jun 20, 2018</p>
-            </div>
-          </div>
-        
-       -->
-    </div>
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
 
-    <!-- Jira snippet -->
-    <script type="text/javascript" src="https://contentsphere.atlassian.net/s/d41d8cd98f00b204e9800998ecf8427e-T/-4bqv2z/b/20/a44af77267a987a660377e5c46e0fb64/_/download/batch/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector/com.atlassian.jira.collector.plugin.jira-issue-collector-plugin:issuecollector.js?locale=en-US&collectorId=c6215c07"></script>
-
-    <div id="ft">
-        <p class="topless">Last updated: Jun 20, 2018</p>
-      <div class="nav">
-    &laquo; <a href="index.html" title="Data Model - Dependent Attributes">previous</a>
-     |
-    <a href="../../../../index.html" title="All Feature Guides" accesskey="U">up</a>
-   |
-    <a href="../datamodelpropertycollections/index.html" title="Data Model - Property Collections">next</a> &raquo;</div>
-    </div>
+    </p>
   </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
 
-      <div class="clearer"></div>
-    </div>
-  </body>
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
 </html>

@@ -26,50 +26,44 @@ Improve Product Classifications is a data governance feature that manually class
 
 
 How-to: Improve Product Classifications
-===========================================
+========================================
 To improve product classifications, follow these steps:
 
 |
 
+* Log in and click on the **Administration** button.
 
-#. Log in and click on the **Administration** button to enter the configuration page.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_login.PNG
 |
 |
 
+* Click on the **Data Governance** tab.
 
-#. Click on the **Data Governance** tab.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_clickdatagovernance.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_clickdatagovernance.PNG
 |
 |
 
+* Click on **Rules** then click on the "+" icon to create a rule.
 
-#. Click on **Rules** then click on the "+" icon to create a rule.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_clickrules.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_clickrules.PNG
 |
 |
 
+* Enter the name and select **Classification** as rule type then click on the **Create** button.
 
-#. Enter the name and select **Classification** as rule type then click on the **Create** button.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_entername.PNG
 |
 |
 
+* In the *Cause* tab, select the Class type and Class to which the rule for classification will be applied.
 
-#. In the *Cause* tab, select the Class type and Class to which the rule for classification will be applied.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_causetab.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_causetab.PNG
 |
 |
 
+* In the *Effect* tab, select the Class to set further classification.
 
-#. In the *Effect* tab, select the Class to set further classification.
-
-.. image:: /feature/_images/mdmimages/cs_classificationandcategorization_effecttab.PNG
+.. image:: /feature/_images/mdmimages/cs_improveproductclassifications_effecttab.PNG
 |
 |
 

@@ -1,7 +1,7 @@
 ================
 Manage Taxonomy
 ================
-The feature, *Manage Taxonomy* is an interface that provides users the ability to create, update, edit, or delete taxonomies.
+The feature, *'Manage Taxonomy’* is an interface that provides users the ability to create, update, edit, or delete taxonomies.
 It is the primary way that we update taxonomies in the Contentserv system.
 
 
@@ -30,83 +30,91 @@ It is the primary way that we update taxonomies in the Contentserv system.
 
 ====================    =============================================================================================================================================================
 
+|
 
-How-to: Simple Taxonomy Tree
+How to do: Simple Taxonomy Tree
 ================================
+
 Here's how to do a simple taxonomy tree.
 
 |
 
-#. Click the **Gear** icon to go to *Settings*.
+* Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/managetaxonomy_settings.PNG
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickadministration.PNG
+|
+|
+
+* Click the **Master Taxonomies** button.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickmastertaxonomies.PNG
+|
+|
+
+* Click on the "+" icon to create a new taxonomy.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplus.PNG
+|
+|
+
+* Enter the necessary data, click the **Create** button, and click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternecessary.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternecessary2.PNG
+|
+|
+
+* To make a hierarchy, click on the created taxonomy then click on **Add New Level +** button.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_tomakeheirarchy.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_tomakeheirarchy2.PNG
+|
+|
+
+* Click on the "+" icon to add a Property Collection, select from the dropdown list, and click **Apply**.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty2.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_clickplusproperty3.PNG
+|
+|
+
+* Go to *PIM*. Hover on the "+" icon and select the product.
+
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_gotopim.PNG
 |
 |
 
 
-#. Click the **Taxonomy Configuration** button.
+* Enter data and click **Add Taxonomy**.
 
-.. image:: /feature/_images/mdmimages/managetaxonomy_taxonomyconfig.PNG
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternece_addtax.PNG
 |
 |
 
-
-#. Click on the "+" icon to create a new taxonomy.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_newtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_enternece_addtax2.PNG
 |
 |
 
+* For additional classification, click **Classify further**.
 
-#. Enter the necessary data and click **Save**.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_filldata.PNG
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass.PNG
 |
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass2.PNG
 |
-
-
-#. To make a hierarchy, click on the taxonomy then click **Create**.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_makehierarchy.PNG
-|
-|
-
-
-#. Click the "+" icon to add property collection and click **Apply**.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_addpropertycollection1.PNG
-|
-.. image:: /feature/_images/mdmimages/managetaxonomy_addpropertycollection2.PNG
-|
-.. image:: /feature/_images/mdmimages/managetaxonomy_addpropertycollection3.PNG
-|
-|
-
-
-#. Go to PIM. Hover on the "+" icon and select the product.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_selectproduct1.PNG
-|
-.. image:: /feature/_images/mdmimages/managetaxonomy_selectproduct2.PNG
-|
-|
-
-
-#. Enter the necessary data and click **Add Taxonomy**.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_addtaxonomy.PNG
-|
-|
-
-
-#. For additional classification, click **Classify further**.
-
-.. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther.PNG
-|
-.. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther2.PNG
-|
-.. image:: /feature/_images/mdmimages/managetaxonomy_classifyfurther3.PNG
-|
+.. image:: /feature/_images/mdmimages/cs_managetaxonomy_additionalclass3.PNG
 |
 
 

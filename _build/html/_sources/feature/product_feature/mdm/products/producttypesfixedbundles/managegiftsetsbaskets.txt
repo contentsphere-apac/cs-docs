@@ -5,113 +5,119 @@ The Manage Gift Sets or Basket feature allows a user to group articles together 
 
 
 ===================     ===============================================================================================================================================================
-**Key Term:**            * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
+**Key Term:**           * **Product Information Management (PIM):** facilitates the central management and maintenance of an enterprise’s product data, content or any related information.
 
-**Description:**         * This feature allows the retailer to manage a Bundle of Single Articles.
-                           The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
+**Description:**        * This feature allows the retailer to manage a Bundle of Single Articles.
+                          The advantage of a Bundle is in grouping complementary products for sale in a Gift Set of Basket.
 
-**Related topics:**      * :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
+**Related topics:**     * :doc:`Manage Displays</feature/product_feature/mdm/products/productypesthresholdbundles/managedisplays>`
 
-**Application:**         * To create a bundle of products to form one product.
-                         * The bundle is sold as an individual product to the customer.
-                         * As a manufacturer/retailer the user can't increase the number of quantities in the bundle.
-                         * *Example:*
+**Application:**        * This feature creates a bundle of products to form one product.
+                        * The bundle is sold as an individual product to the customer.
+                        * As a manufacturer/retailer the user can't increase the number of quantities in the bundle.
+                        * *Example:*
 
-                              A new dog owner may purchase a 'New Pet Dog Starter Kit' which includes a bag of food, a collar and a small bed.
+                            A new store owner may purchase a 'rainy season bundle' which includes rain boots and an umbrella.
 
 ===================     ===============================================================================================================================================================
 
 
-How-to:  Manage Gift Sets/Baskets
+How to do: Manage Gift Sets/Baskets
 =====================================
 To do manage gift sets/baskets, follow these steps:
 
 |
 
-#. Go to PIM.
+* Go to *PIM*.
 
-.. image:: /feature/_images/mdmimages/managegiftsets_gotopim.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_gotopim.PNG
 |
 |
 
 
-#. Hover on "+" icon.
+* Hover on "+" icon.
 
-.. image:: /feature/_images/mdmimages/managegiftsets_hoverplus.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_hoverplus.PNG
 |
 |
 
+* Click on **Fixed Bundle** icon.
 
-#. Click on **Fixed Bundle**.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_clickfixed.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickfixed.PNG
 |
 |
 
+* Enter the required information.
 
-#. Enter the required information.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_enterinfo.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_enterinformation.PNG
 |
 |
 
+* Click **Add products(s)** to add the required products.
 
-#. Click **Add products** to add the required products.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_clickaddproducts.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddproducts.PNG
 |
 |
 
+* Click to select one or more products check box turns to Blue when selected), and click the **Add All** icon.
 
-#. Click the Green box to select the desired product (Green box turns to Blue when selected), and click **Add All**.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_clickaddall.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct.PNG
 |
 |
 
-
-#. Product added successfully. To add more products, click **Return**.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_addedsuccesfullyandreturn.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct2.PNG
 |
 |
 
-
-#. To add an image, click **Relationships** tab.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_clickrelationships.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickdesiredproduct3.PNG
 |
 |
 
+* Product added successfully. To add more products, click **Add product(s)**.
 
-#. To add an image, click "+".
-
-.. image:: /feature/_images/mdmimages/managegiftsets_clickplusimage.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toviewaddedproduct.PNG
 |
 |
 
+* To add an image, click the **Relationships** tab.
 
-#. Click on  the Black box of the desired image (Black turns to Blue when selected), and click **Add All**.
-   The desired image can also be dragged to the right section.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_selectimageaddall.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickrelationship.PNG
 |
 |
 
+* Click the "+" icon.
 
-#. To view the added image, click **Relationships** tab to view the added image.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_imageaddedrel.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage.PNG
 |
 |
 
-
-#. To view the added product, click the **General** tab.
-
-.. image:: /feature/_images/mdmimages/managegiftsets_prodaddedgen.PNG
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage2.PNG
 |
 |
 
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickplusimage3.PNG
+|
+|
+
+* Click the **Add image** icon.
+
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddimageicon.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_clickaddimageicon2.PNG
+|
+|
+
+* To view the added product, click the added bundle under the *Relationships* tab.
+
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toview.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_managegiftsetsbaskets_toview2.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

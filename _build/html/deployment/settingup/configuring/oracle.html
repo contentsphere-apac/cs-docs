@@ -1,0 +1,539 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Oracle : MasterStore &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="OrientDB : Graph Store" href="orientdb.html" />
+    <link rel="prev" title="Configuring the Components" href="index.html" /> 
+
+  
+  <script src="../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Setting Up</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../assessing/index.html">Assessing your Environment and Requirements</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../planning.html">Planning and Preparing your Deployment</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../installing.html">Installing your Contentserv Platform</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../deploying/index.html">Deploying the Platform</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../settingup.html">Setting up Security Features</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="index.html">Configuring the Components</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../checking.html">Checking the System after deployment</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../usingtheplatform/index.html">Using the Platform</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../index.html">Setting Up</a> &raquo;</li>
+        
+          <li><a href="index.html">Configuring the Components</a> &raquo;</li>
+        
+      <li>Oracle : MasterStore</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-oracle-masterstore">
+<span id="oracle-masterstore"></span><h1>Oracle : MasterStore<a class="headerlink" href="#oracle-masterstore" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="s-set-up-oracle-by-following-the-steps-below">
+<span id="set-up-oracle-by-following-the-steps-below"></span><h2>Set up Oracle by following the steps below:<a class="headerlink" href="#set-up-oracle-by-following-the-steps-below" title="Permalink to this headline">¶</a></h2>
+<ul class="simple">
+<li>Reside the DB on the new Hardware.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Set up the DB Server in their own network segment.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Prepare 4 DB servers: 2 of the servers will be set up in one of two data centers (DC). The other 2 servers per data center will be set up as RAC and will be based on VPLEX Storage.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Use one RAC implementation for the PROD while the other for the TEST environment.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Set the RAC version to be <em>11.2.0.4</em>.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Use all standard settings concerning <em>Linux User and Linux rights, ASM Drives, Storage Groups, Backup &amp; Recovery concepts and processes for Oracle, network layout, naming conventions, file systems, UNIX version</em>, etc.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Use DB with a Unicode charset. The name of the charset is <strong>AL32UTF8</strong>.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Also, use Table partitioning and PL/SQL. Note that no special Oracle features are necessary.</p>
+<p><em>Standard Oracle</em> features are:</p>
+<ol class="arabic simple">
+<li>Partitioning</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="2">
+<li>Real Application Clusters</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="3">
+<li>Automatic Storage Management</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="4">
+<li>OLAP</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="5">
+<li>Data Mining</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="6">
+<li>Real Application Testing</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</li>
+<li><p class="first">Note that the Tablespace layout will be chosen by the DBAs. Use the default tablespaces for the DB users.</p>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Ensure that CS Vision has three DB Schema:</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>Deployment User:</strong> for software installation, software updates, and performance analysis by CS Vision; DB Objects are stored here.</li>
+<li><strong>Application User:</strong> this User will be used by the application to connect to the DB. The application doesn’t use DDL statements and needs read access to the objects owned by the deployment user. The Application User doesn’t need tablespace of its own.</li>
+<li><strong>Support User:</strong> is used from CS Vision to access the DB. He doesn’t use DDL Statements and read access to the Deployments User’s DB objects. The Support User doesn’t need tablespace of its own.</li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>For the deployment of updates in the PROD environment, prepare all the things that DBAs need.</dt>
+<dd>In the sense of a Change process, those are a summary of all DB objects that will be changed, all new DB objects, and the amount of data in change.
+Based on this information, all necessary resources (especially tablespace) will be provided.</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Check the duration of DB procedures that will be stored within DB tables by the application on behalf of performance measures. Every other DB monitoring is provided by the DBAs.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>Verify that the 5 application server nodes in one DC will use (configurable) 50 permanent JDBC connections.</dt>
+<dd>The connections will be established during the startup of the application.
+In case of a DB restart, the application server will perform an automatic reconnect (automatic fail-over).
+The behavior will be tested on the cluster after the PROD system is set up.</dd>
+</dl>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-create-various-db-objects-in-oracle">
+<span id="create-various-db-objects-in-oracle"></span><h2>Create various DB Objects in Oracle:<a class="headerlink" href="#create-various-db-objects-in-oracle" title="Permalink to this headline">¶</a></h2>
+<p>The following will be discussed together with the Customer’s DBA team and is subject to change based on their existing standards and processes.</p>
+<div class="section" id="s-prerequisites">
+<span id="prerequisites"></span><h3>Prerequisites<a class="headerlink" href="#prerequisites" title="Permalink to this headline">¶</a></h3>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Install a new DB on its own Hardware.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Run the DB Servers on their own network segment.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Prepare  4 DB Servers: 2 in each data center as RAC, based on VPLEX Storage.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Use one RAC implementation for the PROD while the other one for TEST environment in a different data center.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Infrastructure will be according to existing (Customer) standards (i.e., <em>Linux User and Rights, ASM Drives and Diskdrive groups, Backup and Recovery concept and processes, network layout, naming conventions, file system, and Unix version)</em>.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Use Table partitioning and PL/SQL procedures. Note that there would be some java-based stored procedures.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the tablespace layout to be the DBAs without any restrictions. Default tablespaces of the DB-Users will be used.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Verify that 5 application servers use about 50 JDBC connections against the DB. This is configurable. If the DB is restarted, the application servers perform automatically and reconnect against the DB (automatic fail-over). This behavior will be verified with cluster tests since CS doesn’t have a RAC system to test this.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Check that the execution times of DB procedures are logged in DB-Tables. This is used for performance measures from the application. Every other form of DB monitoring is supplied from the DBAs.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul>
+<li><p class="first">Install standard Oracle; there will be no other Oracle specials necessary to be installed.</p>
+<p>Standard Installation includes:</p>
+<ol class="arabic simple">
+<li>Partitioning</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="2">
+<li>Real Application Clusters</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="3">
+<li>Automatic Storage Management</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="4">
+<li>OLAP</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="5">
+<li>Data Mining</li>
+</ol>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ol class="arabic simple" start="6">
+<li>Real Application Testing</li>
+</ol>
+</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+</div>
+<div class="section" id="s-schema">
+<span id="schema"></span><h3>Schema<a class="headerlink" href="#schema" title="Permalink to this headline">¶</a></h3>
+<p>The Schemas required will be the following:</p>
+<ul>
+<li><p class="first"><strong>Deployment User:</strong> is used for installation and updates. This user will be the owner of the application schema and will perform the following actions:</p>
+<blockquote>
+<div><ul class="simple">
+<li>Software Installation: is for creating tables, procedures, indexes, views, functions, etc.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Software Update: is for altering existing objects, creating new objects, and some data updates.</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Performance Analysis</li>
+</ul>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Permissions: (1)        Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Create objects (table, views, indexes, procedures and functions).</li>
+</ul>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Application User:</strong> is used by the <em>Application</em> to access the database. This user will have DML rights on the Deployment User’s schema and the Pentaho User’s schema and will not need any additional space.</p>
+<blockquote>
+<div><p>Permissions:        (1) Connect to the database (create session) | (2) Alter session related parameters (alter session) | (3) Grant Object Level Permissions for tables and views (<em>Select, Insert, Update, Delete</em>) | (4) Grant Execute Permissions (<em>Procedures, Functions</em>).</p>
+</div></blockquote>
+</li>
+<li><p class="first"><strong>Read-only (Support) User:</strong> is used by the <em>Support</em> to access the database.  This user will have read access on the Deployment User’s schema and the Pentaho User’s schema in order to run some queries to check for issues in the data.</p>
+<blockquote>
+<div><p>Permissions on Application Schema &amp; Pentaho Schema: (1) Connect to the database (create session) | (2) Grant <em>Select</em> permissions on all Tables &amp; Views.</p>
+</div></blockquote>
+</li>
+</ul>
+<p>Note that the <strong>Deployment User</strong> is used to connect to the schema and run the SQL scripts to create various objects. Thereafter, the user will grant permissions on these objects to the application user.</p>
+<blockquote>
+<div>CS will perform the following checks: (1) The tables and procedures have been created properly | (2) CS will run some select scripts to check if the updates have been successful.</div></blockquote>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../_images/line-png-322.PNG" />
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="orientdb.html" class="btn btn-neutral float-right" title="OrientDB : Graph Store" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Configuring the Components" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

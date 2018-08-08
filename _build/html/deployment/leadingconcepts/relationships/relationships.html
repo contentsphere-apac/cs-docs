@@ -1,0 +1,297 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Relationships &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../search.html" />
+    <link rel="next" title="Templates" href="templates.html" />
+    <link rel="prev" title="Relationships and Templates" href="index.html" /> 
+
+  
+  <script src="../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../index.html">Leading Concepts</a><ul class="current">
+<li class="toctree-l4"><a class="reference internal" href="../products/index.html">Products</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../classes/index.html">Classes</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../properties/index.html">Properties</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../propertygroups/index.html">Property Groups</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../taxonomy/index.html">Taxonomy</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../context/index.html">Context</a></li>
+<li class="toctree-l4 current"><a class="reference internal" href="index.html">Relationships and Templates</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="../../usingtheplatform/index.html">Using the Platform</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../index.html">Leading Concepts</a> &raquo;</li>
+        
+          <li><a href="index.html">Relationships and Templates</a> &raquo;</li>
+        
+      <li>Relationships</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-relationships">
+<span id="relationships"></span><h1>Relationships<a class="headerlink" href="#relationships" title="Permalink to this headline">¶</a></h1>
+<p>Relationship defines the way in which two components of the system are associated with each other. It is the link between two objects/entities. The different components of the system have a relationship with each other.  Example of these relationships existing in the ContentServ components are: relationship between article and asset, article and market, campaign and asset, campaign and promotion, asset and asset, etc.). There are four types of relationships in a system:</p>
+<ul class="simple">
+<li>One to One</li>
+<li>One to Many</li>
+<li>Many to One</li>
+<li>Many to Many</li>
+</ul>
+<div class="section" id="s-one-to-one-relationship">
+<span id="one-to-one-relationship"></span><h2>One to One Relationship<a class="headerlink" href="#one-to-one-relationship" title="Permalink to this headline">¶</a></h2>
+<p>One-to-One relationship refers to the relationship between two components A and B in such a way that one element of A is linked with only one element of B and vice versa.</p>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<ol class="arabic simple">
+<li>A country has only one city capital, and a capital city is the capital of only one country.</li>
+<li>A new furniture brand is launched, and the brand initially produces only a sofa set. The sofa set is available in its brand store only. This is an example of one-to-one relationship between an article and a market; Here, the sofa set is the article, and a brand store is the market.</li>
+</ol>
+</div></blockquote>
+</div>
+<div class="section" id="s-one-to-many-relationship">
+<span id="one-to-many-relationship"></span><h2>One to Many Relationship<a class="headerlink" href="#one-to-many-relationship" title="Permalink to this headline">¶</a></h2>
+<p>One-to-Many relationship refers to the relationship between two components A and B, wherein element of A is linked with multiple elements of B and multiple elements of B are linked with only one element of A.</p>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>An Apple store has many apple products like iPhone, Apple watch, iPod, and so on, but all the Apple products are available only in the Apple store. This is an example of one-to-many relationships between a market and articles, where an Apple store is the market and Apple products are the articles.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-many-to-one-relationship">
+<span id="many-to-one-relationship"></span><h2>Many to One Relationship<a class="headerlink" href="#many-to-one-relationship" title="Permalink to this headline">¶</a></h2>
+<p>Many-to-One relationship refers to the relationship between two components A and B, where multiple elements of A are linked with one element of B and one element of B is linked with multiple elements of A.</p>
+<blockquote>
+<div><p><strong>Example:</strong></p>
+<p>NEXA cars like Baleno, Ignis, S-Cross are available only in NEXA stores. However, a NEXA store can have multiple cars like Baleno, Ignis, S-Cross, etc. This is also an example of many-to-one relationship between articles and a store.</p>
+</div></blockquote>
+</div>
+<div class="section" id="s-many-to-many-relationship">
+<span id="many-to-many-relationship"></span><h2>Many to Many Relationship<a class="headerlink" href="#many-to-many-relationship" title="Permalink to this headline">¶</a></h2>
+<blockquote>
+<div><p>Many-to-Many relationships refers to the relationship between two components A and B, where multiple elements of A are linked with multiple elements of B and multiple elements of B are linked with multiple elements of A.</p>
+<p><strong>Example:</strong></p>
+<p>A mobile phone retailer wants to add the images of the mobile phone in the system. He will add the front, back, top and bottom views of a his mobile phone product. Here, a single mobile phone will have multiple images. Now, the same images can be used for all the variants of that model. For example, the same images can be used for the 32GB variant, 64GB variant, and 128GB variant of a mobile phone. The same images can also be used with all the models of a mobile phone. It is also an example of article-asset relationship, where mobile phone is an article and its images are the assets in the system. The mobile phone can have multiple images, and the same images can be used for multiple mobile phones.</p>
+</div></blockquote>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="templates.html" class="btn btn-neutral float-right" title="Templates" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Relationships and Templates" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

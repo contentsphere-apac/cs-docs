@@ -1,6 +1,6 @@
-======================
+=====================
 Manage View Templates
-======================
+=====================
 Manage View Templates lets you set up view templates that are customized to different users.
 
 
@@ -12,7 +12,7 @@ Manage View Templates lets you set up view templates that are customized to diff
                         * Show the custom template to the authorized users.
                         * Hide certain modules within the product. Even portions of property collections can be hidden from certain users.
 
-**Related topics:**     * :doc:`Manage Permissions </feature/product_feature/mdm/administration/inheritanceanddatatransfer/linkingobjects>`
+**Related topics:**     * :doc:`Manage Permissions </feature/product_feature/mdm/administration/usersandpermissionscrudrights/managepermissions>`
 
 **Application:**        * Limit the access of a user to certain information.
                         * Hide sensitive information.
@@ -24,109 +24,105 @@ Manage View Templates lets you set up view templates that are customized to diff
 
 
 How-to: Manage View Templates
-=================================
+=============================
 Easily manage who gets to see what, and here's how to do it.
 
 |
 
-#. Click the **Gear** icon to go to **Settings**.
+* Click **Administration**.
 
-.. image:: /feature/_images/mdmimages/viewtemplates_settings.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickadministration.PNG
+|
+|
+
+* Click the **Templates** button.
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicktemplates.PNG
+|
+|
+
+* Click the "+" icon to create a new template. The left pane shows the default templates.
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplus.PNG
+|
+|
+
+* Enter the name for the template and click **Create**.
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_entername.PNG
+|
+|
+
+* Click the "+" icon  and select the desired property collection.
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickplusaddproperty2.PNG
 |
 |
 
 
-#. Click the **Template Configuration** button.
+* Go to the *Partner Administration* tab, and select a partner from the list. In this demo, we selected "Suppliers".
 
-.. image:: /feature/_images/mdmimages/viewtemplates_templateconfig.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_gotopartneradministration.PNG
 |
 |
 
+* Click the **Roles** tab and select a role from the list to which the template is to be assigned.
 
-#. Click the "+" icon to create a new template. The left pane shows the default templates.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_create.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickrolestab.PNG
 |
 |
 
+* Click the **Show Permissions** button.
 
-#. Enter the name for the template.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickshowpermissions.PNG
 |
 |
 
+*  Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
 
-#. Click the **Eye** icon to make the tab visible or hidden. In the image below, the default image is kept visible and the taxonomy is kept hidden.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_eyeicon.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clickeyeicon.PNG
 |
 |
 
+* Select the appropriate class from the list of classes then click the "+" icon to add a template.
 
-#. Click the "+" icon to display a list of all property collections.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_viewpropcoll.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass.PNG
 |
 |
 
-
-#. Select the appropriate property collections and click **Save**.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_save.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectappropriateclass2.PNG
 |
 |
 
+* Select the created template and click **Apply**.
 
-#. Click the **Permissions Configuration** button and select a role to which the template is to be assigned.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_permission.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_selectcreatedtemplateapply.PNG
 |
 |
 
+* To toggle the visibility of the property, click the **Eye** icon. To edit the rights for the property, click the **Pencil** icon.
 
-#. Select the appropriate class from the list of classes then click the "+" icon to add a template. A green check mark indicates default template.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoggle.PNG
 |
 |
 
+* Select the properties to be non-editable (for example, *PID*) and hidden (for example, *Taxonomy*).
 
-#. Add the template in the class and click **Apply**. On the top right, click **Templates**.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_clickapply.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexamplepid.PNG
 |
 |
 
-
-#. Select the template.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_totoselectpropertiesexampletaxonomy.PNG
 |
 |
 
+* Click **Save** to save the changes.
 
-#. To toggle the visibility of the property, click the **Eye** icon. To edit the rights for the property, click the **Pencil** icon.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_edit.PNG
-|
-|
-
-
-#. Select the properties to be non-editable (for example, *PID*) and hidden (for example, *Taxonomy*).
-
-|
-
-#. Set the template as default for the class and click **Save**.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_setasdefault.PNG
-|
-|
-
-
-#. The image below shows the template where the Taxonomy is hidden and the Pricing section is not editable.
-
-.. image:: /feature/_images/mdmimages/viewtemplates_final.PNG
+.. image:: /feature/_images/mdmimages/cs_manageviewtemplates_clicksave.PNG
 |
 |
 

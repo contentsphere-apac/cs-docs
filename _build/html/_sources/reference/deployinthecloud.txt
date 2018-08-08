@@ -3,7 +3,7 @@ Deploying to the Cloud
 =======================
 
 
-#. :doc:`Refer to the Deployment Prerequisites. </reference/deploymentprerequisites>`
+* :doc:`Refer to the Deployment Prerequisites. </reference/deploymentprerequisites>`
 
 
 Users, Access, Folder Structure :

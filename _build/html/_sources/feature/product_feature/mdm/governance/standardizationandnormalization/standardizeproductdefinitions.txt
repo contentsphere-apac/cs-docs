@@ -1,7 +1,7 @@
 ================================
 Standardize Product Definitions
 ================================
-Standardize Product Definitions is a data governance feature that standardizes the product definitions, which results to improved consistency of product definitions in the system.
+Standardize Product Definitions is a data governance feature that standardizes the product definitions, which results in improved consistency of product definitions in the system.
 
 
 ===================     =======================================================================================================================================================================
@@ -27,91 +27,82 @@ Standardize Product Definitions is a data governance feature that standardizes t
 
 
 How-to: Standardize Product Definitions
-===========================================
+========================================
 To standardize product definitions, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_login.PNG
 |
 |
 
+* Click on the **Data Governance** tab.
 
-#. Click on the **Data Governance** tab.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_clickdatagovernance.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_clickdatagovernance.PNG
 |
 |
 
+* Click on **Rules** then click on the “+” icon to create a rule.
 
-#. Click on **Rules** then click on the “+” icon to create a rule.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_clickrules.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_clickrules.PNG
 |
 |
 
+* Enter the name and select **Standardization and Normalization** as rule type then click on the **Create** button.
 
-#. Enter the name and select **Standardization and Normalization** as rule type then click on the **Create** button.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_entername.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_entername.PNG
 |
 |
 
+* Select the *Partners* and *Physical Catalogs* to which the rule is to be applied.
 
-#. Select the *Partners,* *Endpoints,* and *Physical Catalogs* to which the rule is to be applied.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_selectpartners.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_selectpartners.PNG
 |
 |
 
+* In the *Cause* section, select the attributes and tags that violate the rule.
 
-#. In the *Cause* section, select the attributes and tags that violate the rule.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_attributecause.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_attributecause.PNG
 |
 |
 
+* Select the condition by which the rule is violated.
 
-#. Select the condition by which the rule is violated.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_condition.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_condition.PNG
 |
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_condition2.PNG
-|
-|
-
-
-#. Select multiple conditions if necessary.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_multiplecondition.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_condition2.PNG
 |
 |
 
+* Select multiple conditions if necessary.
 
-#. Select the class to which the rule will be applied.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_multiplecondition.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_multiplecondition2.PNG
 |
 |
 
+* Select the class to which the rule will be applied.
 
-#. In the *Effect* section, select the attributes and tags to be normalized.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_attributeeffect.PNG
-|
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_attributeeffect2.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_selectclass.PNG
 |
 |
 
+* In the *Effect* section, select the attributes and tags to be normalized.
 
-#. Click on the **Save** button to save the rule for the selected attributes and tags. For classes and taxonomies, the rule gets saved upon selection.
-
-.. image:: /feature/_images/mdmimages/cs_standardizationandnormalization_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_attributeeffect.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_attributeeffect2.PNG
 |
 |
 
+* Click on the **Save** button to save the rule for the selected attributes and tags. For classes and taxonomies, the rule gets saved upon selection.
+
+.. image:: /feature/_images/mdmimages/cs_standardizeproductdefinitions_clicksave.PNG
+|
+|
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

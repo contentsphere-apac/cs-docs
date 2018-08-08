@@ -28,28 +28,28 @@ To manage hierarchy via relationship, follow these steps.
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_login.PNG
 |
 |
 
 
-#. Click on the **Choose Taxonomies** button, then click on the **Create Relationship Hierarchy** button.
+* Click on the **Choose Taxonomies** button, then click on the **Create Relationship Hierarchy** button.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_choosetaxonomies.PNG
 |
 |
 
 
-#. Enter the name for the relationship hierarchy.
+* Enter the name for the relationship hierarchy.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_entername.PNG
 |
 |
 
 
-#. Click on the **Add Class** button and select the class.
+* Click on the **Add Class** button and select the class.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickaddclass.PNG
 |
@@ -58,7 +58,7 @@ To manage hierarchy via relationship, follow these steps.
 |
 
 
-#. Once done adding the classes, click on the **Apply** button.
+* Once done adding the classes, click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_managerelationshiphierarchy_clickapply.PNG
 |

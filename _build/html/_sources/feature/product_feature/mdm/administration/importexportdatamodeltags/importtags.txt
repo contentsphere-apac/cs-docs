@@ -8,7 +8,7 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 **Key Term:**           * **Property:** a data field which describes a product, can also use *'attribute'*.
 
 **Description:**        * Tags are used to give various possible values to a product, making it possible to categorize it better.
-                        * This feature allows and helps user to upload a huge amount of data (tags) in one go.
+                        * This feature allows and helps the user to upload a huge amount of data (tags) in one go.
                         * This feature imports the tag definitions using an Excel file.
 
 **Related topics:**     * :doc:`Manage LOVs </feature/product_feature/mdm/administration/datamodeltagmanagement/managelovs>`
@@ -24,36 +24,36 @@ The Import Tags is a feature that allows the import of tags so that multiple tag
 
 
 How-to: Import Tags
-======================
+====================
 To import tags, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button to enter the configuration page.
+* Log in and click on the **Administration** button.
 
-.. image:: /feature/_images/mdmimages/cs_importtags_clickadministration.PNG
+.. image:: /feature/_images/mdmimages/cs_importtags_login.PNG
 |
 |
 
-#. Click on **Properties**.
+* Click on **Properties**.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clickproperties.PNG
 |
 |
 
-#. Click on **LOV** then click on **Import all tags**.
+* Click on **LOV** then click on the **Import all Tags** button.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_clicklov.PNG
 |
 |
 
-#. Select the file to be imported.
+* Select the file to be imported.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_selectfile.PNG
 |
 |
 
-#. View the imported tags in their respective sections.
+* View the imported tags.
 
 .. image:: /feature/_images/mdmimages/cs_importtags_viewimportedtags.PNG
 |

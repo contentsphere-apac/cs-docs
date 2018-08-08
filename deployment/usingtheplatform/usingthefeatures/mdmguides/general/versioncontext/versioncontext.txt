@@ -1,0 +1,126 @@
+================
+Version Context
+================
+The Version Context feature allows a user to create a special version of a product that contains specific information intended for certain targets or channels.
+
+
+===================     ===============================================================================================================================================================
+**Description:**        * This feature helps create various versions (varying according to the tags) of a product.
+                        * This feature creates clones of an original product and helps a user to run a promotional campaign on a specific version (or few versions) of a product.
+
+**Related topics:**     * :doc:`Cloning </feature/product_feature/mdm/general/cloning/index>`
+                        * :doc:`Manage Individual Articles </feature/product_feature/mdm/products/producttypesindividualarticle/manageindividualarticles>`
+
+**Application:**        * The *Version Context* can create a product version that is limited to a seasonal campaign or promotion.
+                        * *Example:*
+
+                            *Retailer ‘A’* wants to run a promotion on the mobile phone's 64 GB variant during Christmas (that will only run for that holiday season).
+                            The retailer will create a variant of the original product through the feature,
+                            *Version Context* and will have a time-bound campaign running for that version.
+
+===================     ===============================================================================================================================================================
+
+
+How-to: Version Context
+===========================
+To do this feature, follow these steps:
+
+|
+
+#. Log in and go to *Administration*.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_login.PNG
+|
+|
+
+
+#. Click on **Contexts** and then, click on "+" icon to create a context.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickoncontexts.PNG
+|
+|
+
+
+#. Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype2.PNG
+|
+|
+
+
+#. A new window will pop up; set the details and options: *Icon, Enable Time (Campaign Period), Allow Duplicate,* and  the relevant *Tags*.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_anewwindowwillpopup.PNG
+|
+|
+
+
+#. Click the **Save** button once done. And then, click **Ok**.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton2.PNG
+|
+|
+
+
+#. Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonarticleundertheclasses.PNG
+|
+|
+
+
+#. Once selected, update the *Version Context* field that can be seen on the right. Select the newly created version context from the options and save the changes.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext2.PNG
+|
+|
+
+
+#. Click on the **Explore** icon and go to the product.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickonexplore.PNG
+|
+|
+
+
+#. In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create a version of the product.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab2.PNG
+|
+|
+
+
+#. Provide the necessary details and then click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_providethenecessarydetails.PNG
+|
+|
+
+
+#. Wait for the new window, *Create Clone Variant* to load.  Select all the *Tags* and *Attributes* that apply to that variant.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_waitforthenewwindow.PNG
+|
+|
+
+
+#. Click the **Create** button and then, view the created variant.
+
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton2.PNG
+|
+|
+
+
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

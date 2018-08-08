@@ -5,7 +5,7 @@ Target and Channel Contextualization is a feature that allows users to have attr
 
 
 ===================     =============================================================================================================================================================
-**Key Term:**           * **Taxonomy:** a taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Taxonomy:** taxonomy is a scheme of classification used for an organization’s products.
 
 **Description:**        * Target and channel contextualization enables the user to setup values which are based on a context.
                         * This feature is particularly useful for values that are dependent on a context or tag.
@@ -23,87 +23,114 @@ Target and Channel Contextualization is a feature that allows users to have attr
 How-to: Target and Channel Contextualization
 ===============================================
 
-This *How-to* guide provides instructions on how to have attributes that can have multiple values which vary based on context.
 To do this, follow these steps:
 
 |
 
-#. Go to *Settings* tab.
+* Go to the *Administration* tab.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_gotoadministration.PNG
 |
 |
 
-#. Select *Context Configuration*.
+* Select **Context Configuration**.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_selectcontextconfiguration.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectcontextconfiguration.PNG
 |
 |
 
-#. Create new context.
+* Create a new context.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_createnewcontext.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_createnewcontext.PNG
 |
 |
 
-#. Fill in the name and select *Attribute Context* as the feature type.
+* Fill in the name and click to select **Attribute Context** as the feature type.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_fillname.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselectattributecontext.PNG
 |
 |
 
-#. Select tag group to be added in the context and click **Save**.
+* Select tag group to be added in the context and click **Save**.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_selecttaggroup.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup.PNG
 |
 |
 
-#. In the class configuration, select the class.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_selectclass.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_fillinnameselecttaggroup2.PNG
 |
 |
 
-#. Select the desired attribute then select the context from the drop-down list.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_selectdesiredattribute.PNG
+* In the class configuration, select the class.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_intheclassconfiguration.PNG
 |
 |
 
-#. Click **Save** and try the changes in runtime.
+* Select the desired attribute then select the context from the list.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_clicksave.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute.PNG
 |
 |
 
-#. Select the product.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_selectproduct.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute2.PNG
 |
 |
 
-#. Click on the attribute with variations.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_clickattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectdesiredattribute3.PNG
 |
 |
 
-#. Create Attribute Variant for list price.
 
-.. image:: /feature/_images/mdmimages/targetandchannel_createattributevariant.PNG
+
+* Click **Save** and try the changes in runtime.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave.PNG
 |
 |
 
-#. Select the tag group, enter the value for the attribute, and click **Save**.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_selecttagandentervalue.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave2.PNG
 |
 |
 
-#. The screen should display something like the image below.
-
-.. image:: /feature/_images/mdmimages/targetandchannel_checkoutput.PNG
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_clicksave3.PNG
 |
+|
+
+* Select the product.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selectproduct.PNG
+|
+|
+
+* Create Attribute Variant for price.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_createattributevariant.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_createattributevariant2.PNG
+|
+|
+
+
+* Select the tag group, enter the value for the attribute, and click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_selecttaggroup.PNG
+|
+|
+
+* The screen should display something like the image below.
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_targetandchannel_screendisplay2.PNG
+|
+|
+
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG

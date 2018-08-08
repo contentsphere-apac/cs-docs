@@ -163,7 +163,7 @@ Attributes: Measurement Types
    * - Inductance
      - * Henry (H)
    * - Resistance
-     - * Ohm (Ω)
+     - * Ohm (O)
    * - Magnetism
      - * Tesla (T)
        * Gauss (G)
@@ -238,7 +238,7 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**           * **Taxonomy:** A taxonomy is a scheme of classification used for an organization’s products.
+**Key Term:**           * **Attribute:** a data field which describes a product, can also use ‘property’.
 
 **Description:**        * This feature allows the setting of an attribute type as *Volume*.
                         * This feature makes an attribute type as *Volume* and applies the appropriate default unit for volume (e.g. *Gallon, Cubic meter, Liter*).
@@ -257,72 +257,82 @@ This feature example allows an administrator to set an attribute as *Volume*.
 
 
 How-to: Measurement Type: Volume
-------------------------------------
+-------------------------------------
 To set an attribute as a volume, follow these steps:
 
 |
 
-#. Go to *Settings*.
+* Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_gotoadmin.PNG
 |
 |
 
-#. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_gotodatamodeltab.PNG
+* Go to the *Data Model* tab.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_gotodatamodel.PNG
 |
 |
 
-#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_clickmeasurement.PNG
+* Click on *Measurement* under the *Properties* section.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickonmeasurement.PNG
 |
 |
 
-#. Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_clicktheicontocreateanattribute.PNG
+* Click the '+' icon to create an attribute.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickoncreatebutton.PNG
 |
 |
 
-#. Enter the name of the volume attribute and click on the **Create** button.
+
+* Enter the name of the volume attribute and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_enterthename.PNG
 |
 |
 
-#. Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_checkthatheattributehasbeenadded.PNG
-|
-|
+* Check that the attribute has been added successfully.
 
-#. Under the measurement type, search and select *Volume* in the drop-down menu.
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_searchandselectvolume.PNG
-|
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_searchandselectvolume2.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_checkthattheattribute.PNG
 |
 |
 
-#. Select the appropriate unit for the volume attribute in the *Default Unit* column (e.g. *Gallon, Cubic meter, Liter*).
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_selecttheappropriateunit.PNG
+* Under the measurement type, search and select *Volume* in the drop-down menu.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_searchandselectvol.PNG
 |
-|
-
-#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_completetheotherattributefields.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_searchandselectvol2.PNG
 |
 |
 
-#. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementvolume_clickonthesavebutton.PNG
+* Select the appropriate unit for the volume attribute in the *Default Unit* column (e.g. *Gallon, Cubic meter, Liter*).
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_selecttheunit.PNG
 |
 |
+
+
+* Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_completetheattributes.PNG
+|
+|
+
+
+* Click on the **Save** button to save the settings.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributevolume_clickonsave.PNG
+|
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
@@ -335,7 +345,7 @@ This feature example allows an administrator to set an attribute as *Weight (Mas
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**            * **Property:** A data field which describes a product, can also use *'attribute'*.
+**Key Term:**           * **Attribute:** a data field which describes a product, can also use ‘property’.
 
 **Description:**        * This feature allows the setting of an attribute type as *Weight (Mass)*.
                         * This feature makes an attribute type as *Weight (Mass)* and applies the appropriate default unit for weight/mass (e.g. *Tonne, Kilogram, Gram*).
@@ -359,67 +369,77 @@ To set an attribute as a weight/mass, follow these steps:
 
 |
 
-#. Go to *Settings*.
+* Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_gotosettings.PNG
-|
-|
-
-#. Go to the *Data Model* tab.
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_gotodatamodeltab.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_gotoadmin.PNG
 |
 |
 
-#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_clickmeasurement.PNG
-|
-|
+* Go to the *Data Model* tab.
 
-#. Click the '+' icon to create an attribute.
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_clicktheicontocreateanattribute.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_gotodatamodel.PNG
 |
 |
 
-#. Enter the name of the weight (mass) attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_enterthename.PNG
-|
-|
+* Click on *Measurement* under the *Properties* section.
 
-#. Check that the attribute has been added successfully.
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_checkthatheattributehasbeenadded.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickonmeasurement.PNG
 |
 |
 
-#. Under the measurement type, search and select *Mass* in the drop-down menu.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_searchandselectweight.PNG
-|
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_searchandselectweight2.PNG
-|
-|
+* Click the "+" icon to create an attribute.
 
-#. Select the appropriate unit for the weight (mass) attribute in the *Default Unit* column (e.g. *Tonne, Kilogram, Gram*).
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_selecttheappropriateunit.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickoncreatebutton.PNG
 |
 |
 
-#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_completetheotherattributefields.PNG
+* Enter the name of the weight (mass) attribute and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_enterthename.PNG
 |
 |
 
-#. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementweight_clickonthesavebutton.PNG
+* Check that the attribute has been added successfully.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_checkthattheattribute.PNG
 |
 |
+
+
+* Under the measurement type, search and select *Mass* in the drop-down menu.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_searchandselmass.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_searchandselmass2.PNG
+|
+|
+
+
+* Select the appropriate unit for the weight (mass) attribute in the *Default Unit* column (e.g. *Tonne, Kilogram, Gram*).
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_selecttheunit.PNG
+|
+|
+
+
+* Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_completetheotherattributes.PNG
+|
+|
+
+
+* Click on the **Save** button to save the settings.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributeweight_clickthesavebutton.PNG
+|
+|
+
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line
@@ -432,7 +452,7 @@ This feature example allows an administrator to set an attribute as *Temperature
 
 ===================     ===============================================================================================================================================================
 
-**Key Term:**            * **Property:** A data field which describes a product, can also use *'attribute'*.
+**Key Term:**           * **Attribute:** a data field which describes a product, can also use ‘property’.
 
 **Description:**        * This feature allows the setting of an attribute type as *Temperature*.
                         * This feature makes an attribute type as *Temperature* and applies the appropriate default unit for temperature
@@ -457,65 +477,74 @@ To set an attribute as a temperature, follow these steps:
 
 |
 
-#. Go to *Settings*.
+* Go to *Administration*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_gotosettings.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_gotoadmin.PNG
 |
 |
 
-#. Go to the *Data Model* tab.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_gotodatamodeltab.PNG
+* Go to the *Data Model* tab.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_gotodatamodel.PNG
 |
 |
 
-#. Click on *Measurement* under the *Properties*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_clickmeasurement.PNG
+* Click on *Measurement* under the *Properties* section.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickonmeasurement.PNG
 |
 |
 
-#. Click the '+' icon to create an attribute.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_clicktheicontocreateanattribute.PNG
+* Click the '+' icon to create an attribute.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickoncreatebutton.PNG
 |
 |
 
-#. Enter the name of the temperature attribute and click on the **Create** button.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_enterthename.PNG
+* Enter the name of the temperature attribute and click on the **Create** button.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_enterthename.PNG
 |
 |
 
-#. Check that the attribute has been added successfully.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_checkthatheattributehasbeenadded.PNG
+* Check that the attribute has been added successfully.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_checktheattributeisadded.PNG
 |
 |
 
-#. Under the measurement type, search and select *Temperature* in the drop-down menu.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_searchandselecttemperature.PNG
-|
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_searchandselecttemperature2.PNG
-|
-|
+* Under the measurement type, search and select *Temperature* in the drop-down menu.
 
-#. Select the appropriate unit for the temperature attribute in the *Default Unit* column (e.g. *Celsius, Fahrenheit, Kelvin*).
-
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_selecttheappropriateunit.PNG
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_searchandselecttemp.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_searchandselecttemp2.PNG
 |
 |
 
-#. Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, and Grid Editable*.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_completetheotherattributefields.PNG
+* Select the appropriate unit for the temperature attribute in the *Default Unit* column (e.g. *Celsius, Fahrenheit, Kelvin*).
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_selecttheunit.PNG
 |
 |
 
-#. Click on the **Save** button to save the settings.
 
-.. image:: /feature/_images/mdmimages/cs1_managemeasurementtemperature_clickonthesavebutton.PNG
+* Complete the other attribute fields: *Default Value, Precision, Placeholder, Description, Tooltip, Searchable, Filterable, Sortable, Availability, Grid Editable, and Read Only*.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_completetheattributes.PNG
+|
+|
+
+
+* Click on the **Save** button to save the settings.
+
+.. image:: /feature/_images/mdmimages/cs_manageattributetemp_clickthesavebutton.PNG
 |
 |
 

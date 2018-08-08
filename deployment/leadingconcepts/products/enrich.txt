@@ -1,0 +1,26 @@
+==============================
+Enriching Product Information
+==============================
+
+
+Why do we enrich product information
+=====================================
+
+Having a product that is described by text-heavy information, more often than not, overwhelms a potential customer.
+Going through chunks of text to know about the product doesn't appeal to a majority of consumers simply because they don't spend time and effort to peruse all that text.
+On the other hand, a product that is enriched with visuals is more appreciated since it gives the customer an at-a-glance feel for the product before they delve into the details.
+
+A product can be enriched by adding digital assets such as relevant images and videos to the product information page.
+With the inclusion of images and videos to the product information page, the customer can gain a better understanding about the product through the informative visuals presented alongside the text content.
+These images can range from the different views of the products, down to its multiple variants and customizations.
+
+It is for this reason that we use Digital Asset Management (DAM), a solution for enterprises to store, organize, find and retrieve digital files.
+Digital files in the DAM are linked to the PIM through relationships.
+
+
+.. image:: /feature/_images/butimages/dam_page.PNG
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

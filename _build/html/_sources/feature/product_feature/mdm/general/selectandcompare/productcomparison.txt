@@ -29,28 +29,28 @@ To do this, follow these steps:
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_login.PNG
 |
 |
 
 
-#. Select two or more products to be compared.
+* Select two or more products to be compared.
 
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_selecttwoormore.PNG
 |
 |
 
 
-#. Click the **Comparison View** button as shown.
+* Click the **Comparison View** button as shown.
 
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_clickthecomparisonview.PNG
 |
 |
 
 
-#. View the information table which enables the user to compare the data of the selected products.
+* View the information table which enables the user to compare the data of the selected products.
 
 .. image:: /feature/_images/mdmimages/cs_selectandcompare_comparisonview.PNG
 |

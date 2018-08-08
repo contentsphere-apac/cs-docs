@@ -1,0 +1,9 @@
+==================
+Types of Classes
+==================
+
+.. toctree::
+   :maxdepth: 1
+
+   natureclasses
+   attributionclasses

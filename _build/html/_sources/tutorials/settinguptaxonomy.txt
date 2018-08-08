@@ -9,70 +9,67 @@ How-to: Set Up a Taxonomy
 ==================================
 To do this, follow these steps:
 
-#. Click **Settings**.
+|
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_clicksettings.PNG
+* Click **Administration**.
+
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickadministration.PNG
 |
 |
 
-#. Click **Data Model** tab.
+* Click **Data Model** tab.
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_clickdatamodel.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickdatamodel.PNG
 |
 |
 
-#.  Click   **Taxonomies** to expand.
+* Click **Taxonomies** to expand.
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_expandtaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clicktaxonomies.PNG
 |
 |
 
-#.   Then, click **Master Taxonomy**.
+* Then, click **Master Taxonomy**.
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_clickmastertaxonomy.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickmastertaxonomy.PNG
 |
 |
 
-#.    Use  the "+" to expand the taxonomy, vertically or horizontally.
+* Use the "+" to expand the taxonomy, vertically or horizontally.
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_useplus.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_useplus.PNG
 |
 |
 
-#.   Taxonomy window appears. Enter details for the new taxonomy and click **Create**.
+* Taxonomy window appears. Enter details for the new taxonomy and click **Create**.
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_taxdetails.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_windowappear.PNG
 |
 |
 
-.. image:: /feature/_images/mdmimages/settinguptaxonomy_taxdetails.PNG
+.. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_windowappear2.PNG
 |
 |
 
 Icons can also be added to the Taxonomy.
 
-    #. Click a section under taxonomies (in this demo, we select **Tops**).
+    * Click a section under taxonomies (in this demo, we select **Casual Clothing**).
 
-    .. image:: /feature/_images/mdmimages/settinguptaxonomy_clickcollarless.PNG
+    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clicksection.PNG
     |
     |
 
-    #.   Click upload icon and select an image from your computer.
+    * Click **Upload icon**  and select an image from your computer.
 
-    .. image:: /feature/_images/mdmimages/settinguptaxonomy_clickaddicon.PNG
+    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_clickuploadicon.PNG
     |
     |
 
-   #.   View the selected icon.
+    * View the selected icon.
 
-    .. image:: /feature/_images/mdmimages/settinguptaxonomy_iconadded.PNG
+    .. image:: /feature/_images/mdmimages/cs_settinguptaxonomy_viewicon.PNG
     |
     |
-
-|
-
-| :doc:`Previous: Create a New Product </tutorials/createnewproduct>`
-| :doc:`Next: What is a Data Model? </tutorials/whatisadatamodel>`
 
 |
 

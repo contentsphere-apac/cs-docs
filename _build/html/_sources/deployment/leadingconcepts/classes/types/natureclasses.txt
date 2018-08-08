@@ -1,0 +1,64 @@
+===============
+Nature Classes
+===============
+
+We can define the base type of a product using Nature class. Here, we can define behavior of a product.
+It helps to establish how a product should look like. Below are the nature classes that have been predefined within the system.
+
+Predefined Nature Classes
+==========================
+
+Single Article
+------------------
+A stand-alone product which is a sellable item.
+
+      **Example:**  Coffee table
+
+      .. image:: /feature/_images/butimages/singlearticle01.PNG
+
+
+Product
+---------
+A placeholder for a group of common products.
+
+      **Example:** Red Bull as Product, which contains variants like *Regular, Sugarfree, and Zero*.
+
+      .. image:: /feature/_images/butimages/pid01.PNG
+      |
+
+Loose Bundle
+--------------
+A group of products where the quantity of each product can be defined by the retailer.
+
+      **Example:**  Water Bottle Pack: Buy 10 or more for 15% off.  Each item over 10 can still receive the discount.
+
+      .. image:: /feature/_images/butimages/loosebundle01.PNG
+
+Fixed Bundle
+--------------
+A group of products where the quantity of each product is fixed.
+
+      **Example:**  Shaving Kit. As these are in the same packaging, the customer cannot add or remove items from the fixed bundle.
+
+      .. image:: /feature/_images/butimages/fixedbundle01.PNG
+
+Set of Products
+------------------
+Set of product recommendations like clothing pieces put on a mannequin in fashion stores.
+
+      **Example:** Racing Gear.
+
+      .. image:: /feature/_images/butimages/setofproducts01.PNG
+
+Promotional Collection
+-----------------------
+A group of products having the same price.
+
+      **Example:**  Buy any pair of sporty glasses for $9.99 only.
+
+      .. image:: /feature/_images/butimages/promotionalcollection01.PNG
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: Contentserv line

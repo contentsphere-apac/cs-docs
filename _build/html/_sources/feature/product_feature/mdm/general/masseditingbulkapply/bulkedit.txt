@@ -33,38 +33,38 @@ To do editing in bulk, follow these steps:
 
 |
 
-#. Select the items to be edited by clicking on the thumbnail checkbox.
+* Select the items to be edited by clicking on the thumbnail checkbox.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selecttheitems.PNG
 |
 |
 
 
-#. Click on the **Bulk Edit** button.
+* Click on the **Bulk Edit** button.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickthebulkeditbutton.PNG
 |
 |
 
 
-#. View the pop-up menu that will appear with a list of attributes and tags.
+* View the pop-up menu that will appear with a list of attributes and tags.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewthepopupmenu.PNG
 |
 |
 
 
-#. Either (1) select the tags/attributes from the list or (2) search for the tags/attributes in the search bar and enter the values. Refer to the images below.
+* Either (1) select the tags/attributes from the list or (2) search for the tags/attributes in the search bar and enter the values. Refer to the images below.
 
 
-  #. Selecting tags/attributes from the list:
+  * Selecting tags/attributes from the list:
 
   .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_selectthetags.PNG
   |
   |
 
 
-  #. Searching for tags/attributes in the search bar:
+  * Searching for tags/attributes in the search bar:
 
   .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_searchthetags.PNG
   |
@@ -73,7 +73,7 @@ To do editing in bulk, follow these steps:
 |
 
 
-#. Edit the tag/attribute then click on the **Apply** button to do the bulk edit for the selected products.
+* Edit the tag/attribute then click on the **Apply** button to do the bulk edit for the selected products.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_clickontheapply.PNG
 |
@@ -84,7 +84,7 @@ To do editing in bulk, follow these steps:
 |
 
 
-#. View the applied changes of the bulk edit.
+* View the applied changes of the bulk edit.
 
 .. image:: /feature/_images/mdmimages/cs_masseditbulkapply_viewtheappliedchange.PNG
 |

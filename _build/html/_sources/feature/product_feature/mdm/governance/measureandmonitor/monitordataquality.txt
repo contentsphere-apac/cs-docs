@@ -38,49 +38,42 @@ To monitor data quality, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_login.PNG
 |
 |
 
 
-#. Click on the **Data Governance** tab.
+* Click on the **Data Governance** tab.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_clickondatagovernance.PNG
 |
 |
 
 
-#. Click on **KPIs**.
+* Click on **KPIs**.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_clickonkpis.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new KPI.
+* Click on the "+" icon to create a new KPI.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_clickontheicontocreatenewkpi.PNG
 |
 |
 
 
-#. Fill out the name and click on the **Create** button.
+* Fill out the name and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_filloutthename.PNG
 |
 |
 
 
-#. Once the KPI is created, the new KPI will be shown on the list. Click on the **Edit** button on the right.
-
-.. image:: /feature/_images/mdmimages/cs_monitordataquality_oncethekpiiscreated.PNG
-|
-|
-
-
-#. On the *KPI Details* page, select a *Class* and *Taxonomy*, which will use the KPI.  Click the **Apply** button.
+* On the *KPI Details* page, select a *Class* and *Taxonomy*, which will use the KPI.  Click the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_selectclassandtaxonomy.PNG
 |
@@ -89,28 +82,28 @@ To monitor data quality, follow these steps:
 |
 
 
-#. For the Drill down levels, add *Tags* or *Taxonomies*, where the KPI is to be categorized into.
+* For the Drill down levels, add *Tags* or *Taxonomies*, where the KPI is to be categorized into.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_forthedrilldownlevels.PNG
 |
 |
 
 
-#. Provide the details of the rules and once done, click on the **OK** button.
+* Provide the details of the rules and once done, click on the **OK** button.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_filloutthedetailsoftherules.PNG
 |
 |
 
 
-#. Click on the **Explore** button and then go to the *Dashboard*.
+* Click on the **Explore** button and then go to the *Dashboard*.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_clickonexploreandthendashboard.PNG
 |
 |
 
 
-#. A new dashboard for the KPI will be created.  Click on the graph and drill down on the details of the KPI using the added taxonomy and tag.
+* Click on the **Data Governance** tab. A new dashboard for the KPI will be created.  Click on the graph and drill down on the details of the KPI using the added taxonomy and tag.
 
 .. image:: /feature/_images/mdmimages/cs_monitordataquality_anewdashboard.PNG
 |

@@ -1,0 +1,78 @@
+============
+Contentserv
+============
+
+|
+
+
+What is Contentserv?
+--------------------
+
+* Contentserv is a web-based multi-platform and enterprise solution that turns product information into an engaging product experience.
+* The Contentserv product is a creative system for marketing, sales, and communication, placing utmost importance on customer service because the product is solidly founded on good relationships with the customers.
+* Offering a comprehensive web-based platform, Contentserv's solution portfolio combines selected products and best-practice models for individual solution areas such as Product Information Management or Marketing Content Management.
+
+|
+
+
+The Contentserv Solution
+-------------------------
+* The platform allows for the use of classic and digital marketing channels for greater reach and accessibility across every touch point and empowers customers by preparing products with respective images linked and localized to the customer data.
+
+
+
+.. image:: _images/butdocumentation_image1.PNG
+   :alt: Contentserv Solution
+
+|
+|
+
+
+Contentserv Product Lines
+--------------------------
+Learn about some other core functionalities of the :doc:`Contentserv Product Lines <product/index>`:
+
+#. :doc:`Master Data Management <product/MDM>` with functionality supporting workflow rules, data quality, catalogue management, user security, data distribution.
+#. :doc:`Product Information Management <product/PIM>` for product enrichment, digital assets, taxonomy management.
+#. :doc:`Marketing Content Management <product/MCM>` supports promotions, campaigns, target markets, target channels, customers.
+#. :doc:`Partner Engagement Platform <product/PEP>` deployed for supplier engagement, collaboration, product onboarding, simple PIM and product data onboarding, offboarding.
+
+|
+
+.. image:: _images/butdocumentation_image2.PNG
+   :alt: Contentserv Solution
+
+|
+
+.. image:: _images/butdocumentation_image3.PNG
+   :alt: Contentserv Solution
+
+|
+|
+
+
+New to Contentserv
+-------------------
+Are you new to Contentserv? This is the place to start:
+
+
+Tutorial
+
+* :doc:`Part 1: About the product <product/productlines>`
+* :doc:`Part 2: Explore the User Interface <tutorials/exploretheui>`
+* :doc:`Part 3: Add New Users <tutorials/addnewuser>`
+* :doc:`Part 4: Add an Image to the DAM <tutorials/addimagetoDAM>`
+* :doc:`Part 5: Create a New Product <tutorials/createnewproduct>`
+* :doc:`Part 6: Set up a Taxonomy <tutorials/settinguptaxonomy>`
+
+|
+|
+
+
+Check out our :doc:`Deployment Guides <deployment/index>` to learn how to get started with the Contentserv platform
+and access the :doc:`Using this Resource <feature/helpcentermain>` to learn additional help topics.
+
+|
+
+.. image:: _images/line-png-32.PNG
+   :alt: Contentserv line

@@ -1,0 +1,365 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Monitor Exports &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Data Integration Dashboard - Manage Several Inbound and Outbound Endpoints for a System" href="../manageseveralinboundandoutboundendpoints/index.html" />
+    <link rel="prev" title="Monitor Imports" href="monitorimports.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Partner Engagement Portal (PEP)</a> &raquo;</li>
+        
+          <li><a href="../index.html">System Administration Portal</a> &raquo;</li>
+        
+          <li><a href="index.html">Data Integration Dashboard - Monitor and Check Data per Endpoint</a> &raquo;</li>
+        
+      <li>Monitor Exports</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-monitor-exports">
+<span id="monitor-exports"></span><h1>Monitor Exports<a class="headerlink" href="#monitor-exports" title="Permalink to this headline">¶</a></h1>
+<p>The Monitor Exports feature provides an export summary for every export of product data that allows corrective action to be promptly done, if necessary.</p>
+<table class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="90%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>The user will get a summary of the reports for each completed export process.</li>
+<li>The summary includes a report on key indicators of the products being exported, so that the user can check the product violations and may appropriately correct them.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/systemprofilesetupandmanagesystemspecificdata/manageendpointsforasystem.html"><span class="doc">Manage Endpoints for a System</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/platformadministration/systemprofilesetupsystemprofile/managesystemprofile.html"><span class="doc">Manage System Profile</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/measureandmonitor/monitordataquality.html"><span class="doc">Monitor Data Quality</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/pep/systemadministrationportal/monitorandcheckdata/monitorimports.html"><span class="doc">Monitor Imports</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Application:</strong></td>
+<td><ul class="first last simple">
+<li>The user gets an overall summary of the <em>previous, recent, and/or the total number</em> of exported files.
+It also provides information about the successful exports and violations.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-monitor-exports">
+<span id="how-to-monitor-exports"></span><h2>How-to: Monitor Exports<a class="headerlink" href="#how-to-monitor-exports" title="Permalink to this headline">¶</a></h2>
+<p>To monitor exports, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Log in and go to <em>PIM</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_login.PNG" src="../../../../../../_images/cs_monitorexports_login.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitorexports_logingotopim.PNG" src="../../../../../../_images/cs_monitorexports_logingotopim.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the products to be exported. <em>Note: To select all the products, click on the Select All button.</em></li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_gotopimselectproducts2.PNG" src="../../../../../../_images/cs_monitorexports_gotopimselectproducts2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once selected, click on the <strong>Transfer</strong> button. This will transfer and get the products ready for offboarding and select <em>Self</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_onceselectedclicktransfer.PNG" src="../../../../../../_images/cs_monitorexports_onceselectedclicktransfer.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitorexports_onceselectedclicktransfer2.PNG" src="../../../../../../_images/cs_monitorexports_onceselectedclicktransfer2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once the notification says that the transfer is successful, click on the <strong>PIM</strong> menu on the upper left corner of the screen and go to <em>Offboarding</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_oncetransfersuccesfulgotooffboarding.PNG" src="../../../../../../_images/cs_monitorexports_oncetransfersuccesfulgotooffboarding.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitorexports_oncetransfersuccesfulgotooffboarding2.PNG" src="../../../../../../_images/cs_monitorexports_oncetransfersuccesfulgotooffboarding2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Check if the page shows the selected products.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_checkselectedproducts.PNG" src="../../../../../../_images/cs_monitorexports_checkselectedproducts.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select the products and click on the <strong>Export</strong> button. Then, select the desired endpoint from the menu.Wait for the data to be exported. Once done, view the exported data.</li>
+</ul>
+<img alt="../../../../../../_images/cs_monitorexports_clickproductsclickexport.PNG" src="../../../../../../_images/cs_monitorexports_clickproductsclickexport.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_monitorexports_clickproductsclickexport3.PNG" src="../../../../../../_images/cs_monitorexports_clickproductsclickexport3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<p><em>Note: Go to the Dashboard and check on the endpoint that has been selected from the previous step to check the offboarding report summary.</em></p>
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../manageseveralinboundandoutboundendpoints/index.html" class="btn btn-neutral float-right" title="Data Integration Dashboard - Manage Several Inbound and Outbound Endpoints for a System" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="monitorimports.html" class="btn btn-neutral" title="Monitor Imports" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

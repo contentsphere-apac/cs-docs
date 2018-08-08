@@ -13,7 +13,7 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 **Related topics:**     * :doc:`Manage Products in the Master Catalog </feature/product_feature/pep/onboardingpool/manageproductsinthemastercatalog/manageproductsinmastercatalog>`
                         * :doc:`Manage Role Access to Class and Taxonomies </feature/product_feature/mdm/administration/usersandpermissionsaccesslevels/manageroleaccesstoclassandtaxonomies>`
 
-**Application:**        * Master catalog allows the user to manage all the product content.
+**Application:**        * The master catalog allows the user to manage all the product content.
                         * *Example:*
 
                             A retailer, with 5 suppliers, creates a user who monitors the data quality of products that are onboarded.
@@ -23,33 +23,48 @@ The Manage Product Definitions across Systems feature is a feature that allows a
 ===================     =======================================================================================================================================================================
 
 
-How-to: Define Products Across the Systems
+How-to: Manage Products Across the Systems
 ===============================================
 To do this, follow these steps:
 
+|
 
-#. Login as Supplier and click **Dashboard**. Then, click *Data Integration* and select an endpoint.
+* Login as Supplier and click **Dashboard**. Then, click **Data Integration** and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_gotodash.PNG
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard.PNG
 |
 |
 
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard2.PNG
+|
+|
 
-#. Click **Catalog**.
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_loginsupplierclickdashboard3.PNG
+|
+|
+
+* Click **Catalog**.
 
 .. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickcatalog.PNG
 |
 |
 
+* Select a product and click **Transfer to Onboarding**. *Note: The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
 
-#. Select a product and click **Transfer to Onboarding**. *Note:The supplier needs to have prior data integration permission to onboard the products in the Master Catalog*.
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_selectproducttransfer.PNG
+|
+|
 
-.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_clickonboard.PNG
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_selectproducttransfer2.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_manageproductdefinitionsacrosssystems_selectproducttransfer3.PNG
 |
 |
 
 
-*Note: Then, User can operate the system and manage the supplier's onboarding catalog products. Once the Products are  quality checked, user can transfers the products to the PIM.*
+*Note: Then, User can operate the system and manage the supplier's onboarding catalog products. Once the Products are  quality checked, user can transfer the products to the PIM.*
 
 |
 |

@@ -1,0 +1,414 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Manage Taxonomy &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Taxonomies - Master Taxonomies" href="../taxonomiesmastertaxonomies/index.html" />
+    <link rel="prev" title="Taxonomies - Simple Taxonomy Tree" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">Administration</a> &raquo;</li>
+        
+          <li><a href="index.html">Taxonomies - Simple Taxonomy Tree</a> &raquo;</li>
+        
+      <li>Manage Taxonomy</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-manage-taxonomy">
+<span id="manage-taxonomy"></span><h1>Manage Taxonomy<a class="headerlink" href="#manage-taxonomy" title="Permalink to this headline">¶</a></h1>
+<p>The feature, <em>‘Manage Taxonomy’</em> is an interface that provides users the ability to create, update, edit, or delete taxonomies.
+It is the primary way that we update taxonomies in the Contentserv system.</p>
+<table class="docutils">
+<colgroup>
+<col width="11%" />
+<col width="89%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Taxonomy:</strong> a taxonomy is a scheme of classification used for an organization’s products.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>Taxonomy management is facilitated in the configuration section of Contentserv.</li>
+<li>The interface gives you the flexibility to add levels to the taxonomy vertically and horizontally.</li>
+<li>When the taxonomy is given a level vertically, it becomes more specific under that category.
+For example, a taxonomy may have a <em>Fashion</em> category which may be made more specific with a <em>Pants</em> subcategory.</li>
+<li>When the taxonomy is given a level horizontally, it adds a new branch that products can be categorized into making the classification broader in scope.
+For example, a taxonomy with an existing <em>Fashion</em> category may also have an <em>Electronics</em> category on the same level as <em>Fashion</em>.
+This would reflect a retailer with many different product lines.</li>
+<li>Use the <strong>plus (+)</strong> buttons to add levels to your taxonomy, where required.</li>
+<li>A store’s taxonomy can be configured in many different ways.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/general/multitaxonomyassignment/multitaxonomyassignment.html"><span class="doc">Multi-Taxonomy Assignment</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies.html"><span class="doc">Product Classification via Taxonomies</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first simple">
+<li>Let’s create a simple taxonomy for a retailer, which sells fashion and electronics.</li>
+<li>The highest level of classification would be <em>Fashion and Electronics</em>.</li>
+<li>The classification would be made deeper under each category to add specificity.
+See diagram for a sample configuration:</li>
+</ul>
+<img alt="../../../../../../_images/manage_taxonomy.PNG" class="last" src="../../../../../../_images/manage_taxonomy.PNG" />
+</td>
+</tr>
+</tbody>
+</table>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<div class="section" id="s-how-to-do-simple-taxonomy-tree">
+<span id="how-to-do-simple-taxonomy-tree"></span><h2>How to do: Simple Taxonomy Tree<a class="headerlink" href="#how-to-do-simple-taxonomy-tree" title="Permalink to this headline">¶</a></h2>
+<p>Here’s how to do a simple taxonomy tree.</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Administration</strong> icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickadministration.PNG" src="../../../../../../_images/cs_managetaxonomy_clickadministration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click the <strong>Master Taxonomies</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickmastertaxonomies.PNG" src="../../../../../../_images/cs_managetaxonomy_clickmastertaxonomies.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the “+” icon to create a new taxonomy.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickplus.PNG" src="../../../../../../_images/cs_managetaxonomy_clickplus.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter the necessary data, click the <strong>Create</strong> button, and click <strong>Save</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_enternecessary.PNG" src="../../../../../../_images/cs_managetaxonomy_enternecessary.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_enternecessary2.PNG" src="../../../../../../_images/cs_managetaxonomy_enternecessary2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To make a hierarchy, click on the created taxonomy then click on <strong>Add New Level +</strong> button.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_tomakeheirarchy.PNG" src="../../../../../../_images/cs_managetaxonomy_tomakeheirarchy.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_tomakeheirarchy2.PNG" src="../../../../../../_images/cs_managetaxonomy_tomakeheirarchy2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click on the “+” icon to add a Property Collection, select from the dropdown list, and click <strong>Apply</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickplusproperty.PNG" src="../../../../../../_images/cs_managetaxonomy_clickplusproperty.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickplusproperty2.PNG" src="../../../../../../_images/cs_managetaxonomy_clickplusproperty2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_clickplusproperty3.PNG" src="../../../../../../_images/cs_managetaxonomy_clickplusproperty3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to <em>PIM</em>. Hover on the “+” icon and select the product.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_gotopim.PNG" src="../../../../../../_images/cs_managetaxonomy_gotopim.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Enter data and click <strong>Add Taxonomy</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_enternece_addtax.PNG" src="../../../../../../_images/cs_managetaxonomy_enternece_addtax.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_enternece_addtax2.PNG" src="../../../../../../_images/cs_managetaxonomy_enternece_addtax2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>For additional classification, click <strong>Classify further</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_managetaxonomy_additionalclass.PNG" src="../../../../../../_images/cs_managetaxonomy_additionalclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_additionalclass2.PNG" src="../../../../../../_images/cs_managetaxonomy_additionalclass2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_managetaxonomy_additionalclass3.PNG" src="../../../../../../_images/cs_managetaxonomy_additionalclass3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../taxonomiesmastertaxonomies/index.html" class="btn btn-neutral float-right" title="Taxonomies - Master Taxonomies" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Taxonomies - Simple Taxonomy Tree" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

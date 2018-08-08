@@ -1,0 +1,384 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Multi-classify Objects &mdash; Contentserv  documentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="../../../../../../_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="../../../../../../_static/pygments.css" type="text/css" />
+    <link rel="index" title="Index" href="../../../../../../genindex.html" />
+    <link rel="search" title="Search" href="../../../../../../search.html" />
+    <link rel="next" title="Mass Editing - Bulk Apply" href="../masseditingbulkapply/index.html" />
+    <link rel="prev" title="Multiclassification" href="index.html" /> 
+
+  
+  <script src="../../../../../../_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="../../../../../../contents.html" class="icon icon-home"> Contentserv
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                17.3
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../../../../search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../../../../../../index.html">Contentserv Documentation</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../../../../../../introduction.html">Contentserv</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../../../../../index.html">Deployment Guides</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../../../../../gettingstarted/index.html">Getting Started</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../settingup/index.html">Setting Up</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../../../../leadingconcepts/index.html">Leading Concepts</a></li>
+<li class="toctree-l3 current"><a class="reference internal" href="../../../../index.html">Using the Platform</a><ul class="current">
+<li class="toctree-l4 current"><a class="reference internal" href="../../../index.html">Using the Features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="../../../../references.html">References</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../tutorials/index.html">Tutorials</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../reference/index.html">Reference Guides</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../../../../glossary.html">Glossary</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../../../../contents.html">Contentserv</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="../../../../../../contents.html">Docs</a> &raquo;</li>
+        
+          <li><a href="../../../../../../index.html">Contentserv Documentation</a> &raquo;</li>
+        
+          <li><a href="../../../../../index.html">Deployment Guides</a> &raquo;</li>
+        
+          <li><a href="../../../../index.html">Using the Platform</a> &raquo;</li>
+        
+          <li><a href="../../../index.html">Using the Features</a> &raquo;</li>
+        
+          <li><a href="../../index.html">Master Data Management (MDM)</a> &raquo;</li>
+        
+          <li><a href="../index.html">General</a> &raquo;</li>
+        
+          <li><a href="index.html">Multiclassification</a> &raquo;</li>
+        
+      <li>Multi-classify Objects</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="s-multi-classify-objects">
+<span id="multi-classify-objects"></span><h1>Multi-classify Objects<a class="headerlink" href="#multi-classify-objects" title="Permalink to this headline">¶</a></h1>
+<p>The Multi-classify Objects feature provides users the ability to add multiple classes to a product.
+This enables better categorization of products as well as inheritance of relevant properties and attributes.</p>
+<table class="docutils">
+<colgroup>
+<col width="7%" />
+<col width="93%" />
+</colgroup>
+<tbody valign="top">
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
+<td><ul class="first last simple">
+<li><strong>Nature Class:</strong> a class that defines the base type of a product. This product type is specific to how the product should behave in the Contentserv software. Nature Classes could include <em>Single Article, Product, Bundle,</em> or other custom-made product types.</li>
+<li><strong>Attribution Class:</strong> a class that adds specific attributes to the product it is assigned to. For example, a <em>Mobile Phone</em> class may add attributes for <em>Screen Size, Memory Size, Operating System,</em> etc.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Description:</strong></td>
+<td><ul class="first last simple">
+<li>To multi-classify the product, we add multiple attribution classes to the product in addition to the single Nature Class. Attribution classes contain detailed descriptive properties of the product.</li>
+<li>The user is able to define the product further by adding properties based on different attribution classes.</li>
+<li>Classifying a product with classes aids in finding that product, as well as giving it access to class-specific sets of attributes and properties.</li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><td><strong>Related topics:</strong></td>
+<td><ul class="first last simple">
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/governance/classificationandcategorization/improveproductclassifications.html"><span class="doc">Improve Product Classifications</span></a></li>
+<li><a class="reference internal" href="../../../../../../feature/product_feature/mdm/general/multitaxonomyassignment/productclassificationviataxonomies.html"><span class="doc">Product Classification via Taxonomies</span></a></li>
+</ul>
+</td>
+</tr>
+<tr class="row-even"><td><strong>Application:</strong></td>
+<td><ul class="first last">
+<li><p class="first">Attribution classes, which are also known as <em>Non-nature</em> classes, contain more detailed information about the products. The <em>Nature</em> class would only have general properties.</p>
+</li>
+<li><p class="first">The attribution class would define the product more in detail.</p>
+</li>
+<li><p class="first"><em>Example:</em></p>
+<blockquote>
+<div><p>For an energy drink, the nature class <em>Single Article</em> would contain generic properties for the product,
+whereas an attribution class, <em>Beverages</em> would give details regarding beverages such as <em>volume and can size</em>.
+As for another class, <em>Energy Drinks</em>, it would give properties such as <em>nutrition contents and caffeine contents</em>.</p>
+</div></blockquote>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="section" id="s-how-to-multi-classify-objects">
+<span id="how-to-multi-classify-objects"></span><h2>How-to: Multi-classify Objects<a class="headerlink" href="#how-to-multi-classify-objects" title="Permalink to this headline">¶</a></h2>
+<p>To multi-classify objects, follow these steps:</p>
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Go to <em>PIM</em> and hover over the “+” icon.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_gotopim.PNG" src="../../../../../../_images/cs_multiclassification_gotopim.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Click <strong>Single Article</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_clicksinglearticle.PNG" src="../../../../../../_images/cs_multiclassification_clicksinglearticle.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Once clicked, a new window will appear. Enter the name of the single article.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_enterthenameofarticle.PNG" src="../../../../../../_images/cs_multiclassification_enterthenameofarticle.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To add an <em>Attribution (Non-Nature) class</em>, refer to the <em>Classes</em> section and click <strong>Add Class</strong>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_toaddanattributionclass.PNG" src="../../../../../../_images/cs_multiclassification_toaddanattributionclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_multiclassification_toaddanattributionclass2.PNG" src="../../../../../../_images/cs_multiclassification_toaddanattributionclass2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Select a relevant class from the drop-down list.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_selectarelevantclass.PNG" src="../../../../../../_images/cs_multiclassification_selectarelevantclass.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_multiclassification_selectarelevantclass2.PNG" src="../../../../../../_images/cs_multiclassification_selectarelevantclass2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To add another attribution class, click <strong>Add Class</strong> and select a class from the list.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_toaddanotherattri.PNG" src="../../../../../../_images/cs_multiclassification_toaddanotherattri.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_multiclassification_toaddanotherattri2.PNG" src="../../../../../../_images/cs_multiclassification_toaddanotherattri2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>To switch templates from Nature class to Non-nature class, click on the drop-down list and select an option, for example, <em>Beverages</em>.</li>
+</ul>
+<img alt="../../../../../../_images/cs_multiclassification_toswitchtemplates.PNG" src="../../../../../../_images/cs_multiclassification_toswitchtemplates.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_multiclassification_toswitchtemplates2.PNG" src="../../../../../../_images/cs_multiclassification_toswitchtemplates2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../../_images/cs_multiclassification_toswitchtemplates3.PNG" src="../../../../../../_images/cs_multiclassification_toswitchtemplates3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<img alt="Contentserv line" src="../../../../../../_images/line-png-32.PNG" />
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="../masseditingbulkapply/index.html" class="btn btn-neutral float-right" title="Mass Editing - Bulk Apply" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="Multiclassification" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright CS Group.
+      Last updated on Aug 08, 2018.
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    <script type="text/javascript">
+        var DOCUMENTATION_OPTIONS = {
+            URL_ROOT:'../../../../../../',
+            VERSION:'',
+            LANGUAGE:'None',
+            COLLAPSE_INDEX:false,
+            FILE_SUFFIX:'.html',
+            HAS_SOURCE:  true,
+            SOURCELINK_SUFFIX: '.txt'
+        };
+    </script>
+      <script type="text/javascript" src="../../../../../../_static/jquery.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/underscore.js"></script>
+      <script type="text/javascript" src="../../../../../../_static/doctools.js"></script>
+
+  
+
+  <script type="text/javascript" src="../../../../../../_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

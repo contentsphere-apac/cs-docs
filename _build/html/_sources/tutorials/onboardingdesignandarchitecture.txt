@@ -41,11 +41,5 @@ Process Flow Diagrams for Onboarding
 |
 |
 
-| :doc:`Previous: UI Overview </tutorials/howclasseswork>`
-| :doc:`Next: Practical Quick Start Guide </tutorials/onboardingpractical/index>`
-
-|
-
-
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
    :alt: Contentserv line

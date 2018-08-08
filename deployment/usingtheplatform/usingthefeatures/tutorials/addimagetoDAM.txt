@@ -1,0 +1,69 @@
+=======================
+Add an Image to the DAM
+=======================
+
+Products with displayed images are more appealing for the users to the system, which can be stored in DAM (Data Asset Management).
+
+
+How-to: Add an Image
+======================
+
+To do this, follow these steps:
+
+|
+
+* Click **DAM**.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickdam.PNG
+|
+|
+
+* Hover on the "+" icon.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_hoverplus.PNG
+|
+|
+
+* Then, click **Image**.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickimage.PNG
+|
+|
+
+* Click the **Add Image** icon on the File Preview section, and select your desired image from your computer.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickaddimage.PNG
+|
+|
+
+* The image appears on the File Preview section, and click on the **pencil** icon to enter a name for the image.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_entername.PNG
+|
+|
+
+* Then, click **Save**.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clicksave.PNG
+|
+|
+
+* Go to the *Metadata* under the *Property Collection* tab.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata.PNG
+|
+|
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata2.PNG
+|
+|
+
+
+* The available metadata on the Meta Data section will auto-complete but the fields can be manually filled out as desired.
+
+.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_availablemetadata.PNG
+
+|
+
+.. image:: /feature/_images/mdmimages/line-png-32.PNG
+   :alt: ContentServ line

@@ -22,49 +22,49 @@ How-to: Create a Language Variant
 To do this, follow these steps:
 
 
-#. Log in and click  **Administration**.
+* Log in and click  **Administration**.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickadministration.PNG
 |
 |
 
-#. Click on **Classes** and then click  **Article**.
+* Click on **Classes** and then click  **Article**.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickarticle.PNG
 |
 |
 
-#. Click **Create symbol** to create Language Variant class.
+* Click **Create symbol** to create Language Variant class.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickcreatevariantclass.PNG
 |
 |
 
-#. Enter details: Name, enable the nature type, and select the type *Language*. Then, click **Create**.
+* Enter details: Name, enable the nature type, and select the type *Language*. Then, click **Create**.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_centerdetails.PNG
 |
 |
 
-#. Once the Language class is made, click **Language Class** to edit the Context.
+* Once the Language class is made, click **Language Class** to edit the Context.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickcontext.PNG
 |
 |
 
-#. Click **Selected Tag Group** to  tag a language. Select the as many countries as you find relevant to your product and audience.
+* Click **Selected Tag Group** to  tag a language. Select the as many countries as you find relevant to your product and audience.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickselectedtaggroup.PNG
 |
 |
 
-#. Click **Add Property Collection icon** to add the required property collection to the language class.
+* Click **Add Property Collection icon** to add the required property collection to the language class.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_addpropertycollection.PNG
 |
 |
 
-#. Click **Add Class** to assign a language class to any product.
+* Click **Add Class** to assign a language class to any product.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_assignclass.PNG
 |
@@ -82,7 +82,7 @@ To do this, follow these steps:
 |
 |
 
-C#. lick **Explore** and then **PIM**. Select or create a product (In this demo, we selected *'Bluebone toy'*).
+C* lick **Explore** and then **PIM**. Select or create a product (In this demo, we selected *'Bluebone toy'*).
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_clickexplore.PNG
 |
@@ -96,25 +96,25 @@ C#. lick **Explore** and then **PIM**. Select or create a product (In this demo,
 |
 |
 
-#. Click on the product, and then go to *Contexts* Tab.
+* Click on the product, and then go to *Contexts* Tab.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_gotocontext.PNG
 |
 |
 
-#. Click on **Create** to select the country whose Language Variant you would like to create.
+* Click on **Create** to select the country whose Language Variant you would like to create.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_createlanguagevariant.PNG
 |
 |
 
-#. Add corresponding values in selected languages ( in this demo, we selected *'English'* and click **Create** to save.
+* Add corresponding values in selected languages ( in this demo, we selected *'English'* and click **Create** to save.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_addcorrespondingvalues.PNG
 |
 |
 
-#. View the added *English language variant* in the selected *Bluebone toy*.
+* View the added *English language variant* in the selected *Bluebone toy*.
 
 .. image:: /feature/_images/mdmimages/cs_languagevariant_viewaddedlanguagevariant.PNG
 |

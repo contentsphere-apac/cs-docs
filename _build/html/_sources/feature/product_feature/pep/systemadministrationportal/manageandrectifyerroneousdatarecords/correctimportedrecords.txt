@@ -30,51 +30,56 @@ To do this, follow these steps:
 
 |
 
-#. Log in and go to the **Dashboard**.
+* Log in and go to the *Dashboard*.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_gotodashboard.PNG
 |
 |
 
 
-#. Click *Data Integration* tab and select an endpoint.
+* Click on the **Data Integration** tab and select an endpoint.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdash2.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickdataintegrationtab2.PNG
 |
 |
 
 
-#. Click **Files** and select a file to import ( in this demo, we selected the first "Documentation onboard sheet.xlsx")
-   and click **Import** icon.
+* Click **Files** and select a file to import. Then, click the **Import File** icon.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfile.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfiles.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfiles2.PNG
+|
+|
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickfiles3.PNG
 |
 |
 
 
-#. Check the status of the file, click **Workflow Status**.
+* Check the status of the file, click **Workflow Status**.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickstatus.PNG
-|
-|
-
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickimportedfile.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickworkflowstatus.PNG
 |
 |
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_selectfileandimport2.PNG
+
+* Click **Catalog**. The Catalog includes the products that are visible with violations.
+
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clickcatalog.PNG
 |
 |
 
-#. Click **Catalog**. The Catalog includes the products that are visible with violations.
 
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_viewviolations.PNG
-|
-|
+* Click on the **Transfer to PIM** option. The products get transferred to PIM.
 
-#. Click on the **Transfer to PIM** option. The products get transferred to PIM.
-
-.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clicktransfertopim.PNG
+.. image:: /feature/_images/pepimages/cs_correctimportedrecords_clicktransferpim.PNG
 |
 |
 

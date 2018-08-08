@@ -27,7 +27,7 @@ To export product data to an Excel file, follow these steps:
 
 |
 
-#. Select the products that will be exported.  A user can select an entire page by using the **Select All** button.
+* Select the products that will be exported.  A user can select an entire page by using the **Select All** button.
 
 .. image:: /feature/_images/mdmimages/simpleexcelbasedexport_selecttheproducts.PNG
 |
@@ -35,14 +35,14 @@ To export product data to an Excel file, follow these steps:
 |
 |
 
-#. Once the products are selected, click on the **Export to Excel** button.
+* Once the products are selected, click on the **Export to Excel** button.
 
 .. image:: /feature/_images/mdmimages/simpleexcelbasedexport_clicktheexporttoexcel.PNG
 |
 |
 
 
-#. Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
+* Wait for the Excel file to be downloaded. The exported file will contain all the data of the selected products.
 
 |
 |

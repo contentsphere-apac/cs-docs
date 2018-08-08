@@ -1,0 +1,43 @@
+===========================
+Introduction to Classes
+===========================
+
+What is a Class?
+==================
+
+A class is a blueprint, a detailed description, a definition of the object. It describes the attributes,
+characteristics and behavior that you use to create any type of object. For example, you want to
+build a house, then you first make its blueprint. The blueprint of a house describes everything about
+how that house will be built. You can use this blueprint to build one, two, or hundred houses. In the same manner,
+you define the blueprint of any object in the class, and then using that class you can create N
+number of objects of that class.
+
+| Different classes available in the system
+* Article
+* Asset
+* Campaign
+* Promotion
+* Supplier
+* Target
+* Text Asset
+* Virtual Catalog
+
+.. image:: /feature/_images/butimages/cs_classes.PNG
+|
+
+Each class can be categorized either as: Nature Class or Non-Nature Class
+
+Nature Class
+--------------
+
+We can define a base type of product using Nature class. Here, we can define behavior of a product. It
+helps to define how a product should look like.
+
+
+Attribution or Non-Nature Class
+---------------------------------
+
+There are two ways to enrich the product details; one way is to add taxonomies to a product and the
+other way is to add Non-Nature class to a product. So, defining a Non-Nature class is one of the ways
+to enrich the product. We can define additional attributes in a non-nature class and tag this non-
+nature class to a product. This will specify further additional details regarding the product.

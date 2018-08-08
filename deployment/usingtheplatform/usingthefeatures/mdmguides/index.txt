@@ -1,0 +1,12 @@
+============================
+Master Data Management (MDM)
+============================
+
+.. toctree::
+   :maxdepth: 1
+
+   administration/index
+   collaboration/index
+   general/index
+   governance/index
+   products/index

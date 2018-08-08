@@ -29,67 +29,67 @@ To create and add property collections, follow these steps:
 
 |
 
-#. Log in and click on the **Administration** button.
+* Log in and click on the **Administration** button.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_login.PNG
 |
 |
 
-#. Click on the **Property Groups** drop-down list and select **Property Collections**.
+* Click on the **Property Groups** drop-down list and select **Property Collections**.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_clickpropertygroups.PNG
 |
 |
 
-#. Click on the "+" icon to create a property collection.
+* Click on the "+" icon to create a property collection.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_clickplusicon.PNG
 |
 |
 
-#. Enter the name of the property collection and click on the **Create** button.
+* Enter the name of the property collection and click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_entername.PNG
 |
 |
 
-#. Increase or decrease the number of rows and columns to accommodate the attributes and tags into the property collection.
+* Increase or decrease the number of rows and columns to accommodate the attributes and tags into the property collection.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_rowscolumns.PNG
 |
 |
 
-#. Add the attributes, tags and roles to the property collection.
+* Add the attributes, tags and roles to the property collection.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_canbeadded.PNG
 |
 |
 
-#. Drag and drop the attributes and tags into the empty rows and columns.
+* Drag and drop the attributes and tags into the empty rows and columns.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_dragdrop.PNG
 |
 |
 
-#. Click on the **Classes** drop-down list and select the class to which the property collection will be applied.
+* Click on the **Classes** drop-down list and select the class to which the property collection will be applied.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_classesdropdownlist.PNG
 |
 |
 
-#. Click the "+" icon in the class to add the property collection.
+* Click the "+" icon in the class to add the property collection.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_addpropertycollection.PNG
 |
 |
 
-#. Select the property collection to be added and click on the **Apply** button.
+* Select the property collection to be added and click on the **Apply** button.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_selectpropertycollection.PNG
 |
 |
 
-#. View the added property collection.
+* View the added property collection.
 
 .. image:: /feature/_images/mdmimages/cs_propertycollections_viewpropertycollection.PNG
 |

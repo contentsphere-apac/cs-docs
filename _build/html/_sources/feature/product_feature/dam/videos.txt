@@ -27,31 +27,31 @@ To upload videos of various formats, follow these steps:
 
 |
 
-#. Log in to the application. Go to *DAM*.
+* Log in to the application. Go to *DAM*.
 
 .. image:: /feature/_images/damimages/cs_videos_login.PNG
 |
 |
 
-#. Click on the **Bulk Upload** icon.
+* Click on the **Bulk Upload** icon.
 
 .. image:: /feature/_images/damimages/cs_videos_bulkupload.PNG
 |
 |
 
-#. On the pop-up window, select the **Video** class to upload videos. Selecting the Collections is optional.
+* On the pop-up window, select the **Video** class to upload videos. Selecting the Collections is optional.
 
 .. image:: /feature/_images/damimages/cs_videos_selectvideoclass.PNG
 |
 |
 
-#. Click on the **Next** button.
+* Click on the **Next** button.
 
 .. image:: /feature/_images/damimages/cs_videos_clicknext.PNG
 |
 |
 
-#. On the dialog box, select the videos from the computer.
+* On the dialog box, select the videos from the computer.
 
 .. image:: /feature/_images/damimages/cs_videos_selectvideos.PNG
 |

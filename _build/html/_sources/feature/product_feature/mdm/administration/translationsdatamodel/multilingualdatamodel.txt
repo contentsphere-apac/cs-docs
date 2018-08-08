@@ -22,77 +22,51 @@ The Multilingual Data Model is a feature that provides translations for the vari
 
 
 How-to: Multilingual Data Model
-=================================
+===================================
 To do this, follow these steps:
 
 |
 
-#.  Go to the **Settings**.
+* Click the **Administration** icon.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_gotosettingsb.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clickadministration.PNG
 |
 |
 
 
-#. Click  *Translations* tab on the top.
+* Click the **Translations** tab on the top.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_clicktransb.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktranslation.PNG
 |
 |
 
 
-#. Click  the **Tags** icon to view all the tags in the system.
+* Click the **Tags** icon to view all the tags in the system.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_clicktagsb.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktagsicon.PNG
 |
 |
 
 
-#. Select the desired tag and enter the translation value for the language on the left.
+* Select the desired tag and enter the translation value for the language on the left.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_seltag2b.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_selectdesiredtag.PNG
 |
 |
 
 
-#.  Repeat the same steps for class, attributes and property collection and other configurations.
-
-
-#.  Login again with the desired language; you can see the translated data model items.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodelb_loginb.PNG
-|
-|
-
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_gotosettings.PNG
-|
-|
-
-#. Click  *Translations* tab on the top.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktrans.PNG
-|
-|
-
-#. Click  the **Tags** icon to view all the tags in the system.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_clicktags.PNG
-|
-|
-
-#. Select the desired tag and enter the translation value for the language on the left.
-
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_seltag2.PNG
-|
-|
-
-#.  Repeat the same steps for class, attributes and property collection and other configurations.
+* Repeat the same steps for class, attributes and property collection and other configurations.
 
 |
 
-#.    Login again with the desired language; you can see the translated data model items.
+* Login again with the desired language; you can see the translated data model items.
 
-.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_login.PNG
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_loginagain.PNG
+|
+|
+
+
+.. image:: /feature/_images/mdmimages/cs_multilingualdatamodel_loginagain3.PNG
 |
 |
 

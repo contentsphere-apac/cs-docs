@@ -25,58 +25,58 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in. Click **Administration** icon.
+* Log in. Click **Administration** icon.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickadministration.PNG
 |
 |
 
 
-#. On the *Data Model* tab, scroll down to click on **Asset**.
+* On the *Data Model* tab, scroll down to click on **Asset**.
 
 
-#. Click on **'+'** to create a new Asset.
+* Click on **'+'** to create a new Asset.
 
 
-#. In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
+* In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
 
 
-#. Click **CREATE**.
+* Click **CREATE**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickcreate.PNG
 |
 |
 
 
-#. Click on the **Context** on the right hand side window.
+* Click on the **Context** on the right hand side window.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickcontext.PNG
 |
 |
 
 
-#. In the Edit window, enable *'Auto Create'*, and select the *Resolution Tags*  and select the *Tag Combinations*.
+* In the Edit window, enable *'Auto Create'*, and select the *Resolution Tags*  and select the *Tag Combinations*.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_intheeditwindowautocrestagtagcombi.PNG
 |
 |
 
 
-#. Click on **Asset** and go to **Image**. In the window to the right, scroll down to click **Technical Image**.
+* Click on **Asset** and go to **Image**. In the window to the right, scroll down to click **Technical Image**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimage.PNG
 |
 |
 
 
-#. Select   *'Resolution Variant'* ( we have created in the previous step). Click **Apply** and **Save**.
+* Select   *'Resolution Variant'* ( we have created in the previous step). Click **Apply** and **Save**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimageb.PNG
 |
 |
 
 
-#. Click on **Explore** and then **DAM**.
+* Click on **Explore** and then **DAM**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickexplore.PNG
 |
@@ -87,28 +87,28 @@ To do this feature, follow these steps:
 |
 
 
-#. Select an image, and click on *Contexts* tab.
+* Select an image, and click on *Contexts* tab.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_selectimage.PNG
 |
 |
 
 
-#. Click  **Create**.
+* Click  **Create**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_selectimagecontextcreate.PNG
 |
 |
 
 
-#. Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'* ). Click **Save**.
+* Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'* ). Click **Save**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_selectdesiredconfig.PNG
 |
 |
 
 
-#. Click the **Contexts** tab to view the  various *Resolutions Variants* of the image.
+* Click the **Contexts** tab to view the  various *Resolutions Variants* of the image.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_viewvariousresocontexttab.PNG
 |
