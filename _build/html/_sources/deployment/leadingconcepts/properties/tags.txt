@@ -3,9 +3,9 @@ Tags
 =====
 
 
-A tag is a multi-valued characteristic or property of the component that can have multiple values at a time.
+A tag is a multi-valued characteristic or property of a product component that can have multiple values at a time.
 A user can select one or more options for the value that will then be attached to a product.
-When a property can have one or more options as its value, it can be defined as a tag in the system (which is the main difference from an attribute that has only one value).
+When a property can have one or more options as its value, it can be defined as a tag in the system (which is the main difference from an attribute which has only one value).
 The properties precede with a *tag icon* are the tags in the system.
 
 
@@ -37,7 +37,7 @@ Examples for this tag are options for *True or False, 0 or 1, Enabled or Disable
 
 	**Example:**
 
-	A manufacturer wants to keep track of the availability of his products. For this, he can use a *Boolean tag*.
+	A manufacturer wants to keep track of the availability of his products. He can use a *Boolean Attribute* to keep track of the availability.
 	The Boolean has two options: *Available and Not Available*. The attribute can only have one value at a time, either available or not available.
 	If a product is available at a moment, then the attribute value will be *Available*, and if the product is not available at a moment, then the attribute value will be *Not Available*.
 
@@ -51,7 +51,7 @@ LOV
 ----
 
 LOV is an abbreviation for **List of Values**.
-LOV tag is a multi-valued property that can have multiple options as its value.
+LOV is a multi-valued property that can have multiple options as its value.
 A user can define multiple values for an LOV tag.
 
 
@@ -61,12 +61,52 @@ A user can define multiple values for an LOV tag.
 
 	**Example:**
 
-	A clothing manufacturer wants to keep track of the age group of consumers that buy his products.
+	A clothing manufacturer wants to keep track of the age group who buys his products.
 	A manufacturer can define a single LOV tag for the age, which can be set to have different age brackets.
 	This tag can have multiple options like *0-30, 31-44, greater than 45* and others.
 	Now, the manufacturer can use this tag to keep track of the age group.
 
+
+An LOV type of tag will have the following options:
+* Yes, Neutral
+* Yes, Neutral, No
+* Range
+* Ruler
+
+
+.. image:: /feature/_images/butimages/cs_properties_lovtypes.PNG
 |
+
+
+Each of this LOV type will be useful for various applications:
+
+**Yes, Neutral and Yes, Neutral, No**
+This LOV type provides options that are displayed as a percentage bar to denote the likeliness of a property to be a **Yes**, **Neutral**, or a **No**.
+For example, when used for a Gender property, the tag can describe the usability of that product for that gender.
+
+
+.. image:: /feature/_images/butimages/cs_properties_lovtypeyesno.PNG
+|
+
+
+**Range**
+This LOV type allows a user to set a value for a property.  This tag can be used by a property to select a value on a scale.
+In runtime, a range type tag will allow a user to set a value for a property by picking a value from a scale of pre-defined values.
+
+.. image:: /feature/_images/butimages/cs_properties_lovtyperange.PNG
+|
+
+
+**Ruler**
+This LOV type lets a user to directly select a value from the options that are readily available on an empty field of a property.
+A user will just have to click on the appropriate value from the available list.
+
+.. image:: /feature/_images/butimages/cs_properties_lovtyperuler.PNG
+|
+
+
+|
+
 
 Master
 -------
@@ -74,9 +114,9 @@ Master
 A Master tag is a multi-valued property that can have multiple options as its value.
 A Master tag can be linked with multiple LOV tags.
 When a Master tag is linked with an LOV tag, an LOV tag will inherit multi-valued options of a Master tag as its value.
-In addition, a Master tag is also useful in creating hierarchy levels of taxonomies.
-Whenever a user creates a hierarchy level to define a taxonomy, he will have an option to use the existing *Master tags*.
-Every time a user creates a new hierarchy level of taxonomy, it will reflect in the list of Master tags.
+In addition to that, a Master tag is also useful in creating hierarchy levels of taxonomies.
+Whenever a user is creating a hierarchy level to define a taxonomy, he will have an option to use existing *Master tags*.
+Moreover, whenever a user will create a new hierarchy level of taxonomy, it will reflect in the list of Master tags.
 
 
 .. image:: /feature/_images/butimages/cs_properties_master.PNG
@@ -85,8 +125,8 @@ Every time a user creates a new hierarchy level of taxonomy, it will reflect in 
 
 	**Example:**
 
-	A furniture manufacturer wants to keep track of the color of all the products since they are of various colors.
-	A manufacturer can define a single LOV tag for color.
+	A furniture manufacturer wants to keep track of the color of all the products.
+	All the products have different colors. A manufacturer can define a single LOV tag for color.
 	This color tag can have multiple options for example, *Red, Black, Blue, Grey,* and so on.
 	Now, the manufacturer can use this tag to keep track of the colors for all the products.
 
@@ -113,7 +153,7 @@ For example, we have a product lifecycle status, product availability status, an
 Unit
 -----
 A Unit tag is a multi-valued property that can have multiple options as its value.
-It is used only in Unit classes to define the context. These tags are used as unit tags when defining the context in the Unit classes.
+It is used only in Unit classes to define the context. These tags are used as unit tags while defining the context in the Unit classes.
 
 
 .. image:: /feature/_images/butimages/cs_properties_unit.PNG
