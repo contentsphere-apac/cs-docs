@@ -47,8 +47,7 @@ To define article links, follow these steps:
 |
 |
 
-* Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
-   In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
+* Enter the name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists. In the example shown, a relationship is created for an *Electronics* product and one of its *Accessories*.
 
 .. image:: /feature/_images/mdmimages/cs_definearticlelinks_entername.PNG
 |
