@@ -59,7 +59,7 @@ To do this data governance feature, follow these steps:
 |
 
 
-* Provide a name for the rule and click on the *Attributes and Classes* where the data quality rule will be applied.
+* Provide a name for the rule and click on the **Attributes and Classes** where the data quality rule will be applied.
 
 .. image:: /feature/_images/mdmimages/cs_dataqualityrule_entername.PNG
 |
