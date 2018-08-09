@@ -74,5 +74,5 @@ and access the :doc:`Using this Resource <feature/helpcentermain>` to learn addi
 
 |
 
-.. image:: _images/line-png-32.PNG
+.. image:: _images/line-png-32.PNG1
    :alt: Contentserv line
