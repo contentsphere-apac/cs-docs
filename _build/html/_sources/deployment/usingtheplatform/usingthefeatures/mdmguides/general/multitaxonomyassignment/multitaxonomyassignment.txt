@@ -30,37 +30,37 @@ To assign a single object to multiple different taxonomies or to multiple nodes 
 
 |
 
-#. Log in and go to *PIM*.
+* Log in and go to *PIM*.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_login.PNG
 |
 |
 
-#. Click on a product.
+* Click on a product.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_clickproduct.PNG
 |
 |
 
-#. Click on the **Add Taxonomy** button.
+* Click on the **Add Taxonomy** button.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_addtaxonomy.PNG
 |
 |
 
-#. Select a parent taxonomy from the drop-down list.
+* Select a parent taxonomy from the drop-down list.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_selectparenttaxonomy.PNG
 |
 |
 
-#. For additional classification, click on the **Classify Further** button.
+* For additional classification, click on the **Classify Further** button.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_classifyfurther.PNG
 |
 |
 
-#. Select a node from the drop-down list.
+* Select a node from the drop-down list.
 
 .. image:: /feature/_images/mdmimages/cs_multitaxonomyassignment_selectnode.PNG
 |

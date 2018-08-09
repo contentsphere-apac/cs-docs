@@ -94,8 +94,7 @@ To do this feature, follow these steps:
 |
 
 
-* Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc.
-   Do this by clicking on the **Change Type** icon (icon that looks like a wrench).
+* Adding a *Task Notation* simply defines the task.  Provide more definition to what kind of task it is by identifying whether it is an *import article, import asset, import relationship*, etc. Do this by clicking on the **Change Type** icon (icon that looks like a wrench).
 
 .. image:: /feature/_images/mdmimages/cs_taskstocompleteactions_addingatasknotation.PNG
 |

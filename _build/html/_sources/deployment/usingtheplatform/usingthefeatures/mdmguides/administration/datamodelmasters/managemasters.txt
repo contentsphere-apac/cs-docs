@@ -58,7 +58,7 @@ To do this, follow these steps:
 |
 
 
-* Enter a tag name i.e “Region” and click **CREATE**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
+* Enter a tag name i.e “Region” and click **Create**. Repeat the process to create other tags such as *Color, Material*, and *Brands* to create Master tags.
 
 .. image:: /feature/_images/mdmimages/cs_managemasters_entertagname.PNG
 |
