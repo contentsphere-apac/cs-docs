@@ -124,7 +124,7 @@ To do this, follow these steps:
 
 * Click *Roles* tab and select a role ( in this demo, we selected " Garment Supplier"). Then, select a KPI and click **Apply**.
 
-.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_clickrolesselectrole.PNG
+.. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpiroleall.PNG
 |
 |
 

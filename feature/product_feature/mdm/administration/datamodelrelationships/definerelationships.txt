@@ -48,8 +48,7 @@ To define relationships, follow these steps:
 |
 |
 
-* Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists.
-   In the example shown, a relationship is created for *Article* and the *Region* articles.
+* Enter a name for the relationship and select the two desired entity classes to be linked in *Side1 and Side2* using the drop-down lists. In the example shown, a relationship is created for *Article* and the *Region* articles.
 
 .. image:: /feature/_images/mdmimages/cs_definerelationships_entername.PNG
 |

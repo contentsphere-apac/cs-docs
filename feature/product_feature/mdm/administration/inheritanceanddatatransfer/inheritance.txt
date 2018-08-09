@@ -27,28 +27,28 @@ Inheriting a subset of attributes from a taxonomy is easy, and here's how to do 
 
 |
 
-#. On the home page, click the **Administration** icon.
+* On the home page, click the **Administration** icon.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_clickadministration.PNG
 |
 |
 
 
-#. On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
+* On the *Data Model* tab, click **Taxonomies**. Then, **Master Taxonomies**.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_ondatamodeltab.PNG
 |
 |
 
 
-#. Click on the "+" icon to create a new taxonomy and click the **Create** button.
+* Click on the "+" icon to create a new taxonomy and click the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_clickplus.PNG
 |
 |
 
 
-#. Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
+* Enter a name for the taxonomy then add property collection. Click **Apply** button to save the added property collection.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_enternameaddproperty.PNG
 |
@@ -57,28 +57,28 @@ Inheriting a subset of attributes from a taxonomy is easy, and here's how to do 
 |
 
 
-#. Select the type of coupling, enter the default value, and click **Save**.
+* Select the type of coupling, enter the default value, and click **Save**.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_selecttypecoupling.PNG
 |
 |
 
 
-#. Click **Explore** icon.
+* Click **Explore** icon.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_clickexplore.PNG
 |
 |
 
 
-#. Go to **PIM** and select your product.
+* Go to **PIM** and select your product.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_gotopimselectproduct.PNG
 |
 |
 
 
-#. Click **Add Taxonomy** to add your created taxonomy. Go to *Property Collection* tab.
+* Click **Add Taxonomy** to add your created taxonomy. Go to *Property Collection* tab.
 
 .. image:: /feature/_images/mdmimages/cs_inheritance_clickaddtaxonomy.PNG
 |

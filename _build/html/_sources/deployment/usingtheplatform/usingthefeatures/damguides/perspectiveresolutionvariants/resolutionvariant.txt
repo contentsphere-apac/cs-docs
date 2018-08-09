@@ -41,7 +41,7 @@ To do this feature, follow these steps:
 * In the Create window, enter Name, enable Nature class, and click **Type** and select *'Technical image'*.
 
 
-* Click **CREATE**.
+* Click **Create**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_clickcreate.PNG
 |
@@ -69,7 +69,7 @@ To do this feature, follow these steps:
 |
 
 
-* Select   *'Resolution Variant'* ( we have created in the previous step). Click **Apply** and **Save**.
+* Select *'Resolution Variant'* (that we have created in the previous step). Click **Apply** and **Save**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_gotoimageb.PNG
 |
@@ -101,7 +101,7 @@ To do this feature, follow these steps:
 |
 
 
-* Select the desired resolution in *CONFIGURATION* section ( in this demo, we selected *'72 dpi resolution'* ). Click **Save**.
+* Select the desired resolution in *CONFIGURATION* section (in this demo, we selected *'72 dpi resolution'*). Click **Save**.
 
 .. image:: /feature/_images/damimages/cs_resolutionvariant_selectdesiredconfig.PNG
 |

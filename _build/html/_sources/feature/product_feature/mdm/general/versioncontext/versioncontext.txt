@@ -27,21 +27,21 @@ To do this feature, follow these steps:
 
 |
 
-#. Log in and go to *Administration*.
+* Log in and go to *Administration*.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_login.PNG
 |
 |
 
 
-#. Click on **Contexts** and then, click on "+" icon to create a context.
+* Click on **Contexts** and then, click on "+" icon to create a context.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickoncontexts.PNG
 |
 |
 
 
-#. Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button.
+* Provide the following details: *Name and Type*.  Select the **Version Context** option for the Type field.  Click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_providenameandtype.PNG
 |
@@ -50,14 +50,14 @@ To do this feature, follow these steps:
 |
 
 
-#. A new window will pop up; set the details and options: *Icon, Enable Time (Campaign Period), Allow Duplicate,* and  the relevant *Tags*.
+* A new window will pop up; set the details and options: *Icon, Enable Time (Campaign Period), Allow Duplicate,* and  the relevant *Tags*.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_anewwindowwillpopup.PNG
 |
 |
 
 
-#. Click the **Save** button once done. And then, click **Ok**.
+* Click the **Save** button once done. And then, click **Ok**.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton.PNG
 |
@@ -66,14 +66,14 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
+* Click on **Article** under the *Classes* section. Create a new article or select an existing one from the list.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickonarticleundertheclasses.PNG
 |
 |
 
 
-#. Once selected, update the *Version Context* field that can be seen on the right. Select the newly created version context from the options and save the changes.
+* Once selected, update the *Version Context* field that can be seen on the right. Select the newly created version context from the options and save the changes.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_onceselectedupdatetheversioncontext.PNG
 |
@@ -82,14 +82,14 @@ To do this feature, follow these steps:
 |
 
 
-#. Click on the **Explore** icon and go to the product.
+* Click on the **Explore** icon and go to the product.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickonexplore.PNG
 |
 |
 
 
-#. In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create a version of the product.
+* In the *Overview* tab, go to the section of the **Version Context** and click on the "+" icon to create a version of the product.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_intheoverviewtab.PNG
 |
@@ -98,21 +98,21 @@ To do this feature, follow these steps:
 |
 
 
-#. Provide the necessary details and then click on the **Create** button.
+* Provide the necessary details and then click on the **Create** button.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_providethenecessarydetails.PNG
 |
 |
 
 
-#. Wait for the new window, *Create Clone Variant* to load.  Select all the *Tags* and *Attributes* that apply to that variant.
+* Wait for the new window, *Create Clone Variant* to load.  Select all the *Tags* and *Attributes* that apply to that variant.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_waitforthenewwindow.PNG
 |
 |
 
 
-#. Click the **Create** button and then, view the created variant.
+* Click the **Create** button and then, view the created variant.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickthecreatebutton.PNG
 |

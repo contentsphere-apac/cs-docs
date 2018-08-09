@@ -20,19 +20,6 @@ Learn the basics to get up and running quickly.
 
 
 
-Concepts
-=========
-
-Understand the core concepts.
-
-.. toctree::
-   :maxdepth: 1
-
-   whatisadatamodel
-   howclasseswork
-
-
-
 Onboarding
 ===========
 

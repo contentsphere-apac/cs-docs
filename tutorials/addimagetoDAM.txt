@@ -12,12 +12,6 @@ To do this, follow these steps:
 
 |
 
-* Click **Explore**.
-
-.. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickexplore.PNG
-|
-|
-
 * Click **DAM**.
 
 .. image:: /feature/_images/mdmimages/cs_addimagetoDAM_clickdam.PNG
@@ -54,7 +48,7 @@ To do this, follow these steps:
 |
 |
 
-* Go to the *Metadata* nunder the *Property Collection* tab.
+* Go to the *Metadata* under the *Property Collection* tab.
 
 .. image:: /feature/_images/mdmimages/cs_addimagetoDAM_gotometadata.PNG
 |
@@ -65,7 +59,7 @@ To do this, follow these steps:
 |
 
 
-* The available metadata on the Meta Data section  will auto-complete but fields can be manually filled out as desired.
+* The available metadata on the Meta Data section will auto-complete but the fields can be manually filled out as desired.
 
 .. image:: /feature/_images/mdmimages/cs_addimagetoDAM_availablemetadata.PNG
 
