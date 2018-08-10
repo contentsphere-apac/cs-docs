@@ -1,6 +1,6 @@
-=================================
+================================
 Import/Export Data via Endpoints
-=================================
+================================
 The Import/Export Data via Endpoints is a feature that provides a *Data Integration* dashboard for a workspace so that data can be imported or exported using the endpoints.
 
 
