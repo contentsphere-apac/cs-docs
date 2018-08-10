@@ -96,7 +96,7 @@ To do this, follow these steps:
 |
 
 
-*View the created dashboard. It drills down in the KPI, click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
+* View the created dashboard. It drills down in the KPI, click on the graph bar and the KPI is drilled down with the appropriate taxonomy and tag.
 
 .. image:: /feature/_images/mdmimages/cs_drilldownforkpireports_viewcreateddashboard.PNG
 |

@@ -57,7 +57,7 @@ To do this feature, follow these steps:
 |
 
 
-* Click the **Save** button once done. And then, click **Ok**.
+* Click the **Save** button once done. And then, click **OK**.
 
 .. image:: /feature/_images/mdmimages/cs_versioncontext_clickthesavebutton.PNG
 |

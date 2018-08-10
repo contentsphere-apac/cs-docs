@@ -81,7 +81,7 @@ To do this, follow these steps:
 |
 
 
-* Click the *Completeness* tab. Then, click to select **attributes** and **Tags**.
+* Click the *Completeness* tab. Then, click to select **Attributes** and **Tags**.
 
 .. image:: /feature/_images/mdmimages/cs_pibaseddqreports_incompletenesstab.PNG
 |
@@ -122,7 +122,7 @@ To do this, follow these steps:
 |
 
 
-* Click *Roles* tab and select a role ( in this demo, we selected " Garment Supplier"). Then, select a KPI and click **Apply**.
+* Click *Roles* tab and select a role (in this demo, we selected " Garment Supplier"). Then, select a KPI and click **Apply**.
 
 .. image:: /feature/_images/mdmimages/cs_pibaseddqreports_assignkpiroleall.PNG
 |

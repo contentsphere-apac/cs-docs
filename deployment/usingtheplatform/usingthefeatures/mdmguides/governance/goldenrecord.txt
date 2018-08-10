@@ -93,9 +93,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-* For the **Merge** section, define the *Attributes, Tags, Relationships, and Nature Relationships*.
-   When you define these parameters, the default value gets reflected for the defined attribute, tag, relationship, or nature relationship while merging
-   (though one can override the values in the merging process).
+* For the **Merge** section, define the *Attributes, Tags, Relationships, and Nature Relationships*. When you define these parameters, the default value gets reflected for the defined attribute, tag, relationship, or nature relationship while merging (though one can override the values in the merging process).
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_forthemergesection.PNG
 |
@@ -111,8 +109,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-* Once the **Apply** button is clicked, a new window will open.  Notice that the *Latest* radio button is turned on, by default.
-   This means that the system will consider the value of the latest record from the duplicate records for the selected/defined attribute.
+* Once the **Apply** button is clicked, a new window will open.  Notice that the *Latest* radio button is turned on, by default. This means that the system will consider the value of the latest record from the duplicate records for the selected/defined attribute.
 
 .. image:: /feature/_images/mdmimages/cs_goldenrecord_oncetheapplybutton.PNG
 |
@@ -168,8 +165,7 @@ To create a *Golden Record*, follow these steps:
 |
 
 
-*Note: Once there are duplicates, whose attributes are monitored by the Golden Record rule, the system will compare the provided details of each product (Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies) to find these duplicates.
-Once found, the system will put these records in a bundle and will create a bucket.*
+*Note: Once there are duplicates, whose attributes are monitored by the Golden Record rule, the system will compare the provided details of each product (Tags, Attributes, Nature Class, Non-Nature Class, and Taxonomies) to find these duplicates. Once found, the system will put these records in a bundle and will create a bucket.*
 
 |
 |
