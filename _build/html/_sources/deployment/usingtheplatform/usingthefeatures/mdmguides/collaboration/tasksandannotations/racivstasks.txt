@@ -25,7 +25,7 @@ The RACI-VS Tasks is a feature that allows users to create a task and assign rol
 ===================     ===============================================================================================================================================================
 
 
-How-to: RACI-VS Tasks
+How to do: RACI-VS Tasks
 =========================
 To do this feature, follow these steps:
 
@@ -33,41 +33,48 @@ To do this feature, follow these steps:
 
 * Go to *PIM* and select a product.
 
-.. image:: /feature/_images/mdmimages/racivstasks_gotoPIM.PNG
+.. image:: /feature/_images/mdmimages/cs_racivstasks_gotopim.PNG
 |
 |
+
 
 * Click on the **Tasks** tab to create a new task.
 
-.. image:: /feature/_images/mdmimages/racivstasks_clickonthetasktab.PNG
+.. image:: /feature/_images/mdmimages/cs_racivstasks_clickontasktab.PNG
 |
 |
 
-* Select the *Content Level* task.
 
-.. image:: /feature/_images/mdmimages/racivstasks_clickonthecontentleveltask.PNG
+* Select the **Content Level** task.
+
+.. image:: /feature/_images/mdmimages/cs_racivstasks_selectcontentleveltask.PNG
+|
+.. image:: /feature/_images/mdmimages/cs_racivstasks_selectcontentleveltask2.PNG
 |
 |
+
 
 * Click on **Add New Task** button to create a new task.
 
-.. image:: /feature/_images/mdmimages/racivstasks_clickontheaddnewtaskbutton.PNG
+.. image:: /feature/_images/mdmimages/cs_racivstasks_clickonaddnewtask.PNG
 |
 |
+
 
 * Enter the name of the new task then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/racivstasks_enterthenameofthenewtask.PNG
+.. image:: /feature/_images/mdmimages/cs_racivstasks_enterthename.PNG
 |
 |
 
-* Select the users for the roles in the tasks then click on the **Save** button.
 
-.. image:: /feature/_images/mdmimages/racivstasks_selecttheusers.PNG
+* Provide the description and important dates then click on the **Save** button.
+
+.. image:: /feature/_images/mdmimages/cs_racivstasks_providethedescription.PNG
 |
-.. image:: /feature/_images/mdmimages/racivstasks_selecttheusers2.PNG
 |
-|
+
+
 
 *Note: The task flow (including the roles involved) is shown below:*
 
@@ -75,11 +82,13 @@ To do this feature, follow these steps:
 |
 |
 
+
   * The user who created the task, by default, is the **Accountable** user. The **Accountable** user can change the task from *Planned* to the *Ready* state.
 
   .. image:: /feature/_images/mdmimages/racivstasks_plannedtoready.PNG
   |
   |
+
 
   * Once in the *Ready* state, the **Responsible** user acknowledges the task and sets it to either *Declined* or *In Progress*.
 
@@ -87,11 +96,13 @@ To do this feature, follow these steps:
   |
   |
 
+
   * When the task is completed by the **Accountable** user, the **Responsible** user acknowledges and sets the status to *Done*.
 
   .. image:: /feature/_images/mdmimages/racivstasks_whenthetaskiscompleted.PNG
   |
   |
+
 
   * Once the status is *Done*, the **Verifier** checks the completion of the task and can set the status back to *In Progress*. If there are no changes, the **Verifier** endorses it to *Verified* status.
 
@@ -99,11 +110,13 @@ To do this feature, follow these steps:
   |
   |
 
+
   * If the **Verifier** sets it back to *In Progress*, the **Accountable** user will have to ensure the completion of the task again so that the **Responsible** user can set it to *Done* and then, the **Verifier** will validate. If the status is set to *Verified*, move to the next step.
 
   .. image:: /feature/_images/mdmimages/racivstasks_iftheverifiersetsitback.PNG
   |
   |
+
 
   * Once *Verified*, the **Sign-off** user can set it back to *In Progress* wherein the cycle will restart. If everything is good, the **Sign-off** user can set it to *Signed off*.
 
@@ -111,11 +124,12 @@ To do this feature, follow these steps:
   |
   |
 
+
   * If *Signed off*, the final status will look like the image shown below:
 
   .. image:: /feature/_images/mdmimages/racivstasks_thefinalsignoff.PNG
   |
-
+  |
 
 
 .. image:: /feature/_images/mdmimages/line-png-32.PNG
