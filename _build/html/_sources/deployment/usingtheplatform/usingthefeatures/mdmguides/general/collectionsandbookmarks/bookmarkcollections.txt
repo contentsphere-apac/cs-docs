@@ -100,7 +100,7 @@ Bookmarks: Setting a Private Bookmark
 |
 |
 
-* Click on the **Lock** icon to set the bookmark aS *Private*.
+* Click on the **Lock** icon to set the bookmark as *Private*.
 
 .. image:: /feature/_images/mdmimages/cs_bookmarksandcollections_privatebookmark.PNG
 |
