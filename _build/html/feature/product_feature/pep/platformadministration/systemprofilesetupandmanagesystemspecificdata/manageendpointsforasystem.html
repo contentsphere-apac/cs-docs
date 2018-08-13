@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Import/Export Data via Endpoints &mdash; Contentserv  documentation</title>
+  <title>Manage Endpoints for a System &mdash; Contentserv  documentation</title>
   
 
   
@@ -132,7 +132,7 @@
     
       <li><a href="../../../../../contents.html">Docs</a> &raquo;</li>
         
-      <li>Import/Export Data via Endpoints</li>
+      <li>Manage Endpoints for a System</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -149,111 +149,155 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="s-import-export-data-via-endpoints">
-<span id="import-export-data-via-endpoints"></span><h1>Import/Export Data via Endpoints<a class="headerlink" href="#import-export-data-via-endpoints" title="Permalink to this headline">¶</a></h1>
-<p>The Import/Export Data via Endpoints is a feature that provides a <em>Data Integration</em> dashboard for a workspace so that data can be imported or exported using the endpoints.</p>
+  <div class="section" id="s-manage-endpoints-for-a-system">
+<span id="manage-endpoints-for-a-system"></span><h1>Manage Endpoints for a System<a class="headerlink" href="#manage-endpoints-for-a-system" title="Permalink to this headline">¶</a></h1>
+<p>Manage Endpoints for a System is an admin feature that manages endpoints in the system that are used for onboarding or offboarding of products.</p>
 <table class="docutils">
 <colgroup>
-<col width="10%" />
-<col width="90%" />
+<col width="11%" />
+<col width="89%" />
 </colgroup>
 <tbody valign="top">
-<tr class="row-odd"><td><strong>Key Term</strong></td>
+<tr class="row-odd"><td><strong>Key Term:</strong></td>
 <td><ul class="first last simple">
-<li><strong>Endpoint:</strong> an endpoint is a gateway that describes the system, processes and mapping to be used when onboarding or offboarding the products to and from the system.</li>
+<li><strong>Endpoint:</strong> is a gateway that describes the system, process, and mapping to be used when onboarding or offboarding the products to and from the system.</li>
 </ul>
 </td>
 </tr>
 <tr class="row-even"><td><strong>Description:</strong></td>
 <td><ul class="first last simple">
-<li>The dashboard provides an at-a-glance view of the key indicators in the process or system.</li>
-<li>A dashboard for the <em>Import/Export Endpoints</em> will showcase all the information regarding the process in a summary.
-It will show key indicators for the products that are transferred through the process.</li>
+<li>This feature allows the managing of endpoints which are considered gateways of a <em>system, process, or mapping</em>.
+These gateways are used for the onboarding or offboarding of one or many products in and out of the system.</li>
 </ul>
 </td>
 </tr>
 <tr class="row-odd"><td><strong>Related topics:</strong></td>
 <td><ul class="first last simple">
-<li><a class="reference internal" href="#"><span class="doc">Manage Endpoints for a System</span></a></li>
-<li><a class="reference internal" href="../systemprofilesetupsystemprofile/managesystemprofile.html"><span class="doc">Manage System Profile</span></a></li>
 <li><a class="reference internal" href="../dataintegrationmanageoutboundendpoint/manageoutboundendpoint.html"><span class="doc">Manage Outbound Endpoint</span></a></li>
+<li><a class="reference internal" href="../dataintegrationmanageoutboundprocess/manageoutboundprocess.html"><span class="doc">Manage Outbound Process</span></a></li>
+<li><a class="reference internal" href="../dataintegrationexportproductsviassff/simpleflatfileexport.html"><span class="doc">Simple Flat File Export</span></a></li>
+<li><a class="reference internal" href="../dataintegrationimportproductsincfviaetl/custometlimport.html"><span class="doc">Custom ETL Import</span></a></li>
+<li><a class="reference internal" href="../dataintegrationexportproductsincfviaetl/custometlexport.html"><span class="doc">Custom ETL Export</span></a></li>
 </ul>
 </td>
 </tr>
 <tr class="row-even"><td><strong>Application:</strong></td>
-<td><ul class="first last">
-<li><p class="first">Based on the dashboard, a supplier or user can view any violation that occurred during the import (or export) process.
-The supplier/user can then take appropriate corrective measures and decisions.</p>
-</li>
-<li><p class="first"><em>Example:</em></p>
-<blockquote>
-<div><p>The <em>Import Endpoint</em> dashboard helps a <em>Fashion</em> supplier to import the fashion data into the system.
-The dashboard will show a summarized report, as well as, a detailed report for the products imported.
-The dashboard will also give a glimpse of erroneous or incomplete data that can be corrected  by the supplier.</p>
-</div></blockquote>
-</li>
+<td><ul class="first last simple">
+<li>It helps a user to choose the gateway from the <em>Data Integration</em> window for the importing or exporting of files.</li>
+<li>It gives a numerical conclusion/summary in the <em>Data Integration</em> window for the different aspects that the endpoint has been used for.</li>
 </ul>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="section" id="s-how-to-import-export-via-endpoints">
-<span id="how-to-import-export-via-endpoints"></span><h2>How-to: Import/Export via Endpoints<a class="headerlink" href="#how-to-import-export-via-endpoints" title="Permalink to this headline">¶</a></h2>
-<p>To import and export via endpoints, follow these steps:</p>
+<div class="section" id="s-how-to-manage-endpoints-for-a-system">
+<span id="how-to-manage-endpoints-for-a-system"></span><h2>How-to: Manage Endpoints for a System<a class="headerlink" href="#how-to-manage-endpoints-for-a-system" title="Permalink to this headline">¶</a></h2>
+<p>To manage the endpoints, follow these steps:</p>
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Log in using the supplier username and password, then click on the <strong>Log In</strong> button.</li>
+<li>Log in and go to <em>Administration</em>.</li>
 </ul>
-<img alt="../../../../../_images/cs_importexportdataviaendpoints_login.PNG" src="../../../../../_images/cs_importexportdataviaendpoints_login.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-<div class="line"><br /></div>
-</div>
-<ul class="simple">
-<li>Click on the <strong>Data Integration</strong> tab.</li>
-</ul>
-<img alt="feature/_images/pepimages/cs_importexportdataviaendpoints_dataintegration.PNG" src="feature/_images/pepimages/cs_importexportdataviaendpoints_dataintegration.PNG" />
+<img alt="../../../../../_images/cs_manageendpointsforsystem_login.PNG" src="../../../../../_images/cs_manageendpointsforsystem_login.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Click on the desired endpoint to open and view the endpoint.</li>
+<li>Click on the <strong>Data Integration</strong> tab and then go to <em>Endpoints</em>.</li>
 </ul>
-<img alt="../../../../../_images/cs_importexportdataviaendpoints_endpoint.PNG" src="../../../../../_images/cs_importexportdataviaendpoints_endpoint.PNG" />
+<img alt="../../../../../_images/cs_manageendpointsforsystem_clickondataintegration.PNG" src="../../../../../_images/cs_manageendpointsforsystem_clickondataintegration.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+</div>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_clickondataintegration2.PNG" src="../../../../../_images/cs_manageendpointsforsystem_clickondataintegration2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Click on the <strong>Import File</strong> button to import data.</li>
+<li>On the right, click on the “+” icon to create a new endpoint.</li>
 </ul>
-<img alt="../../../../../_images/cs_importexportdataviaendpoints_importfile1.PNG" src="../../../../../_images/cs_importexportdataviaendpoints_importfile1.PNG" />
-<div class="line-block">
-<div class="line"><br /></div>
-</div>
-<img alt="feature/_images/pepimages/cs_importexportdataviaendpoints_importfile2.PNG" src="feature/_images/pepimages/cs_importexportdataviaendpoints_importfile2.PNG" />
+<img alt="../../../../../_images/cs_manageendpointsforsystem_ontherightclickontheicon.PNG" src="../../../../../_images/cs_manageendpointsforsystem_ontherightclickontheicon.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>VIew the process under the <em>Process Status</em> tab and click on the <strong>Back</strong> icon to go back to <em>Dashboard</em>.</li>
+<li>Provide the required details.</li>
 </ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails.PNG" src="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<blockquote>
+<div><ul class="simple">
+<li>If onboarding products, select the <em>Inbound Endpoint</em> for the <em>Type</em>. Click <strong>Create</strong>.</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails2.PNG" src="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails2.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
 </div>
 <ul class="simple">
-<li>Click on the drop-down button and select the scenario to be shown in the report.</li>
+<li>If offboarding products, select the <em>Outbound Endpoint</em> for the <em>Type</em>. Click <strong>Create</strong>.</li>
 </ul>
-<img alt="../../../../../_images/cs_importexportdataviaendpoints_dropdown.PNG" src="../../../../../_images/cs_importexportdataviaendpoints_dropdown.PNG" />
+<img alt="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails3.PNG" src="../../../../../_images/cs_manageendpointsforsystem_providetherequireddetails3.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+</div></blockquote>
+<ul class="simple">
+<li>Once the endpoint has been added, enable (or disable) the <em>Realtime Mapping</em>. This allows the mapping in runtime that can be tracked in the dashboard. Click the <strong>Save</strong> button.</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_oncetheendpointhasbeenadded.PNG" src="../../../../../_images/cs_manageendpointsforsystem_oncetheendpointhasbeenadded.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>Click on the <strong>System</strong> field and create a new system or use the <em>“Standard System”</em> from the selection.</dt>
+<dd>To create a new system, click on the <strong>Create ‘system name’</strong> button after typing the name of the new system to be added.</dd>
+</dl>
+</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_clickonsystem.PNG" src="../../../../../_images/cs_manageendpointsforsystem_clickonsystem.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>Next, follow this sequence: <em>Partner Administration tab &gt;&gt; Partners &gt;&gt; Standard Organization &gt;&gt; Systems</em>.</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_nextfollowthissequence.PNG" src="../../../../../_images/cs_manageendpointsforsystem_nextfollowthissequence.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li><dl class="first docutils">
+<dt>Add the created system or select the <em>Standard System</em> as you click on the “+” icon to add systems.</dt>
+<dd>Then, enable the endpoint that was created.</dd>
+</dl>
+</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_addthesystem.PNG" src="../../../../../_images/cs_manageendpointsforsystem_addthesystem.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 </div>
-<img alt="../../../../../_images/cs_importexportdataviaendpoints_dropdown2.PNG" src="../../../../../_images/cs_importexportdataviaendpoints_dropdown2.PNG" />
+<img alt="../../../../../_images/cs_manageendpointsforsystem_addthesystem2.PNG" src="../../../../../_images/cs_manageendpointsforsystem_addthesystem2.PNG" />
+<div class="line-block">
+<div class="line"><br /></div>
+<div class="line"><br /></div>
+</div>
+<ul class="simple">
+<li>View the endpoint in the <em>Dashboard</em>.</li>
+</ul>
+<img alt="../../../../../_images/cs_manageendpointsforsystem_viewtheendpoint.PNG" src="../../../../../_images/cs_manageendpointsforsystem_viewtheendpoint.PNG" />
 <div class="line-block">
 <div class="line"><br /></div>
 <div class="line"><br /></div>
