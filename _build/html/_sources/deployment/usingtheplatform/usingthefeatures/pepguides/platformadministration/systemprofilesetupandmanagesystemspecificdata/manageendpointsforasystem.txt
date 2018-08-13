@@ -77,8 +77,7 @@ To manage the endpoints, follow these steps:
 |
 
 
-* Click on the **System** field and create a new system or use the *"Standard System"* from the selection.
-   To create a new system, click on the **Create 'system name'** button after typing the name of the new system to be added.
+* Click on the **System** field and create a new system or use the *"Standard System"* from the selection. To create a new system, click on the **Create 'system name'** button after typing the name of the new system to be added.
 
 .. image:: /feature/_images/pepimages/cs_manageendpointsforsystem_clickonsystem.PNG
 |
@@ -92,8 +91,7 @@ To manage the endpoints, follow these steps:
 |
 
 
-* Add the created system or select the *Standard System* as you click on the "+" icon to add systems.
-   Then, enable the endpoint that was created.
+* Add the created system or select the *Standard System* as you click on the "+" icon to add systems. Then, enable the endpoint that was created.
 
 .. image:: /feature/_images/pepimages/cs_manageendpointsforsystem_addthesystem.PNG
 |
