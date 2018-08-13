@@ -87,7 +87,7 @@ To manage the permissions of a user, refer to the instructions below:
 
 * View the image below that shows an example of a role that has been assigned the following rights.  Click **Save** to save the changes.
 
-.. image:: /feature/_images/mdmimages/cs_managepermissions_viewimage1.PNG
+.. image:: /feature/_images/mdmimages/cs_managepermissions_viewimage.PNG
 |
 |
 
