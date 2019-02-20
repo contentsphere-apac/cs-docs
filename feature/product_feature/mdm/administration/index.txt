@@ -23,4 +23,5 @@ Administration
    taxonomiesmastertaxonomies/index
    translationsdatamodel/index
    translationsmultilingualui/index
+   languagevariant/index
    archivalandrestoration/index

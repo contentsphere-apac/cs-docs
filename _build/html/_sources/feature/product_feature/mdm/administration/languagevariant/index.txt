@@ -1,0 +1,8 @@
+==================================
+Language Variant
+==================================
+
+.. toctree::
+   :maxdepth: 1
+
+   languagevariant
